@@ -1809,13 +1809,16 @@
         Suggest a race below
       </div>
     </div>
-    <p class="section-context">Local races are added here on request after editorial review. Mayors, county commissioners, school boards, sheriffs, and more — if it matters in your community, suggest it.</p>
+    <p class="section-context">Local races added by reader request after editorial review. Have a race we should cover? <a href="#suggest" onclick="navigateMain(event)">Suggest one below.</a></p>
 
-    <div class="local-empty">
-      <div class="local-empty-icon">★ ★ ★</div>
-      <div class="local-empty-title">No local races approved yet</div>
-      <p class="local-empty-text">Local races appear here once approved by the editor. Use the form below to request coverage of a specific election, county, or town.</p>
-      <a href="#suggest" onclick="navigateMain(event)" class="btn">Suggest an Election</a>
+    <!-- Knox County Mayor -->
+    <div class="race-block">
+      <div class="race-block-head">
+        <h3>Knox County Mayor</h3>
+        <span class="race-tag">R Primary May 5 · General Aug 6</span>
+      </div>
+      <p class="section-context" style="margin-bottom:1.2rem;max-width:100%;">Open seat — Mayor Glenn Jacobs (R) is term-limited. Three Republicans compete in the May 5 primary; Democrat Beau Hawk is unopposed and advances to the August 6 general. Knox County has not elected a Democratic mayor since 2002.</p>
+      <div class="candidates-grid" id="local-knox-mayor"></div>
     </div>
   </div>
 </section>
@@ -1836,6 +1839,17 @@
     <p class="section-context">Debates, candidate forums, and town halls across Tennessee. Tentative listings reflect events expected based on the election calendar; confirm details with the host before attending.</p>
 
     <div class="event-list">
+
+      <div class="event">
+        <div class="event-date"><div class="month">May</div><div class="day">5</div><div class="year">2026</div></div>
+        <div class="event-info">
+          <h4>Knox County Republican Primary</h4>
+          <p>Larsen Jay, Betsy Henderson, and Kim Frazier compete for the GOP mayoral nomination. Winner faces Democrat Beau Hawk in the August 6 general. Early voting ran April 15–30.</p>
+          <div class="event-meta">Knox County · all polling places · Election Day</div>
+        </div>
+        <div class="event-cta"><a href="https://www.knoxcounty.org/election/" target="_blank" rel="noopener noreferrer">Knox Election →</a></div>
+      </div>
+
       <div class="event placeholder">
         <div class="event-date"><div class="month">Jun</div><div class="day">25</div><div class="year">2026</div></div>
         <div class="event-info">
@@ -1961,8 +1975,8 @@
   <div class="footer-bottom">
     <div>© 2026 vote4kids.org · Independent civic project</div>
     <div class="version-tag">
-      <span class="version-badge">v18</span>
-      <span class="version-meta">Build: 2026-04-30 · 20:45 UTC · Custom favicon added</span>
+      <span class="version-badge">v19</span>
+      <span class="version-meta">Build: 2026-04-30 · 21:00 UTC · Knox County Mayor race added (4 candidates, Race Pulse, events)</span>
     </div>
   </div>
 </footer>
@@ -3274,6 +3288,56 @@ const CANDIDATES = [
       details: "Bergmann's platform focuses on less regulation, lower taxes, and free-market economic development as tools to help families. She identifies as an America First conservative and supports the elimination of what she characterizes as 'dependency' on government programs. No explicit stance on federal paid family leave legislation, the Child Tax Credit, childcare cost relief, or parental rights education laws appears in her publicly available materials.",
       citations: ["https://electbergmann.com/issues.html", "https://electbergmann.com/about.html"]
     }
+  },
+
+  // ============ LOCAL: KNOX COUNTY MAYOR ============
+  {
+    slug: "larsen-jay", name: "Larsen Jay", party: "R", race: "local", district: "Knox County Mayor",
+    primary_label: "Republican Primary · Knox County Mayor",
+    role_subtitle: "Knox County At-Large Commissioner",
+    bio: "Two-term Knox County At-Large Commissioner and former Commission Chairman. Founded Random Acts of Flowers, a national nonprofit. Largest fundraising total in Knox County mayoral history.",
+    frontrunner: true, status_line: "★ Top fundraiser · $772K raised",
+    photo_url: "https://commission.knoxcountytn.gov/wp-content/uploads/images/Larsen_Jay2_web150.jpg",
+    photo_credit: "Knox County Commission", campaign_url: "https://larsenjay.com/", official_url: null, twitter: null,
+    early_childhood_ed: { summary: "Supports fully funding public schools; no specific early childhood or pre-K policy articulated.", details: "Jay lists fully funding the public school system as his third top priority, stating 'there's no better investment than in education.' He has served on the Knox Education Foundation board. His focus is on K-12 investment and the county's overall education budget rather than a distinct early childhood initiative.", citations: ["https://onyourballot.vote411.org/candidate-detail.do?id=71886988", "https://larsenjay.com/"] },
+    child_hunger: { summary: "No public position found on child hunger or food insecurity specifically.", details: "Jay's campaign platform does not address child hunger, school meal programs, or food insecurity as standalone issues. He broadly emphasizes strengthening the county's quality of life and health services.", citations: ["https://onyourballot.vote411.org/candidate-detail.do?id=71886988"] },
+    parental_support: { summary: "Emphasizes strong infrastructure and public services as support for families; no explicit childcare or family leave policy.", details: "Jay frames his candidacy around ensuring Knox County remains a place where 'our kids and grandkids can live here.' He champions road safety, school funding, and law enforcement as pillars of family support. No specific childcare subsidy or parental support program proposals found.", citations: ["https://www.knoxooze.com/post/we-asked-2026-knox-county-mayor-sheriff-primary-election-candidates-questions-and-here-s-their-ans"] }
+  },
+  {
+    slug: "betsy-henderson", name: "Betsy Henderson", party: "R", race: "local", district: "Knox County Mayor",
+    primary_label: "Republican Primary · Knox County Mayor",
+    role_subtitle: "Knox County School Board Chair",
+    bio: "Two-term Knox County School Board member elected Board Chair twice. Former staffer for Congressman Jimmy Duncan. Emphasizes parental rights, low taxes, and conservative Christian values.",
+    frontrunner: false, status_line: null,
+    photo_url: "https://lirp.cdn-website.com/5428d389/dms3rep/multi/opt/betsy+social+graphic-1920w.jpg",
+    photo_credit: "Betsy Henderson for Mayor campaign", campaign_url: "https://www.betsyhenderson.com/", official_url: null, twitter: null,
+    early_childhood_ed: { summary: "Focuses on K-12 accountability and school choice; supported private school voucher expansion; no specific pre-K policy.", details: "Henderson touts her school board record including Knox County Schools being recognized as an 'Advancing' district. She testified in favor of Governor Lee's school choice voucher expansion in January 2025. She does not articulate a specific early childhood or pre-K platform.", citations: ["https://www.betsyhenderson.com/meet-betsy", "https://www.wbir.com/article/news/politics/betsy-henderson-knox-knoxville-county-mayor/51-6627e9f0-768a-4b81-9577-2a238af1b234"] },
+    child_hunger: { summary: "No public position found on child hunger or food insecurity specifically.", details: "Henderson's platform centers on fiscal restraint and government staying within core functions (roads, schools, public safety). No specific child nutrition stance was found.", citations: ["https://www.betsyhenderson.com/issues"] },
+    parental_support: { summary: "Strong champion of parental rights in education; fought to keep schools open during COVID; supported school voucher expansion.", details: "Henderson frames her candidacy around 'empowering parents to make the best decisions for their children.' She fought to keep schools open during COVID, opposed mask mandates, and led efforts to keep law enforcement in Knox County schools. Her broader parental support stance ties to low-tax pledges.", citations: ["https://www.betsyhenderson.com/", "https://eu.knoxnews.com/story/news/politics/elections/2025/03/28/knox-county-school-board-chair-betsy-henderson-running-for-county-mayor-republican/82626191007/"] }
+  },
+  {
+    slug: "kim-frazier", name: "Kim Frazier", party: "R", race: "local", district: "Knox County Mayor",
+    primary_label: "Republican Primary · Knox County Mayor",
+    role_subtitle: "Knox County At-Large Commissioner",
+    bio: "Knox County At-Large Commissioner and Vice Chair. Former nonprofit development consultant and small business owner. Co-founded the Knox Community Planning Alliance. Self-funded ~77% of campaign.",
+    frontrunner: false, status_line: null,
+    photo_url: "http://www.electkimfrazier.com/wp-content/uploads/2019/07/color-ekf-mayor-cropped.png",
+    photo_credit: "electkimfrazier.com", campaign_url: "https://kimfrazier.org/", official_url: null, twitter: null,
+    early_childhood_ed: { summary: "Supports strong schools and expanded career pathways for youth; no specific pre-K policy articulated.", details: "Frazier lists 'Strong Education and Career Pathways' as a core priority, citing her record on school capacity and teacher raises. She does not articulate a specific early childhood initiative.", citations: ["https://kimfrazier.org/", "https://onyourballot.vote411.org/candidate-detail.do?id=71886988"] },
+    child_hunger: { summary: "No public position found on child hunger or food insecurity.", details: "Frazier's 'Mental and Physical Health, Families, and Community Well-Being' priority area supports expanding the Knox County Health Department but does not specifically address child hunger or food insecurity.", citations: ["https://kimfrazier.org/purpose-priorities/"] },
+    parental_support: { summary: "Emphasizes community-first leadership and essential services for families; no specific childcare or family leave policy.", details: "Frazier's civic engagement started from concern for her sons' overcrowded school. Her platform includes health and family well-being as a category and she supports the Health Department's prevention-focused programming.", citations: ["https://kimfrazier.org/", "https://onyourballot.vote411.org/candidate-detail.do?id=71886988"] }
+  },
+  {
+    slug: "beau-hawk", name: "Beau Hawk", party: "D", race: "local", district: "Knox County Mayor",
+    primary_label: "Democratic Primary · Knox County Mayor",
+    role_subtitle: "Labor leader · Ironworker",
+    bio: "President of the Knoxville-Oak Ridge Central Labor Council representing 30+ unions. Ironworker raised by a single mother. Sole Democrat in the race; faces Republican primary winner in August.",
+    frontrunner: false, status_line: "Unopposed in D primary",
+    photo_url: "https://www.gannett-cdn.com/authoring/authoring-images/2026/02/12/PKNS/88641256007-beau-hawk-202641.JPG?auto=webp&crop=2999,1687,x0,y156&format=pjpg&width=1200",
+    photo_credit: "Knox News / Knoxville News Sentinel", campaign_url: "https://www.hawkforknox.com/", official_url: null, twitter: null,
+    early_childhood_ed: { summary: "Supports fully funding public schools and expanding workforce training; no specific pre-K policy.", details: "Hawk lists workforce development and vocational training as a top priority. He broadly supports education investment, framing it through economic opportunity and working-family needs. No specific early childhood program proposal found.", citations: ["https://www.hawkforknox.com/", "https://onyourballot.vote411.org/candidate-detail.do?id=71886988"] },
+    child_hunger: { summary: "No explicit child hunger position; broader platform addresses working-family affordability.", details: "Hawk's campaign centers on affordability for working families, noting 'housing costs are rising' and 'working families are being squeezed.' His background representing grocery store workers gives him a connection to economic hardship, but no specific child nutrition policy was found.", citations: ["https://www.hawkforknox.com/", "https://www.knoxnews.com/story/news/politics/elections/2026/02/12/beau-hawk-democrat-labor-leader-running-for-knox-county-mayor/88590410007/"] },
+    parental_support: { summary: "Focuses on working-family affordability, housing, and good-paying jobs as the foundation of parental support.", details: "Hawk frames his candidacy around making Knox County 'a place where families can afford to stay.' He was raised by a single mother, a narrative he invokes to signal his commitment to working families. His labor background suggests alignment with worker-family benefits but no specific proposals found.", citations: ["https://www.hawkforknox.com/", "https://onyourballot.vote411.org/candidate-detail.do?id=71886988"] }
   }
 ];
 
@@ -3578,6 +3642,39 @@ const RACE_PULSE = {
   "charlotte-bergmann": {
     incumbency: { label: "Perennial candidate · multiple prior runs", note: null },
     cash: { amount: "$7.7K", as_of: "Q1 2026", source_url: "https://www.fec.gov/data/elections/house/TN/09/2026", note: null },
+    polls: [],
+    endorsements: []
+  },
+
+  // ============ LOCAL: KNOX COUNTY MAYOR ============
+  "larsen-jay": {
+    incumbency: { label: "Not incumbent · running to succeed term-limited Mayor Glenn Jacobs", note: "Two-term At-Large Commissioner; Commission Chairman 2020-21" },
+    cash: { amount: "~$334K", as_of: "Jan 15, 2026", source_url: "https://knoxcountytn.easyvotecampaignfinance.com/home/publicfilings", note: "Total raised: $772,629 from 912 donors — largest in Knox County mayoral history" },
+    polls: [],
+    endorsements: [
+      { name: "TN House Speaker Cameron Sexton", type: "state legislative leader" },
+      { name: "Former Governor Bill Haslam", type: "former governor" }
+    ]
+  },
+  "betsy-henderson": {
+    incumbency: { label: "Not incumbent · Knox County School Board Chair", note: "Two-term School Board member; elected Chair twice" },
+    cash: { amount: "~$85K", as_of: "Jan 15, 2026", source_url: "https://knoxcountytn.easyvotecampaignfinance.com/home/publicfilings", note: "Total raised: $122,376 from 119 donors" },
+    polls: [],
+    endorsements: [
+      { name: "TN House Deputy Speaker Jason Zachary", type: "state legislative" },
+      { name: "State Rep. Michele Carringer", type: "state legislative" },
+      { name: "Former Acting Speaker Bill Dunn", type: "former state legislative" }
+    ]
+  },
+  "kim-frazier": {
+    incumbency: { label: "Not incumbent · Knox County At-Large Commissioner", note: "Commissioner Vice Chair; co-founded Knox Community Planning Alliance" },
+    cash: { amount: "~$95K", as_of: "Jan 15, 2026", source_url: "https://knoxcountytn.easyvotecampaignfinance.com/home/publicfilings", note: "Includes ~$88K self-loan; only $25,895 raised from 24 outside donors" },
+    polls: [],
+    endorsements: []
+  },
+  "beau-hawk": {
+    incumbency: { label: "Not incumbent · labor leader and ironworker", note: "Sole Democrat; faces GOP primary winner in August general" },
+    cash: { amount: null, as_of: null, source_url: null, note: "Campaign filed too recently for first disclosure period. Treasurer: Debbie Helsley (2022 Democratic mayoral nominee)." },
     polls: [],
     endorsements: []
   }
@@ -3906,6 +4003,13 @@ function renderMainPage() {
   const districtsList = document.getElementById('districts-list');
   if (districtsList) {
     districtsList.innerHTML = DISTRICTS.map(districtBlock).join('');
+  }
+
+  // Local races
+  const knoxMayor = document.getElementById('local-knox-mayor');
+  if (knoxMayor) {
+    const localCandidates = CANDIDATES.filter(c => c.race === 'local' && c.district === 'Knox County Mayor');
+    knoxMayor.innerHTML = localCandidates.map(candidateCard).join('');
   }
 }
 
