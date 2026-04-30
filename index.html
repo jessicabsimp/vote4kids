@@ -156,6 +156,17 @@
     margin-top: 0.5rem;
   }
   .countdown-divider { width: 1px; background: var(--sage-light); }
+  .data-freshness {
+    margin-top: 2rem;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+    line-height: 1.6;
+  }
+  .data-freshness strong {
+    color: var(--charcoal);
+  }
   @media (max-width: 560px) {
     .countdown { gap: 1.5rem; padding: 1.2rem 1.5rem; }
     .countdown-num { font-size: 1.6rem; }
@@ -1630,6 +1641,10 @@
         <div class="countdown-label">Days to General<br>Nov 3</div>
       </div>
     </div>
+
+    <div class="data-freshness">
+      Data last updated: <strong id="data-updated-date">April 30, 2026</strong> · Refreshed weekly · Sources: FEC.gov, public polls, candidate sites, news outlets
+    </div>
   </div>
 </header>
 
@@ -1943,8 +1958,8 @@
   <div class="footer-bottom">
     <div>© 2026 vote4kids.org · Independent civic project</div>
     <div class="version-tag">
-      <span class="version-badge">v16</span>
-      <span class="version-meta">Build: 2026-04-30 · 20:00 UTC · Updated intro: early childhood focus + find events messaging</span>
+      <span class="version-badge">v17</span>
+      <span class="version-meta">Build: 2026-04-30 · 20:15 UTC · Added data freshness notice; preparing alive-mode agent</span>
     </div>
   </div>
 </footer>
