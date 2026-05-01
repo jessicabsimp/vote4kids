@@ -82,9 +82,55 @@
   }
   .nav-links a { color: var(--charcoal); }
   .nav-links a:hover { color: var(--sage); }
+
+  /* Hamburger button — hidden on desktop, visible on mobile */
+  .hamburger {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.4rem;
+    font-size: 1.5rem;
+    line-height: 1;
+    color: var(--navy);
+    font-family: 'Space Mono', monospace;
+  }
+  .hamburger:hover { color: var(--sage); }
+
+  /* Mobile menu dropdown */
+  .mobile-menu {
+    display: none;
+    flex-direction: column;
+    gap: 0;
+    background: rgba(248, 244, 238, 0.98);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--sage-light);
+    padding: 0.5rem 0;
+  }
+  .mobile-menu.open { display: flex; }
+  .mobile-menu a {
+    display: block;
+    padding: 0.85rem 2rem;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 0.92rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--charcoal);
+    border-bottom: 1px solid var(--sage-light);
+    transition: background .15s, color .15s;
+  }
+  .mobile-menu a:last-child { border-bottom: none; }
+  .mobile-menu a:hover, .mobile-menu a:active {
+    background: var(--sage-light);
+    color: var(--navy);
+  }
+
   @media (max-width: 720px) {
     .nav-links { display: none; }
     .nav-inner { padding: 1rem 1.25rem; }
+    .hamburger { display: block; }
   }
 
   /* ============ HERO ============ */
@@ -1620,6 +1666,16 @@
       <a href="#events" onclick="navigateMain(event)">Events</a>
       <a href="#suggest" onclick="navigateMain(event)">Suggest</a>
     </div>
+    <button class="hamburger" id="hamburger-btn" aria-label="Menu">☰</button>
+  </div>
+  <div class="mobile-menu" id="mobile-menu">
+    <a href="#governor" onclick="navigateMain(event); closeMobileMenu();">Governor</a>
+    <a href="#senate" onclick="navigateMain(event); closeMobileMenu();">Senate</a>
+    <a href="#house" onclick="navigateMain(event); closeMobileMenu();">House</a>
+    <a href="#compare" onclick="navigateMain(event); closeMobileMenu();">Compare</a>
+    <a href="#local" onclick="navigateMain(event); closeMobileMenu();">Local</a>
+    <a href="#events" onclick="navigateMain(event); closeMobileMenu();">Events</a>
+    <a href="#suggest" onclick="navigateMain(event); closeMobileMenu();">Suggest</a>
   </div>
 </nav>
 
@@ -1975,8 +2031,8 @@
   <div class="footer-bottom">
     <div>© 2026 vote4kids.org · Independent civic project</div>
     <div class="version-tag">
-      <span class="version-badge">v19</span>
-      <span class="version-meta">Build: 2026-04-30 · 21:00 UTC · Knox County Mayor race added (4 candidates, Race Pulse, events)</span>
+      <span class="version-badge">v20</span>
+      <span class="version-meta">Build: 2026-04-30 · 21:20 UTC · Mobile hamburger menu</span>
     </div>
   </div>
 </footer>
@@ -4029,7 +4085,22 @@ function handleRoute() {
   }
 }
 
+// ===================== MOBILE MENU =====================
+function toggleMobileMenu() {
+  const menu = document.getElementById('mobile-menu');
+  if (menu) menu.classList.toggle('open');
+}
+function closeMobileMenu() {
+  const menu = document.getElementById('mobile-menu');
+  if (menu) menu.classList.remove('open');
+}
+function setupMobileMenu() {
+  const btn = document.getElementById('hamburger-btn');
+  if (btn) btn.addEventListener('click', toggleMobileMenu);
+}
+
 function goHome() {
+  closeMobileMenu();
   if (window.location.hash.startsWith('#/candidate/')) {
     history.pushState('', document.title, window.location.pathname + window.location.search);
     handleRoute();
@@ -4385,6 +4456,7 @@ document.addEventListener('DOMContentLoaded', () => {
   setInterval(updateCountdown, 60 * 60 * 1000);
   setupForm();
   setupCompare();
+  setupMobileMenu();
   handleRoute();
 });
 
@@ -4396,6 +4468,7 @@ if (document.readyState === 'loading') {
   updateCountdown();
   setupForm();
   setupCompare();
+  setupMobileMenu();
   handleRoute();
 }
 </script>
