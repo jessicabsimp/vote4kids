@@ -1710,7 +1710,7 @@
     </div>
 
     <div class="data-freshness">
-      Data last updated: <strong id="data-updated-date">May 2, 2026</strong> · Refreshed weekly · Sources: FEC.gov, public polls, candidate sites, news outlets
+      Data last updated: <strong id="data-updated-date">May 4, 2026</strong> · Refreshed weekly · Sources: FEC.gov, public polls, candidate sites, news outlets
     </div>
   </div>
 </header>
@@ -1766,7 +1766,7 @@
         Current: 8R · 1D
       </div>
     </div>
-    <p class="section-context">All nine Tennessee congressional seats are on the ballot. The most competitive race is TN-5 (Nashville-area), where the DCCC is targeting incumbent Andy Ogles. The TN-6 seat is open following John Rose's gubernatorial run, and TN-9 features a high-profile Democratic primary.</p>
+    <p class="section-context">All nine Tennessee congressional seats are on the ballot. The most competitive race is TN-5 (Nashville-area), where the DCCC is targeting incumbent Andy Ogles. The TN-6 seat is open following John Rose's gubernatorial run, and TN-9 features a high-profile Democratic primary. <strong>⚠ Redistricting alert (May 2026):</strong> Gov. Bill Lee called a special legislative session beginning May 5, 2026 to redraw Tennessee's congressional map following a U.S. Supreme Court ruling weakening the Voting Rights Act. The proposed maps would eliminate TN-9 — the state's only Democratic-held House seat — by splitting it into surrounding Republican districts. The effort was publicly advocated by Sen. Blackburn and encouraged by President Trump. Legal challenges are expected.</p>
 
     <div class="districts" id="districts-list"></div>
   </div>
@@ -1883,6 +1883,16 @@
     <p class="section-context">Debates, candidate forums, and town halls across Tennessee. Tentative listings reflect events expected based on the election calendar; confirm details with the host before attending.</p>
 
     <div class="event-list">
+
+      <div class="event">
+        <div class="event-date"><div class="month">May</div><div class="day">19</div><div class="year">2026</div></div>
+        <div class="event-info">
+          <h4>LWV / USA TODAY Network Tennessee Forum — Lipscomb University</h4>
+          <p>Statewide candidate forum covering Republican and Democratic governor candidates, plus congressional candidates in TN-5, TN-6, and TN-7. One of six forums planned statewide by this partnership. Broadcast live on Tennessean.com, KnoxNews.com, and CommercialAppeal.com. Moderated by Cameron Smith and Michelle Steele.</p>
+          <div class="event-meta">Nashville · George Shinn Event Center, Lipscomb University · 7:00 PM CDT</div>
+        </div>
+        <div class="event-cta"><a href="https://www.lwvtn.org/candidate_forum" target="_blank" rel="noopener noreferrer">LWV TN Forum →</a></div>
+      </div>
 
       <div class="event">
         <div class="event-date"><div class="month">May</div><div class="day">5</div><div class="year">2026</div></div>
@@ -2019,8 +2029,8 @@
   <div class="footer-bottom">
     <div>© 2026 vote4kids.org · Independent civic project</div>
     <div class="version-tag">
-      <span class="version-badge">v22</span>
-      <span class="version-meta">Build: 2026-05-02 · Flat party-badge layout for Gov/Senate; local races added to Compare tool</span>
+      <span class="version-badge">v23</span>
+      <span class="version-meta">Build: 2026-05-04 · TN-9 redistricting alert; LWV/USA TODAY Lipscomb Forum (May 19) added; Q1 FEC updates for Ogles, Molder, Pearson</span>
     </div>
   </div>
 </footer>
@@ -2757,9 +2767,9 @@ const CANDIDATES = [
     district: "TN-5",
     primary_label: "Republican Primary · U.S. House TN-5",
     role_subtitle: "Incumbent · embattled",
-    bio: "Two-term incumbent facing FEC violations, weak fundraising, and a serious GOP primary challenge. Trump-endorsed.",
+    bio: "Two-term incumbent facing FEC violations, serious GOP primary challenge. Just $85K cash on hand (Q1 2026) — among the lowest of any U.S. House incumbent nationally. Trump-endorsed.",
     frontrunner: false,
-    status_line: "⚠ FEC scrutiny · low cash",
+    status_line: "⚠ FEC scrutiny · $85K cash",
     photo_url: "https://ogles.house.gov/sites/evo-subsites/ogles.house.gov/files/evo-media-album/andyogles-official-photo.jpg",
     photo_credit: "Official U.S. House portrait",
     campaign_url: "https://andyogles.com/",
@@ -2821,7 +2831,7 @@ const CANDIDATES = [
     district: "TN-5",
     primary_label: "Democratic Primary · U.S. House TN-5",
     role_subtitle: "Mayor of Columbia, TN",
-    bio: "DCCC top target. Has raised $1.2M with $978K cash on hand. Centrist Democrat with crossover appeal in a swing district.",
+    bio: "DCCC top target. Has raised $1.8M total ($978K cash on hand, Q1 2026). Leads Republican candidates in fundraising. Centrist Democrat with crossover appeal in a swing district.",
     frontrunner: true,
     status_line: "★ DCCC Red-to-Blue · $978K COH",
     photo_url: "https://chazmolder.com/wp-content/uploads/2025/09/Molder_OG2_082625.png",
@@ -3245,9 +3255,9 @@ const CANDIDATES = [
     district: "TN-9",
     primary_label: "Democratic Primary · U.S. House TN-9",
     role_subtitle: "Incumbent · since 2007",
-    bio: "Ten-term incumbent and former state senator. $1.8M cash on hand; deep institutional support, including labor and PACs.",
+    bio: "Ten-term incumbent and former state senator. $1.8M cash on hand; deep institutional support. ⚠ Facing redistricting threat: GOP special session (May 2026) may redraw or eliminate TN-9.",
     frontrunner: true,
-    status_line: "★ Incumbent · 10 terms",
+    status_line: "⚠ Redistricting threat · 10 terms",
     photo_url: "https://cohen.house.gov/sites/evo-subsites/cohen.house.gov/files/evo-media-image/Cohen_Steve_118th_official.jpg",
     photo_credit: "Official U.S. House portrait",
     campaign_url: "http://cohenforcongress.com/",
@@ -3277,9 +3287,9 @@ const CANDIDATES = [
     district: "TN-9",
     primary_label: "Democratic Primary · U.S. House TN-9",
     role_subtitle: "TN State Rep · activist",
-    bio: "Progressive challenger known for the Byhalia Pipeline fight and the 2023 'Tennessee Three' gun-protest expulsion. Pledging no corporate PAC money; raised $732K in Q4 2025.",
+    bio: "Progressive challenger known for the Byhalia Pipeline fight and the 2023 'Tennessee Three' gun-protest expulsion. Pledging no corporate PAC money; raised $374K in Q1 2026 alone, narrowly outraising Cohen that quarter.",
     frontrunner: true,
-    status_line: "★ Energy challenger · grassroots",
+    status_line: "★ Energy challenger · outraised Cohen Q1",
     photo_url: "https://images.squarespace-cdn.com/content/v1/638e0e4731cb8444ce5a20e8/1759714900864-46FWFWQ8BIZOMN2QNAPI/082525+Justin+J+Pearson+Studio+Portrait-187.jpg",
     photo_credit: "Official campaign photo, votejustinj.com",
     campaign_url: "https://www.votejustinj.com/",
