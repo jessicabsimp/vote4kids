@@ -1,24 +1,34 @@
 [
   {
-    "id": "lwv-lipscomb-forum-2026-05-19",
-    "date_iso": "2026-05-19",
-    "date_display": { "month": "May", "day": "19", "year": "2026" },
-    "title": "LWV / USA TODAY Network Tennessee Forum — Lipscomb University",
-    "description": "Statewide candidate forum covering Republican and Democratic governor candidates, plus congressional candidates in TN-5, TN-6, and TN-7. One of six forums planned statewide by this partnership. Broadcast live on Tennessean.com, KnoxNews.com, and CommercialAppeal.com. Moderated by Cameron Smith and Michelle Steele.",
-    "meta": "Nashville · George Shinn Event Center, Lipscomb University · 7:00 PM CDT",
-    "link_url": "https://www.lwvtn.org/candidate_forum",
-    "link_label": "LWV TN Forum →",
+    "id": "andy-ogles-belmont-town-hall-2026-04-27",
+    "date_iso": "2026-04-27",
+    "date_display": {
+      "month": "Apr",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Andy Ogles Town Hall at Belmont University",
+    "description": "U.S. Rep. Andy Ogles (TN-5) appeared at a Belmont University College Republicans event Monday morning, taking student questions for about 45 minutes. The event drew significant student protest over his recent statements on Muslims and Islam. Hosted by Belmont's College Republicans chapter; coordinated with Ogles's office in recent weeks.",
+    "meta": "Nashville · Janet Ayers Academic Center, Belmont University · 10:00 AM",
+    "link_url": "https://www.nashvillescene.com/news/pithinthewind/andy-ogles-belmont-university/article_46df7345-a269-44b2-ba80-50dd145a9310.html",
+    "link_label": "Nashville Scene coverage →",
     "is_placeholder": false,
-    "race": "multiple",
-    "race_label": "Governor + TN-5/6/7",
-    "candidates_invited": ["marsha-blackburn", "john-rose", "monty-fritts", "jerri-green", "carnita-atwater"],
-    "source_url": "https://www.lwvtn.org/candidate_forum",
-    "retrieved_at": "2026-05-04"
+    "race": "house",
+    "race_label": "U.S. House TN-5",
+    "candidates_invited": [
+      "andy-ogles"
+    ],
+    "source_url": "https://www.nashvillescene.com/news/pithinthewind/andy-ogles-belmont-university/article_46df7345-a269-44b2-ba80-50dd145a9310.html",
+    "retrieved_at": "2026-05-05"
   },
   {
     "id": "knox-county-republican-primary-2026-05-05",
     "date_iso": "2026-05-05",
-    "date_display": { "month": "May", "day": "5", "year": "2026" },
+    "date_display": {
+      "month": "May",
+      "day": "5",
+      "year": "2026"
+    },
     "title": "Knox County Republican Primary",
     "description": "Larsen Jay, Betsy Henderson, and Kim Frazier compete for the GOP mayoral nomination. Winner faces Democrat Beau Hawk in the August 6 general. Early voting ran April 15–30.",
     "meta": "Knox County · all polling places · Election Day",
@@ -27,14 +37,49 @@
     "is_placeholder": false,
     "race": "local",
     "race_label": "Knox County Mayor",
-    "candidates_invited": ["larsen-jay", "betsy-henderson", "kim-frazier", "beau-hawk"],
+    "candidates_invited": [
+      "larsen-jay",
+      "betsy-henderson",
+      "kim-frazier",
+      "beau-hawk"
+    ],
     "source_url": "https://www.knoxcounty.org/election/",
     "retrieved_at": "2026-05-03"
   },
   {
+    "id": "lwv-lipscomb-forum-2026-05-19",
+    "date_iso": "2026-05-19",
+    "date_display": {
+      "month": "May",
+      "day": "19",
+      "year": "2026"
+    },
+    "title": "LWV / USA TODAY Network Tennessee Forum — Lipscomb University",
+    "description": "Statewide candidate forum covering Republican and Democratic governor candidates, plus congressional candidates in TN-5, TN-6, and TN-7. One of six forums planned statewide by this partnership. Broadcast live on Tennessean.com, KnoxNews.com, and CommercialAppeal.com. Moderated by Cameron Smith and Michelle Steele.",
+    "meta": "Nashville · George Shinn Event Center, Lipscomb University · 7:00 PM CDT",
+    "link_url": "https://www.lwvtn.org/candidate_forum",
+    "link_label": "LWV TN Forum →",
+    "is_placeholder": false,
+    "race": "multiple",
+    "race_label": "Governor + TN-5/6/7",
+    "candidates_invited": [
+      "marsha-blackburn",
+      "john-rose",
+      "monty-fritts",
+      "jerri-green",
+      "carnita-atwater"
+    ],
+    "source_url": "https://www.lwvtn.org/candidate_forum",
+    "retrieved_at": "2026-05-04"
+  },
+  {
     "id": "gop-gov-primary-debate-2026-06-25",
     "date_iso": "2026-06-25",
-    "date_display": { "month": "Jun", "day": "25", "year": "2026" },
+    "date_display": {
+      "month": "Jun",
+      "day": "25",
+      "year": "2026"
+    },
     "title": "GOP Gubernatorial Primary Debate",
     "description": "Republican primary candidates Marsha Blackburn, John Rose, and Monty Fritts. Date and host TBD; pre-primary debate expected late June or early July.",
     "meta": "Nashville · TBD venue · pre-primary",
@@ -43,14 +88,22 @@
     "is_placeholder": true,
     "race": "governor",
     "race_label": "TN Governor (R primary)",
-    "candidates_invited": ["marsha-blackburn", "john-rose", "monty-fritts"],
+    "candidates_invited": [
+      "marsha-blackburn",
+      "john-rose",
+      "monty-fritts"
+    ],
     "source_url": null,
     "retrieved_at": "2026-05-03"
   },
   {
     "id": "dem-gov-forum-2026-07-15",
     "date_iso": "2026-07-15",
-    "date_display": { "month": "Jul", "day": "15", "year": "2026" },
+    "date_display": {
+      "month": "Jul",
+      "day": "15",
+      "year": "2026"
+    },
     "title": "Democratic Gubernatorial Forum",
     "description": "Jerri Green and Dr. Carnita Atwater face questions ahead of the August primary. Anticipated Memphis-area host.",
     "meta": "Memphis · TBD venue · pre-primary",
@@ -59,14 +112,21 @@
     "is_placeholder": true,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
-    "candidates_invited": ["jerri-green", "carnita-atwater"],
+    "candidates_invited": [
+      "jerri-green",
+      "carnita-atwater"
+    ],
     "source_url": null,
     "retrieved_at": "2026-05-03"
   },
   {
     "id": "us-senate-forum-2026-07-22",
     "date_iso": "2026-07-22",
-    "date_display": { "month": "Jul", "day": "22", "year": "2026" },
+    "date_display": {
+      "month": "Jul",
+      "day": "22",
+      "year": "2026"
+    },
     "title": "U.S. Senate Candidate Forum",
     "description": "Democratic primary candidates including Marquita Bradshaw and Maria Brewer. Expected LWV Tennessee co-host.",
     "meta": "Knoxville or Nashville · pre-primary",
@@ -75,30 +135,21 @@
     "is_placeholder": true,
     "race": "senate",
     "race_label": "U.S. Senate (D primary)",
-    "candidates_invited": ["marquita-bradshaw", "maria-brewer"],
+    "candidates_invited": [
+      "marquita-bradshaw",
+      "maria-brewer"
+    ],
     "source_url": "https://my.lwv.org/tennessee",
-    "retrieved_at": "2026-05-03"
-  },
-  {
-    "id": "general-gov-debate-2026-10-15",
-    "date_iso": "2026-10-15",
-    "date_display": { "month": "Oct", "day": "15", "year": "2026" },
-    "title": "General Election Gubernatorial Debate",
-    "description": "The major-party gubernatorial nominees face off ahead of November. Likely Vanderbilt or MTSU host.",
-    "meta": "Nashville/Murfreesboro · general election",
-    "link_url": null,
-    "link_label": "Details TBD",
-    "is_placeholder": true,
-    "race": "governor",
-    "race_label": "TN Governor (general)",
-    "candidates_invited": [],
-    "source_url": null,
     "retrieved_at": "2026-05-03"
   },
   {
     "id": "lwv-statewide-forum-series-2026-08",
     "date_iso": "2026-08-01",
-    "date_display": { "month": "Aug", "day": "—", "year": "2026" },
+    "date_display": {
+      "month": "Aug",
+      "day": "—",
+      "year": "2026"
+    },
     "title": "LWV Tennessee Statewide Forum Series",
     "description": "League of Women Voters chapters host candidate forums across the state from July through October. Check chapter pages for dates.",
     "meta": "Statewide · multiple chapters",
@@ -109,6 +160,26 @@
     "race_label": "Multiple races",
     "candidates_invited": [],
     "source_url": "https://my.lwv.org/tennessee",
+    "retrieved_at": "2026-05-03"
+  },
+  {
+    "id": "general-gov-debate-2026-10-15",
+    "date_iso": "2026-10-15",
+    "date_display": {
+      "month": "Oct",
+      "day": "15",
+      "year": "2026"
+    },
+    "title": "General Election Gubernatorial Debate",
+    "description": "The major-party gubernatorial nominees face off ahead of November. Likely Vanderbilt or MTSU host.",
+    "meta": "Nashville/Murfreesboro · general election",
+    "link_url": null,
+    "link_label": "Details TBD",
+    "is_placeholder": true,
+    "race": "governor",
+    "race_label": "TN Governor (general)",
+    "candidates_invited": [],
+    "source_url": null,
     "retrieved_at": "2026-05-03"
   }
 ]
