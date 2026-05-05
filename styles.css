@@ -253,7 +253,6 @@
     font-family: 'Lato', sans-serif;
     font-size: 1.02rem;
     color: var(--charcoal);
-    max-width: 680px;
     margin-bottom: 1.2rem;
     line-height: 1.65;
   }
@@ -958,7 +957,6 @@
     font-size: 1.02rem;
     color: var(--charcoal);
     line-height: 1.6;
-    max-width: 580px;
   }
   .sub-status-line {
     margin-top: 0.9rem;
@@ -1006,7 +1004,6 @@
     color: var(--charcoal);
     margin-bottom: 1.4rem;
     font-weight: 700;
-    max-width: 880px;
   }
   .policy-summary.no-position {
     color: var(--muted);
@@ -1018,7 +1015,6 @@
     font-size: 1rem;
     line-height: 1.7;
     color: var(--charcoal);
-    max-width: 760px;
     margin-bottom: 1.6rem;
   }
   .policy-citations {
