@@ -747,6 +747,37 @@
   }
   #suggest-event-submit-btn:disabled { opacity: 0.6; cursor: wait; }
 
+  /* ============ SUGGEST TWO-COLUMN LAYOUT ============ */
+  .suggest-two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+  @media (max-width: 800px) {
+    .suggest-two-col { grid-template-columns: 1fr; }
+  }
+  .suggest-col-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--navy);
+    margin-bottom: 0.4rem;
+    letter-spacing: -0.01em;
+  }
+  .suggest-col-desc {
+    font-family: 'Lato', sans-serif;
+    font-size: 0.92rem;
+    color: var(--charcoal);
+    line-height: 1.55;
+    margin-bottom: 1rem;
+  }
+  /* Each column's form takes full column width, not capped at 720px */
+  .suggest-col .suggest-wrap {
+    max-width: 100%;
+    margin: 0;
+  }
+
   /* ============ SUGGEST FORM ============ */
   .suggest-wrap {
     background: white;

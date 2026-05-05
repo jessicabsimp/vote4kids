@@ -322,89 +322,76 @@
       <!-- Populated by renderEvents() from data/events.json -->
     </div>
 
-    <p class="event-tip-cta">Know about an upcoming forum, debate, or town hall we haven't listed? <a href="#suggest-event" onclick="navigateMain(event)">Submit a tip →</a></p>
+    <p class="event-tip-cta">Know about an upcoming forum, debate, or town hall we haven't listed? <a href="#suggest" onclick="navigateMain(event)">Submit a tip →</a></p>
   </div>
 </section>
 
-<!-- SUGGEST EVENT -->
-<section id="suggest-event" class="alt-bg">
-  <div class="container">
-    <div class="section-head">
-      <div>
-        <div class="section-eyebrow">Reader Tips</div>
-        <h2 class="section-title">Suggest a Forum or Event</h2>
-      </div>
-      <div class="section-meta">
-        <strong>Reviewed before posting</strong>
-        Tip · Forum · Debate
-      </div>
-    </div>
-    <p class="section-context">Heard about an upcoming candidate forum, debate, or town hall? Tell us and we'll look into adding it. Tips are reviewed before posting — we verify details and source them before they go live.</p>
-
-    <div class="suggest-wrap">
-      <form class="suggest-form" id="suggestEventForm">
-        <input type="hidden" name="access_key" value="43b12144-5b39-4d22-a107-f9ad9803976e">
-        <input type="hidden" name="subject" value="[vote4kids] Event tip submitted">
-        <input type="hidden" name="from_name" value="Vote4Kids.org Event Tip Form">
-        <input type="checkbox" name="botcheck" style="display:none" tabindex="-1">
-
-        <div class="field-row">
-          <div class="field"><label for="evtName">Event Name</label><input type="text" id="evtName" name="Event Name" placeholder="e.g. LWV / Vanderbilt Gubernatorial Forum" required></div>
-          <div class="field"><label for="evtDate">Date (or approximate)</label><input type="text" id="evtDate" name="Date" placeholder="e.g. July 14, 2026" required></div>
-        </div>
-        <div class="field-row">
-          <div class="field"><label for="evtLocation">Location or Format</label><input type="text" id="evtLocation" name="Location" placeholder="e.g. Nashville · Belmont University, or Virtual" required></div>
-          <div class="field"><label for="evtCandidates">Race or Candidates (if known)</label><input type="text" id="evtCandidates" name="Race or Candidates" placeholder="e.g. All TN-5 candidates, or Gov. debate"></div>
-        </div>
-        <div class="field"><label for="evtSource">Source or Link</label><input type="url" id="evtSource" name="Source Link" placeholder="https://lwvtn.org/... or any URL where this was announced"></div>
-        <div class="field"><label for="evtEmail">Your Email (optional)</label><input type="email" id="evtEmail" name="Submitter Email" placeholder="In case we need to follow up — not published or shared"></div>
-        <div class="form-note">Tips go straight to the editor's inbox. We verify details and add confirmed events to the calendar within 24 hours.</div>
-        <div><button type="submit" class="btn" id="suggest-event-submit-btn">Submit Event Tip →</button></div>
-        <div id="suggest-event-success">Thanks — your tip has been submitted. We'll look into it and add it to the calendar if confirmed.</div>
-        <div id="suggest-event-error"></div>
-      </form>
-    </div>
-  </div>
-</section>
-
-<!-- SUGGEST -->
+<!-- SUGGEST (two-column: forum tip + election suggestion) -->
 <section id="suggest" class="alt-bg">
   <div class="container">
     <div class="section-head">
       <div>
         <div class="section-eyebrow">Reader Submissions</div>
-        <h2 class="section-title">Suggest an Election</h2>
+        <h2 class="section-title">Suggest a Race or Event</h2>
       </div>
       <div class="section-meta">
         <strong>Reviewed before posting</strong>
-        Local · county · municipal
+        Races · Forums · Debates
       </div>
     </div>
-    <p class="section-context">Have a race we should cover? Tell us about it. Submissions are reviewed by the editor and added to the Local Elections section if a fit. Mayors, county commissions, school boards, sheriffs, judges — all welcome.</p>
+    <p class="section-context">Have something we should add? Submit a tip about an upcoming forum or a local race you think we should cover. Submissions are reviewed before posting.</p>
 
-    <div class="suggest-wrap">
-      <form class="suggest-form" id="suggestForm">
-        <!-- Web3Forms configuration -->
-        <input type="hidden" name="access_key" value="43b12144-5b39-4d22-a107-f9ad9803976e">
-        <input type="hidden" name="subject" value="[TN 2026] New election suggestion">
-        <input type="hidden" name="from_name" value="Vote4Kids.org Suggestion Form">
-        <!-- Honeypot (Web3Forms convention) -->
-        <input type="checkbox" name="botcheck" style="display:none" tabindex="-1">
+    <div class="suggest-two-col">
 
-        <div class="field-row">
-          <div class="field"><label for="raceType">Race / Office</label><input type="text" id="raceType" name="Race / Office" placeholder="e.g. Hamilton County Mayor" required></div>
-          <div class="field"><label for="locale">County or Town</label><input type="text" id="locale" name="County or Town" placeholder="e.g. Hamilton County" required></div>
+      <!-- LEFT: Forum / Event tip -->
+      <div class="suggest-col">
+        <h3 class="suggest-col-title">Forum or Event Tip</h3>
+        <p class="suggest-col-desc">Heard about a candidate forum, debate, or town hall we haven't listed?</p>
+        <div class="suggest-wrap">
+          <form class="suggest-form" id="suggestEventForm">
+            <input type="hidden" name="access_key" value="43b12144-5b39-4d22-a107-f9ad9803976e">
+            <input type="hidden" name="subject" value="[vote4kids] Event tip submitted">
+            <input type="hidden" name="from_name" value="Vote4Kids.org Event Tip Form">
+            <input type="checkbox" name="botcheck" style="display:none" tabindex="-1">
+
+            <div class="field"><label for="evtName">Event Name</label><input type="text" id="evtName" name="Event Name" placeholder="e.g. LWV / Vanderbilt Gubernatorial Forum" required></div>
+            <div class="field"><label for="evtDate">Date (or approximate)</label><input type="text" id="evtDate" name="Date" placeholder="e.g. July 14, 2026" required></div>
+            <div class="field"><label for="evtLocation">Location or Format</label><input type="text" id="evtLocation" name="Location" placeholder="e.g. Nashville · Belmont University, or Virtual" required></div>
+            <div class="field"><label for="evtCandidates">Race or Candidates (if known)</label><input type="text" id="evtCandidates" name="Race or Candidates" placeholder="e.g. All TN-5 candidates, or Gov. debate"></div>
+            <div class="field"><label for="evtSource">Source or Link</label><input type="url" id="evtSource" name="Source Link" placeholder="https://..."></div>
+            <div class="field"><label for="evtEmail">Your Email (optional)</label><input type="email" id="evtEmail" name="Submitter Email" placeholder="In case we need to follow up"></div>
+            <div class="form-note">Tips go to the editor's inbox. Confirmed events are added to the calendar within 24 hours.</div>
+            <div><button type="submit" class="btn" id="suggest-event-submit-btn">Submit Event Tip →</button></div>
+            <div id="suggest-event-success">Thanks — your tip has been submitted. We'll look into it and add it to the calendar if confirmed.</div>
+            <div id="suggest-event-error"></div>
+          </form>
         </div>
-        <div class="field"><label for="reason">Why does this race matter?</label><textarea id="reason" name="Why it matters" placeholder="A sentence or two about the candidates, stakes, or community concerns." required></textarea></div>
-        <div class="field-row">
-          <div class="field"><label for="electionDate">Election Date (if known)</label><input type="text" id="electionDate" name="Election Date" placeholder="e.g. Aug 6, 2026"></div>
-          <div class="field"><label for="email">Your Email (optional)</label><input type="email" id="email" name="Submitter Email" placeholder="In case we need to follow up"></div>
+      </div>
+
+      <!-- RIGHT: Election / race suggestion -->
+      <div class="suggest-col">
+        <h3 class="suggest-col-title">Suggest an Election</h3>
+        <p class="suggest-col-desc">Have a local race — mayor, commission, school board, sheriff — we should cover?</p>
+        <div class="suggest-wrap">
+          <form class="suggest-form" id="suggestForm">
+            <input type="hidden" name="access_key" value="43b12144-5b39-4d22-a107-f9ad9803976e">
+            <input type="hidden" name="subject" value="[TN 2026] New election suggestion">
+            <input type="hidden" name="from_name" value="Vote4Kids.org Suggestion Form">
+            <input type="checkbox" name="botcheck" style="display:none" tabindex="-1">
+
+            <div class="field"><label for="raceType">Race / Office</label><input type="text" id="raceType" name="Race / Office" placeholder="e.g. Hamilton County Mayor" required></div>
+            <div class="field"><label for="locale">County or Town</label><input type="text" id="locale" name="County or Town" placeholder="e.g. Hamilton County" required></div>
+            <div class="field"><label for="reason">Why does this race matter?</label><textarea id="reason" name="Why it matters" placeholder="A sentence or two about the candidates, stakes, or community concerns." required></textarea></div>
+            <div class="field"><label for="electionDate">Election Date (if known)</label><input type="text" id="electionDate" name="Election Date" placeholder="e.g. Aug 6, 2026"></div>
+            <div class="field"><label for="email">Your Email (optional)</label><input type="email" id="email" name="Submitter Email" placeholder="In case we need to follow up"></div>
+            <div class="form-note">Submissions go to the editor's inbox. Email is optional and used only for clarification — not published or shared.</div>
+            <div><button type="submit" class="btn" id="suggest-submit-btn">Submit Suggestion →</button></div>
+            <div id="suggest-success">Thanks — your suggestion has been submitted. The editor will follow up if more info is needed.</div>
+            <div id="suggest-error"></div>
+          </form>
         </div>
-        <div class="form-note">Submissions go straight to the editor's inbox. Email is optional and used only for clarification — not published or shared.</div>
-        <div><button type="submit" class="btn" id="suggest-submit-btn">Submit Suggestion →</button></div>
-        <div id="suggest-success">Thanks — your suggestion has been submitted. The editor will follow up if more info is needed.</div>
-        <div id="suggest-error"></div>
-      </form>
+      </div>
+
     </div>
   </div>
 </section>
@@ -431,8 +418,7 @@
     <div class="footer-col">
       <h5>Get Involved</h5>
       <a href="#events" onclick="navigateMain(event)">Forums &amp; Events</a>
-      <a href="#suggest-event" onclick="navigateMain(event)">Submit a Forum Tip</a>
-      <a href="#suggest" onclick="navigateMain(event)">Suggest an Election</a>
+      <a href="#suggest" onclick="navigateMain(event)">Suggest a Race or Event</a>
       <a href="https://sos.tn.gov/elections" target="_blank" rel="noopener noreferrer">Register to Vote ↗</a>
       <a href="https://sos.tn.gov/elections/voter-lookup" target="_blank" rel="noopener noreferrer">Find Your Polling Place ↗</a>
     </div>
