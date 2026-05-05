@@ -47,32 +47,6 @@
     "retrieved_at": "2026-05-03"
   },
   {
-    "id": "lwv-lipscomb-forum-2026-05-19",
-    "date_iso": "2026-05-19",
-    "date_display": {
-      "month": "May",
-      "day": "19",
-      "year": "2026"
-    },
-    "title": "LWV / USA TODAY Network Tennessee Forum — Lipscomb University",
-    "description": "Statewide candidate forum covering Republican and Democratic governor candidates, plus congressional candidates in TN-5, TN-6, and TN-7. One of six forums planned statewide by this partnership. Broadcast live on Tennessean.com, KnoxNews.com, and CommercialAppeal.com. Moderated by Cameron Smith and Michelle Steele.",
-    "meta": "Nashville · George Shinn Event Center, Lipscomb University · 7:00 PM CDT",
-    "link_url": "https://www.lwvtn.org/candidate_forum",
-    "link_label": "LWV TN Forum →",
-    "is_placeholder": false,
-    "race": "multiple",
-    "race_label": "Governor + TN-5/6/7",
-    "candidates_invited": [
-      "marsha-blackburn",
-      "john-rose",
-      "monty-fritts",
-      "jerri-green",
-      "carnita-atwater"
-    ],
-    "source_url": "https://www.lwvtn.org/candidate_forum",
-    "retrieved_at": "2026-05-04"
-  },
-  {
     "id": "gop-gov-primary-debate-2026-06-25",
     "date_iso": "2026-06-25",
     "date_display": {
