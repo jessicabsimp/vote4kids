@@ -1,0 +1,158 @@
+[
+  {
+    "slug": "bill-hagerty",
+    "name": "Bill Hagerty",
+    "party": "R",
+    "race": "senate",
+    "district": null,
+    "primary_label": "Republican Primary · U.S. Senate",
+    "role_subtitle": "Incumbent · since 2021",
+    "bio": "Former U.S. Ambassador to Japan and Tennessee Commissioner of Economic and Community Development. Trump-endorsed; $5.3M cash on hand.",
+    "frontrunner": true,
+    "status_line": "★ Incumbent · Trump-endorsed",
+    "photo_url": "https://www.hagerty.senate.gov/wp-content/uploads/2021/09/46023721-60D9-4A81-986B-268BF3B14A5C.jpeg",
+    "photo_credit": "Official Senate website",
+    "campaign_url": "https://teamhagerty.com",
+    "official_url": "https://www.hagerty.senate.gov",
+    "twitter": "@SenatorHagerty",
+    "early_childhood_ed": {
+      "summary": "Strongly opposes federal control of preschool and childcare, calling Biden's Build Back Better pre-K program 'cradle-to-grave, big-government dependency.'",
+      "details": "In a December 2021 Fox News op-ed, Hagerty wrote that Biden's Build Back Better legislation 'creates and designs from the ground up a massive new nearly $400 billion federally controlled preschool and child care program, from the curriculum to the instructors,' arguing it would crowd out 'private, faith-based, and other family-oriented preschools.' He called this 'an unprecedented step toward displacing parents and indoctrinating American children.' Hagerty supports state and local control of education and parental school choice. His 2026 reelection campaign does not offer a specific early childhood education platform.",
+      "citations": [
+        "https://www.hagerty.senate.gov/press-releases/2021/12/02/icymi-hagerty-op-ed-bidens-build-back-better-is-the-very-definition-of-cradle-to-grave-big-government-dependency/"
+      ]
+    },
+    "child_hunger": {
+      "summary": "No specific public position found on child hunger; general philosophy opposes expanding government welfare dependency.",
+      "details": "No specific statements or votes by Hagerty on SNAP expansion, child nutrition programs, school meals, or Summer EBT were found in public records. His broader philosophy, expressed in his Build Back Better critique, is that government welfare programs 'with no work requirements' represent 'an attack on the dignity and right of self-determination.' His 2026 reelection campaign site does not list child hunger or food security as an issue.",
+      "citations": [
+        "https://www.hagerty.senate.gov/press-releases/2021/12/02/icymi-hagerty-op-ed-bidens-build-back-better-is-the-very-definition-of-cradle-to-grave-big-government-dependency/"
+      ]
+    },
+    "parental_support": {
+      "summary": "Supports the One Big Beautiful Bill's market-based family provisions including enhanced Child Tax Credit and employer paid leave and childcare credits, opposing government-mandated paid family leave.",
+      "details": "Hagerty backed the One Big Beautiful Bill (OBBB), which makes permanent the enhanced Child Tax Credit (raising it by $500 per child), strengthens the employer paid family and medical leave tax credit, and quadruples the employer childcare credit. His parental support stance channels relief through tax credits and employer incentives rather than direct government programs or mandates. He has not co-sponsored standalone paid family leave legislation.",
+      "citations": [
+        "https://www.hagerty.senate.gov/press-releases/2021/12/02/icymi-hagerty-op-ed-bidens-build-back-better-is-the-very-definition-of-cradle-to-grave-big-government-dependency/",
+        "https://waysandmeans.house.gov/wp-content/uploads/2025/05/The-One-Big-Beautiful-Bill-Champions-Life-and-Families.pdf"
+      ]
+    }
+  },
+  {
+    "slug": "marquita-bradshaw",
+    "name": "Marquita Bradshaw",
+    "party": "D",
+    "race": "senate",
+    "district": null,
+    "primary_label": "Democratic Primary · U.S. Senate",
+    "role_subtitle": "2020 Senate nominee",
+    "bio": "Memphis environmental justice activist who won the 2020 Democratic primary against expectations. Running again on environmental and economic-justice platform.",
+    "frontrunner": false,
+    "status_line": null,
+    "photo_url": "https://static.wixstatic.com/media/824554_e1c8af4c72b84ba1a05712bbb112d098~mv2.png/v1/fit/w_2500,h_1330,al_c/824554_e1c8af4c72b84ba1a05712bbb112d098~mv2.png",
+    "photo_credit": "Bradshaw for Senate official campaign website",
+    "campaign_url": "https://www.marquitabradshaw.com",
+    "official_url": null,
+    "twitter": null,
+    "early_childhood_ed": {
+      "summary": "Supports robust public education funding but does not specify an early childhood education plank on her 2026 issues page.",
+      "details": "Bradshaw's campaign issues page states: 'I BELIEVE IN HIGH QUALITY PUBLIC EDUCATION... I am a lifelong proponent of funding our education system the same as we do our military in order to promote generations of meaningful success regardless of background or location in Tennessee.' Her statement covers K-12 and beyond but does not explicitly address pre-K, Head Start, or early childhood development programs. Her background is in environmental justice advocacy.",
+      "citations": [
+        "https://www.marquitabradshaw.com/issues",
+        "https://ballotpedia.org/Marquita_Bradshaw"
+      ]
+    },
+    "child_hunger": {
+      "summary": "No public position found on child hunger or food insecurity specifically.",
+      "details": "Bradshaw's published issues page does not mention child hunger, SNAP, food assistance, or food insecurity. Her platform focuses on healthcare for all, a living wage ($15/hour minimum), environmental justice, education, restorative justice, background checks, and democracy protection. A living wage policy would indirectly affect child food security, but no direct child hunger policy statement was found.",
+      "citations": [
+        "https://www.marquitabradshaw.com/issues"
+      ]
+    },
+    "parental_support": {
+      "summary": "Supports a living wage and DACA protections that affect family stability, but has not published specific positions on paid family leave, childcare costs, or child tax credits.",
+      "details": "Bradshaw's platform calls for 'fully and aggressively fighting for the federal recognition & implementation of a living wage beginning at immediately increasing the minimum wage to $15.00 an hour' and supports DACA to protect immigrant families. No specific proposals on paid family leave, childcare subsidies, or child tax credit expansion appear on her issues page. Her bio notes she is 'a single mom who raised her son on a working-class salary,' but she has not translated this into discrete parental support policy proposals in her 2026 campaign materials.",
+      "citations": [
+        "https://www.marquitabradshaw.com/issues",
+        "https://www.marquitabradshaw.com/meet-marquita"
+      ]
+    }
+  },
+  {
+    "slug": "maria-brewer",
+    "name": "Maria Brewer",
+    "party": "D",
+    "race": "senate",
+    "district": null,
+    "primary_label": "Democratic Primary · U.S. Senate",
+    "role_subtitle": "Former TNDP staffer",
+    "bio": "Longtime Tennessee Democratic Party staffer making her first run for federal office.",
+    "frontrunner": false,
+    "status_line": null,
+    "photo_url": null,
+    "photo_credit": "Direct headshot URL not found",
+    "campaign_url": "https://secure.actblue.com/donate/mariabrewerforsenate",
+    "official_url": "https://ballotpedia.org/Maria_Brewer_(Tennessee)",
+    "twitter": null,
+    "early_childhood_ed": {
+      "summary": "No public position found on early childhood education in her 2026 Senate campaign.",
+      "details": "Brewer filed as a Democratic candidate for U.S. Senate in Tennessee on March 5, 2026. Her campaign materials consist of an ActBlue fundraising page and a Google Form interest signup; neither contains policy positions. Her LinkedIn profile and a 2026 Substack analysis confirm her institutional background as TNDP Director of Party Affairs for nearly 11 years but provide no policy platform. In her 2012 Tennessee State Senate race, she stated support for public school investment, but no 2026-specific early childhood education position has been found.",
+      "citations": [
+        "http://docquery.fec.gov/cgi-bin/forms/S6TN00380/1951762",
+        "https://ballotpedia.org/Maria_A._Brewer"
+      ]
+    },
+    "child_hunger": {
+      "summary": "No public position found on child hunger.",
+      "details": "No policy statements on child hunger, SNAP, food assistance, or food insecurity were found in any of Brewer's 2026 campaign materials. The campaign's public presence as of April 2026 consists only of an ActBlue donation page and a Google Form volunteer signup. No campaign website, issues page, candidate questionnaire responses, or media interviews with substantive policy detail were found.",
+      "citations": [
+        "https://secure.actblue.com/donate/mariabrewerforsenate?refcode=directory"
+      ]
+    },
+    "parental_support": {
+      "summary": "No public position found on paid family leave, child tax credit, childcare costs, or parental rights.",
+      "details": "No policy statements on parental support topics were found in any of Brewer's 2026 campaign materials. Her campaign's online footprint is limited to an ActBlue fundraising page, a Google Form interest signup, and an FEC candidacy statement filed March 5, 2026. Searched sources include her ActBlue page, LinkedIn, FEC filings, Ballotpedia, and general news searches.",
+      "citations": [
+        "https://secure.actblue.com/donate/mariabrewerforsenate?refcode=directory"
+      ]
+    }
+  },
+  {
+    "slug": "andrew-woodruff-mixon",
+    "name": "Andrew Woodruff Mixon",
+    "party": "I",
+    "race": "senate",
+    "district": null,
+    "primary_label": "Federalist · General Election Ballot",
+    "role_subtitle": "Federalist Party",
+    "bio": "Third-party candidate appearing on the November ballot under the Federalist Party banner.",
+    "frontrunner": false,
+    "status_line": null,
+    "photo_url": null,
+    "photo_credit": "No photo found in public sources",
+    "campaign_url": null,
+    "official_url": "https://ballotpedia.org/Andrew_Mixon",
+    "twitter": null,
+    "early_childhood_ed": {
+      "summary": "No public position found.",
+      "details": "Andrew Woodruff Mixon of the Federalist Party declared candidacy for the Tennessee U.S. Senate general election (November 3, 2026) and has $0 in campaign contributions per FEC records. He has not completed Ballotpedia's 2026 Candidate Connection survey. No campaign website, social media accounts, news interviews, or policy statements were found through searches of Ballotpedia, FEC filings, general news, and Federalist Party resources.",
+      "citations": [
+        "https://ballotpedia.org/Andrew_Mixon"
+      ]
+    },
+    "child_hunger": {
+      "summary": "No public position found.",
+      "details": "No campaign website, policy platform, or public statements were found for Mixon on any issue, including child hunger and food insecurity.",
+      "citations": [
+        "https://ballotpedia.org/Andrew_Mixon"
+      ]
+    },
+    "parental_support": {
+      "summary": "No public position found.",
+      "details": "No public statements on paid family leave, child tax credits, childcare costs, or parental rights were found for Mixon.",
+      "citations": [
+        "https://ballotpedia.org/Andrew_Mixon"
+      ]
+    }
+  }
+]
