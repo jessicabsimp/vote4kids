@@ -321,6 +321,49 @@
     <div class="event-list" id="event-list">
       <!-- Populated by renderEvents() from data/events.json -->
     </div>
+
+    <p class="event-tip-cta">Know about an upcoming forum, debate, or town hall we haven't listed? <a href="#suggest-event" onclick="navigateMain(event)">Submit a tip →</a></p>
+  </div>
+</section>
+
+<!-- SUGGEST EVENT -->
+<section id="suggest-event" class="alt-bg">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <div class="section-eyebrow">Reader Tips</div>
+        <h2 class="section-title">Suggest a Forum or Event</h2>
+      </div>
+      <div class="section-meta">
+        <strong>Reviewed before posting</strong>
+        Tip · Forum · Debate
+      </div>
+    </div>
+    <p class="section-context">Heard about an upcoming candidate forum, debate, or town hall? Tell us and we'll look into adding it. Tips are reviewed before posting — we verify details and source them before they go live.</p>
+
+    <div class="suggest-wrap">
+      <form class="suggest-form" id="suggestEventForm">
+        <input type="hidden" name="access_key" value="43b12144-5b39-4d22-a107-f9ad9803976e">
+        <input type="hidden" name="subject" value="[vote4kids] Event tip submitted">
+        <input type="hidden" name="from_name" value="Vote4Kids.org Event Tip Form">
+        <input type="checkbox" name="botcheck" style="display:none" tabindex="-1">
+
+        <div class="field-row">
+          <div class="field"><label for="evtName">Event Name</label><input type="text" id="evtName" name="Event Name" placeholder="e.g. LWV / Vanderbilt Gubernatorial Forum" required></div>
+          <div class="field"><label for="evtDate">Date (or approximate)</label><input type="text" id="evtDate" name="Date" placeholder="e.g. July 14, 2026" required></div>
+        </div>
+        <div class="field-row">
+          <div class="field"><label for="evtLocation">Location or Format</label><input type="text" id="evtLocation" name="Location" placeholder="e.g. Nashville · Belmont University, or Virtual" required></div>
+          <div class="field"><label for="evtCandidates">Race or Candidates (if known)</label><input type="text" id="evtCandidates" name="Race or Candidates" placeholder="e.g. All TN-5 candidates, or Gov. debate"></div>
+        </div>
+        <div class="field"><label for="evtSource">Source or Link</label><input type="url" id="evtSource" name="Source Link" placeholder="https://lwvtn.org/... or any URL where this was announced"></div>
+        <div class="field"><label for="evtEmail">Your Email (optional)</label><input type="email" id="evtEmail" name="Submitter Email" placeholder="In case we need to follow up — not published or shared"></div>
+        <div class="form-note">Tips go straight to the editor's inbox. We verify details and add confirmed events to the calendar within 24 hours.</div>
+        <div><button type="submit" class="btn" id="suggest-event-submit-btn">Submit Event Tip →</button></div>
+        <div id="suggest-event-success">Thanks — your tip has been submitted. We'll look into it and add it to the calendar if confirmed.</div>
+        <div id="suggest-event-error"></div>
+      </form>
+    </div>
   </div>
 </section>
 
@@ -388,6 +431,7 @@
     <div class="footer-col">
       <h5>Get Involved</h5>
       <a href="#events" onclick="navigateMain(event)">Forums &amp; Events</a>
+      <a href="#suggest-event" onclick="navigateMain(event)">Submit a Forum Tip</a>
       <a href="#suggest" onclick="navigateMain(event)">Suggest an Election</a>
       <a href="https://sos.tn.gov/elections" target="_blank" rel="noopener noreferrer">Register to Vote ↗</a>
       <a href="https://sos.tn.gov/elections/voter-lookup" target="_blank" rel="noopener noreferrer">Find Your Polling Place ↗</a>

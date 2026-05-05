@@ -694,10 +694,29 @@ function setupCompare() {
   updateCompareUI();
 }
 
-// ===================== SUGGEST FORM =====================
+// ===================== SUGGEST / EVENT FORMS =====================
 // Submissions auto-forwarded to robertsbjess@gmail.com via Web3Forms.com.
 // Web3Forms supports CORS and works in sandboxed iframes (Formsubmit didn't).
 const WEB3FORMS_ENDPOINT = 'https://api.web3forms.com/submit';
+
+// Generic form setup helper — used for both suggest forms.
+async function submitToWeb3Forms(form) {
+  const formData = new FormData(form);
+  const payload = Object.fromEntries(formData.entries());
+  const submitterEmail = (payload['Submitter Email'] || '').trim();
+  if (submitterEmail) payload.replyto = submitterEmail;
+  // Honeypot check
+  if (formData.get('botcheck')) return { success: true, honeypot: true };
+  const response = await fetch(WEB3FORMS_ENDPOINT, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+    body: JSON.stringify(payload)
+  });
+  const result = await response.json().catch(() => ({}));
+  if (response.ok && result.success) return { success: true };
+  const msg = result.message || (response.status >= 400 ? `Server returned ${response.status}` : 'Unknown error');
+  return { success: false, error: msg };
+}
 
 function setupForm() {
   const form = document.getElementById('suggestForm');
@@ -712,46 +731,51 @@ function setupForm() {
     errorEl.style.display = 'none';
     submitBtn.disabled = true;
     submitBtn.textContent = 'Submitting...';
-
-    // Honeypot check (Web3Forms style)
-    if (form.querySelector('input[name="botcheck"]').checked) {
-      successEl.style.display = 'block';
-      form.reset();
-      submitBtn.disabled = false;
-      submitBtn.textContent = 'Submit Suggestion →';
-      return;
-    }
-
-    // Build payload from form data
-    const formData = new FormData(form);
-    const payload = Object.fromEntries(formData.entries());
-
-    // If the submitter provided an email, set it as reply-to
-    const submitterEmail = (payload['Submitter Email'] || '').trim();
-    if (submitterEmail) payload.replyto = submitterEmail;
-
     try {
-      const response = await fetch(WEB3FORMS_ENDPOINT, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Accept': 'application/json'
-        },
-        body: JSON.stringify(payload)
-      });
-      const result = await response.json().catch(() => ({}));
-      if (response.ok && result.success) {
+      const result = await submitToWeb3Forms(form);
+      if (result.honeypot || result.success) {
         successEl.style.display = 'block';
         form.reset();
         submitBtn.textContent = 'Submit Another →';
       } else {
-        const msg = result.message || (response.status >= 400 ? `Server returned ${response.status}` : 'Unknown error');
-        throw new Error(msg);
+        throw new Error(result.error);
       }
     } catch (err) {
       errorEl.textContent = `Submission failed: ${err.message || err}. Please try again, or email robertsbjess@gmail.com directly.`;
       errorEl.style.display = 'block';
       submitBtn.textContent = 'Submit Suggestion →';
+    } finally {
+      submitBtn.disabled = false;
+    }
+  });
+}
+
+function setupEventForm() {
+  const form = document.getElementById('suggestEventForm');
+  if (!form) return;
+  const submitBtn = document.getElementById('suggest-event-submit-btn');
+  const successEl = document.getElementById('suggest-event-success');
+  const errorEl = document.getElementById('suggest-event-error');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    successEl.style.display = 'none';
+    errorEl.style.display = 'none';
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Submitting...';
+    try {
+      const result = await submitToWeb3Forms(form);
+      if (result.honeypot || result.success) {
+        successEl.style.display = 'block';
+        form.reset();
+        submitBtn.textContent = 'Submit Another Tip →';
+      } else {
+        throw new Error(result.error);
+      }
+    } catch (err) {
+      errorEl.textContent = `Submission failed: ${err.message || err}. Please try again, or email robertsbjess@gmail.com directly.`;
+      errorEl.style.display = 'block';
+      submitBtn.textContent = 'Submit Event Tip →';
     } finally {
       submitBtn.disabled = false;
     }
@@ -802,6 +826,7 @@ async function init() {
   updateCountdown();
   setInterval(updateCountdown, 60 * 60 * 1000);
   setupForm();
+  setupEventForm();
   setupCompare();
   setupMobileMenu();
   handleRoute();

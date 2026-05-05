@@ -717,6 +717,37 @@
     .event-cta { grid-column: 1 / -1; margin-top: 0.5rem; }
   }
 
+  /* ============ EVENT TIP CTA (below events list) ============ */
+  .event-tip-cta {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+    text-align: center;
+    margin-top: 1.4rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid var(--sage-light);
+  }
+  .event-tip-cta a {
+    color: var(--sage);
+    font-weight: 700;
+  }
+  .event-tip-cta a:hover { color: var(--navy); }
+
+  /* Shared success/error states for both suggest forms */
+  #suggest-event-success {
+    display: none; padding: 1rem 1.2rem;
+    background: var(--sage-light); border-left: 3px solid var(--sage);
+    border-radius: 2px; font-family: 'Lato', sans-serif; color: var(--navy);
+  }
+  #suggest-event-error {
+    display: none; padding: 1rem 1.2rem;
+    background: #fbeaea; border-left: 3px solid var(--party-r);
+    border-radius: 2px; font-family: 'Lato', sans-serif;
+    color: #6e2222; font-size: 0.92rem; line-height: 1.5;
+  }
+  #suggest-event-submit-btn:disabled { opacity: 0.6; cursor: wait; }
+
   /* ============ SUGGEST FORM ============ */
   .suggest-wrap {
     background: white;
