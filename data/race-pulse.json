@@ -1,0 +1,808 @@
+{
+  "marsha-blackburn": {
+    "incumbency": {
+      "label": "U.S. Senator, currently serving",
+      "note": "Senate seat continues if she loses gubernatorial bid"
+    },
+    "cash": {
+      "amount": "$5.06M",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/candidate/S8TN00337/",
+      "note": "Senate committee balance. TN gov state-filing data not publicly available."
+    },
+    "polls": [
+      {
+        "pollster": "Cygnal",
+        "partisan": "R",
+        "date": "Mar 2026",
+        "value": "58%",
+        "context": "leading R primary; 30% undecided",
+        "url": "https://www.cygn.al/wp-content/uploads/2026/03/TN-GOP-Primary-Gov-Poll-Memo.pdf"
+      },
+      {
+        "pollster": "TSS",
+        "partisan": "R-leaning",
+        "date": "Mar 2026",
+        "value": "56%",
+        "context": "leading R primary; ~20% undecided",
+        "url": "https://www.tnfirefly.com/news/senator-blackburn-continues-to-hold-strong-lead-in-republican-gubernatorial-primary"
+      },
+      {
+        "pollster": "Beacon Center",
+        "partisan": "R-leaning",
+        "date": "Jan 2026",
+        "value": "56%",
+        "context": "leading R primary; 28% undecided",
+        "url": "https://tennesseestar.com/politics/beacon-poll-marsha-blackburn-leads-gop-gubernatorial-field-with-commanding-47-point-lead/khousler/2026/02/02/"
+      }
+    ],
+    "endorsements": [
+      {
+        "name": "Donald Trump (praise)",
+        "type": "presidential",
+        "note": "Public praise; not yet a formal endorsement as of Apr 2026",
+        "url": "https://www.timesfreepress.com/news/2026/jan/28/trump-tennessee-is-lucky-to-get-blackburn-for/"
+      },
+      {
+        "name": "Americans for Prosperity State PAC",
+        "type": "PAC",
+        "url": "https://tristardaily.com/afp-endorses-marsha-blackburn-for-governor/"
+      }
+    ]
+  },
+  "john-rose": {
+    "incumbency": {
+      "label": "U.S. Rep, TN-6 — leaving seat to run",
+      "note": "Open House seat being contested"
+    },
+    "cash": {
+      "amount": "~$150K (Q1 2026)",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/candidate/H8TN06094/",
+      "note": "Per Nashville Scene; campaign solvent via reported $5M personal loan. State gov filings not publicly available."
+    },
+    "polls": [
+      {
+        "pollster": "Cygnal",
+        "partisan": "R",
+        "date": "Mar 2026",
+        "value": "7%",
+        "context": "trailing in R primary",
+        "url": "https://www.cygn.al/wp-content/uploads/2026/03/TN-GOP-Primary-Gov-Poll-Memo.pdf"
+      },
+      {
+        "pollster": "TSS",
+        "partisan": "R-leaning",
+        "date": "Mar 2026",
+        "value": "13.8%",
+        "context": "trailing in R primary",
+        "url": "https://www.tnfirefly.com/news/senator-blackburn-continues-to-hold-strong-lead-in-republican-gubernatorial-primary"
+      }
+    ],
+    "endorsements": []
+  },
+  "monty-fritts": {
+    "incumbency": {
+      "label": "TN State Representative — first run for statewide office",
+      "note": null
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": null,
+      "note": "TN state campaign finance not publicly indexed online."
+    },
+    "polls": [
+      {
+        "pollster": "Cygnal",
+        "partisan": "R",
+        "date": "Mar 2026",
+        "value": "4%",
+        "context": "trailing in R primary",
+        "url": "https://www.cygn.al/wp-content/uploads/2026/03/TN-GOP-Primary-Gov-Poll-Memo.pdf"
+      },
+      {
+        "pollster": "TSS",
+        "partisan": "R-leaning",
+        "date": "Mar 2026",
+        "value": "10.5%",
+        "context": "trailing in R primary",
+        "url": "https://www.tnfirefly.com/news/senator-blackburn-continues-to-hold-strong-lead-in-republican-gubernatorial-primary"
+      }
+    ],
+    "endorsements": []
+  },
+  "lauren-pinkston": {
+    "incumbency": {
+      "label": "Independent — first run for governor",
+      "note": "General-election ballot only"
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": null,
+      "note": "TN state campaign finance not publicly indexed online."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "jerri-green": {
+    "incumbency": {
+      "label": "Memphis political figure — first gubernatorial run",
+      "note": null
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": null,
+      "note": "TN state campaign finance not publicly indexed online."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "carnita-atwater": {
+    "incumbency": {
+      "label": "Memphis community activist · 2022 candidate",
+      "note": "Second gubernatorial run"
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": null,
+      "note": "TN state campaign finance not publicly indexed online."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "bill-hagerty": {
+    "incumbency": {
+      "label": "Incumbent · since 2021",
+      "note": "First-term U.S. Senator"
+    },
+    "cash": {
+      "amount": "$5.67M",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/candidate/S0TN00169/",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": [
+      {
+        "name": "Donald Trump",
+        "type": "presidential",
+        "url": "https://www.local3news.com/local-news/sen-bill-hagerty-announces-2026-re-election-bid-with-president-trump-s-endorsement/article_aa6db7e6-bcde-4a51-bc91-31895b24337f.html"
+      },
+      {
+        "name": "81 TN General Assembly members",
+        "type": "state legislative bloc",
+        "url": "https://teamhagerty.com/news/81-members-of-the-tennessee-general-assembly-endorse-hagerty-for-senate-re-election/"
+      },
+      {
+        "name": "Marsha Blackburn",
+        "type": "current senator"
+      },
+      {
+        "name": "Bill Lee",
+        "type": "current governor"
+      }
+    ]
+  },
+  "marquita-bradshaw": {
+    "incumbency": {
+      "label": "2020 Senate nominee · second run",
+      "note": null
+    },
+    "cash": {
+      "amount": "$0",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/candidate/S4TN00542/",
+      "note": "No substantive 2026 cycle FEC filings on record."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "maria-brewer": {
+    "incumbency": {
+      "label": "First run for federal office · former TNDP staffer",
+      "note": null
+    },
+    "cash": {
+      "amount": "$0",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/senate/TN/2026",
+      "note": "Filed Mar 2026; no substantive FEC fundraising on record."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "andrew-woodruff-mixon": {
+    "incumbency": {
+      "label": "Federalist Party · general-election ballot only",
+      "note": null
+    },
+    "cash": {
+      "amount": "$0",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/candidate/S6TN00323/",
+      "note": "No substantive FEC filings on record; $0 receipts in 2024 cycle as well."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "diana-harshbarger": {
+    "incumbency": {
+      "label": "Incumbent · since 2021",
+      "note": "Two-term member"
+    },
+    "cash": {
+      "amount": "$1.80M",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/01/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "kristi-burke": {
+    "incumbency": {
+      "label": "Challenger · first run for federal office",
+      "note": null
+    },
+    "cash": {
+      "amount": "$27.5K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/01/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "herman-garcia": {
+    "incumbency": {
+      "label": "Challenger · first run for federal office",
+      "note": null
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": null,
+      "note": "Not registered with FEC for 2026 cycle as of Q1 close."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "david-kerr": {
+    "incumbency": {
+      "label": "Challenger · first run for federal office",
+      "note": null
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": null,
+      "note": "Not registered with FEC for 2026 cycle as of Q1 close."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "tim-burchett": {
+    "incumbency": {
+      "label": "Incumbent · since 2019",
+      "note": "Three-term member"
+    },
+    "cash": {
+      "amount": "$933K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/02/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "michaela-barnett": {
+    "incumbency": {
+      "label": "Challenger · first run for federal office",
+      "note": null
+    },
+    "cash": {
+      "amount": "$30.9K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/02/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "chuck-fleischmann": {
+    "incumbency": {
+      "label": "Incumbent · since 2011",
+      "note": "Eight-term member"
+    },
+    "cash": {
+      "amount": "$4.55M",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/03/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "anna-golladay": {
+    "incumbency": {
+      "label": "Challenger · first run for federal office",
+      "note": "Announced Feb 2026"
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": "https://www.fec.gov/data/elections/house/TN/03/2026",
+      "note": "No FEC filings on record by Q1 2026 close."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "scott-desjarlais": {
+    "incumbency": {
+      "label": "Incumbent · since 2011",
+      "note": "Eight-term member"
+    },
+    "cash": {
+      "amount": "$429K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/04/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "thomas-davis": {
+    "incumbency": {
+      "label": "Challenger · second run",
+      "note": "Lost 2024 R primary to DesJarlais"
+    },
+    "cash": {
+      "amount": "$3.5K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/04/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "robert-arnold": {
+    "incumbency": {
+      "label": "Challenger · former Rutherford County Sheriff",
+      "note": null
+    },
+    "cash": {
+      "amount": "$0",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/04/2026",
+      "note": "No substantive FEC fundraising."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "harold-jones": {
+    "incumbency": {
+      "label": "Challenger · Air Force veteran",
+      "note": null
+    },
+    "cash": {
+      "amount": "$0",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/04/2026",
+      "note": "No substantive FEC fundraising."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "andy-ogles": {
+    "incumbency": {
+      "label": "Incumbent · since 2023",
+      "note": "Two-term; reportedly carries ~$70K legal debt"
+    },
+    "cash": {
+      "amount": "$85K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/05/2026",
+      "note": "One of only 16 House incumbents with under $100K COH."
+    },
+    "polls": [],
+    "endorsements": [
+      {
+        "name": "Donald Trump",
+        "type": "presidential",
+        "url": "https://www.timesfreepress.com/news/2025/oct/29/trump-backs-embattled-ogles-in-tennessee-race/"
+      }
+    ]
+  },
+  "charlie-hatcher": {
+    "incumbency": {
+      "label": "Former TN Agriculture Commissioner · first run for Congress",
+      "note": null
+    },
+    "cash": {
+      "amount": "$214K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/05/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": [
+      {
+        "name": "Bill Lee (anticipated)",
+        "type": "current governor",
+        "note": "Reported as likely; not formally announced",
+        "url": "https://tristardaily.com/breaking-former-agriculture-commissioner-charlie-hatcher-to-challenge-andy-ogles-for-congress-in-gop-5th-district-primary/"
+      }
+    ]
+  },
+  "chaz-molder": {
+    "incumbency": {
+      "label": "Mayor of Columbia, TN · first run for Congress",
+      "note": null
+    },
+    "cash": {
+      "amount": "$1.27M",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/05/2026",
+      "note": "Highest D challenger cash of any TN race."
+    },
+    "polls": [],
+    "endorsements": [
+      {
+        "name": "DCCC Red to Blue",
+        "type": "party committee",
+        "url": "https://dccc.org/chaz-molder-added-to-dcccs-coveted-red-to-blue-program/"
+      },
+      {
+        "name": "Jim Cooper (former U.S. Rep TN-5)",
+        "type": "former congress",
+        "url": "https://eu.tennessean.com/story/news/politics/2026/02/09/former-us-rep-jim-cooper-backs-chaz-molder-in-ogles-challenge/88584480007/"
+      },
+      {
+        "name": "New Democrat Coalition",
+        "type": "party caucus",
+        "url": "https://www.notus.org/democrats/new-democrat-coalition-endorsements-2026"
+      },
+      {
+        "name": "Future Forum PAC",
+        "type": "PAC"
+      }
+    ]
+  },
+  "mike-cortese": {
+    "incumbency": {
+      "label": "Metro Nashville Council member · first run for Congress",
+      "note": null
+    },
+    "cash": {
+      "amount": "$150K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/05/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "van-hilleary": {
+    "incumbency": {
+      "label": "Former U.S. Rep, TN-4 (1995–2003) · 2002 GOP gov nominee",
+      "note": "Open seat (Rose retiring)"
+    },
+    "cash": {
+      "amount": "$978K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/06/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "johnny-garrett": {
+    "incumbency": {
+      "label": "TN House Republican Whip · first run for Congress",
+      "note": "Open seat (Rose retiring)"
+    },
+    "cash": {
+      "amount": "$1.43M",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/06/2026",
+      "note": "Includes ~$600K personal loan."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "dale-braden": {
+    "incumbency": {
+      "label": "First run · American Independent Conservative party",
+      "note": "Open seat"
+    },
+    "cash": {
+      "amount": "$0.2K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/06/2026",
+      "note": "Negligible fundraising; general-election ballot only."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "mike-croley": {
+    "incumbency": {
+      "label": "Challenger · first run for federal office",
+      "note": "Open seat"
+    },
+    "cash": {
+      "amount": "$6.3K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/06/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "matt-van-epps": {
+    "incumbency": {
+      "label": "Incumbent · since Dec 2025 (special election)",
+      "note": "First-term; carries ~$168K outstanding debt"
+    },
+    "cash": {
+      "amount": "$135K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/07/2026",
+      "note": "$1.98M raised cycle-to-date reflects special-election cycle."
+    },
+    "polls": [],
+    "endorsements": [
+      {
+        "name": "Donald Trump",
+        "type": "presidential",
+        "note": "Endorsed in 2025 special election R primary"
+      }
+    ]
+  },
+  "aftyn-behn": {
+    "incumbency": {
+      "label": "TN State Representative · lost 2025 special election",
+      "note": "Running again in 2026 general"
+    },
+    "cash": {
+      "amount": null,
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/candidate/H6TN07195/",
+      "note": "Year-end 2025 ~$465K COH; Q1 2026 quarterly not yet found under candidate ID."
+    },
+    "polls": [],
+    "endorsements": [
+      {
+        "name": "Justice Democrats",
+        "type": "progressive org"
+      },
+      {
+        "name": "Congressional Progressive Caucus PAC",
+        "type": "party caucus PAC",
+        "url": "https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-aftyn-behn-for-tn-07/"
+      },
+      {
+        "name": "Elect Democratic Women",
+        "type": "party-affiliated",
+        "url": "https://electdemocraticwomen.org/elect-democratic-women-endorses-aftyn-behn-in-tennessees-7th-congressional-district-special-election-and-congratulates-her-on-a-decisive-victory/"
+      },
+      {
+        "name": "TIRRC Votes",
+        "type": "advocacy"
+      },
+      {
+        "name": "The Equity Alliance Fund",
+        "type": "advocacy"
+      },
+      {
+        "name": "Progressive Democrats of America",
+        "type": "progressive org"
+      }
+    ]
+  },
+  "david-kustoff": {
+    "incumbency": {
+      "label": "Incumbent · since 2017",
+      "note": "Five-term member"
+    },
+    "cash": {
+      "amount": "$2.83M",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/08/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "dewey-bryan": {
+    "incumbency": {
+      "label": "Challenger · first run for federal office",
+      "note": null
+    },
+    "cash": {
+      "amount": "$0",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/08/2026",
+      "note": "No substantive FEC fundraising."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "leonard-perkins": {
+    "incumbency": {
+      "label": "Challenger · pastor and substance abuse counselor",
+      "note": null
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": null,
+      "note": "No FEC committee found by name through Q1 2026."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "pamela-moses": {
+    "incumbency": {
+      "label": "Independent · perennial candidate",
+      "note": "General-election ballot only"
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": "https://www.fec.gov/data/candidate/S4TN00575/",
+      "note": "FEC candidate page exists; no substantive 2026 fundraising."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "horace-taylor": {
+    "incumbency": {
+      "label": "Independent · first run",
+      "note": "General-election ballot only"
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": null,
+      "note": "Not registered with FEC for 2026 cycle as of Q1 close."
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "steve-cohen": {
+    "incumbency": {
+      "label": "Incumbent · since 2007",
+      "note": "Ten-term member"
+    },
+    "cash": {
+      "amount": "$1.98M",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/09/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "justin-j-pearson": {
+    "incumbency": {
+      "label": "TN State Representative · first run for federal office",
+      "note": null
+    },
+    "cash": {
+      "amount": "$388K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/09/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": [
+      {
+        "name": "Justice Democrats",
+        "type": "progressive org",
+        "url": "https://justicedemocrats.com/candidate/justin-j-pearson/"
+      },
+      {
+        "name": "Leaders We Deserve (David Hogg)",
+        "type": "PAC",
+        "note": "$1M reported investment",
+        "url": "https://www.nbcnews.com/politics/2026-election/tennessee-three-legislator-justin-pearson-launches-primary-challenge-l-rcna235918"
+      }
+    ]
+  },
+  "charlotte-bergmann": {
+    "incumbency": {
+      "label": "Perennial candidate · multiple prior runs",
+      "note": null
+    },
+    "cash": {
+      "amount": "$7.7K",
+      "as_of": "Q1 2026",
+      "source_url": "https://www.fec.gov/data/elections/house/TN/09/2026",
+      "note": null
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "larsen-jay": {
+    "incumbency": {
+      "label": "Not incumbent · running to succeed term-limited Mayor Glenn Jacobs",
+      "note": "Two-term At-Large Commissioner; Commission Chairman 2020-21"
+    },
+    "cash": {
+      "amount": "~$334K",
+      "as_of": "Jan 15, 2026",
+      "source_url": "https://knoxcountytn.easyvotecampaignfinance.com/home/publicfilings",
+      "note": "Total raised: $772,629 from 912 donors — largest in Knox County mayoral history"
+    },
+    "polls": [],
+    "endorsements": [
+      {
+        "name": "TN House Speaker Cameron Sexton",
+        "type": "state legislative leader"
+      },
+      {
+        "name": "Former Governor Bill Haslam",
+        "type": "former governor"
+      }
+    ]
+  },
+  "betsy-henderson": {
+    "incumbency": {
+      "label": "Not incumbent · Knox County School Board Chair",
+      "note": "Two-term School Board member; elected Chair twice"
+    },
+    "cash": {
+      "amount": "~$85K",
+      "as_of": "Jan 15, 2026",
+      "source_url": "https://knoxcountytn.easyvotecampaignfinance.com/home/publicfilings",
+      "note": "Total raised: $122,376 from 119 donors"
+    },
+    "polls": [],
+    "endorsements": [
+      {
+        "name": "TN House Deputy Speaker Jason Zachary",
+        "type": "state legislative"
+      },
+      {
+        "name": "State Rep. Michele Carringer",
+        "type": "state legislative"
+      },
+      {
+        "name": "Former Acting Speaker Bill Dunn",
+        "type": "former state legislative"
+      }
+    ]
+  },
+  "kim-frazier": {
+    "incumbency": {
+      "label": "Not incumbent · Knox County At-Large Commissioner",
+      "note": "Commissioner Vice Chair; co-founded Knox Community Planning Alliance"
+    },
+    "cash": {
+      "amount": "~$95K",
+      "as_of": "Jan 15, 2026",
+      "source_url": "https://knoxcountytn.easyvotecampaignfinance.com/home/publicfilings",
+      "note": "Includes ~$88K self-loan; only $25,895 raised from 24 outside donors"
+    },
+    "polls": [],
+    "endorsements": []
+  },
+  "beau-hawk": {
+    "incumbency": {
+      "label": "Not incumbent · labor leader and ironworker",
+      "note": "Sole Democrat; faces GOP primary winner in August general"
+    },
+    "cash": {
+      "amount": null,
+      "as_of": null,
+      "source_url": null,
+      "note": "Campaign filed too recently for first disclosure period. Treasurer: Debbie Helsley (2022 Democratic mayoral nominee)."
+    },
+    "polls": [],
+    "endorsements": []
+  }
+}
