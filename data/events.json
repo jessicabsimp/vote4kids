@@ -22,6 +22,28 @@
     "retrieved_at": "2026-05-05"
   },
   {
+    "id": "jerri-green-town-hall-jonesborough-2026-05-04",
+    "date_iso": "2026-05-04",
+    "date_display": {
+      "month": "May",
+      "day": "4",
+      "year": "2026"
+    },
+    "title": "Jerri Green Town Hall in Jonesborough",
+    "description": "Democratic gubernatorial candidate Jerri Green held a town hall at the Jonesborough Visitors Center Monday evening, taking questions from attendees on issues including school vouchers, Medicaid expansion, the state grocery tax, maternal health, and gun violence.",
+    "meta": "Jonesborough · Jonesborough Visitors Center · evening",
+    "link_url": "https://www.wjhl.com/news/your-local-election-hq/democratic-gubernatorial-candidate-jerri-green-speaks-at-town-hall-in-jonesborough/",
+    "link_label": "WJHL coverage →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://www.wjhl.com/news/your-local-election-hq/democratic-gubernatorial-candidate-jerri-green-speaks-at-town-hall-in-jonesborough/",
+    "retrieved_at": "2026-05-06"
+  },
+  {
     "id": "knox-county-republican-primary-2026-05-05",
     "date_iso": "2026-05-05",
     "date_display": {
