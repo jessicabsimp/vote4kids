@@ -93,6 +93,26 @@
     "retrieved_at": "2026-05-03"
   },
   {
+    "id": "tennessees-5th-congressional-district-debate-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Tennessee's 5th Congressional District Debate",
+    "description": "SuperTalk 99.7 WTN broadcasts live from the Maury County Memorial Building for a debate among Tennessee's 5th Congressional District candidates, airing as part of 'The Drive with Brian Wilson' from 3:00–8:00 PM. Note: Tennessee's ongoing redistricting special session (May 2026) may affect district boundaries before the August 6 primary.",
+    "meta": "Columbia · Maury County Memorial Building · 3:00–8:00 PM",
+    "link_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
+    "link_label": "SuperTalk 99.7 WTN →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-5",
+    "candidates_invited": [],
+    "source_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
+    "retrieved_at": "2026-05-07"
+  },
+  {
     "id": "dem-gov-forum-2026-07-15",
     "date_iso": "2026-07-15",
     "date_display": {
