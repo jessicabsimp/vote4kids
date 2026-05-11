@@ -47,12 +47,12 @@ const DISTRICTS = [
   { id: "TN-1", num: "TN-01", title: "Northeast Tennessee · Tri-Cities", geography: "Bristol · Kingsport · Johnson City · Sullivan, Washington, Greene counties", rating: "Solid R", ratingClass: "" },
   { id: "TN-2", num: "TN-02", title: "East Tennessee · Knoxville", geography: "Knoxville · Maryville · Knox, Blount, Loudon, Anderson counties", rating: "Solid R", ratingClass: "" },
   { id: "TN-3", num: "TN-03", title: "Southeast Tennessee · Chattanooga", geography: "Chattanooga · Hamilton County and surrounding rural East TN", rating: "Solid R", ratingClass: "" },
-  { id: "TN-4", num: "TN-04", title: "South-Central Tennessee · Murfreesboro", geography: "Murfreesboro · Rutherford, Coffee, Franklin, Lincoln counties", rating: "Solid R", ratingClass: "" },
-  { id: "TN-5", num: "TN-05", title: "Nashville Suburbs · Columbia", geography: "South Davidson · Williamson, Maury, Wilson · the most competitive race in Tennessee", rating: "Toss-up", ratingClass: "toss" },
-  { id: "TN-6", num: "TN-06", title: "North Nashville Suburbs · Cumberland Plateau", geography: "Hendersonville · Cookeville · 19 counties · OPEN SEAT (Rose retiring)", rating: "Open · R", ratingClass: "lean" },
-  { id: "TN-7", num: "TN-07", title: "Clarksville · West Nashville Suburbs", geography: "Clarksville · Franklin · Dickson · Springfield · Cheatham County", rating: "Lean R", ratingClass: "lean" },
-  { id: "TN-8", num: "TN-08", title: "West Tennessee · Memphis Suburbs", geography: "Bartlett · Germantown · Collierville · Jackson · Dyersburg", rating: "Solid R", ratingClass: "" },
-  { id: "TN-9", num: "TN-09", title: "Memphis · Shelby County", geography: "Most of Memphis · the lone Democratic-held seat in TN", rating: "Solid D", ratingClass: "" }
+  { id: "TN-4", num: "TN-04", title: "South-Central Tennessee · SE Davidson to Alabama", geography: "SE Davidson County · Rutherford · Coffee · Franklin · Lincoln · Cannon · Van Buren · Grundy · Warren · Bledsoe · Sequatchie · Marion · new map signed May 7", rating: "Solid R", ratingClass: "" },
+  { id: "TN-5", num: "TN-05", title: "Middle TN to Downtown Memphis", geography: "W. Williamson · half Maury · Lewis · Hickman · Humphreys · Houston · Stewart · Fort Campbell · W. TN counties · downtown Memphis (Shelby Co.) · radically redrawn May 7", rating: "Toss-up ⚠", ratingClass: "toss" },
+  { id: "TN-6", num: "TN-06", title: "Cumberland Plateau · Upper Cumberland", geography: "Slice of Davidson · Wilson · Smith · DeKalb · Putnam · White · Overton · Cumberland · Fentress · Scott · Morgan · part Campbell · OPEN SEAT (Rose running for Gov.)", rating: "Open · R", ratingClass: "lean" },
+  { id: "TN-7", num: "TN-07", title: "Clarksville · Greater Nashville Suburbs", geography: "More of Davidson County · Sumner · Trousdale · Macon · Robertson · Cheatham · Dickson · most of Montgomery County · redrawn May 7", rating: "Lean R", ratingClass: "lean" },
+  { id: "TN-8", num: "TN-08", title: "West Tennessee · Jackson to Germantown", geography: "Largely West TN: Bartlett · Germantown · Collierville · Jackson · Dyersburg · adds Perry County under new map", rating: "Solid R", ratingClass: "" },
+  { id: "TN-9", num: "TN-09", title: "Rural South Tennessee · Alabama Border", geography: "Portion of Shelby Co. · Fayette · Hardeman · Hardin · Wayne · Lawrence · Giles · Lincoln · Moore · Bedford · Marshall · half Maury · half Williamson — old Memphis district eliminated May 7 · lawsuits pending", rating: "Solid R ⚠", ratingClass: "" }
 ];
 
 // ===================== RENDER HELPERS =====================
