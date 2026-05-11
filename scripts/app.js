@@ -791,11 +791,15 @@ function renderEvents() {
     container.innerHTML = '<p style="text-align:center;opacity:0.7;padding:2em">No upcoming events listed.</p>';
     return;
   }
-  // Sort by date_iso ascending so upcoming events appear in chronological order.
+
+  const todayStr = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
   const sorted = [...EVENTS].sort((a, b) => (a.date_iso || '').localeCompare(b.date_iso || ''));
-  container.innerHTML = sorted.map(e => {
+  const upcoming = sorted.filter(e => (e.date_iso || '') >= todayStr);
+  const past     = sorted.filter(e => (e.date_iso || '') < todayStr);
+
+  function eventCard(e) {
     const placeholderClass = e.is_placeholder ? ' placeholder' : '';
-    const ctaHref = e.link_url ? e.link_url : '#';
+    const ctaHref  = e.link_url ? e.link_url : '#';
     const ctaAttrs = e.link_url ? ' target="_blank" rel="noopener noreferrer"' : '';
     const ctaLabel = escapeHtml(e.link_label || 'Details');
     return `<div class="event${placeholderClass}">
@@ -807,7 +811,24 @@ function renderEvents() {
       </div>
       <div class="event-cta"><a href="${escapeHtml(ctaHref)}"${ctaAttrs}>${ctaLabel}</a></div>
     </div>`;
-  }).join('\n');
+  }
+
+  let html = '';
+
+  if (upcoming.length) {
+    html += upcoming.map(eventCard).join('\n');
+  } else {
+    html += '<p style="text-align:center;opacity:0.7;padding:2em">No upcoming events listed. Check back soon.</p>';
+  }
+
+  if (past.length) {
+    html += `<details class="events-past-toggle">
+      <summary>Past events (${past.length})</summary>
+      <div class="events-past-list">${past.map(eventCard).join('\n')}</div>
+    </details>`;
+  }
+
+  container.innerHTML = html;
 }
 
 // ===================== INIT =====================

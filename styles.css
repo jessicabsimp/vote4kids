@@ -1825,94 +1825,70 @@
     .compare-col { min-width: 80vw; scroll-snap-align: start; flex-shrink: 0; }
   }
 
-  /* ============ FIND MY DISTRICT ============ */
-  #find-district { padding: 2.5rem 2rem; }
-  .find-district-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1.4rem;
-    margin-top: 0.8rem;
+  /* ============ MY LEGISLATORS ============ */
+  #find-district { padding: 2rem 2rem; }
+  .legislator-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    margin-top: 1rem;
+    max-width: 580px;
   }
-  @media (max-width: 800px) {
-    .find-district-grid { grid-template-columns: 1fr; }
-  }
-  .find-district-card {
+  .legislator-link-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     background: white;
     border: 1px solid var(--sage-light);
     border-radius: 4px;
-    padding: 1.8rem 1.8rem 1.6rem;
-    display: flex;
-    flex-direction: column;
+    padding: 1rem 1.2rem;
+    font-size: 0.95rem;
+    color: var(--ink) !important;
+    text-decoration: none;
+    transition: border-color .15s, background .15s;
     gap: 1rem;
   }
-  .find-district-eyebrow {
+  .legislator-link-row:hover {
+    border-color: var(--sage);
+    background: var(--cream-warm);
+    color: var(--navy) !important;
+  }
+  .leg-link-url {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--sage);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .legislator-link-row:hover .leg-link-url { color: var(--navy); }
+
+  /* ============ PAST EVENTS TOGGLE ============ */
+  .events-past-toggle {
+    margin-top: 1.8rem;
+    border-top: 1px solid var(--sage-light);
+    padding-top: 1rem;
+  }
+  .events-past-toggle > summary {
+    cursor: pointer;
     font-family: 'Quicksand', sans-serif;
-    font-weight: 700;
-    font-size: 0.72rem;
+    font-weight: 600;
+    font-size: 0.82rem;
     text-transform: uppercase;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0;
+    user-select: none;
+  }
+  .events-past-toggle > summary::-webkit-details-marker { display: none; }
+  .events-past-toggle > summary::before {
+    content: '▶';
+    font-size: 0.55rem;
+    transition: transform .15s;
     color: var(--sage);
   }
-  .find-district-title {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
-    font-size: 1.15rem;
-    color: var(--navy);
-    letter-spacing: -0.01em;
-    line-height: 1.25;
-    margin-top: -0.4rem;
-  }
-  .find-district-desc {
-    font-size: 0.92rem;
-    color: var(--charcoal);
-    line-height: 1.6;
-  }
-  .find-district-steps {
-    padding-left: 1.3rem;
-    display: flex;
-    flex-direction: column;
-    gap: 0.45rem;
-    margin: 0;
-  }
-  .find-district-steps li {
-    font-size: 0.9rem;
-    color: var(--charcoal);
-    line-height: 1.5;
-    padding-left: 0.3rem;
-  }
-  .find-district-btn {
-    display: inline-block;
-    background: var(--navy);
-    color: white !important;
-    font-family: 'Quicksand', sans-serif;
-    font-weight: 700;
-    font-size: 0.87rem;
-    letter-spacing: 0.04em;
-    padding: 0.85rem 1.4rem;
-    border-radius: 2px;
-    text-decoration: none;
-    transition: background .15s, transform .1s;
-    align-self: flex-start;
-    margin-top: 0.2rem;
-  }
-  .find-district-btn:hover {
-    background: var(--sage);
-    color: white !important;
-    transform: translateY(-1px);
-  }
-  .find-district-return {
-    background: var(--cream);
-    border-left: 3px solid var(--sage);
-    padding: 0.9rem 1rem;
-    border-radius: 0 2px 2px 0;
-    font-size: 0.88rem;
-    color: var(--charcoal);
-    line-height: 1.55;
-  }
-  .find-district-return .return-url {
-    font-family: 'Space Mono', monospace;
-    font-size: 0.82rem;
-    color: var(--navy);
-  }
-  .find-district-return a { color: var(--sage); }
-  .find-district-return a:hover { color: var(--navy); }
+  .events-past-toggle[open] > summary::before { transform: rotate(90deg); }
+  .events-past-list { margin-top: 0.8rem; opacity: 0.65; }
