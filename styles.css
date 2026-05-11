@@ -1824,3 +1824,95 @@
     .compare-grid { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; }
     .compare-col { min-width: 80vw; scroll-snap-align: start; flex-shrink: 0; }
   }
+
+  /* ============ FIND MY DISTRICT ============ */
+  #find-district { padding: 2.5rem 2rem; }
+  .find-district-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.4rem;
+    margin-top: 0.8rem;
+  }
+  @media (max-width: 800px) {
+    .find-district-grid { grid-template-columns: 1fr; }
+  }
+  .find-district-card {
+    background: white;
+    border: 1px solid var(--sage-light);
+    border-radius: 4px;
+    padding: 1.8rem 1.8rem 1.6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .find-district-eyebrow {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--sage);
+  }
+  .find-district-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.15rem;
+    color: var(--navy);
+    letter-spacing: -0.01em;
+    line-height: 1.25;
+    margin-top: -0.4rem;
+  }
+  .find-district-desc {
+    font-size: 0.92rem;
+    color: var(--charcoal);
+    line-height: 1.6;
+  }
+  .find-district-steps {
+    padding-left: 1.3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+    margin: 0;
+  }
+  .find-district-steps li {
+    font-size: 0.9rem;
+    color: var(--charcoal);
+    line-height: 1.5;
+    padding-left: 0.3rem;
+  }
+  .find-district-btn {
+    display: inline-block;
+    background: var(--navy);
+    color: white !important;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 0.87rem;
+    letter-spacing: 0.04em;
+    padding: 0.85rem 1.4rem;
+    border-radius: 2px;
+    text-decoration: none;
+    transition: background .15s, transform .1s;
+    align-self: flex-start;
+    margin-top: 0.2rem;
+  }
+  .find-district-btn:hover {
+    background: var(--sage);
+    color: white !important;
+    transform: translateY(-1px);
+  }
+  .find-district-return {
+    background: var(--cream);
+    border-left: 3px solid var(--sage);
+    padding: 0.9rem 1rem;
+    border-radius: 0 2px 2px 0;
+    font-size: 0.88rem;
+    color: var(--charcoal);
+    line-height: 1.55;
+  }
+  .find-district-return .return-url {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.82rem;
+    color: var(--navy);
+  }
+  .find-district-return a { color: var(--sage); }
+  .find-district-return a:hover { color: var(--navy); }

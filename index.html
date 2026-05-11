@@ -39,6 +39,7 @@
       TN 2026
     </div>
     <div class="nav-links">
+      <a href="#find-district" onclick="navigateMain(event)">My District</a>
       <a href="#governor" onclick="navigateMain(event)">Governor</a>
       <a href="#senate" onclick="navigateMain(event)">Senate</a>
       <a href="#house" onclick="navigateMain(event)">House</a>
@@ -50,6 +51,7 @@
     <button class="hamburger" id="hamburger-btn" aria-label="Menu">☰</button>
   </div>
   <div class="mobile-menu" id="mobile-menu">
+    <a href="#find-district" onclick="navigateMain(event); closeMobileMenu();">My District</a>
     <a href="#governor" onclick="navigateMain(event); closeMobileMenu();">Governor</a>
     <a href="#senate" onclick="navigateMain(event); closeMobileMenu();">Senate</a>
     <a href="#house" onclick="navigateMain(event); closeMobileMenu();">House</a>
@@ -129,6 +131,57 @@
           <span class="issue-stat-source"><a href="https://www.epi.org/child-care-costs-in-the-united-states/" target="_blank" rel="noopener noreferrer">Source: Economic Policy Institute</a></span>
         </div>
       </div>
+    </div>
+  </div>
+</section>
+
+<!-- FIND MY DISTRICT -->
+<section id="find-district" class="alt-bg">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <div class="section-eyebrow">Know Your Ballot</div>
+        <h2 class="section-title">Find My District</h2>
+      </div>
+    </div>
+    <p class="section-context">Before you compare candidates, find out which districts you vote in. Tennessee has two separate layers: federal congressional districts (U.S. House) and state legislative districts (TN Senate &amp; TN House). Each uses a different map — and Tennessee's congressional map was <strong>redrawn in May 2026</strong>, so many voters are in a different U.S. House district than they were in 2024.</p>
+
+    <div class="find-district-grid">
+
+      <!-- Card 1: Federal U.S. House -->
+      <div class="find-district-card">
+        <div class="find-district-eyebrow">Federal</div>
+        <h3 class="find-district-title">U.S. House District</h3>
+        <p class="find-district-desc">Use the Tennessee Secretary of State's address lookup to find which of the 9 congressional districts you're in. This tool reflects the new 2026 maps.</p>
+        <ol class="find-district-steps">
+          <li>Click the button below — it opens the TN Secretary of State's district lookup</li>
+          <li>Enter your home address or zip code</li>
+          <li>Note your U.S. House district number (e.g. <strong>TN-5</strong> or <strong>TN-9</strong>)</li>
+          <li>Come back to vote4kids.org and click <a href="#house" onclick="navigateMain(event)">U.S. House</a> — then open your district to compare candidates</li>
+        </ol>
+        <a href="http://tncot.cc/tndistrict" target="_blank" rel="noopener noreferrer" class="find-district-btn">Find my U.S. House district →</a>
+        <div class="find-district-return">
+          ↩ <strong>After looking up your district, come back to <span class="return-url">vote4kids.org</span></strong> and scroll to the <a href="#house" onclick="navigateMain(event)">U.S. House section</a> to see where candidates in your district stand on early childhood education, child hunger, and parental support.
+        </div>
+      </div>
+
+      <!-- Card 2: TN State Legislature -->
+      <div class="find-district-card">
+        <div class="find-district-eyebrow">State</div>
+        <h3 class="find-district-title">TN Legislature</h3>
+        <p class="find-district-desc">Use the Tennessee General Assembly's legislator finder to look up your state senator and state house representative — the lawmakers who shape TN education and child welfare law directly.</p>
+        <ol class="find-district-steps">
+          <li>Click the button below — it opens the TN General Assembly's legislator finder</li>
+          <li>Enter your address</li>
+          <li>See your TN Senate and TN House representatives by name and district</li>
+          <li>Come back to vote4kids.org to compare the <em>federal</em> candidates on kids' issues</li>
+        </ol>
+        <a href="https://wapp.capitol.tn.gov/apps/TLAfinder/" target="_blank" rel="noopener noreferrer" class="find-district-btn">Find my TN state legislators →</a>
+        <div class="find-district-return">
+          ↩ <strong>Note:</strong> vote4kids.org tracks Governor, U.S. Senate, and U.S. House candidates — not state legislators. After finding your state reps, <strong>come back to <span class="return-url">vote4kids.org</span></strong> to compare federal and gubernatorial candidates on <a href="#issues-context" onclick="navigateMain(event)">the issues that affect kids</a>.
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
