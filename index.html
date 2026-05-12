@@ -43,7 +43,6 @@
       <a href="#governor" onclick="navigateMain(event)">Governor</a>
       <a href="#senate" onclick="navigateMain(event)">Senate</a>
       <a href="#house" onclick="navigateMain(event)">House</a>
-      <a href="#compare" onclick="navigateMain(event)">Compare</a>
       <a href="#local" onclick="navigateMain(event)">Local</a>
       <a href="#events" onclick="navigateMain(event)">Events</a>
       <a href="#suggest" onclick="navigateMain(event)">Suggest</a>
@@ -55,7 +54,6 @@
     <a href="#governor" onclick="navigateMain(event); closeMobileMenu();">Governor</a>
     <a href="#senate" onclick="navigateMain(event); closeMobileMenu();">Senate</a>
     <a href="#house" onclick="navigateMain(event); closeMobileMenu();">House</a>
-    <a href="#compare" onclick="navigateMain(event); closeMobileMenu();">Compare</a>
     <a href="#local" onclick="navigateMain(event); closeMobileMenu();">Local</a>
     <a href="#events" onclick="navigateMain(event); closeMobileMenu();">Events</a>
     <a href="#suggest" onclick="navigateMain(event); closeMobileMenu();">Suggest</a>
@@ -178,6 +176,8 @@
         <span class="race-summary-chevron">→</span>
       </summary>
       <div class="candidates-grid" data-race="governor"></div>
+      <button class="compare-toggle-btn" data-compare-race="governor">Compare candidates →</button>
+      <div class="inline-compare-wrap" data-compare-race="governor"></div>
     </details>
   </div>
 </section>
@@ -203,6 +203,8 @@
         <span class="race-summary-chevron">→</span>
       </summary>
       <div class="candidates-grid" data-race="senate"></div>
+      <button class="compare-toggle-btn" data-compare-race="senate">Compare candidates →</button>
+      <div class="inline-compare-wrap" data-compare-race="senate"></div>
     </details>
   </div>
 </section>
@@ -223,74 +225,6 @@
     <p class="section-context">All nine Tennessee congressional seats are on the ballot. The most competitive race is TN-5 (Nashville-area), where the DCCC is targeting incumbent Andy Ogles. The TN-6 seat is open following John Rose's gubernatorial run, and TN-9 features a high-profile Democratic primary. <strong>⚠ Redistricting update (May 7, 2026):</strong> Gov. Bill Lee signed a new congressional map into law on May 7, 2026, following a chaotic three-day special session. The new map dismantles the old TN-9 (Memphis) — the state's only Democratic-held seat — splitting Memphis across three districts. The redrawn TN-9 is now a rural south Tennessee district along the Alabama state line. Nashville's metro is now divided into five districts instead of four. All candidates must refile their petitions by <strong>May 15</strong>. Multiple lawsuits — including from Rep. Cohen and the NAACP — are already filed and may block the map before the August primary. District descriptions below reflect the new signed map; check back as legal challenges develop.</p>
 
     <div class="districts" id="districts-list"></div>
-  </div>
-</section>
-
-<!-- COMPARE -->
-<section id="compare" class="alt-bg">
-  <div class="container">
-    <div class="section-head">
-      <div>
-        <div class="section-eyebrow">Tool</div>
-        <h2 class="section-title">Compare Candidates</h2>
-      </div>
-      <div class="section-meta">
-        <strong>Up to 4 at once</strong>
-        Side-by-side on each issue
-      </div>
-    </div>
-    <p class="section-context">Pick a race below to see its candidates, then select up to 4 to compare side-by-side on early childhood education, child hunger, and parental support. Selections carry over when you switch races, so you can compare candidates from different races (e.g. Governor vs. a House district).</p>
-
-    <!-- Race picker -->
-    <div class="race-picker">
-      <div class="race-picker-row">
-        <span class="race-picker-label">Statewide</span>
-        <div class="race-buttons">
-          <button class="race-btn" data-race="governor">Governor</button>
-          <button class="race-btn" data-race="senate">U.S. Senate</button>
-        </div>
-      </div>
-      <div class="race-picker-row">
-        <span class="race-picker-label">U.S. House</span>
-        <div class="race-buttons">
-          <button class="race-btn" data-race="TN-1">TN-1</button>
-          <button class="race-btn" data-race="TN-2">TN-2</button>
-          <button class="race-btn" data-race="TN-3">TN-3</button>
-          <button class="race-btn" data-race="TN-4">TN-4</button>
-          <button class="race-btn" data-race="TN-5">TN-5</button>
-          <button class="race-btn" data-race="TN-6">TN-6</button>
-          <button class="race-btn" data-race="TN-7">TN-7</button>
-          <button class="race-btn" data-race="TN-8">TN-8</button>
-          <button class="race-btn" data-race="TN-9">TN-9</button>
-        </div>
-      </div>
-      <div class="race-picker-row">
-        <span class="race-picker-label">Local</span>
-        <div class="race-buttons">
-          <button class="race-btn" data-race="knox-mayor">Knox Co. Mayor</button>
-        </div>
-      </div>
-    </div>
-
-    <!-- Filter + actions -->
-    <div class="compare-controls">
-      <div class="compare-control">
-        <span class="compare-control-label">Show</span>
-        <div class="segment" id="filter-pool">
-          <button data-pool="primary" class="active">Primary Candidates</button>
-          <button data-pool="all">All Candidates</button>
-        </div>
-      </div>
-      <div class="compare-status" id="compare-status">
-        <strong>0 of 4</strong> selected
-      </div>
-      <button class="btn-clear" id="btn-clear-compare">Clear</button>
-      <button class="btn-compare" id="btn-run-compare" disabled>Compare →</button>
-    </div>
-
-    <div class="compare-selector" id="compare-selector"></div>
-
-    <div class="compare-results" id="compare-results"></div>
   </div>
 </section>
 
@@ -322,6 +256,8 @@
           <span class="race-summary-chevron">→</span>
         </summary>
         <div class="candidates-grid" id="local-knox-mayor"></div>
+        <button class="compare-toggle-btn" data-compare-race="knox-mayor">Compare candidates →</button>
+        <div class="inline-compare-wrap" data-compare-race="knox-mayor"></div>
       </details>
     </div>
   </div>

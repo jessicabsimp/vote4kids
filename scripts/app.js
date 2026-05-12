@@ -124,6 +124,8 @@ function districtBlock(d) {
       </summary>
       <div class="district-body">
         <div class="candidates-grid">${cardsHtml}</div>
+        <button class="compare-toggle-btn" data-compare-race="${escapeHtml(d.id)}">Compare candidates →</button>
+        <div class="inline-compare-wrap" data-compare-race="${escapeHtml(d.id)}"></div>
       </div>
     </details>
   `;
@@ -451,33 +453,17 @@ function updateCountdown() {
   if (elGen) elGen.textContent = dGen;
 }
 
-// ===================== COMPARE =====================
-const compareState = {
-  pool: 'primary',         // 'primary' | 'all'
-  race: null,              // null (no race picked yet) | 'governor' | 'senate' | 'TN-1' ... 'TN-9'
-  selected: new Set(),     // candidate slugs (persists across race switches)
-  MAX: 4
-};
+// ===================== INLINE COMPARE =====================
+let activeCompareRace = null;
+const inlineSelected = new Set();
+const INLINE_MAX = 4;
 
-function isPrimaryCandidate(c) {
-  // Primary candidate = competing in the Aug 6 primary (not general-only).
-  // General-only candidates: Federalist Senate (Mixon), Independents (Pinkston, Moses, Taylor).
-  // Treat R and D candidates as primary candidates (they're all in primaries).
-  return c.party === 'R' || c.party === 'D';
-}
-
-function getCompareCandidates() {
-  if (compareState.race === null) return [];
-  return CANDIDATES.filter(c => {
-    if (compareState.pool === 'primary' && !isPrimaryCandidate(c)) return false;
-    if (compareState.race === 'governor') return c.race === 'governor';
-    if (compareState.race === 'senate') return c.race === 'senate';
-    // District filter (TN-1, TN-2, etc.)
-    if (compareState.race.startsWith('TN-')) return c.district === compareState.race;
-    // Local races
-    if (compareState.race === 'knox-mayor') return c.race === 'local' && c.district === 'Knox County Mayor';
-    return false;
-  });
+function getCandidatesForRace(raceKey) {
+  if (raceKey === 'governor')   return CANDIDATES.filter(c => c.race === 'governor');
+  if (raceKey === 'senate')     return CANDIDATES.filter(c => c.race === 'senate');
+  if (raceKey.startsWith('TN-')) return CANDIDATES.filter(c => c.district === raceKey);
+  if (raceKey === 'knox-mayor') return CANDIDATES.filter(c => c.race === 'local');
+  return [];
 }
 
 function pickCard(c, isSelected, isDisabled) {
@@ -499,70 +485,78 @@ function pickCard(c, isSelected, isDisabled) {
   `;
 }
 
-function renderCompareSelector() {
-  const grid = document.getElementById('compare-selector');
-  if (!grid) return;
-  // Empty state: no race picked yet
-  if (compareState.race === null) {
-    grid.classList.remove('compare-selector');
-    grid.innerHTML = `
-      <div class="selector-empty">
-        <div class="selector-empty-icon">★ ★ ★</div>
-        <div class="selector-empty-text"><strong>Pick a race above</strong> to see its candidates.<br>Your selections will carry over if you switch races.</div>
+function renderInlineCompare(raceKey) {
+  const wrap = document.querySelector(`.inline-compare-wrap[data-compare-race="${raceKey}"]`);
+  if (!wrap) return;
+  const candidates = getCandidatesForRace(raceKey);
+  const limitReached = inlineSelected.size >= INLINE_MAX;
+  const pickerHtml = candidates.map(c =>
+    pickCard(c, inlineSelected.has(c.slug), !inlineSelected.has(c.slug) && limitReached)
+  ).join('');
+  wrap.innerHTML = `
+    <div class="inline-compare">
+      <div class="inline-compare-header">
+        <span class="inline-compare-label">Select up to ${INLINE_MAX} candidates to compare</span>
+        <button class="inline-compare-close" onclick="closeInlineCompare()">✕ Close</button>
       </div>
-    `;
-    return;
-  }
-  // Restore grid class for active rendering
-  grid.classList.add('compare-selector');
-  const candidates = getCompareCandidates();
-  const limitReached = compareState.selected.size >= compareState.MAX;
-  if (candidates.length === 0) {
-    grid.innerHTML = '<div class="compare-empty">No candidates match these filters. Try switching to "All Candidates" to include Independents and Federalist candidates.</div>';
-    return;
-  }
-  grid.innerHTML = candidates.map(c => {
-    const isSelected = compareState.selected.has(c.slug);
-    const isDisabled = !isSelected && limitReached;
-    return pickCard(c, isSelected, isDisabled);
-  }).join('');
-  // Attach click handlers
-  grid.querySelectorAll('.pick-card').forEach(card => {
+      <div class="inline-compare-picker">${pickerHtml}</div>
+      <div class="inline-compare-actions">
+        <span class="inline-compare-count">${inlineSelected.size} of ${INLINE_MAX} selected</span>
+        <button class="btn-clear" onclick="clearInlineCompare('${raceKey}')">Clear</button>
+        <button class="btn-compare" ${inlineSelected.size < 2 ? 'disabled' : ''} onclick="runInlineCompare('${raceKey}')">Compare →</button>
+      </div>
+      <div class="inline-compare-results" id="inline-compare-results-${raceKey}"></div>
+    </div>
+  `;
+  wrap.querySelectorAll('.pick-card').forEach(card => {
     card.addEventListener('click', () => {
       if (card.classList.contains('disabled')) return;
       const slug = card.dataset.slug;
-      if (compareState.selected.has(slug)) {
-        compareState.selected.delete(slug);
-      } else {
-        if (compareState.selected.size >= compareState.MAX) return;
-        compareState.selected.add(slug);
-      }
-      updateCompareUI();
+      if (inlineSelected.has(slug)) { inlineSelected.delete(slug); }
+      else { if (inlineSelected.size >= INLINE_MAX) return; inlineSelected.add(slug); }
+      renderInlineCompare(raceKey);
     });
   });
 }
 
-function updateRaceButtons() {
-  document.querySelectorAll('.race-btn').forEach(btn => {
-    if (btn.dataset.race === compareState.race) {
-      btn.classList.add('active');
-    } else {
-      btn.classList.remove('active');
-    }
+function updateCompareToggleButtons() {
+  document.querySelectorAll('.compare-toggle-btn').forEach(btn => {
+    const isActive = btn.dataset.compareRace === activeCompareRace;
+    btn.classList.toggle('active', isActive);
+    btn.textContent = isActive ? 'Close compare ✕' : 'Compare candidates →';
   });
 }
 
-function updateCompareUI() {
-  // Status text
-  const status = document.getElementById('compare-status');
-  if (status) {
-    status.innerHTML = `<strong>${compareState.selected.size} of ${compareState.MAX}</strong> selected`;
-  }
-  // Compare button
-  const btn = document.getElementById('btn-run-compare');
-  if (btn) btn.disabled = compareState.selected.size < 2;
-  // Re-render selector to reflect selection state and disabled cards
-  renderCompareSelector();
+function openInlineCompare(raceKey) {
+  if (activeCompareRace === raceKey) { closeInlineCompare(); return; }
+  closeInlineCompare();
+  activeCompareRace = raceKey;
+  inlineSelected.clear();
+  renderInlineCompare(raceKey);
+  updateCompareToggleButtons();
+}
+
+function closeInlineCompare() {
+  if (!activeCompareRace) return;
+  const wrap = document.querySelector(`.inline-compare-wrap[data-compare-race="${activeCompareRace}"]`);
+  if (wrap) wrap.innerHTML = '';
+  activeCompareRace = null;
+  updateCompareToggleButtons();
+}
+
+function clearInlineCompare(raceKey) {
+  inlineSelected.clear();
+  renderInlineCompare(raceKey);
+}
+
+function runInlineCompare(raceKey) {
+  const candidates = Array.from(inlineSelected).map(s => CANDIDATES.find(c => c.slug === s)).filter(Boolean);
+  if (candidates.length < 2) return;
+  const el = document.getElementById('inline-compare-results-' + raceKey);
+  if (!el) return;
+  el.innerHTML = `<div class="compare-grid cols-${candidates.length}">${candidates.map(compareColumn).join('')}</div>`;
+  el.classList.add('active');
+  setTimeout(() => el.scrollIntoView({ behavior: 'smooth', block: 'start' }), 50);
 }
 
 function compareIssueRow(c, key, label) {
@@ -646,52 +640,10 @@ function runCompare() {
   setTimeout(() => results.scrollIntoView({ behavior: 'smooth', block: 'start' }), 50);
 }
 
-function clearCompare() {
-  compareState.selected.clear();
-  const results = document.getElementById('compare-results');
-  if (results) {
-    results.classList.remove('active');
-    results.innerHTML = '';
-  }
-  updateCompareUI();
-}
-
-function setupCompare() {
-  // Pool filter (segmented buttons)
-  document.querySelectorAll('#filter-pool button').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('#filter-pool button').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      compareState.pool = btn.dataset.pool;
-      // When switching pool, drop any non-primary selections if pool became 'primary'
-      if (compareState.pool === 'primary') {
-        Array.from(compareState.selected).forEach(slug => {
-          const c = CANDIDATES.find(x => x.slug === slug);
-          if (c && !isPrimaryCandidate(c)) compareState.selected.delete(slug);
-        });
-      }
-      updateCompareUI();
-    });
+function setupInlineCompare() {
+  document.querySelectorAll('.compare-toggle-btn').forEach(btn => {
+    btn.addEventListener('click', () => openInlineCompare(btn.dataset.compareRace));
   });
-  // Race buttons
-  document.querySelectorAll('.race-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      compareState.race = btn.dataset.race;
-      updateRaceButtons();
-      // Selection persists across race switches so users can compare across races.
-      renderCompareSelector();
-      updateCompareUI();
-    });
-  });
-  // Compare button
-  const runBtn = document.getElementById('btn-run-compare');
-  if (runBtn) runBtn.addEventListener('click', runCompare);
-  // Clear button
-  const clearBtn = document.getElementById('btn-clear-compare');
-  if (clearBtn) clearBtn.addEventListener('click', clearCompare);
-  // Initial render (empty state until a race is picked)
-  renderCompareSelector();
-  updateCompareUI();
 }
 
 // ===================== SUGGEST / EVENT FORMS =====================
@@ -848,7 +800,7 @@ async function init() {
   setInterval(updateCountdown, 60 * 60 * 1000);
   setupForm();
   setupEventForm();
-  setupCompare();
+  setupInlineCompare();
   setupMobileMenu();
   handleRoute();
 }

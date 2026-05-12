@@ -1424,40 +1424,13 @@
   }
 
   /* ============ COMPARE ============ */
-  .race-picker {
-    background: white;
-    border: 1px solid var(--sage-light);
-    border-radius: 4px;
-    padding: 1.5rem;
-    margin-bottom: 1.2rem;
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-  }
-  .race-picker-row {
-    display: grid;
-    grid-template-columns: 130px 1fr;
-    gap: 1.5rem;
+  /* compare-toggle-btn: lives inside each race's <details> block */
+  .compare-toggle-btn {
+    display: inline-flex;
     align-items: center;
-  }
-  @media (max-width: 600px) {
-    .race-picker-row { grid-template-columns: 1fr; gap: 0.55rem; }
-  }
-  .race-picker-label {
-    font-family: 'Quicksand', sans-serif;
-    font-weight: 700;
-    font-size: 0.7rem;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: var(--charcoal);
-  }
-  .race-buttons {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-  .race-btn {
-    background: var(--cream);
+    gap: 0.4rem;
+    margin-top: 1.2rem;
+    background: transparent;
     border: 1px solid var(--sage-light);
     border-radius: 2px;
     padding: 0.55rem 1rem;
@@ -1465,104 +1438,70 @@
     font-weight: 600;
     font-size: 0.82rem;
     letter-spacing: 0.04em;
-    color: var(--charcoal);
+    color: var(--muted);
     cursor: pointer;
     transition: all .15s;
   }
-  .race-btn:hover { border-color: var(--sage); color: var(--navy); background: white; }
-  .race-btn.active {
-    background: var(--navy);
-    color: var(--cream);
-    border-color: var(--navy);
-  }
-  .race-btn.active:hover { background: var(--navy); color: var(--cream); }
+  .compare-toggle-btn:hover { border-color: var(--sage); color: var(--navy); background: var(--cream); }
+  .compare-toggle-btn.active { background: var(--navy); color: var(--cream); border-color: var(--navy); }
 
-  .selector-empty {
-    text-align: center;
-    padding: 2.5rem 1rem;
-    background: white;
-    border: 1px dashed var(--sage);
-    border-radius: 4px;
-    color: var(--charcoal);
-  }
-  .selector-empty .selector-empty-icon {
-    font-family: 'Space Mono', monospace;
-    color: var(--sage);
-    font-size: 1.4rem;
-    letter-spacing: 0.4em;
-    margin-bottom: 0.7rem;
-  }
-  .selector-empty .selector-empty-text {
-    font-family: 'Lato', sans-serif;
-    color: var(--charcoal);
-    font-size: 0.95rem;
-    line-height: 1.5;
-  }
-  .selector-empty .selector-empty-text strong { color: var(--navy); }
-
-  .compare-controls {
-    background: white;
+  /* Inline compare panel */
+  .inline-compare {
+    margin-top: 0.8rem;
     border: 1px solid var(--sage-light);
     border-radius: 4px;
-    padding: 1.5rem;
-    margin-bottom: 2rem;
-    display: flex;
-    gap: 2rem;
-    flex-wrap: wrap;
-    align-items: flex-end;
+    background: white;
+    padding: 1.4rem;
   }
-  .compare-control { display: flex; flex-direction: column; gap: 0.5rem; }
-  .compare-control-label {
+  .inline-compare-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  .inline-compare-label {
     font-family: 'Quicksand', sans-serif;
     font-weight: 700;
-    font-size: 0.7rem;
-    letter-spacing: 0.18em;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
     color: var(--charcoal);
   }
-  .segment {
-    display: inline-flex;
-    border: 1px solid var(--sage-light);
-    border-radius: 2px;
-    overflow: hidden;
-  }
-  .segment button {
+  .inline-compare-close {
     background: transparent;
     border: none;
-    padding: 0.6rem 1.1rem;
     font-family: 'Quicksand', sans-serif;
-    font-weight: 600;
     font-size: 0.78rem;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--charcoal);
+    color: var(--muted);
     cursor: pointer;
-    transition: background .15s, color .15s;
-  }
-  .segment button:hover { background: var(--cream); }
-  .segment button.active { background: var(--navy); color: var(--cream); }
-  .segment button + button { border-left: 1px solid var(--sage-light); }
-  .compare-control select {
-    font-family: 'Lato', sans-serif;
-    font-size: 0.92rem;
-    padding: 0.55rem 0.9rem;
-    border: 1px solid var(--sage-light);
-    background: var(--cream);
+    padding: 0.3rem 0.6rem;
     border-radius: 2px;
-    color: var(--ink);
-    cursor: pointer;
-    min-width: 180px;
+    transition: color .15s;
   }
-  .compare-control select:focus { outline: none; border-color: var(--sage); background: white; }
-  .compare-status {
-    flex: 1;
-    text-align: right;
+  .inline-compare-close:hover { color: var(--navy); }
+  .inline-compare-picker {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 0.6rem;
+    margin-bottom: 1rem;
+  }
+  .inline-compare-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+    padding-top: 0.8rem;
+    border-top: 1px solid var(--sage-light);
+  }
+  .inline-compare-count {
     font-family: 'Space Mono', monospace;
     font-size: 0.78rem;
     color: var(--muted);
-    min-width: 140px;
+    flex: 1;
   }
-  .compare-status strong { color: var(--navy); font-weight: 700; }
+  .inline-compare-results { margin-top: 1.4rem; }
+  .inline-compare-results.active { display: block; }
+
   .btn-compare {
     font-family: 'Quicksand', sans-serif;
     font-weight: 700;
