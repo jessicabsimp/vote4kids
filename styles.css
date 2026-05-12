@@ -1424,26 +1424,38 @@
   }
 
   /* ============ COMPARE ============ */
-  /* compare-toggle-btn: lives inside each race's <details> block */
+  /* compare-toggle-btn: lives at the top of each race's open <details> block */
   .compare-toggle-btn {
-    display: inline-flex;
+    display: flex;
     align-items: center;
-    gap: 0.4rem;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
     margin-top: 1.2rem;
-    background: transparent;
-    border: 1px solid var(--sage-light);
-    border-radius: 2px;
-    padding: 0.55rem 1rem;
+    margin-bottom: 1.4rem;
+    background: white;
+    border: 1.5px solid var(--sage);
+    border-radius: 3px;
+    padding: 0.75rem 1.4rem;
     font-family: 'Quicksand', sans-serif;
-    font-weight: 600;
-    font-size: 0.82rem;
-    letter-spacing: 0.04em;
-    color: var(--muted);
+    font-weight: 700;
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--sage);
     cursor: pointer;
-    transition: all .15s;
+    transition: all .18s;
   }
-  .compare-toggle-btn:hover { border-color: var(--sage); color: var(--navy); background: var(--cream); }
-  .compare-toggle-btn.active { background: var(--navy); color: var(--cream); border-color: var(--navy); }
+  .compare-toggle-btn:hover {
+    background: var(--sage-light);
+    border-color: var(--sage);
+    color: var(--navy);
+  }
+  .compare-toggle-btn.active {
+    background: var(--navy);
+    color: var(--cream);
+    border-color: var(--navy);
+  }
 
   /* Inline compare panel */
   .inline-compare {

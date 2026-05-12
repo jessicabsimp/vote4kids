@@ -123,9 +123,9 @@ function districtBlock(d) {
         <div class="chevron">→</div>
       </summary>
       <div class="district-body">
-        <div class="candidates-grid">${cardsHtml}</div>
-        <button class="compare-toggle-btn" data-compare-race="${escapeHtml(d.id)}">Compare candidates →</button>
+        <button class="compare-toggle-btn" data-compare-race="${escapeHtml(d.id)}">⇄ Compare candidates</button>
         <div class="inline-compare-wrap" data-compare-race="${escapeHtml(d.id)}"></div>
+        <div class="candidates-grid">${cardsHtml}</div>
       </div>
     </details>
   `;
@@ -523,7 +523,7 @@ function updateCompareToggleButtons() {
   document.querySelectorAll('.compare-toggle-btn').forEach(btn => {
     const isActive = btn.dataset.compareRace === activeCompareRace;
     btn.classList.toggle('active', isActive);
-    btn.textContent = isActive ? 'Close compare ✕' : 'Compare candidates →';
+    btn.textContent = isActive ? '✕ Close compare' : '⇄ Compare candidates';
   });
 }
 
