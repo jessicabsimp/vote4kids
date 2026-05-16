@@ -378,6 +378,28 @@
     "retrieved_at": "2026-05-08"
   },
   {
+    "id": "lauren-pinkston-chattanooga-meet-and-greet-2026-05-26",
+    "date_iso": "2026-05-26",
+    "date_display": {
+      "month": "May",
+      "day": "26",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Chattanooga Meet & Greet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston meets with voters at the home of Jonathan and Shannon Stewart in Chattanooga. One of a series of statewide community meet-and-greet stops.",
+    "meta": "Chattanooga \u00b7 home of Jonathan and Shannon Stewart \u00b7 6:30 PM",
+    "link_url": "https://action.pinkstonfortn.com",
+    "link_label": "Pinkston for TN \u2192",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://action.pinkstonfortn.com",
+    "retrieved_at": "2026-05-16"
+  },
+  {
     "id": "jerri-green-meet-jerri-memphis-2026-05-28",
     "date_iso": "2026-05-28",
     "date_display": {
@@ -398,6 +420,28 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-05-08"
+  },
+  {
+    "id": "lauren-pinkston-warren-county-meet-and-greet-2026-05-28",
+    "date_iso": "2026-05-28",
+    "date_display": {
+      "month": "May",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Warren County Meet & Greet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston hosts a meet-and-greet in McMinnville at the Warren County Chamber of Commerce.",
+    "meta": "McMinnville \u00b7 Warren County Chamber of Commerce, 110 S Court Square \u00b7 4:00 PM",
+    "link_url": "https://action.pinkstonfortn.com",
+    "link_label": "Pinkston for TN \u2192",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://action.pinkstonfortn.com",
+    "retrieved_at": "2026-05-16"
   },
   {
     "id": "jerri-green-meet-jerri-fayetteville-2026-05-30",
@@ -464,6 +508,28 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-05-08"
+  },
+  {
+    "id": "lauren-pinkston-conscious-conversation-reading-rock-books-2026-06-06",
+    "date_iso": "2026-06-06",
+    "date_display": {
+      "month": "Jun",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Conscious Conversation at Reading Rock Books",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a community conversation event at Reading Rock Books, an independent bookstore in Dickson, TN.",
+    "meta": "Dickson \u00b7 Reading Rock Books, 122 N Main Street \u00b7 9:00 AM",
+    "link_url": "https://action.pinkstonfortn.com",
+    "link_label": "Pinkston for TN \u2192",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://action.pinkstonfortn.com",
+    "retrieved_at": "2026-05-16"
   },
   {
     "id": "gop-gov-primary-debate-2026-06-25",
