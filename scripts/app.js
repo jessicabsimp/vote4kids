@@ -370,12 +370,29 @@ function renderMainPage() {
     districtsList.innerHTML = DISTRICTS.map(districtBlock).join('');
   }
 
-  // Local races
-  const knoxMayor = document.getElementById('local-knox-mayor');
-  if (knoxMayor) {
-    const localCandidates = CANDIDATES.filter(c => c.race === 'local' && c.district === 'Knox County Mayor');
-    knoxMayor.innerHTML = localCandidates.map(candidateCard).join('');
-  }
+  // Local races — render each race into its respective grid
+  const localRaces = [
+    { id: 'local-knox-mayor',          district: 'Knox County Mayor' },
+    { id: 'local-knox-sheriff',        district: 'Knox County Sheriff' },
+    { id: 'local-knox-trustee',        district: 'Knox County Trustee' },
+    { id: 'local-knox-commission-d3',  district: 'Knox County Commission District 3' },
+    { id: 'local-knox-commission-d7',  district: 'Knox County Commission District 7' },
+    { id: 'local-knox-commission-al10',district: 'Knox County Commission At-Large 10' },
+    { id: 'local-knox-commission-al11',district: 'Knox County Commission At-Large 11' },
+    { id: 'local-knox-school-d1',      district: 'Knox County School Board District 1' },
+    { id: 'local-knox-school-d4',      district: 'Knox County School Board District 4' },
+    { id: 'local-knox-school-d6',      district: 'Knox County School Board District 6' },
+    { id: 'local-knox-school-d7',      district: 'Knox County School Board District 7' },
+    { id: 'local-knox-school-d9',      district: 'Knox County School Board District 9' },
+  ];
+  localRaces.forEach(({ id, district }) => {
+    const el = document.getElementById(id);
+    if (el) {
+      el.innerHTML = CANDIDATES
+        .filter(c => c.race === 'local' && c.district === district)
+        .map(candidateCard).join('');
+    }
+  });
 }
 
 // ===================== ROUTER =====================
@@ -462,7 +479,22 @@ function getCandidatesForRace(raceKey) {
   if (raceKey === 'governor')   return CANDIDATES.filter(c => c.race === 'governor');
   if (raceKey === 'senate')     return CANDIDATES.filter(c => c.race === 'senate');
   if (raceKey.startsWith('TN-')) return CANDIDATES.filter(c => c.district === raceKey);
-  if (raceKey === 'knox-mayor') return CANDIDATES.filter(c => c.race === 'local');
+  // Local race key → district name mapping
+  const localRaceMap = {
+    'knox-mayor':          'Knox County Mayor',
+    'knox-sheriff':        'Knox County Sheriff',
+    'knox-trustee':        'Knox County Trustee',
+    'knox-commission-d3':  'Knox County Commission District 3',
+    'knox-commission-d7':  'Knox County Commission District 7',
+    'knox-commission-al10':'Knox County Commission At-Large 10',
+    'knox-commission-al11':'Knox County Commission At-Large 11',
+    'knox-school-d1':      'Knox County School Board District 1',
+    'knox-school-d4':      'Knox County School Board District 4',
+    'knox-school-d6':      'Knox County School Board District 6',
+    'knox-school-d7':      'Knox County School Board District 7',
+    'knox-school-d9':      'Knox County School Board District 9',
+  };
+  if (localRaceMap[raceKey]) return CANDIDATES.filter(c => c.district === localRaceMap[raceKey]);
   return [];
 }
 
