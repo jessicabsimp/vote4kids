@@ -564,7 +564,7 @@
       "year": "2026"
     },
     "title": "Tennessee's 5th Congressional District Debate",
-    "description": "SuperTalk 99.7 WTN broadcasts live from the Maury County Memorial Building for a debate among Tennessee's 5th Congressional District candidates, airing as part of 'The Drive with Brian Wilson' from 3:00\u20138:00 PM. Note: Tennessee's redistricting special session concluded May 7, 2026; the enacted map may affect district boundaries and the candidate field before the August 6 primary (congressional filing deadline extended to May 15, 2026). [Verify: event page removed from WTN website; calendar shows no upcoming events as of 2026-05-10. Possible cancellation or postponement related to redistricting of TN-5.]",
+    "description": "SuperTalk 99.7 WTN broadcasts live from the Maury County Memorial Building for a debate among Tennessee's 5th Congressional District candidates, airing as part of 'The Drive with Brian Wilson' from 3:00\u20138:00 PM. Redistricting enacted May 7, 2026; congressional filing deadline closed May 15. Candidate field now finalized; specific participants TBD.",
     "meta": "Columbia \u00b7 Maury County Memorial Building \u00b7 3:00\u20138:00 PM",
     "link_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
     "link_label": "SuperTalk 99.7 WTN \u2192",
@@ -573,7 +573,7 @@
     "race_label": "U.S. House TN-5",
     "candidates_invited": [],
     "source_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
-    "retrieved_at": "2026-05-10"
+    "retrieved_at": "2026-05-19"
   },
   {
     "id": "dem-gov-forum-2026-07-15",
@@ -640,6 +640,26 @@
     "candidates_invited": [],
     "source_url": "https://my.lwv.org/tennessee",
     "retrieved_at": "2026-05-03"
+  },
+  {
+    "id": "thinktennessee-policy-forum-2026-09-09",
+    "date_iso": "2026-09-09",
+    "date_display": {
+      "month": "Sep",
+      "day": "9",
+      "year": "2026"
+    },
+    "title": "ThinkTennessee 2026 Policy Forum",
+    "description": "ThinkTennessee's annual policy forum brings together policymakers, business leaders, and candidates to discuss housing, transportation, child care, and workforce development. The 2026 forum is expected to feature candidates in the TN Governor race and other statewide contests. No specific candidates confirmed yet; this is a Save the Date.",
+    "meta": "Nashville \u00b7 Music City Center \u00b7 Save the Date",
+    "link_url": "https://www.thinktennessee.org/events/",
+    "link_label": "ThinkTennessee \u2192",
+    "is_placeholder": true,
+    "race": "governor",
+    "race_label": "TN Governor \u00b7 Multiple races",
+    "candidates_invited": [],
+    "source_url": "https://www.thinktennessee.org/events/",
+    "retrieved_at": "2026-05-19"
   },
   {
     "id": "general-gov-debate-2026-10-15",
