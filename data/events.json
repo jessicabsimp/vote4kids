@@ -8,10 +8,10 @@
       "year": "2026"
     },
     "title": "Andy Ogles Town Hall at Belmont University",
-    "description": "U.S. Rep. Andy Ogles (TN-5) appeared at a Belmont University College Republicans event Monday morning, taking student questions for about 45 minutes. The event drew significant student protest over his recent statements on Muslims and Islam. Hosted by Belmont's College Republicans chapter; coordinated with Ogles's office in recent weeks.",
-    "meta": "Nashville \u00b7 Janet Ayers Academic Center, Belmont University \u00b7 10:00 AM",
+    "description": "U.S. Rep. Andy Ogles (TN-5) appeared at a Belmont University College Republicans event Monday morning, taking student questions for about 45 minutes. The event drew significant student protest over his recent statements on Muslims and Islam. Hosted by Belmont’s College Republicans chapter; coordinated with Ogles’s office in recent weeks.",
+    "meta": "Nashville · Janet Ayers Academic Center, Belmont University · 10:00 AM",
     "link_url": "https://www.nashvillescene.com/news/pithinthewind/andy-ogles-belmont-university/article_46df7345-a269-44b2-ba80-50dd145a9310.html",
-    "link_label": "Nashville Scene coverage \u2192",
+    "link_label": "Nashville Scene coverage →",
     "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-5",
@@ -30,10 +30,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Nashville",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Nashville, TN. Venue and time details available on her campaign events page.",
-    "meta": "Nashville \u00b7 Davidson County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Nashville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Nashville · Davidson County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -52,10 +52,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Ashland City",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Ashland City, TN. Venue and time details available on her campaign events page.",
-    "meta": "Ashland City \u00b7 Cheatham County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Ashland City, TN. Venue and time details available on her campaign events page.",
+    "meta": "Ashland City · Cheatham County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -74,10 +74,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Murfreesboro",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Murfreesboro, TN. Venue and time details available on her campaign events page.",
-    "meta": "Murfreesboro \u00b7 Rutherford County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Murfreesboro, TN. Venue and time details available on her campaign events page.",
+    "meta": "Murfreesboro · Rutherford County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -97,9 +97,9 @@
     },
     "title": "Jerri Green Town Hall in Jonesborough",
     "description": "Democratic gubernatorial candidate Jerri Green held a town hall at the Jonesborough Visitors Center Monday evening, taking questions from attendees on issues including school vouchers, Medicaid expansion, the state grocery tax, maternal health, and gun violence.",
-    "meta": "Jonesborough \u00b7 Jonesborough Visitors Center \u00b7 evening",
+    "meta": "Jonesborough · Jonesborough Visitors Center · evening",
     "link_url": "https://www.wjhl.com/news/your-local-election-hq/democratic-gubernatorial-candidate-jerri-green-speaks-at-town-hall-in-jonesborough/",
-    "link_label": "WJHL coverage \u2192",
+    "link_label": "WJHL coverage →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -110,6 +110,30 @@
     "retrieved_at": "2026-05-06"
   },
   {
+    "id": "franklin-county-gop-reagan-day-dinner-2026-05-04",
+    "date_iso": "2026-05-04",
+    "date_display": {
+      "month": "May",
+      "day": "4",
+      "year": "2026"
+    },
+    "title": "Franklin County GOP Reagan Day Dinner",
+    "description": "The Franklin County Republican Party held its annual Reagan Day Dinner at Twin Creeks Honeysuckle Pavilion, featuring remarks from Republican gubernatorial candidates John Rose and Monty Fritts. Marsha Blackburn was represented by surrogate David Alexander, who read a statement on her behalf. Rose called publicly for the three candidates to debate; Fritts focused on military leadership principles and border security.",
+    "meta": "Winchester · Twin Creeks Honeysuckle Pavilion, Franklin County · evening",
+    "link_url": "https://www.heraldchronicle.com/news/local/local-republicans-hear-from-gubernatorial-candidates/article_38399023-0f86-4984-9db3-3cc529879b9c.html",
+    "link_label": "Herald Chronicle →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (R primary)",
+    "candidates_invited": [
+      "john-rose",
+      "monty-fritts",
+      "marsha-blackburn"
+    ],
+    "source_url": "https://www.heraldchronicle.com/news/local/local-republicans-hear-from-gubernatorial-candidates/article_38399023-0f86-4984-9db3-3cc529879b9c.html",
+    "retrieved_at": "2026-05-20"
+  },
+  {
     "id": "knox-county-republican-primary-2026-05-05",
     "date_iso": "2026-05-05",
     "date_display": {
@@ -118,10 +142,10 @@
       "year": "2026"
     },
     "title": "Knox County Republican Primary",
-    "description": "Larsen Jay, Betsy Henderson, and Kim Frazier compete for the GOP mayoral nomination. Winner faces Democrat Beau Hawk in the August 6 general. Early voting ran April 15\u201330.",
-    "meta": "Knox County \u00b7 all polling places \u00b7 Election Day",
+    "description": "Larsen Jay, Betsy Henderson, and Kim Frazier compete for the GOP mayoral nomination. Winner faces Democrat Beau Hawk in the August 6 general. Early voting ran April 15–30.",
+    "meta": "Knox County · all polling places · Election Day",
     "link_url": "https://www.knoxcounty.org/election/",
-    "link_label": "Knox Election \u2192",
+    "link_label": "Knox Election →",
     "is_placeholder": false,
     "race": "local",
     "race_label": "Knox County Mayor",
@@ -143,10 +167,10 @@
       "year": "2026"
     },
     "title": "Marsha Blackburn with Turning Point USA at UT Knoxville",
-    "description": "Republican gubernatorial candidate and U.S. Sen. Marsha Blackburn appeared at a Turning Point USA 'Pick Up the Mic' event at UTK's Student Union Ballroom alongside conservative activist Riley Gaines, taking questions from students on faith, family, culture, and election integrity. The event encouraged student voter registration.",
-    "meta": "Knoxville \u00b7 UTK Student Union Ballroom, University of Tennessee",
+    "description": "Republican gubernatorial candidate and U.S. Sen. Marsha Blackburn appeared at a Turning Point USA ‘Pick Up the Mic’ event at UTK’s Student Union Ballroom alongside conservative activist Riley Gaines, taking questions from students on faith, family, culture, and election integrity. The event encouraged student voter registration.",
+    "meta": "Knoxville · UTK Student Union Ballroom, University of Tennessee",
     "link_url": "https://utdailybeacon.com/212102/news/utk-turning-point-hosts-conversation-with-marsha-blackburn-riley-gaines/",
-    "link_label": "UTK Daily Beacon \u2192",
+    "link_label": "UTK Daily Beacon →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (R primary)",
@@ -165,10 +189,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Springfield",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Springfield, TN. Venue and time details available on her campaign events page.",
-    "meta": "Springfield \u00b7 Robertson County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Springfield, TN. Venue and time details available on her campaign events page.",
+    "meta": "Springfield · Robertson County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -187,10 +211,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Clarksville",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Clarksville, TN. Venue and time details available on her campaign events page.",
-    "meta": "Clarksville \u00b7 Montgomery County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Clarksville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Clarksville · Montgomery County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -209,10 +233,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Jackson",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Jackson, TN. Venue and time details available on her campaign events page.",
-    "meta": "Jackson \u00b7 Madison County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Jackson, TN. Venue and time details available on her campaign events page.",
+    "meta": "Jackson · Madison County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -231,10 +255,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Alcoa",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Alcoa, TN. Venue and time details available on her campaign events page.",
-    "meta": "Alcoa \u00b7 Blount County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Alcoa, TN. Venue and time details available on her campaign events page.",
+    "meta": "Alcoa · Blount County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -253,10 +277,10 @@
       "year": "2026"
     },
     "title": "Anna Golladay: Coffee & Convos",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts 'Coffee & Convos,' a recurring Friday morning public outreach event where constituents can meet the candidate and discuss issues. Venue details available on her campaign events page. [Verify: not found in scan on 2026-05-09]",
-    "meta": "TN-3 area \u00b7 venue TBD via campaign site \u00b7 9:00\u201310:30 AM",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts ‘Coffee & Convos,’ a recurring Friday morning public outreach event where constituents can meet the candidate and discuss issues. Venue details available on her campaign events page. [Verify: not found in scan on 2026-05-09]",
+    "meta": "TN-3 area · venue TBD via campaign site · 9:00–10:30 AM",
     "link_url": "https://annagolladay.com/events-2/",
-    "link_label": "Anna Golladay for Congress \u2192",
+    "link_label": "Anna Golladay for Congress →",
     "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
@@ -275,10 +299,10 @@
       "year": "2026"
     },
     "title": "Blount County Democrats Spring Gala 2026",
-    "description": "The Blount County Democratic Party's annual Spring Gala features gubernatorial candidate Jerri Green and TN-2 congressional candidate Michaela Barnett as program speakers, alongside keynote remarks from Rep. Malcolm Kenyatta (DNC Vice Chair) and TN State Rep. Gloria Johnson. Evening includes reception, dinner, program, and silent auction.",
-    "meta": "Alcoa \u00b7 Hilton Knoxville Airport, 2001 Alcoa Hwy \u00b7 6:00 PM \u2013 9:30 PM",
+    "description": "The Blount County Democratic Party’s annual Spring Gala features gubernatorial candidate Jerri Green and TN-2 congressional candidate Michaela Barnett as program speakers, alongside keynote remarks from Rep. Malcolm Kenyatta (DNC Vice Chair) and TN State Rep. Gloria Johnson. Evening includes reception, dinner, program, and silent auction.",
+    "meta": "Alcoa · Hilton Knoxville Airport, 2001 Alcoa Hwy · 6:00 PM – 9:30 PM",
     "link_url": "https://www.blountdems.org/event-details/bcdp-spring-gala-2026",
-    "link_label": "Blount County Dems \u2192",
+    "link_label": "Blount County Dems →",
     "is_placeholder": false,
     "race": "multiple",
     "race_label": "Multiple races",
@@ -298,10 +322,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Gallatin",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Gallatin, TN. Venue and time details available on her campaign events page.",
-    "meta": "Gallatin \u00b7 Sumner County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Gallatin, TN. Venue and time details available on her campaign events page.",
+    "meta": "Gallatin · Sumner County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -320,10 +344,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Knoxville",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Knoxville, TN. Venue and time details available on her campaign events page.",
-    "meta": "Knoxville \u00b7 Knox County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Knoxville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Knoxville · Knox County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -343,9 +367,9 @@
     },
     "title": "Anna Golladay at Tennessee Mountain Laurel Festival",
     "description": "Congressional candidate Anna Golladay (TN-3 D) makes a public appearance at the Tennessee Mountain Laurel Festival. Community festival settings offer constituents an informal opportunity to meet the candidate. [Verify: not found in scan on 2026-05-09]",
-    "meta": "Tennessee Mountain Laurel Festival \u00b7 10:00 AM \u2013 4:00 PM",
+    "meta": "Tennessee Mountain Laurel Festival · 10:00 AM – 4:00 PM",
     "link_url": "https://annagolladay.com/events-2/",
-    "link_label": "Anna Golladay for Congress \u2192",
+    "link_label": "Anna Golladay for Congress →",
     "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
@@ -364,10 +388,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Washburn",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Washburn, TN. Venue and time details available on her campaign events page.",
-    "meta": "Washburn \u00b7 Grainger County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Washburn, TN. Venue and time details available on her campaign events page.",
+    "meta": "Washburn · Grainger County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -376,6 +400,72 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-05-08"
+  },
+  {
+    "id": "anna-golladay-coffee-convos-2026-05-22",
+    "date_iso": "2026-05-22",
+    "date_display": {
+      "month": "May",
+      "day": "22",
+      "year": "2026"
+    },
+    "title": "Anna Golladay: Coffee & Convos",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a ‘Coffee & Convos’ public outreach session — an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site.",
+    "meta": "TN-3 area · venue TBD via campaign site",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
+  },
+  {
+    "id": "anna-golladay-coffee-convos-2026-05-23",
+    "date_iso": "2026-05-23",
+    "date_display": {
+      "month": "May",
+      "day": "23",
+      "year": "2026"
+    },
+    "title": "Anna Golladay: Coffee & Convos",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a ‘Coffee & Convos’ public outreach session — an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site.",
+    "meta": "TN-3 area · venue TBD via campaign site",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
+  },
+  {
+    "id": "anna-golladay-cfc-section-109-2026-05-24",
+    "date_iso": "2026-05-24",
+    "date_display": {
+      "month": "May",
+      "day": "24",
+      "year": "2026"
+    },
+    "title": "Anna Golladay at Chattanooga FC Match — Section 109",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) attends a Chattanooga Football Club match as a community outreach event. Supporters and constituents can connect with the candidate in Section 109.",
+    "meta": "Chattanooga · Chattanooga FC stadium · Section 109",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
   },
   {
     "id": "lauren-pinkston-chattanooga-meet-and-greet-2026-05-26",
@@ -387,9 +477,9 @@
     },
     "title": "Lauren Pinkston: Chattanooga Meet & Greet",
     "description": "Independent gubernatorial candidate Lauren Pinkston meets with voters at the home of Jonathan and Shannon Stewart in Chattanooga. One of a series of statewide community meet-and-greet stops.",
-    "meta": "Chattanooga \u00b7 home of Jonathan and Shannon Stewart \u00b7 6:30 PM",
+    "meta": "Chattanooga · home of Jonathan and Shannon Stewart · 6:30 PM",
     "link_url": "https://action.pinkstonfortn.com",
-    "link_label": "Pinkston for TN \u2192",
+    "link_label": "Pinkston for TN →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (independent)",
@@ -400,6 +490,28 @@
     "retrieved_at": "2026-05-16"
   },
   {
+    "id": "anna-golladay-st-elmo-house-party-2026-05-27",
+    "date_iso": "2026-05-27",
+    "date_display": {
+      "month": "May",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Anna Golladay: St. Elmo House Party",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a community house party in the St. Elmo neighborhood of Chattanooga. Venue address provided to registered attendees via the campaign site.",
+    "meta": "Chattanooga · St. Elmo neighborhood · address via campaign site",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
+  },
+  {
     "id": "jerri-green-meet-jerri-memphis-2026-05-28",
     "date_iso": "2026-05-28",
     "date_display": {
@@ -408,10 +520,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Memphis",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Memphis, TN. Venue and time details available on her campaign events page.",
-    "meta": "Memphis \u00b7 Shelby County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Memphis, TN. Venue and time details available on her campaign events page.",
+    "meta": "Memphis · Shelby County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -431,9 +543,9 @@
     },
     "title": "Lauren Pinkston: Warren County Meet & Greet",
     "description": "Independent gubernatorial candidate Lauren Pinkston hosts a meet-and-greet in McMinnville at the Warren County Chamber of Commerce.",
-    "meta": "McMinnville \u00b7 Warren County Chamber of Commerce, 110 S Court Square \u00b7 4:00 PM",
+    "meta": "McMinnville · Warren County Chamber of Commerce, 110 S Court Square · 4:00 PM",
     "link_url": "https://action.pinkstonfortn.com",
-    "link_label": "Pinkston for TN \u2192",
+    "link_label": "Pinkston for TN →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (independent)",
@@ -444,6 +556,50 @@
     "retrieved_at": "2026-05-16"
   },
   {
+    "id": "anna-golladay-dayton-chamber-roane-county-dem-women-2026-05-28",
+    "date_iso": "2026-05-28",
+    "date_display": {
+      "month": "May",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Anna Golladay: Dayton TN Chamber & Roane County Democratic Women",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) makes two appearances: a civic meeting with the Dayton, TN Chamber of Commerce, followed by a meeting with the Roane County Democratic Women. Both events open to the public where local business and civic leaders can engage with the candidate.",
+    "meta": "Dayton, TN · Rhea County · then Roane County",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
+  },
+  {
+    "id": "anna-golladay-coffee-convos-2026-05-29",
+    "date_iso": "2026-05-29",
+    "date_display": {
+      "month": "May",
+      "day": "29",
+      "year": "2026"
+    },
+    "title": "Anna Golladay: Coffee & Convos",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a ‘Coffee & Convos’ public outreach session — an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site.",
+    "meta": "TN-3 area · venue TBD via campaign site",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
+  },
+  {
     "id": "jerri-green-meet-jerri-fayetteville-2026-05-30",
     "date_iso": "2026-05-30",
     "date_display": {
@@ -452,10 +608,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Fayetteville",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Fayetteville, TN. Venue and time details available on her campaign events page.",
-    "meta": "Fayetteville \u00b7 Lincoln County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Fayetteville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Fayetteville · Lincoln County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -466,6 +622,28 @@
     "retrieved_at": "2026-05-08"
   },
   {
+    "id": "anna-golladay-alton-park-block-party-2026-05-30",
+    "date_iso": "2026-05-30",
+    "date_display": {
+      "month": "May",
+      "day": "30",
+      "year": "2026"
+    },
+    "title": "Anna Golladay at Alton Park Block Party",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) attends the Alton Park Block Party in Chattanooga as a community outreach appearance in this Southside neighborhood.",
+    "meta": "Chattanooga · Alton Park neighborhood",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
+  },
+  {
     "id": "jerri-green-meet-jerri-franklin-2026-05-31",
     "date_iso": "2026-05-31",
     "date_display": {
@@ -474,10 +652,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Franklin",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Franklin, TN. Venue and time details available on her campaign events page.",
-    "meta": "Franklin \u00b7 Williamson County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Franklin, TN. Venue and time details available on her campaign events page.",
+    "meta": "Franklin · Williamson County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -496,10 +674,10 @@
       "year": "2026"
     },
     "title": "Jerri Green: Meet Jerri in Savannah",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Savannah, TN. Venue and time details available on her campaign events page.",
-    "meta": "Savannah \u00b7 Hardin County \u00b7 venue TBD via campaign site",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a ‘Meet Jerri’ campaign town hall in Savannah, TN. Venue and time details available on her campaign events page.",
+    "meta": "Savannah · Hardin County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor \u2192",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
@@ -508,6 +686,28 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-05-08"
+  },
+  {
+    "id": "anna-golladay-coffee-convos-2026-06-05",
+    "date_iso": "2026-06-05",
+    "date_display": {
+      "month": "Jun",
+      "day": "5",
+      "year": "2026"
+    },
+    "title": "Anna Golladay: Coffee & Convos",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a ‘Coffee & Convos’ public outreach session — an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site.",
+    "meta": "TN-3 area · venue TBD via campaign site",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
   },
   {
     "id": "lauren-pinkston-conscious-conversation-reading-rock-books-2026-06-06",
@@ -519,9 +719,9 @@
     },
     "title": "Lauren Pinkston: Conscious Conversation at Reading Rock Books",
     "description": "Independent gubernatorial candidate Lauren Pinkston holds a community conversation event at Reading Rock Books, an independent bookstore in Dickson, TN.",
-    "meta": "Dickson \u00b7 Reading Rock Books, 122 N Main Street \u00b7 9:00 AM",
+    "meta": "Dickson · Reading Rock Books, 122 N Main Street · 9:00 AM",
     "link_url": "https://action.pinkstonfortn.com",
-    "link_label": "Pinkston for TN \u2192",
+    "link_label": "Pinkston for TN →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (independent)",
@@ -530,6 +730,50 @@
     ],
     "source_url": "https://action.pinkstonfortn.com",
     "retrieved_at": "2026-05-16"
+  },
+  {
+    "id": "anna-golladay-mootest-sweetwater-pride-2026-06-06",
+    "date_iso": "2026-06-06",
+    "date_display": {
+      "month": "Jun",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Anna Golladay at MooFest, Sweetwater Pride & Bradley County Democrats",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) attends three community events in her district on June 6: MooFest in Sweetwater, Sweetwater Pride, and the Bradley County Democratic Celebration. All three are public events open to constituents.",
+    "meta": "Sweetwater & Bradley County, TN · multiple venues",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
+  },
+  {
+    "id": "anna-golladay-rhea-county-meet-the-candidates-2026-06-13",
+    "date_iso": "2026-06-13",
+    "date_display": {
+      "month": "Jun",
+      "day": "13",
+      "year": "2026"
+    },
+    "title": "Rhea County Meet the Candidates",
+    "description": "A public ‘Meet the Candidates’ forum in Rhea County features TN-3 congressional candidate Anna Golladay, offering voters a chance to hear directly from candidates in a structured public setting. Other TN-3 candidates may also participate; check with Rhea County hosts for full candidate list.",
+    "meta": "Rhea County, TN · venue TBD via campaign site",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
   },
   {
     "id": "gop-gov-primary-debate-2026-06-25",
@@ -541,7 +785,7 @@
     },
     "title": "GOP Gubernatorial Primary Debate",
     "description": "Republican primary candidates Marsha Blackburn, John Rose, and Monty Fritts. Date and host TBD; pre-primary debate expected late June or early July.",
-    "meta": "Nashville \u00b7 TBD venue \u00b7 pre-primary",
+    "meta": "Nashville · TBD venue · pre-primary",
     "link_url": null,
     "link_label": "Details TBD",
     "is_placeholder": true,
@@ -563,11 +807,11 @@
       "day": "27",
       "year": "2026"
     },
-    "title": "Tennessee's 5th Congressional District Debate",
-    "description": "SuperTalk 99.7 WTN broadcasts live from the Maury County Memorial Building for a debate among Tennessee's 5th Congressional District candidates, airing as part of 'The Drive with Brian Wilson' from 3:00\u20138:00 PM. Redistricting enacted May 7, 2026; congressional filing deadline closed May 15. Candidate field now finalized; specific participants TBD.",
-    "meta": "Columbia \u00b7 Maury County Memorial Building \u00b7 3:00\u20138:00 PM",
+    "title": "Tennessee’s 5th Congressional District Debate",
+    "description": "SuperTalk 99.7 WTN broadcasts live from the Maury County Memorial Building for a debate among Tennessee’s 5th Congressional District candidates, airing as part of ‘The Drive with Brian Wilson’ from 3:00–8:00 PM. Redistricting enacted May 7, 2026; congressional filing deadline closed May 15. Candidate field now finalized; specific participants TBD.",
+    "meta": "Columbia · Maury County Memorial Building · 3:00–8:00 PM",
     "link_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
-    "link_label": "SuperTalk 99.7 WTN \u2192",
+    "link_label": "SuperTalk 99.7 WTN →",
     "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-5",
@@ -585,7 +829,7 @@
     },
     "title": "Democratic Gubernatorial Forum",
     "description": "Jerri Green and Dr. Carnita Atwater face questions ahead of the August primary. Anticipated Memphis-area host.",
-    "meta": "Memphis \u00b7 TBD venue \u00b7 pre-primary",
+    "meta": "Memphis · TBD venue · pre-primary",
     "link_url": null,
     "link_label": "Details TBD",
     "is_placeholder": true,
@@ -608,9 +852,9 @@
     },
     "title": "U.S. Senate Candidate Forum",
     "description": "Democratic primary candidates including Marquita Bradshaw and Maria Brewer. Expected LWV Tennessee co-host.",
-    "meta": "Knoxville or Nashville \u00b7 pre-primary",
+    "meta": "Knoxville or Nashville · pre-primary",
     "link_url": "https://my.lwv.org/tennessee",
-    "link_label": "LWV TN \u2192",
+    "link_label": "LWV TN →",
     "is_placeholder": true,
     "race": "senate",
     "race_label": "U.S. Senate (D primary)",
@@ -626,14 +870,14 @@
     "date_iso": "2026-08-01",
     "date_display": {
       "month": "Aug",
-      "day": "\u2014",
+      "day": "—",
       "year": "2026"
     },
     "title": "LWV Tennessee Statewide Forum Series",
     "description": "League of Women Voters chapters host candidate forums across the state from July through October. Check chapter pages for dates.",
-    "meta": "Statewide \u00b7 multiple chapters",
+    "meta": "Statewide · multiple chapters",
     "link_url": "https://my.lwv.org/tennessee",
-    "link_label": "LWV TN \u2192",
+    "link_label": "LWV TN →",
     "is_placeholder": true,
     "race": "multiple",
     "race_label": "Multiple races",
@@ -650,13 +894,13 @@
       "year": "2026"
     },
     "title": "ThinkTennessee 2026 Policy Forum",
-    "description": "ThinkTennessee's annual policy forum brings together policymakers, business leaders, and candidates to discuss housing, transportation, child care, and workforce development. The 2026 forum is expected to feature candidates in the TN Governor race and other statewide contests. No specific candidates confirmed yet; this is a Save the Date.",
-    "meta": "Nashville \u00b7 Music City Center \u00b7 Save the Date",
+    "description": "ThinkTennessee’s annual policy forum brings together policymakers, business leaders, and candidates to discuss housing, transportation, child care, and workforce development. The 2026 forum is expected to feature candidates in the TN Governor race and other statewide contests. No specific candidates confirmed yet; this is a Save the Date.",
+    "meta": "Nashville · Music City Center · Save the Date",
     "link_url": "https://www.thinktennessee.org/events/",
-    "link_label": "ThinkTennessee \u2192",
+    "link_label": "ThinkTennessee →",
     "is_placeholder": true,
     "race": "governor",
-    "race_label": "TN Governor \u00b7 Multiple races",
+    "race_label": "TN Governor · Multiple races",
     "candidates_invited": [],
     "source_url": "https://www.thinktennessee.org/events/",
     "retrieved_at": "2026-05-19"
@@ -671,7 +915,7 @@
     },
     "title": "General Election Gubernatorial Debate",
     "description": "The major-party gubernatorial nominees face off ahead of November. Likely Vanderbilt or MTSU host.",
-    "meta": "Nashville/Murfreesboro \u00b7 general election",
+    "meta": "Nashville/Murfreesboro · general election",
     "link_url": null,
     "link_label": "Details TBD",
     "is_placeholder": true,
