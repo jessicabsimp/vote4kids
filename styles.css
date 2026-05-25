@@ -550,6 +550,51 @@
     font-style: italic;
   }
   .candidate-card.eliminated:hover .card-footer { color: var(--muted); }
+  /* Primary results footnote row — compact inline chips below the main grid */
+  .primary-results-footnote {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem 1rem;
+    margin-top: 0.9rem;
+    padding: 0.55rem 0.85rem;
+    background: var(--cream);
+    border: 1px solid var(--cream-warm);
+    border-radius: 4px;
+  }
+  .primary-results-label {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--muted);
+    white-space: nowrap;
+    margin-right: 0.25rem;
+  }
+  .primary-result-chip {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .primary-result-chip .party-badge {
+    font-size: 0.58rem;
+    padding: 0.1rem 0.38rem;
+  }
+  .primary-result-name {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 0.82rem;
+    color: var(--charcoal);
+    text-decoration: none;
+  }
+  .primary-result-name:hover { text-decoration: underline; color: var(--navy); }
+  .primary-result-outcome {
+    font-family: 'Lato', sans-serif;
+    font-size: 0.75rem;
+    color: var(--muted);
+    font-style: italic;
+  }
 
   /* ============ HOUSE — DISTRICT ACCORDION ============ */
   .districts {

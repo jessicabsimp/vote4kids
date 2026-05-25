@@ -389,10 +389,34 @@ function renderMainPage() {
   ];
   localRaces.forEach(({ id, district }) => {
     const el = document.getElementById(id);
-    if (el) {
-      el.innerHTML = CANDIDATES
-        .filter(c => c.race === 'local' && c.district === district)
-        .map(candidateCard).join('');
+    if (!el) return;
+
+    const all        = CANDIDATES.filter(c => c.race === 'local' && c.district === district);
+    const active     = all.filter(c => c.primary_result !== 'lost');
+    const eliminated = all.filter(c => c.primary_result === 'lost');
+
+    // Render active general-election candidates as normal cards
+    el.innerHTML = active.map(candidateCard).join('');
+
+    // Remove any stale footnote from a prior render pass
+    const existing = el.parentElement.querySelector('.primary-results-footnote');
+    if (existing) existing.remove();
+
+    // If there are primary non-advancers, append a compact footnote row
+    if (eliminated.length > 0) {
+      const label = eliminated.some(c => c.party === 'R') && eliminated.every(c => c.party === 'R')
+        ? 'Republican Primary · May 5'
+        : 'Primary results · May 5';
+      const chips = eliminated.map(c => `
+        <span class="primary-result-chip">
+          <span class="party-badge ${escapeHtml(c.party.toLowerCase())}">${escapeHtml(c.party)}</span>
+          <a href="#/candidate/${escapeHtml(c.slug)}" class="primary-result-name">${escapeHtml(c.name)}</a>
+          <span class="primary-result-outcome">did not advance</span>
+        </span>`).join('');
+      const footnote = document.createElement('div');
+      footnote.className = 'primary-results-footnote';
+      footnote.innerHTML = `<span class="primary-results-label">${label}</span>${chips}`;
+      el.insertAdjacentElement('afterend', footnote);
     }
   });
 }
@@ -496,7 +520,7 @@ function getCandidatesForRace(raceKey) {
     'knox-school-d7':      'Knox County School Board District 7',
     'knox-school-d9':      'Knox County School Board District 9',
   };
-  if (localRaceMap[raceKey]) return CANDIDATES.filter(c => c.district === localRaceMap[raceKey]);
+  if (localRaceMap[raceKey]) return CANDIDATES.filter(c => c.district === localRaceMap[raceKey] && c.primary_result !== 'lost');
   return [];
 }
 
