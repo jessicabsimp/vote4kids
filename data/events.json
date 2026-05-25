@@ -578,6 +578,28 @@
     "retrieved_at": "2026-05-20"
   },
   {
+    "id": "michaela-barnett-knox-dems-district-7-meeting-2026-05-28",
+    "date_iso": "2026-05-28",
+    "date_display": {
+      "month": "May",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Knox Dems District 7 Meeting with Michaela Barnett",
+    "description": "Michaela Barnett (D, U.S. House TN-2) will appear at the Knox County Democrats District 7 meeting for a candidate meet and greet. Open to area voters to meet and ask questions of the candidate.",
+    "meta": "Powell · Powell Branch Library, Powell, TN · 6:00–7:00 PM",
+    "link_url": "https://www.mobilize.us/michaelafortennessee/event/926514/",
+    "link_label": "RSVP on Mobilize →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-2",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.michaelafortennessee.com/events",
+    "retrieved_at": "2026-05-25"
+  },
+  {
     "id": "anna-golladay-coffee-convos-2026-05-29",
     "date_iso": "2026-05-29",
     "date_display": {
