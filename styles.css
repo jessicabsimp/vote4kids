@@ -533,6 +533,23 @@
     color: var(--sage);
   }
   .candidate-card:hover .card-footer { color: var(--navy); }
+  /* Primary-eliminated candidates — muted, non-interactive feel */
+  .candidate-card.eliminated {
+    opacity: 0.55;
+    filter: grayscale(30%);
+    border-color: var(--cream);
+    background: #f9f9f7;
+  }
+  .candidate-card.eliminated:hover {
+    transform: none;
+    box-shadow: none;
+    border-color: var(--cream);
+  }
+  .candidate-card.eliminated .card-footer {
+    color: var(--muted);
+    font-style: italic;
+  }
+  .candidate-card.eliminated:hover .card-footer { color: var(--muted); }
 
   /* ============ HOUSE — DISTRICT ACCORDION ============ */
   .districts {

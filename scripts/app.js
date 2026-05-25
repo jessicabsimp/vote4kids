@@ -84,9 +84,11 @@ function photoOrFallback(c, sizeClass) {
 }
 
 function candidateCard(c) {
-  const frontClass = c.frontrunner ? 'frontrunner' : '';
+  const isEliminated = c.primary_result === 'lost';
+  const frontClass = (c.frontrunner && !isEliminated) ? 'frontrunner' : '';
+  const elimClass = isEliminated ? 'eliminated' : '';
   return `
-    <a class="candidate-card ${frontClass}" href="#/candidate/${escapeHtml(c.slug)}">
+    <a class="candidate-card ${frontClass} ${elimClass}" href="#/candidate/${escapeHtml(c.slug)}">
       <div class="card-head">
         ${photoOrFallback(c, 'candidate-photo')}
         <div class="card-head-info">
@@ -100,7 +102,7 @@ function candidateCard(c) {
       <p class="candidate-bio">${escapeHtml(c.bio)}</p>
       ${c.status_line ? `<div class="candidate-status-line">${escapeHtml(c.status_line)}</div>` : ''}
       <div class="card-footer">
-        <span>View Profile</span>
+        <span>${isEliminated ? 'Did not advance · May primary' : 'View Profile'}</span>
         <span>→</span>
       </div>
     </a>
