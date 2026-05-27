@@ -130,7 +130,12 @@ function inlineEventsHtml(raceKey) {
   if (!events.length) return '';
 
   const todayStr = new Date().toISOString().slice(0, 10);
-  const sorted = [...events].sort((a, b) => (a.date_iso || '').localeCompare(b.date_iso || ''));
+  // Upcoming only — past events are for the main Events tab
+  const upcoming = [...events]
+    .filter(e => (e.date_iso || '') >= todayStr)
+    .sort((a, b) => (a.date_iso || '').localeCompare(b.date_iso || ''));
+
+  if (!upcoming.length) return '';
 
   function shortDate(iso) {
     if (!iso) return '';
@@ -139,25 +144,32 @@ function inlineEventsHtml(raceKey) {
     return `${months[parseInt(m, 10)]} ${parseInt(d, 10)}`;
   }
 
-  const rows = sorted.map(e => {
-    const isPast = (e.date_iso || '') < todayStr;
-    const pastClass = isPast ? ' past' : '';
+  function eventRow(e) {
     const linkHtml = e.link_url
       ? `<a href="${escapeHtml(e.link_url)}" class="race-event-link" target="_blank" rel="noopener noreferrer">${escapeHtml(e.link_label || 'Details')}</a>`
       : '';
-    return `<div class="race-event-row${pastClass}">
+    return `<div class="race-event-row">
       <span class="race-event-date">${escapeHtml(shortDate(e.date_iso))}</span>
       <span class="race-event-title">${escapeHtml(e.title)}</span>
       ${linkHtml}
     </div>`;
-  }).join('');
+  }
+
+  const visible  = upcoming.slice(0, 3);
+  const overflow = upcoming.slice(3);
+
+  const visibleHtml  = visible.map(eventRow).join('');
+  const overflowHtml = overflow.length
+    ? `<div class="race-events-overflow" hidden>${overflow.map(eventRow).join('')}</div>
+       <button class="race-events-expand" onclick="this.previousElementSibling.hidden=false;this.remove();">+ ${overflow.length} more event${overflow.length > 1 ? 's' : ''}</button>`
+    : '';
 
   return `<div class="race-events-strip">
     <div class="race-events-header">
       <span class="race-events-label">Forums &amp; Events</span>
       <a href="#events" class="race-events-more" onclick="navigateMain(event)">All events →</a>
     </div>
-    <div class="race-events-list">${rows}</div>
+    <div class="race-events-list">${visibleHtml}${overflowHtml}</div>
   </div>`;
 }
 

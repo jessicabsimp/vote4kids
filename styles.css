@@ -664,6 +664,26 @@
     flex-shrink: 0;
   }
   .race-event-link:hover { color: var(--navy); text-decoration: underline; }
+  .race-events-expand {
+    display: block;
+    width: 100%;
+    padding: 0.45rem 0.85rem;
+    border: none;
+    border-top: 1px solid var(--sage-light);
+    background: var(--cream);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 0.75rem;
+    color: var(--sage);
+    letter-spacing: 0.04em;
+    text-align: left;
+    cursor: pointer;
+  }
+  .race-events-expand:hover { color: var(--navy); background: var(--cream-warm); }
+  /* Always-open race section (no details/summary) */
+  .race-open {
+    margin-top: 0.5rem;
+  }
 
   /* ============ HOUSE — DISTRICT ACCORDION ============ */
   .districts {
