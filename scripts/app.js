@@ -109,10 +109,63 @@ function candidateCard(c) {
   `;
 }
 
+// ===================== INLINE EVENTS STRIP =====================
+// Returns an HTML string for a compact event strip keyed to a race section.
+// raceKey: 'governor' | 'senate' | 'TN-1'..'TN-9' | 'knox-mayor' | etc.
+function inlineEventsHtml(raceKey) {
+  if (!EVENTS || !EVENTS.length) return '';
+
+  let events;
+  if (raceKey === 'governor') {
+    events = EVENTS.filter(e => e.race === 'governor');
+  } else if (raceKey === 'senate') {
+    events = EVENTS.filter(e => e.race === 'senate');
+  } else if (raceKey.startsWith('TN-')) {
+    events = EVENTS.filter(e => e.race === 'house' && (e.race_label || '').includes(raceKey));
+  } else {
+    // Local race keys (e.g. 'knox-mayor') — match against race_label
+    events = EVENTS.filter(e => e.race === 'local' && (e.race_label || '').toLowerCase().includes(raceKey.replace(/-/g, ' ')));
+  }
+
+  if (!events.length) return '';
+
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const sorted = [...events].sort((a, b) => (a.date_iso || '').localeCompare(b.date_iso || ''));
+
+  function shortDate(iso) {
+    if (!iso) return '';
+    const [, m, d] = iso.split('-');
+    const months = ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    return `${months[parseInt(m, 10)]} ${parseInt(d, 10)}`;
+  }
+
+  const rows = sorted.map(e => {
+    const isPast = (e.date_iso || '') < todayStr;
+    const pastClass = isPast ? ' past' : '';
+    const linkHtml = e.link_url
+      ? `<a href="${escapeHtml(e.link_url)}" class="race-event-link" target="_blank" rel="noopener noreferrer">${escapeHtml(e.link_label || 'Details')}</a>`
+      : '';
+    return `<div class="race-event-row${pastClass}">
+      <span class="race-event-date">${escapeHtml(shortDate(e.date_iso))}</span>
+      <span class="race-event-title">${escapeHtml(e.title)}</span>
+      ${linkHtml}
+    </div>`;
+  }).join('');
+
+  return `<div class="race-events-strip">
+    <div class="race-events-header">
+      <span class="race-events-label">Forums &amp; Events</span>
+      <a href="#events" class="race-events-more" onclick="navigateMain(event)">All events →</a>
+    </div>
+    <div class="race-events-list">${rows}</div>
+  </div>`;
+}
+
 function districtBlock(d) {
   const candidates = CANDIDATES.filter(c => c.district === d.id);
   const cardsHtml = candidates.map(candidateCard).join('');
   const openAttr = d.openByDefault ? 'open' : '';
+  const eventsHtml = inlineEventsHtml(d.id);
   return `
     <details class="district" ${openAttr}>
       <summary class="district-summary">
@@ -128,6 +181,7 @@ function districtBlock(d) {
         <button class="compare-toggle-btn" data-compare-race="${escapeHtml(d.id)}">⇄ Compare candidates</button>
         <div class="inline-compare-wrap" data-compare-race="${escapeHtml(d.id)}"></div>
         <div class="candidates-grid">${cardsHtml}</div>
+        ${eventsHtml}
       </div>
     </details>
   `;
@@ -365,6 +419,12 @@ function renderMainPage() {
       ? CANDIDATES.filter(c => c.race === race && c.party === primary)
       : CANDIDATES.filter(c => c.race === race);
     grid.innerHTML = filtered.map(candidateCard).join('');
+
+    // Inject inline events strip below the candidate grid
+    const existingStrip = grid.parentElement.querySelector('.race-events-strip');
+    if (existingStrip) existingStrip.remove();
+    const evHtml = inlineEventsHtml(race);
+    if (evHtml) grid.insertAdjacentHTML('afterend', evHtml);
   });
 
   const districtsList = document.getElementById('districts-list');
@@ -417,6 +477,16 @@ function renderMainPage() {
       footnote.className = 'primary-results-footnote';
       footnote.innerHTML = `<span class="primary-results-label">${label}</span>${chips}`;
       el.insertAdjacentElement('afterend', footnote);
+    }
+
+    // Inject inline events strip (after footnote if present, otherwise after grid)
+    const existingEvStrip = el.parentElement.querySelector('.race-events-strip');
+    if (existingEvStrip) existingEvStrip.remove();
+    const raceKey = id.replace('local-', '');
+    const evHtml = inlineEventsHtml(raceKey);
+    if (evHtml) {
+      const anchor = el.parentElement.querySelector('.primary-results-footnote') || el;
+      anchor.insertAdjacentHTML('afterend', evHtml);
     }
   });
 }

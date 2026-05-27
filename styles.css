@@ -595,6 +595,75 @@
     color: var(--muted);
     font-style: italic;
   }
+  /* ── Inline event strips under race sections ── */
+  .race-events-strip {
+    margin-top: 1.1rem;
+    border: 1px solid var(--sage-light);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .race-events-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.42rem 0.85rem;
+    background: var(--sage-light);
+  }
+  .race-events-label {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--navy);
+  }
+  .race-events-more {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 0.72rem;
+    color: var(--sage);
+    text-decoration: none;
+    letter-spacing: 0.03em;
+  }
+  .race-events-more:hover { color: var(--navy); }
+  .race-events-list { background: white; }
+  .race-event-row {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem 0.9rem;
+    padding: 0.5rem 0.85rem;
+    border-top: 1px solid var(--sage-light);
+    flex-wrap: wrap;
+  }
+  .race-event-row:first-child { border-top: none; }
+  .race-event-row.past { opacity: 0.5; }
+  .race-event-date {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.66rem;
+    font-weight: 700;
+    color: var(--sage);
+    white-space: nowrap;
+    min-width: 3rem;
+    flex-shrink: 0;
+  }
+  .race-event-title {
+    font-family: 'Lato', sans-serif;
+    font-size: 0.86rem;
+    color: var(--charcoal);
+    flex: 1;
+    min-width: 0;
+  }
+  .race-event-link {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 0.72rem;
+    color: var(--sage);
+    text-decoration: none;
+    white-space: nowrap;
+    letter-spacing: 0.02em;
+    flex-shrink: 0;
+  }
+  .race-event-link:hover { color: var(--navy); text-decoration: underline; }
 
   /* ============ HOUSE — DISTRICT ACCORDION ============ */
   .districts {
