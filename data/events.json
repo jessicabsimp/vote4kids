@@ -741,7 +741,7 @@
     },
     "title": "Anna Golladay: Coffee & Convos",
     "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a 'Coffee & Convos' public outreach session \u2014 an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site. [Verify: not found in scan on 2026-05-28]",
-    "meta": "TN-3 area \u00b7 venue TBD via campaign site",
+    "meta": "TN-3 area \u00b7 venue TBD via campaign site \u00b7 9:00 AM \u2013 10:30 AM",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress \u2192",
     "is_placeholder": true,
@@ -751,7 +751,7 @@
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com",
-    "retrieved_at": "2026-05-20"
+    "retrieved_at": "2026-05-29"
   },
   {
     "id": "jerri-green-meet-jerri-fayetteville-2026-05-30",
@@ -785,17 +785,17 @@
     },
     "title": "Anna Golladay at Alton Park Block Party",
     "description": "Congressional candidate Anna Golladay (TN-3 D) attends the Alton Park Block Party in Chattanooga as a community outreach appearance in this Southside neighborhood. [Verify: not found in scan on 2026-05-28]",
-    "meta": "Chattanooga \u00b7 Alton Park neighborhood",
+    "meta": "Chattanooga \u00b7 Alton Park neighborhood \u00b7 3:00 PM \u2013 6:00 PM",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress \u2192",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com",
-    "retrieved_at": "2026-05-20"
+    "retrieved_at": "2026-05-29"
   },
   {
     "id": "jerri-green-meet-jerri-franklin-2026-05-31",
@@ -895,7 +895,7 @@
     },
     "title": "Anna Golladay: Coffee & Convos",
     "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a 'Coffee & Convos' public outreach session \u2014 an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site. [Verify: not found in scan on 2026-05-28]",
-    "meta": "TN-3 area \u00b7 venue TBD via campaign site",
+    "meta": "TN-3 area \u00b7 venue TBD via campaign site \u00b7 9:00 AM \u2013 10:30 AM",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress \u2192",
     "is_placeholder": true,
@@ -905,7 +905,7 @@
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com",
-    "retrieved_at": "2026-05-20"
+    "retrieved_at": "2026-05-29"
   },
   {
     "id": "lauren-pinkston-conscious-conversation-reading-rock-books-2026-06-06",
@@ -939,7 +939,7 @@
     },
     "title": "Anna Golladay at MooFest, Sweetwater Pride & Bradley County Democrats",
     "description": "Congressional candidate Anna Golladay (TN-3 D) attends three community events in her district on June 6: MooFest in Sweetwater, Sweetwater Pride, and the Bradley County Democratic Celebration. All three are public events open to constituents.",
-    "meta": "Sweetwater & Bradley County, TN \u00b7 multiple venues",
+    "meta": "Sweetwater & Bradley County, TN \u00b7 multiple venues \u00b7 Sweetwater Pride 12\u20136 PM \u00b7 Bradley Co. Dems 5\u20138 PM",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress \u2192",
     "is_placeholder": false,
@@ -949,7 +949,7 @@
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com",
-    "retrieved_at": "2026-05-20"
+    "retrieved_at": "2026-05-29"
   },
   {
     "id": "anna-golladay-roane-county-democratic-meeting-2026-06-11",
@@ -1027,17 +1027,17 @@
     },
     "title": "Rhea County Meet the Candidates",
     "description": "A public 'Meet the Candidates' forum in Rhea County features TN-3 congressional candidate Anna Golladay, offering voters a chance to hear directly from candidates in a structured public setting. Other TN-3 candidates may also participate; check with Rhea County hosts for full candidate list. [Verify: not found in scan on 2026-05-28]",
-    "meta": "Rhea County, TN \u00b7 venue TBD via campaign site",
+    "meta": "Rhea County, TN \u00b7 12:00 PM \u2013 1:00 PM",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress \u2192",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com",
-    "retrieved_at": "2026-05-20"
+    "retrieved_at": "2026-05-29"
   },
   {
     "id": "anna-golladay-hcdp-general-assembly-2026-06-13",
