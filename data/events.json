@@ -810,14 +810,14 @@
     "meta": "Franklin · Williamson County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Jerri Green for Governor →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
     "candidates_invited": [
       "jerri-green"
     ],
     "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-05-08"
+    "retrieved_at": "2026-05-31"
   },
   {
     "id": "jerri-green-meet-jerri-savannah-2026-05-31",
@@ -832,14 +832,14 @@
     "meta": "Savannah · Hardin County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Jerri Green for Governor →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (D primary)",
     "candidates_invited": [
       "jerri-green"
     ],
     "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-05-08"
+    "retrieved_at": "2026-05-31"
   },
   {
     "id": "lauren-pinkston-nashville-meet-and-greet-2026-06-01",
@@ -952,6 +952,50 @@
     "retrieved_at": "2026-05-29"
   },
   {
+    "id": "meet-jerri-in-memphis-2026-06-06",
+    "date_iso": "2026-06-06",
+    "date_display": {
+      "month": "Jun",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Memphis",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Memphis, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-spring-hill-2026-06-06",
+    "date_iso": "2026-06-06",
+    "date_display": {
+      "month": "Jun",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Spring Hill",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Spring Hill, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
     "id": "put-hope-to-work-summer-field-kickoff-2026-06-07",
     "date_iso": "2026-06-07",
     "date_display": {
@@ -972,6 +1016,28 @@
     ],
     "source_url": "https://www.michaelafortennessee.com/events",
     "retrieved_at": "2026-05-30"
+  },
+  {
+    "id": "meet-jerri-in-oakland-2026-06-07",
+    "date_iso": "2026-06-07",
+    "date_display": {
+      "month": "Jun",
+      "day": "7",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Oakland",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Oakland, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
   },
   {
     "id": "anna-golladay-roane-county-democratic-meeting-2026-06-11",
@@ -1084,6 +1150,72 @@
     "retrieved_at": "2026-05-27"
   },
   {
+    "id": "meet-jerri-in-memphis-2026-06-13",
+    "date_iso": "2026-06-13",
+    "date_display": {
+      "month": "Jun",
+      "day": "13",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Memphis",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Memphis, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-memphis-2026-06-14",
+    "date_iso": "2026-06-14",
+    "date_display": {
+      "month": "Jun",
+      "day": "14",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Memphis",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Memphis, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-memphis-2026-06-17",
+    "date_iso": "2026-06-17",
+    "date_display": {
+      "month": "Jun",
+      "day": "17",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Memphis",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Memphis, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
     "id": "anna-golladay-coffee-convos-2026-06-19",
     "date_iso": "2026-06-19",
     "date_display": {
@@ -1126,6 +1258,28 @@
     ],
     "source_url": "https://annagolladay.com/events-2/",
     "retrieved_at": "2026-05-21"
+  },
+  {
+    "id": "meet-jerri-in-memphis-2026-06-20",
+    "date_iso": "2026-06-20",
+    "date_display": {
+      "month": "Jun",
+      "day": "20",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Memphis",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Memphis, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
   },
   {
     "id": "lauren-pinkston-rutherford-county-meet-and-greet-2026-06-23",
@@ -1196,6 +1350,28 @@
     "retrieved_at": "2026-05-27"
   },
   {
+    "id": "meet-jerri-in-clarksville-2026-06-26",
+    "date_iso": "2026-06-26",
+    "date_display": {
+      "month": "Jun",
+      "day": "26",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Clarksville",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Clarksville, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
     "id": "tennessees-5th-congressional-district-debate-2026-06-27",
     "date_iso": "2026-06-27",
     "date_display": {
@@ -1216,6 +1392,138 @@
     "retrieved_at": "2026-05-19"
   },
   {
+    "id": "meet-jerri-in-sevierville-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Sevierville",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Sevierville, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-newport-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Newport",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Newport, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-kingsport-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Kingsport",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Kingsport, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-kingsport-2026-06-28",
+    "date_iso": "2026-06-28",
+    "date_display": {
+      "month": "Jun",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Kingsport",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Kingsport, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-clinton-2026-06-28",
+    "date_iso": "2026-06-28",
+    "date_display": {
+      "month": "Jun",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Clinton",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Clinton, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-memphis-2026-06-30",
+    "date_iso": "2026-06-30",
+    "date_display": {
+      "month": "Jun",
+      "day": "30",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Memphis",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Memphis, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
     "id": "coffee-convos-2026-07-03",
     "date_iso": "2026-07-03",
     "date_display": {
@@ -1224,11 +1532,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1246,11 +1554,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1313,11 +1621,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1358,11 +1666,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1380,11 +1688,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1422,11 +1730,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1444,11 +1752,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1466,11 +1774,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1554,11 +1862,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1686,11 +1994,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1728,11 +2036,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1860,11 +2168,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -1904,11 +2212,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -2058,11 +2366,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -2080,11 +2388,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -2276,11 +2584,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -2342,11 +2650,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
@@ -2452,11 +2760,11 @@
       "year": "2026"
     },
     "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please.",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
     "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
