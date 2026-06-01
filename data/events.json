@@ -1040,6 +1040,28 @@
     "retrieved_at": "2026-05-31"
   },
   {
+    "id": "meet-greet-michaela-barnett-lindsay-honaker-farragut-2026-06-07",
+    "date_iso": "2026-06-07",
+    "date_display": {
+      "month": "Jun",
+      "day": "7",
+      "year": "2026"
+    },
+    "title": "Meet & Greet with Michaela Barnett and Lindsay Honaker in Farragut",
+    "description": "Democratic congressional candidate Michaela Barnett (TN-2) and TN State House District 14 candidate Lindsay Young Honaker host a community meet-and-greet in Farragut. Attendees can hear from both candidates, ask questions, and connect with neighbors.",
+    "meta": "Farragut · The Cove at Concord Park, 11808 S Northshore Dr, Knoxville TN 37922 · Sun Jun 7, 4:00–6:00 PM EDT",
+    "link_url": "https://www.mobilize.us/michaelafortennessee/event/959895/",
+    "link_label": "RSVP via Mobilize →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-2 (D)",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.michaelafortennessee.com/events",
+    "retrieved_at": "2026-06-01"
+  },
+  {
     "id": "anna-golladay-roane-county-democratic-meeting-2026-06-11",
     "date_iso": "2026-06-11",
     "date_display": {
