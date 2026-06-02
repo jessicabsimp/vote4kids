@@ -872,18 +872,18 @@
       "year": "2026"
     },
     "title": "Anna Golladay at Rhea County Democrats Meeting",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) appears at the Rhea County Democrats meeting for a candidate presentation and Q&A with local party members and area voters. [Verify: not found in scan on 2026-05-28]",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) appears at the Rhea County Democrats meeting for a candidate presentation and Q&A with local party members and area voters.",
     "meta": "Rhea County, TN · 6:00–7:30 PM",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com/events-2/",
-    "retrieved_at": "2026-05-27"
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "anna-golladay-coffee-convos-2026-06-05",
@@ -894,18 +894,18 @@
       "year": "2026"
     },
     "title": "Anna Golladay: Coffee & Convos",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a 'Coffee & Convos' public outreach session — an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site. [Verify: not found in scan on 2026-05-28]",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a 'Coffee & Convos' public outreach session — an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site.",
     "meta": "TN-3 area · venue TBD via campaign site · 9:00 AM – 10:30 AM",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com",
-    "retrieved_at": "2026-05-29"
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "lauren-pinkston-conscious-conversation-reading-rock-books-2026-06-06",
@@ -996,6 +996,28 @@
     "retrieved_at": "2026-05-31"
   },
   {
+    "id": "anna-golladay-bradley-county-democrats-celebration-2026-06-06",
+    "date_iso": "2026-06-06",
+    "date_display": {
+      "month": "Jun",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Anna Golladay at Bradley County Democrats Celebration",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) appears at the Bradley County Democratic Party celebration in Cleveland-area, TN.",
+    "meta": "Bradley County (Cleveland area), TN · 5:00–8:00 PM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-06-02"
+  },
+  {
     "id": "put-hope-to-work-summer-field-kickoff-2026-06-07",
     "date_iso": "2026-06-07",
     "date_display": {
@@ -1070,18 +1092,40 @@
       "year": "2026"
     },
     "title": "Anna Golladay at Roane County Democratic Meeting",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) appears at the Roane County Democratic meeting for a candidate presentation and community discussion. Open to area voters and party members. [Verify: not found in scan on 2026-05-28]",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) appears at the Roane County Democratic meeting for a candidate presentation and community discussion. Open to area voters and party members.",
     "meta": "Roane County, TN · 6:00–8:00 PM",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com/events-2/",
-    "retrieved_at": "2026-05-27"
+    "retrieved_at": "2026-06-02"
+  },
+  {
+    "id": "lauren-pinkston-june-virtual-town-hall-2026-06-11",
+    "date_iso": "2026-06-11",
+    "date_display": {
+      "month": "Jun",
+      "day": "11",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: June Virtual Town Hall",
+    "description": "Independent gubernatorial candidate Lauren Pinkston hosts her June virtual town hall via Google Meet, open to supporters and voters across Tennessee.",
+    "meta": "Virtual · Google Meet · 6:00 PM",
+    "link_url": "https://action.pinkstonfortn.com/",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://action.pinkstonfortn.com/",
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "anna-golladay-coffee-convos-2026-06-12",
@@ -1092,18 +1136,18 @@
       "year": "2026"
     },
     "title": "Anna Golladay: Coffee & Convos",
-    "description": "Congressional candidate Anna Golladay hosts an informal drop-in conversation over coffee. Attendees are invited to come and go as they please. [Verify: not found in scan on 2026-05-28]",
+    "description": "Congressional candidate Anna Golladay hosts an informal drop-in conversation over coffee. Attendees are invited to come and go as they please.",
     "meta": "TN-3 area · venue TBD via campaign site · 9:00 AM – 10:30 AM",
     "link_url": "https://annagolladay.com/events-2/",
     "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com/events-2/",
-    "retrieved_at": "2026-05-21"
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "anna-golladay-memphis-coalition-gathering-2026-06-12",
@@ -1114,18 +1158,18 @@
       "year": "2026"
     },
     "title": "Anna Golladay at Memphis Coalition Gathering",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) attends a Memphis-area coalition gathering. Full venue and time details available on her campaign site. [Verify: not found in scan on 2026-05-28]",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) attends a Memphis-area coalition gathering. Full venue and time details available on her campaign site.",
     "meta": "Memphis, TN · time TBD via campaign site",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com/events-2/",
-    "retrieved_at": "2026-05-27"
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "anna-golladay-rhea-county-meet-the-candidates-2026-06-13",
@@ -1158,18 +1202,18 @@
       "year": "2026"
     },
     "title": "Anna Golladay at Hamilton County Democrats General Assembly",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) appears at the Hamilton County Democratic Party General Assembly meeting in the Chattanooga area. Open to party members and area voters. [Verify: not found in scan on 2026-05-28]",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) appears at the Hamilton County Democratic Party General Assembly meeting in the Chattanooga area. Open to party members and area voters.",
     "meta": "Hamilton County (Chattanooga), TN · 1:00–2:00 PM",
     "link_url": "https://annagolladay.com",
     "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com/events-2/",
-    "retrieved_at": "2026-05-27"
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "meet-jerri-in-memphis-2026-06-13",
@@ -1216,6 +1260,28 @@
     "retrieved_at": "2026-05-31"
   },
   {
+    "id": "lauren-pinkston-pizza-pins-and-pinkston-2026-06-14",
+    "date_iso": "2026-06-14",
+    "date_display": {
+      "month": "Jun",
+      "day": "14",
+      "year": "2026"
+    },
+    "title": "Pizza, Pins, and Pinkston — Smyrna",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a casual campaign meet-and-greet at The Remington Room in Smyrna, TN.",
+    "meta": "Smyrna · The Remington Room, 8014 Safari Dr · 6:00 PM",
+    "link_url": "https://action.pinkstonfortn.com/",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://action.pinkstonfortn.com/",
+    "retrieved_at": "2026-06-02"
+  },
+  {
     "id": "meet-jerri-in-memphis-2026-06-17",
     "date_iso": "2026-06-17",
     "date_display": {
@@ -1246,18 +1312,18 @@
       "year": "2026"
     },
     "title": "Anna Golladay: Coffee & Convos",
-    "description": "Congressional candidate Anna Golladay hosts an informal drop-in conversation over coffee. Attendees are invited to come and go as they please. [Verify: not found in scan on 2026-05-28]",
+    "description": "Congressional candidate Anna Golladay hosts an informal drop-in conversation over coffee. Attendees are invited to come and go as they please.",
     "meta": "TN-3 area · venue TBD via campaign site · 9:00 AM – 10:30 AM",
     "link_url": "https://annagolladay.com/events-2/",
     "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com/events-2/",
-    "retrieved_at": "2026-05-21"
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "anna-golladay-juneteenth-parade-2026-06-19",
@@ -1268,18 +1334,18 @@
       "year": "2026"
     },
     "title": "Anna Golladay at Juneteenth Parade",
-    "description": "Congressional candidate Anna Golladay participates in a Juneteenth parade celebration in her district. [Verify: not found in scan on 2026-05-28]",
+    "description": "Congressional candidate Anna Golladay participates in a Juneteenth parade celebration in her district.",
     "meta": "TN-3 area · location TBD via campaign site · 11:30 AM",
     "link_url": "https://annagolladay.com/events-2/",
     "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com/events-2/",
-    "retrieved_at": "2026-05-21"
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "meet-jerri-in-memphis-2026-06-20",
@@ -1358,18 +1424,18 @@
       "year": "2026"
     },
     "title": "Anna Golladay: Coffee & Convos",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a 'Coffee & Convos' public outreach session — an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site. [Verify: not found in scan on 2026-05-28]",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) hosts a 'Coffee & Convos' public outreach session — an informal recurring event where constituents can drop in to meet the candidate and discuss issues. Venue details available on her campaign site.",
     "meta": "TN-3 area · venue TBD via campaign site · 9:00–10:30 AM",
     "link_url": "https://annagolladay.com/events-2/",
     "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com/events-2/",
-    "retrieved_at": "2026-05-27"
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "meet-jerri-in-clarksville-2026-06-26",
