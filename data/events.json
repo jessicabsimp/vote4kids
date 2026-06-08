@@ -1458,6 +1458,28 @@
     "retrieved_at": "2026-06-06"
   },
   {
+    "id": "grainger-county-democratic-committee-meet-and-greet-2026-06-20",
+    "date_iso": "2026-06-20",
+    "date_display": {
+      "month": "Jun",
+      "day": "20",
+      "year": "2026"
+    },
+    "title": "Grainger County Democratic Committee Meet & Greet",
+    "description": "The Grainger County Democratic Committee hosts an afternoon meet-and-greet at Cherokee Lake featuring Democratic candidates for U.S. Senate, Tennessee Governor, and Congress, including TN-2 congressional candidate Michaela Barnett. Food and music provided.",
+    "meta": "Rutledge, TN · Grainger County Park on Cherokee Lake · 1:00–3:00 PM",
+    "link_url": "https://www.mobilize.us/michaelafortennessee/event/947180/",
+    "link_label": "RSVP via Mobilize →",
+    "is_placeholder": false,
+    "race": "multiple",
+    "race_label": "Multiple races",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.mobilize.us/michaelafortennessee/event/947180/",
+    "retrieved_at": "2026-06-08"
+  },
+  {
     "id": "lauren-pinkston-rutherford-county-meet-and-greet-2026-06-23",
     "date_iso": "2026-06-23",
     "date_display": {
