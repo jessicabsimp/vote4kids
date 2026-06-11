@@ -1920,6 +1920,28 @@
     "retrieved_at": "2026-05-31"
   },
   {
+    "id": "access-tennessee-candidate-forum-2026-07-02",
+    "date_iso": "2026-07-02",
+    "date_display": {
+      "month": "Jul",
+      "day": "2",
+      "year": "2026"
+    },
+    "title": "Access Tennessee Candidate Forum",
+    "description": "A civic forum at Will Nunley's Access Tennessee studio in Perry County featuring Tennessee gubernatorial candidates alongside local candidates for mayor, sheriff, and road superintendent. The gubernatorial portion runs 6:30–7:30 PM and will stream live statewide. Hosted by multimedia journalist Will Nunley; special appearance by Dr. Ken Berry.",
+    "meta": "Linden · Nunley Media Center, 7467 Hwy 438 W · 6:00 PM (Gub. portion 6:30–7:30 PM)",
+    "link_url": "https://action.pinkstonfortn.com/access_tn_candidate_forum_july",
+    "link_label": "RSVP via Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://action.pinkstonfortn.com/access_tn_candidate_forum_july",
+    "retrieved_at": "2026-06-11"
+  },
+  {
     "id": "coffee-convos-2026-07-03",
     "date_iso": "2026-07-03",
     "date_display": {
@@ -2522,16 +2544,16 @@
       "year": "2026"
     },
     "title": "ThinkTennessee 2026 Policy Forum",
-    "description": "ThinkTennessee's annual policy forum brings together policymakers, business leaders, and candidates to discuss housing, transportation, child care, and workforce development. The 2026 forum is expected to feature candidates in the TN Governor race and other statewide contests. No specific candidates confirmed yet; this is a Save the Date.",
+    "description": "ThinkTennessee's annual policy forum brings together policymakers, business leaders, and community leaders around the theme “A Shared Vision for Tennessee's Future.” Topics include workforce development, housing, energy, and transportation. Expected to feature statewide candidates; specific participants not yet announced. Tickets available via TicketSignup.",
     "meta": "Nashville · Music City Center (Davidson Ballroom) · 8:00 AM – 4:00 PM CT",
-    "link_url": "https://www.thinktennessee.org/events/",
+    "link_url": "https://www.ticketsignup.io/TicketEvent/ThinkTNPolicyForum2026",
     "link_label": "ThinkTennessee →",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor · Multiple races",
     "candidates_invited": [],
     "source_url": "https://www.thinktennessee.org/events/",
-    "retrieved_at": "2026-05-30"
+    "retrieved_at": "2026-06-11"
   },
   {
     "id": "coffee-convos-2026-09-11",
