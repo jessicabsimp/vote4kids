@@ -1832,6 +1832,50 @@
     "retrieved_at": "2026-05-31"
   },
   {
+    "id": "michaela-barnett-jefferson-county-pride-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Jefferson County Pride — Michaela Barnett",
+    "description": "Michaela Barnett participates in the annual Jefferson County Pride celebration in Dandridge. The campaign will have a booth at the community event, which brings together neighbors, families, and allies across rural East Tennessee.",
+    "meta": "Dandridge · Dandridge Field of Dreams, 1145 Treadway Dr · 10:00 AM",
+    "link_url": "https://www.michaelafortennessee.com/events",
+    "link_label": "Michaela for Tennessee →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-2",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.michaelafortennessee.com/events",
+    "retrieved_at": "2026-06-12"
+  },
+  {
+    "id": "claiborne-county-democratic-party-picnic-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Claiborne County Democratic Party Picnic",
+    "description": "A family-friendly community picnic hosted by the Claiborne County Democrats featuring local candidates including Michaela Barnett (TN-2). Attendees can meet candidates and hear about their visions for East Tennessee.",
+    "meta": "Tazewell · Tazewell Municipal Park, 207 Richardson Rd · 3:00 PM",
+    "link_url": "https://www.michaelafortennessee.com/events",
+    "link_label": "Michaela for Tennessee →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-2",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.michaelafortennessee.com/events",
+    "retrieved_at": "2026-06-12"
+  },
+  {
     "id": "meet-jerri-in-kingsport-2026-06-28",
     "date_iso": "2026-06-28",
     "date_display": {
