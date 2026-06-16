@@ -1798,16 +1798,18 @@
       "year": "2026"
     },
     "title": "Tennessee's 5th Congressional District Debate",
-    "description": "SuperTalk 99.7 WTN broadcasts live from the Maury County Memorial Building for a debate among Tennessee's 5th Congressional District candidates, airing as part of 'The Drive with Brian Wilson' from 3:00–8:00 PM. Event confirmed by SuperTalk's event page. Republican candidates include Andy Ogles and Charlie Hatcher; Democratic candidates include Chaz Molder. Specific invited participants not yet detailed by the host.",
+    "description": "SuperTalk 99.7 WTN broadcasts live from the Maury County Memorial Building for a Republican primary debate among Tennessee's new 5th Congressional District candidates, airing as part of 'The Drive with Brian Wilson' from 3:00–8:00 PM. Nine Republican candidates are confirmed: Geni Bachelor, Jeff Beierlein, Natisha Brooks, Beth Harwell, Tim Lee, Andy Ogles, Stewart Parks, Kurt Winstead, and Tres Wittum. The event is hosted by the Maury County Republican Party; questions are drawn from MCRP membership on topics including education, immigration, the economy, and the 2nd Amendment.",
     "meta": "Columbia · Maury County Memorial Building · 3:00–8:00 PM",
     "link_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
     "link_label": "SuperTalk 99.7 WTN →",
     "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-5",
-    "candidates_invited": [],
+    "candidates_invited": [
+      "andy-ogles"
+    ],
     "source_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
-    "retrieved_at": "2026-06-07"
+    "retrieved_at": "2026-06-16"
   },
   {
     "id": "meet-jerri-in-sevierville-2026-06-27",
