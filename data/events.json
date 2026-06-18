@@ -2054,6 +2054,28 @@
     "retrieved_at": "2026-05-28"
   },
   {
+    "id": "lauren-pinkston-hendersonville-freedom-festival-2026-07-03",
+    "date_iso": "2026-07-03",
+    "date_display": {
+      "month": "Jul",
+      "day": "3",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Hendersonville Freedom Festival",
+    "description": "Independent gubernatorial candidate Lauren Pinkston will appear at the Hendersonville Freedom Festival at Drakes Creek Park, a community celebration ahead of Independence Day. Campaign representatives will be on-site.",
+    "meta": "Hendersonville · Drakes Creek Park · 5:00 PM",
+    "link_url": "https://action.pinkstonfortn.com/hendersonville_freedom_july",
+    "link_label": "RSVP via Pinkston Campaign →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-06-18"
+  },
+  {
     "id": "coffee-convos-2026-07-10",
     "date_iso": "2026-07-10",
     "date_display": {
