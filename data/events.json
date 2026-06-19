@@ -1700,6 +1700,28 @@
     "retrieved_at": "2026-06-14"
   },
   {
+    "id": "lauren-pinkston-storytime-at-needle-and-grain-2026-06-24",
+    "date_iso": "2026-06-24",
+    "date_display": {
+      "month": "Jun",
+      "day": "24",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Storytime at Needle & Grain",
+    "description": "Independent gubernatorial candidate Lauren Pinkston hosts a community storytime at Needle & Grain in Columbia, Maury County.",
+    "meta": "Columbia, TN · Needle & Grain · 10:30 AM",
+    "link_url": "https://pinkstonfortn.com/storytime_needle_and_grain",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-06-19"
+  },
+  {
     "id": "gop-gov-primary-debate-2026-06-25",
     "date_iso": "2026-06-25",
     "date_display": {
@@ -1922,6 +1944,28 @@
     "retrieved_at": "2026-06-12"
   },
   {
+    "id": "lauren-pinkston-palmersville-fire-department-fundraiser-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston at Palmersville VFD Fundraiser",
+    "description": "Independent gubernatorial candidate Lauren Pinkston attends the Palmersville Volunteer Fire Department Fundraiser in Weakley County.",
+    "meta": "Palmersville, TN · Palmersville Fire Department · 5:30 PM",
+    "link_url": "https://pinkstonfortn.com/palmersville_volunteer_firedept_fundraiser",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-06-19"
+  },
+  {
     "id": "meet-jerri-in-kingsport-2026-06-28",
     "date_iso": "2026-06-28",
     "date_display": {
@@ -1988,6 +2032,28 @@
     "retrieved_at": "2026-06-07"
   },
   {
+    "id": "anna-golladay-anderson-county-democrats-2026-06-28",
+    "date_iso": "2026-06-28",
+    "date_display": {
+      "month": "Jun",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Anna Golladay at Anderson County Democrats",
+    "description": "TN-3 Democratic congressional candidate Anna Golladay speaks at the Anderson County Democrats monthly meeting.",
+    "meta": "Anderson County, TN · 6:00–7:30 PM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-06-19"
+  },
+  {
     "id": "meet-jerri-in-memphis-2026-06-30",
     "date_iso": "2026-06-30",
     "date_display": {
@@ -2008,6 +2074,28 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "anna-golladay-come-celebrate-2026-07-01",
+    "date_iso": "2026-07-01",
+    "date_display": {
+      "month": "Jul",
+      "day": "1",
+      "year": "2026"
+    },
+    "title": "Anna Golladay: Come Celebrate with Us!",
+    "description": "TN-3 Democratic congressional candidate Anna Golladay hosts a campaign celebration event. Additional venue details available via the campaign site.",
+    "meta": "TBD · 6:30–9:00 PM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-06-19"
   },
   {
     "id": "access-tennessee-candidate-forum-2026-07-02",
@@ -2074,6 +2162,28 @@
     ],
     "source_url": "https://pinkstonfortn.com/events",
     "retrieved_at": "2026-06-18"
+  },
+  {
+    "id": "lauren-pinkston-dunlap-fourth-of-july-celebration-2026-07-04",
+    "date_iso": "2026-07-04",
+    "date_display": {
+      "month": "Jul",
+      "day": "4",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston at Dunlap Fourth of July Celebration",
+    "description": "Independent gubernatorial candidate Lauren Pinkston attends the Dunlap Fourth of July Celebration at Harris Park in Sequatchie County.",
+    "meta": "Dunlap, TN · Harris Park · 9:00 AM",
+    "link_url": "https://pinkstonfortn.com/dunlap_4th_july_celebration",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-06-19"
   },
   {
     "id": "coffee-convos-2026-07-10",
@@ -2185,6 +2295,50 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-05-28"
+  },
+  {
+    "id": "anna-golladay-anderson-roane-women-2026-07-17",
+    "date_iso": "2026-07-17",
+    "date_display": {
+      "month": "Jul",
+      "day": "17",
+      "year": "2026"
+    },
+    "title": "Anna Golladay at Anderson/Roane Women",
+    "description": "TN-3 Democratic congressional candidate Anna Golladay appears at an Anderson/Roane County women's group gathering.",
+    "meta": "Anderson or Roane County, TN · 5:30 PM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-06-19"
+  },
+  {
+    "id": "anna-golladay-crabtree-farms-2026-07-19",
+    "date_iso": "2026-07-19",
+    "date_display": {
+      "month": "Jul",
+      "day": "19",
+      "year": "2026"
+    },
+    "title": "Anna Golladay at Crabtree Farms",
+    "description": "TN-3 Democratic congressional candidate Anna Golladay makes a campaign appearance at Crabtree Farms, a community urban farm in Chattanooga.",
+    "meta": "Chattanooga, TN · Crabtree Farms · 2:30–5:00 PM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-06-19"
   },
   {
     "id": "us-senate-forum-2026-07-22",
