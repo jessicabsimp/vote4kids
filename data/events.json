@@ -1458,6 +1458,50 @@
     "retrieved_at": "2026-06-14"
   },
   {
+    "id": "john-rose-town-hall-blountville-ron-ramsey-ag-center-2026-06-16",
+    "date_iso": "2026-06-16",
+    "date_display": {
+      "month": "Jun",
+      "day": "16",
+      "year": "2026"
+    },
+    "title": "John Rose Town Hall at Ron Ramsey Regional Ag Center",
+    "description": "Republican gubernatorial candidate U.S. Rep. John Rose held a town hall at the Ron Ramsey Regional Ag Center in Blountville as part of his \"Tennessee True Tour\" statewide campaign. Rose took questions from Tri-Cities area voters on agriculture, infrastructure, and Tennessee conservative values ahead of the August 6 Republican primary. The stop was part of a multi-county schedule that day including visits to Cocke County and Greene County.",
+    "meta": "Blountville, TN · Ron Ramsey Regional Ag Center, Sullivan County · late afternoon",
+    "link_url": "https://www.wjhl.com/news/your-local-election-hq/john-rose-visits-blountville-amid-quest-for-tennessee-governorship/",
+    "link_label": "WJHL coverage →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (R primary)",
+    "candidates_invited": [
+      "john-rose"
+    ],
+    "source_url": "https://www.wjhl.com/news/your-local-election-hq/john-rose-visits-blountville-amid-quest-for-tennessee-governorship/",
+    "retrieved_at": "2026-06-20"
+  },
+  {
+    "id": "john-rose-town-hall-greene-county-fairgrounds-2026-06-16",
+    "date_iso": "2026-06-16",
+    "date_display": {
+      "month": "Jun",
+      "day": "16",
+      "year": "2026"
+    },
+    "title": "John Rose Town Hall at Greene County Fairgrounds",
+    "description": "U.S. Rep. John Rose held a town hall at the Greene County Fairgrounds in Greeneville as part of his \"Tennessee True Tour\" — his fourth stop in Greene County. Attendees submitted questions via index cards on topics including school vouchers, road infrastructure, illegal immigration, housing costs, and support for farmers. Chelsea Rose accompanied the congressman and spoke at the event. Rose has visited all 95 Tennessee counties since announcing his gubernatorial candidacy in March 2025.",
+    "meta": "Greeneville, TN · Greene County Fairgrounds",
+    "link_url": "https://www.greenevillesun.com/news/local_news/john-rose-republican-candidate-for-governor-holds-town-hall-meeting-at-fairgrounds/article_14597ec3-41cb-434a-a6b9-5911e2624e8c.html",
+    "link_label": "Greeneville Sun coverage →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (R primary)",
+    "candidates_invited": [
+      "john-rose"
+    ],
+    "source_url": "https://www.greenevillesun.com/news/local_news/john-rose-republican-candidate-for-governor-holds-town-hall-meeting-at-fairgrounds/article_14597ec3-41cb-434a-a6b9-5911e2624e8c.html",
+    "retrieved_at": "2026-06-20"
+  },
+  {
     "id": "meet-jerri-in-memphis-2026-06-17",
     "date_iso": "2026-06-17",
     "date_display": {
@@ -1730,7 +1774,7 @@
       "year": "2026"
     },
     "title": "Tennessee Stands Gubernatorial Forum",
-    "description": "Republican gubernatorial candidates Marsha Blackburn, John Rose, and Monty Fritts are invited to a policy-focused forum hosted by Tennessee Stands and 18 conservative co-sponsoring organizations. Candidates receive topics in advance; candidates who do not attend will have their voting records shared. The event will be livestreamed statewide.",
+    "description": "Republican gubernatorial candidates Marsha Blackburn, John Rose, and Monty Fritts are invited to a policy-focused forum hosted by Tennessee Stands and 18 conservative co-sponsoring organizations. Candidates receive topics in advance; candidates who do not attend will have their voting records shared. The event will be livestreamed statewide. As of June 19, 2026, Fritts and Rose have indicated willingness to participate; Blackburn has not confirmed attendance. Tennessee Lookout reporting indicates a joint three-candidate appearance remains uncertain.",
     "meta": "Chattanooga, TN · Calvary Chapel Chattanooga · 6:00–8:00 PM",
     "link_url": "https://www.chattanoogan.com/2026/5/28/519337/Conservative-Organizations-Across.aspx",
     "link_label": "Chattanoogan.com coverage →",
@@ -1743,7 +1787,7 @@
       "monty-fritts"
     ],
     "source_url": "https://www.chattanoogan.com/2026/5/28/519337/Conservative-Organizations-Across.aspx",
-    "retrieved_at": "2026-06-06"
+    "retrieved_at": "2026-06-20"
   },
   {
     "id": "lauren-pinkston-dickson-meet-and-greet-2026-06-25",
@@ -2052,6 +2096,28 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-06-19"
+  },
+  {
+    "id": "meet-jerri-in-morristown-2026-06-28",
+    "date_iso": "2026-06-28",
+    "date_display": {
+      "month": "Jun",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Morristown",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor, in Morristown. Part of her statewide \"Meet Jerri\" tour. RSVP and details via campaign site.",
+    "meta": "Morristown, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-06-20"
   },
   {
     "id": "meet-jerri-in-memphis-2026-06-30",
