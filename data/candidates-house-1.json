@@ -5,11 +5,11 @@
     "party": "R",
     "race": "house",
     "district": "TN-1",
-    "primary_label": "Republican Primary · U.S. House TN-1",
-    "role_subtitle": "Incumbent · Pharmacist",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-1",
+    "role_subtitle": "Incumbent \u00b7 Pharmacist",
     "bio": "Two-term incumbent first elected 2020. Trump-endorsed; expected to win re-nomination handily.",
     "frontrunner": true,
-    "status_line": "★ Incumbent · Trump-endorsed",
+    "status_line": "\u2605 Incumbent \u00b7 Trump-endorsed",
     "photo_url": "https://clerk.house.gov/images/members/H001086.jpg",
     "photo_credit": "U.S. House Office of the Clerk",
     "campaign_url": "https://www.votediana.com/",
@@ -24,19 +24,23 @@
     },
     "child_hunger": {
       "summary": "Voted YES on the Nutritious SNAP Act of 2025 (S. 1100), which restricts SNAP-eligible foods; voted on the 2026 Farm Bill reauthorization (April 30, 2026), which includes child nutrition program provisions.",
-      "details": "The Nutritious SNAP Act of 2025 (S. 1100) restricts SNAP benefits from being used on sugary drinks and certain snacks. The House passed the bill 357–65 on March 4, 2026. Harshbarger's overall voting pattern (92% with party) suggests she voted yes. On April 30, 2026, she voted on the 2026 Farm Bill reauthorization, which includes reauthorization of child nutrition programs including school meals and WIC. She has not sponsored or publicly championed any child nutrition expansion legislation. The Children's Defense Fund gave her an 'F' equivalent rating in the 117th Congress.",
+      "details": "The Nutritious SNAP Act of 2025 (S. 1100) restricts SNAP benefits from being used on sugary drinks and certain snacks. The House passed the bill 357\u201365 on March 4, 2026. Harshbarger's overall voting pattern (92% with party) suggests she voted yes. On April 30, 2026, she voted on the 2026 Farm Bill reauthorization, which includes reauthorization of child nutrition programs including school meals and WIC. She has not sponsored or publicly championed any child nutrition expansion legislation. The Children's Defense Fund gave her an 'F' equivalent rating in the 117th Congress. As of June 2026, state SNAP enrollment data shows approximately 100,000 Tennesseans have lost SNAP benefits since July 2025 (Tennessee Lookout, June 16, 2026); Tennessee's new food restrictions \u2014 banning SNAP purchases of sodas, energy drinks, and many processed foods \u2014 take effect July 31, 2026. No May\u2013June 2026 statements from Harshbarger on these Tennessee-level impacts were found.",
       "citations": [
         "https://myreptracker.com/united-states/bills/us-119th-s-1100",
         "https://clerk.house.gov/Votes/202430",
-        "https://harshbarger.house.gov/"
+        "https://harshbarger.house.gov/",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/",
+        "https://www.commercialappeal.com/story/news/local/2026/06/17/snap-restrictions-tennessee-july-2026-restricted-foods/90476627007/"
       ]
     },
     "parental_support": {
       "summary": "Voted YES on the bipartisan Tax Relief for American Families and Workers Act (HR 7024, Jan 2024) which expanded the Child Tax Credit; co-sponsored parental-rights legislation including the Parents Bill of Rights Act; has cited SCOTUS parental rights rulings in support of her legislative agenda.",
-      "details": "Roll Call 30 (January 31, 2024) shows Harshbarger voted Yea on HR 7024, which temporarily expanded the Child Tax Credit. She co-sponsored the Parents Bill of Rights Act (H.R. 6056) and has linked her parental rights legislation to Supreme Court precedents affirming parental authority, including a June 2025 SCOTUS ruling she cited in support of her position. No votes or statements supporting the Paid Family Leave Act or federal childcare subsidy expansion appear in her public record.",
+      "details": "Roll Call 30 (January 31, 2024) shows Harshbarger voted Yea on HR 7024, which temporarily expanded the Child Tax Credit. She co-sponsored the Parents Bill of Rights Act (H.R. 6056) and has linked her parental rights legislation to Supreme Court precedents affirming parental authority, including a June 2025 SCOTUS ruling she cited in support of her position. No votes or statements supporting the Paid Family Leave Act or federal childcare subsidy expansion appear in her public record. In a May 26, 2026 op-ed published in the Washington Examiner and Elizabethton Star, Harshbarger wrote: 'I know parents caring for a disabled child who depend on Medicaid services to get through the month,' framing Medicaid fraud prevention as essential to protecting families \u2014 though this is not a new childcare or parental support policy position.",
       "citations": [
         "https://clerk.house.gov/Votes/202430",
-        "https://harshbarger.house.gov/issues/education"
+        "https://harshbarger.house.gov/issues/education",
+        "https://www.washingtonexaminer.com/op-eds/4582085/protecting-medicaid-against-fraudsters/",
+        "https://elizabethton.com/2026/05/27/harshbarger-i-defended-my-pharmacy-from-robber-protecting-medicare-against-fraud-is-harder/"
       ]
     }
   },
@@ -46,7 +50,7 @@
     "party": "D",
     "race": "house",
     "district": "TN-1",
-    "primary_label": "Democratic Primary · U.S. House TN-1",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-1",
     "role_subtitle": "Artist",
     "bio": "Democratic primary candidate from East Tennessee.",
     "frontrunner": false,
@@ -57,25 +61,29 @@
     "official_url": null,
     "twitter": null,
     "early_childhood_ed": {
-      "summary": "Demands 'fully funded education' as a non-negotiable platform plank, implying support for comprehensive education investment, though no specific policy on pre-K or Head Start.",
-      "details": "In a March 2026 campaign rally, Burke declared the campaign is 'not asking for healthcare and fully funded education... we are demanding it.' She frames education funding as a core non-negotiable issue. No specific statements on Head Start funding, pre-K expansion, or early childhood development programs appear in her publicly available campaign materials.",
+      "summary": "Demands 'fully funded education' as a non-negotiable platform plank, explicitly opposing school voucher programs as a 'scam' that drains public school funding. In a May 2026 interview, Burke called for restoring the Department of Education to ensure equal access to well-funded education for all children, though no specific policy on pre-K or Head Start was articulated.",
+      "details": "In a March 2026 campaign rally, Burke declared the campaign is 'not asking for healthcare and fully funded education... we are demanding it.' She frames education funding as a core non-negotiable issue. No specific statements on Head Start funding, pre-K expansion, or early childhood development programs appear in her publicly available campaign materials. In a May 14, 2026 interview on The God Show (YouTube), Burke stated: 'Fully funded education \u2014 making sure that all of our kids have equal access to well-funded education... Right now we're looking at Tennessee with this voucher scam. We're seeing tax dollars coming out of the pockets of people in East Tennessee and going across the state to some wealthy family...' She also called for getting 'the Department of Education back.'",
       "citations": [
         "https://www.youtube.com/watch?v=bCEiR5hXy-o",
-        "https://www.votekristiburke.com/"
+        "https://www.votekristiburke.com/",
+        "https://www.youtube.com/watch?v=m4K8ppt7Uc8"
       ]
     },
     "child_hunger": {
       "summary": "Explicitly declared 'no child should ever go hungry' as a core campaign value and frames child hunger as a fundamental rights issue.",
       "details": "At a March 2026 public rally in East Tennessee, Burke stated: 'when we say no child should ever go hungry... these are not radical ideas. These are basic human values that we should all have.' She frames child food security as non-negotiable alongside healthcare access, workers' wages, and immigrant dignity. No specific bills, funding proposals, or policy mechanisms have been detailed.",
       "citations": [
-        "https://www.youtube.com/watch?v=bCEiR5hXy-o"
+        "https://www.youtube.com/watch?v=bCEiR5hXy-o",
+        "https://www.wjhl.com/news/local/district-1-candidate-forum-held-in-jonesborough/"
       ]
     },
     "parental_support": {
       "summary": "No public position found on paid family leave, Child Tax Credit, or childcare costs specifically.",
-      "details": "Burke's campaign materials and public speeches focus on systemic demands — healthcare as a human right, fully funded education, workers' wages — without specifying positions on paid family leave legislation, Child Tax Credit policy, or childcare cost subsidies.",
+      "details": "Burke's campaign materials and public speeches focus on systemic demands \u2014 healthcare as a human right, fully funded education, workers' wages \u2014 without specifying positions on paid family leave legislation, Child Tax Credit policy, or childcare cost subsidies.",
       "citations": [
-        "https://www.votekristiburke.com/"
+        "https://www.votekristiburke.com/",
+        "https://www.youtube.com/watch?v=m4K8ppt7Uc8",
+        "https://www.wjhl.com/news/local/district-1-candidate-forum-held-in-jonesborough/"
       ]
     }
   },
@@ -85,7 +93,7 @@
     "party": "D",
     "race": "house",
     "district": "TN-1",
-    "primary_label": "Democratic Primary · U.S. House TN-1",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-1",
     "role_subtitle": "Small business owner",
     "bio": "Democratic primary candidate.",
     "frontrunner": false,
@@ -99,7 +107,8 @@
       "summary": "Garcia has the most specific early childhood education platform among TN-1 candidates. He explicitly supports free, universal pre-K for all 3- and 4-year-olds, and proposes capping childcare costs at 7% of a working family's income.",
       "details": "garciafirst.com/issues includes a dedicated 'Universal Pre-K Education' section: 'Early childhood education is critical for a child's cognitive and social development. Yet, the skyrocketing cost of childcare and preschool is bankrupting working families in East Tennessee. Universal Pre-K ensures every child gets a head start while giving parents the financial relief they need to participate fully in our local economy.' Action Plan: (1) Provide free, high-quality Pre-K for all 3 and 4-year-olds; (2) Cap childcare costs at 7% of a working family's income; (3) Invest in early childhood educators with competitive, living wages. A separate 'Public Education' section opposes voucher programs that 'drain resources from rural schools.'",
       "citations": [
-        "https://www.garciafirst.com/issues"
+        "https://www.garciafirst.com/issues",
+        "https://www.wjhl.com/news/local/district-1-candidate-forum-held-in-jonesborough/"
       ]
     },
     "child_hunger": {
@@ -123,7 +132,7 @@
     "party": "D",
     "race": "house",
     "district": "TN-1",
-    "primary_label": "Democratic Primary · U.S. House TN-1",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-1",
     "role_subtitle": "Marine Corps veteran",
     "bio": "Democratic primary candidate.",
     "frontrunner": false,
@@ -135,23 +144,26 @@
     "twitter": null,
     "early_childhood_ed": {
       "summary": "No public position found on early childhood education; platform focuses on healthcare, government accountability, and constituent representation.",
-      "details": "Kerr's campaign website lists policy positions under several headings — Government Accountability, Healthcare, Women's Health, Gun Reform, Veteran Issues, and Economic Focus — but does not include an education section or any mention of early childhood programs.",
+      "details": "Kerr's campaign website lists policy positions under several headings \u2014 Government Accountability, Healthcare, Women's Health, Gun Reform, Veteran Issues, and Economic Focus \u2014 but does not include an education section or any mention of early childhood programs. At the May 21, 2026 Jonesborough candidate forum, Kerr focused his remarks on reproductive rights and his Marine Corps service, stating he is running to 'serve my country again.' No early childhood education positions were stated.",
       "citations": [
-        "https://davidkerr4congress.com/"
+        "https://davidkerr4congress.com/",
+        "https://www.wjhl.com/news/local/district-1-candidate-forum-held-in-jonesborough/"
       ]
     },
     "child_hunger": {
       "summary": "No public position found on child hunger, SNAP, school meals, or child nutrition programs.",
       "details": "Kerr's publicly available campaign platform covers healthcare access and working family economic concerns but does not specifically address child hunger, SNAP benefits, school meal programs, or child nutrition reauthorization. His platform states he will 'support initiatives that benefit working families and rural economies.'",
       "citations": [
-        "https://davidkerr4congress.com/"
+        "https://davidkerr4congress.com/",
+        "https://www.wjhl.com/news/local/district-1-candidate-forum-held-in-jonesborough/"
       ]
     },
     "parental_support": {
       "summary": "No public position found on paid family leave, Child Tax Credit, or childcare costs; supports 'working families' broadly and maternal care access.",
-      "details": "Kerr's Women's Health section supports 'family planning and maternal care' access, and his Economic Focus section pledges to 'support initiatives that benefit working families,' but these references do not translate into specific positions on paid family leave legislation, Child Tax Credit expansion, or federal childcare subsidy programs. As a father of two who served 20 years in the Marines, family issues are part of his personal story.",
+      "details": "Kerr's Women's Health section supports 'family planning and maternal care' access, and his Economic Focus section pledges to 'support initiatives that benefit working families,' but these references do not translate into specific positions on paid family leave legislation, Child Tax Credit expansion, or federal childcare subsidy programs. As a father of two who served 20 years in the Marines, family issues are part of his personal story. At the May 21, 2026 Jonesborough forum, Kerr emphasized reproductive rights and access to women's healthcare as his primary parental-policy-adjacent concern.",
       "citations": [
-        "https://davidkerr4congress.com/"
+        "https://davidkerr4congress.com/",
+        "https://www.wjhl.com/news/local/district-1-candidate-forum-held-in-jonesborough/"
       ]
     }
   },
@@ -161,11 +173,11 @@
     "party": "R",
     "race": "house",
     "district": "TN-2",
-    "primary_label": "Republican Primary · U.S. House TN-2",
-    "role_subtitle": "Incumbent · former Knox Co. Mayor",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-2",
+    "role_subtitle": "Incumbent \u00b7 former Knox Co. Mayor",
     "bio": "Three-term incumbent serving since 2019. Outspoken populist conservative; minimal primary opposition.",
     "frontrunner": true,
-    "status_line": "★ Incumbent",
+    "status_line": "\u2605 Incumbent",
     "photo_url": "https://clerk.house.gov/images/members/B001309.jpg",
     "photo_credit": "U.S. House Office of the Clerk",
     "campaign_url": "https://burchett.house.gov/",
@@ -173,26 +185,30 @@
     "twitter": "@RepTimBurchett",
     "early_childhood_ed": {
       "summary": "No publicly stated position supporting federal early childhood education programs; voting record shows 26% support / 74% oppose ratio on tracked education bills.",
-      "details": "According to myreptracker.com, Burchett's education-related votes show a 26% support vs. 74% oppose ratio — the lowest of any issue category tracked for him. His official issues page does not list education as a priority area; his focus has been on fiscal restraint, border security, and tax policy. The Children's Defense Fund awarded him an 'F' grade for the 117th Congress.",
+      "details": "According to myreptracker.com, Burchett's education-related votes show a 26% support vs. 74% oppose ratio \u2014 the lowest of any issue category tracked for him. His official issues page does not list education as a priority area; his focus has been on fiscal restraint, border security, and tax policy. The Children's Defense Fund awarded him an 'F' grade for the 117th Congress. As Chairman of the House Subcommittee on Delivering on Government Efficiency (DOGE Subcommittee), Burchett passed H.R. 7892, the No Aid for Ghost Students Act of 2026, through the House on June 10, 2026, which strengthens identity verification in federal education programs to combat fraud \u2014 framed as taxpayer protection rather than education access expansion.",
       "citations": [
         "https://myreptracker.com/united-states/issues/education?session=0&legislator=us-house-tn-2-tim-burchett",
-        "https://www.cdf-action.org/member_profile/burchett-tennessee-b001309-117/"
+        "https://www.cdf-action.org/member_profile/burchett-tennessee-b001309-117/",
+        "https://www.billsponsor.com/politicians/570/tim-burchett"
       ]
     },
     "child_hunger": {
-      "summary": "Voted YES on the One Big Beautiful Bill Act (May and July 2025), which cuts SNAP benefits and adds work requirements, defending these cuts despite local food bank warnings about East Tennessee hunger.",
-      "details": "Burchett voted YES on the One Big Beautiful Bill Act on May 22, 2025. The bill includes SNAP benefit cuts that the Urban Institute estimates will affect more than 22 million families, and expanded work requirements for adults ages 55–64, parents of children 14 and older, and veterans. When local East Tennessee food banks warned of increased hunger, Burchett told WBIR (July 10, 2025): 'There's gonna be discomfort... but I do believe under this new economic model, I think it's gonna free up more money for those folks.' East Tennessee food banks also cited a projected $283 million in lost SNAP benefits to the region over a decade, a figure Burchett's office did not contest.",
+      "summary": "Voted YES on the One Big Beautiful Bill Act (May and July 2025), which cuts SNAP benefits and adds work requirements. As of June 2026, approximately 100,000 Tennesseans have lost SNAP benefits since the bill took effect. Burchett, as DOGE Subcommittee Chairman, announced on June 19, 2026 a hearing titled 'Combating Waste, Fraud, and Abuse in SNAP,' scheduled for June 25, 2026, framing SNAP oversight as fraud-prevention rather than benefit expansion.",
+      "details": "Burchett voted YES on the One Big Beautiful Bill Act on May 22, 2025. The bill includes SNAP benefit cuts that the Urban Institute estimates will affect more than 22 million families, and expanded work requirements for adults ages 55\u201364, parents of children 14 and older, and veterans. When local East Tennessee food banks warned of increased hunger, Burchett told WBIR (July 10, 2025): 'There's gonna be discomfort... but I do believe under this new economic model, I think it's gonna free up more money for those folks.' East Tennessee food banks also cited a projected $283 million in lost SNAP benefits to the region over a decade, a figure Burchett's office did not contest. As of June 16, 2026, the Tennessee Lookout reported that about 100,000 Tennesseans \u2014 one in seven former recipients \u2014 have lost SNAP since July 2025. On June 19, 2026, Burchett announced a DOGE Subcommittee hearing 'Combating Waste, Fraud, and Abuse in SNAP' (scheduled June 25, 2026), stating: 'Roughly $10 billion in taxpayer funds were lost through SNAP in 2024, while some states refuse to hand over the data needed to crack down on fraud... Congress must protect taxpayer dollars and make sure assistance goes only to those who truly need it.' This framing continues his pattern of approaching SNAP through an anti-fraud lens rather than benefit-access expansion.",
       "citations": [
         "https://burchett.house.gov/media/press-releases/rep-burchett-votes-yes-one-big-beautiful-bill-act",
-        "https://www.wbir.com/article/news/local/east-tn-food-banks-big-beautiful-bill-burchett/51-df8b6b80-0679-4670-b23c-6c8aad294830"
+        "https://www.wbir.com/article/news/local/east-tn-food-banks-big-beautiful-bill-burchett/51-df8b6b80-0679-4670-b23c-6c8aad294830",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/",
+        "https://www.einpresswire.com/article/920644985/burchett-announces-hearing-to-examine-fraud-in-the-supplemental-nutrition-assistance-program"
       ]
     },
     "parental_support": {
       "summary": "Burchett voted for the One Big Beautiful Bill Act, which raised the CTC to $2,200/child and expanded the employer childcare credit. He also supported H.R. 7726 (No Funds for Repeat Child Care Violations Act), framed as ensuring federal childcare funds 'reach the working families the programs were designed to support.' No standalone paid leave position.",
-      "details": "A June 4, 2026 press release on burchett.house.gov states: 'Rep. Burchett also supported H.R. 7726, the No Funds for Repeat Child Care Violations Act, which holds states accountable when federal child care funds are repeatedly misused and helps ensure that assistance reaches the working families the programs were designed to support. H.R. 7726 passed the U.S. House of Representatives.' This is framed as a government-accountability/anti-fraud measure, not a childcare access expansion. His OBBB vote also supported the employer childcare credit expansion and CTC increase.",
+      "details": "A June 4, 2026 press release on burchett.house.gov states: 'Rep. Burchett also supported H.R. 7726, the No Funds for Repeat Child Care Violations Act, which holds states accountable when federal child care funds are repeatedly misused and helps ensure that assistance reaches the working families the programs were designed to support. H.R. 7726 passed the U.S. House of Representatives.' This is framed as a government-accountability/anti-fraud measure, not a childcare access expansion. His OBBB vote also supported the employer childcare credit expansion and CTC increase. Burchett's broader June 2026 legislative activity through the DOGE Subcommittee has focused on fraud prevention bills (No Aid for Ghost Students Act, Government Audit and Accountability of Federally Funded Programs Act) rather than family benefit expansion.",
       "citations": [
         "https://burchett.house.gov/media/press-releases/congressman-burchett-highlights-efforts-stop-waste-fraud-and-abuse-federal",
-        "https://waysandmeans.house.gov/wp-content/uploads/2025/05/The-One-Big-Beautiful-Bill-Champions-Life-and-Families.pdf"
+        "https://waysandmeans.house.gov/wp-content/uploads/2025/05/The-One-Big-Beautiful-Bill-Champions-Life-and-Families.pdf",
+        "https://www.quiverquant.com/news/Press+Release%3A+Congressman+Burchett+Advocates+for+Accountability+in+Federal+Spending"
       ]
     }
   },
@@ -202,8 +218,8 @@
     "party": "D",
     "race": "house",
     "district": "TN-2",
-    "primary_label": "Democratic Primary · U.S. House TN-2",
-    "role_subtitle": "Scientist · small business",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-2",
+    "role_subtitle": "Scientist \u00b7 small business",
     "bio": "Democratic challenger; previous experience working in Congress.",
     "frontrunner": false,
     "status_line": null,
@@ -217,21 +233,25 @@
       "details": "Barnett's campaign site lists 'Investing in Tennessee's Infrastructure and Workforce' and 'An Economy that Works for East Tennesseans' as pillars but does not contain a dedicated early childhood education plank. In a 2026 speech to the Campbell County Democratic Party, she spoke generally about wanting 'affordable healthy food.' No specific issue pages addressing pre-K, Head Start, or child development programs were found.",
       "citations": [
         "https://www.michaelafortennessee.com/",
-        "https://www.themountainpress.com/lafollette/news/democrat-barnett-seeks-to-challenge-republican-burchett-for-u-s-house-seat/article_d2c02ed6-cfcd-5af7-b551-cec9962a46dc.html"
+        "https://www.themountainpress.com/lafollette/news/democrat-barnett-seeks-to-challenge-republican-burchett-for-u-s-house-seat/article_d2c02ed6-cfcd-5af7-b551-cec9962a46dc.html",
+        "https://bluelusionalpodcast.substack.com/p/grassroots-candidate-interview-michaela"
       ]
     },
     "child_hunger": {
-      "summary": "No specific position on child hunger; has referenced 'affordable healthy food' as a campaign value and cited the One Big Beautiful Bill's 'devastating consequences' for East Tennessee families.",
-      "details": "In her 2026 Campbell County speech, Barnett stated that 'wanting the American people to have affordable healthy food is not radical,' indicating general alignment with food access as a priority. She has cited opposition to the One Big Beautiful Bill as having 'devastating consequences in East Tennessee.' However, no specific proposals addressing child hunger, school nutrition reauthorization, or SNAP/WIC funding were found.",
+      "summary": "No specific position on child hunger programs by name; has framed the One Big Beautiful Bill as a 'One Big Brutal Betrayal' that takes resources from working people, implying opposition to its SNAP cuts.",
+      "details": "In her 2026 Campbell County speech, Barnett stated that 'wanting the American people to have affordable healthy food is not radical,' indicating general alignment with food access as a priority. She has cited opposition to the One Big Beautiful Bill as having 'devastating consequences in East Tennessee.' However, no specific proposals addressing child hunger, school nutrition reauthorization, or SNAP/WIC funding were found. In her May 2026 Campbell County Democratic Party speech (reported May 27, 2026), Barnett called the One Big Beautiful Bill 'that One Big Brutal Betrayal' and said it was 'to fund a tax cut for the wealthiest Americans\u2026 while taking everything from us and squeezing it.' This implies strong opposition to the bill's SNAP cuts, which the Tennessee Lookout (June 16, 2026) documented have caused approximately 100,000 Tennesseans to lose food assistance since July 2025.",
       "citations": [
         "https://www.themountainpress.com/lafollette/news/democrat-barnett-seeks-to-challenge-republican-burchett-for-u-s-house-seat/article_d2c02ed6-cfcd-5af7-b551-cec9962a46dc.html",
-        "https://www.knoxnews.com/story/news/politics/elections/2025/09/24/democrat-michaela-barnett-launches-campaign-against-rep-tim-burchett/86314482007/"
+        "https://www.knoxnews.com/story/news/politics/elections/2025/09/24/democrat-michaela-barnett-launches-campaign-against-rep-tim-burchett/86314482007/",
+        "https://www.themountainpress.com/lafollette/news/congressional-candidate-speaks-at-campbell-county-democratic-party-picnic/article_f52e940c-29fe-5ba2-86c1-ba6e04df1a5a.html",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
-      "summary": "No specific public positions on paid family leave, child tax credit, childcare costs, or parental rights; platform implies support for working-family economic relief.",
-      "details": "Barnett's ActBlue page references 'real solutions on housing, healthcare, reproductive freedom, cost of living' for East Tennessee families. She has cited opposition to the One Big Beautiful Bill as having 'devastating consequences in East Tennessee.' No published stance on federal paid family leave legislation, the child tax credit expansion, or childcare subsidy programs appears on her campaign site.",
+      "summary": "Explicitly supports paid parental leave and affordable childcare, as confirmed in a May 2026 candidate interview; frames these as healthcare and working-family economic priorities.",
+      "details": "In a May 21, 2026 podcast interview (Blue-Lusional Podcast, Substack), Barnett's platform was summarized as including: 'reproductive freedom, paid parental leave, affordable childcare, and rebuilding maternal healthcare infrastructure in a state with one of the nation's highest maternal mortality rates.' This is the clearest and most recent articulation of her position on these issues. Her ActBlue page also references 'real solutions on housing, healthcare, reproductive freedom, cost of living' for East Tennessee families. No published stance on the child tax credit expansion or specific childcare subsidy programs appears on her campaign site.",
       "citations": [
+        "https://bluelusionalpodcast.substack.com/p/grassroots-candidate-interview-michaela",
         "https://secure.actblue.com/donate/michaelabarnett?refcode=websitemp100",
         "https://www.knoxnews.com/story/news/politics/elections/2025/09/24/democrat-michaela-barnett-launches-campaign-against-rep-tim-burchett/86314482007/"
       ]
@@ -243,11 +263,11 @@
     "party": "R",
     "race": "house",
     "district": "TN-3",
-    "primary_label": "Republican Primary · U.S. House TN-3",
-    "role_subtitle": "Incumbent · since 2011",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-3",
+    "role_subtitle": "Incumbent \u00b7 since 2011",
     "bio": "Eight-term incumbent and Chattanooga attorney. $4.1M cash on hand; expected easy re-nomination.",
     "frontrunner": true,
-    "status_line": "★ Incumbent · 8 terms",
+    "status_line": "\u2605 Incumbent \u00b7 8 terms",
     "photo_url": "https://clerk.house.gov/images/members/F000459.jpg",
     "photo_credit": "U.S. House Office of the Clerk",
     "campaign_url": "https://www.chuckforcongress.com/",
@@ -263,18 +283,20 @@
     },
     "child_hunger": {
       "summary": "Voted against the American Rescue Plan's expanded child nutrition provisions and supported the One Big Beautiful Bill, which is projected to cut approximately $283 million in SNAP from Hamilton County (Chattanooga area) over a decade.",
-      "details": "Fleischmann voted NAY on the American Rescue Plan Act (Roll Call 72, March 10, 2021), which included increased SNAP benefits, expanded WIC cash-value vouchers, and child nutrition program funding through FY2022. He voted for the One Big Beautiful Bill (H.R. 1, May 2025), which the CBO and advocacy groups identified as cutting approximately $285 billion in SNAP funding nationally over a decade — including approximately $283 million projected to be cut from Hamilton County. The Chattanooga Area Food Bank warned the cuts would strain their capacity to serve the region's children and families. He did not cosponsor the Healthy Meals, Healthy Kids Act.",
+      "details": "Fleischmann voted NAY on the American Rescue Plan Act (Roll Call 72, March 10, 2021), which included increased SNAP benefits, expanded WIC cash-value vouchers, and child nutrition program funding through FY2022. He voted for the One Big Beautiful Bill (H.R. 1, May 2025), which the CBO and advocacy groups identified as cutting approximately $285 billion in SNAP funding nationally over a decade \u2014 including approximately $283 million projected to be cut from Hamilton County. The Chattanooga Area Food Bank warned the cuts would strain their capacity to serve the region's children and families. He did not cosponsor the Healthy Meals, Healthy Kids Act. A June 16, 2026 Tennessee Lookout investigation found that approximately 100,000 Tennesseans \u2014 down from 696,000 recipients in July 2025 to 597,890 in May 2026 \u2014 have lost SNAP food assistance since the law took effect, with advocates citing new barriers for working families, older adults, veterans, and children.",
       "citations": [
         "https://clerk.house.gov/Votes/202172",
-        "https://fleischmann.house.gov/media/press-releases/chairman-fleischmann-s-statement-on-house-passage-of-the-one-big-beautiful-bill-act"
+        "https://fleischmann.house.gov/media/press-releases/chairman-fleischmann-s-statement-on-house-passage-of-the-one-big-beautiful-bill-act",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
       "summary": "Supported the 2017 child tax credit expansion to $2,000 per child and the One Big Beautiful Bill's tax provisions, but voted against the 2021 expanded CTC; champions parental rights in school settings; opposes federal paid family leave mandates.",
-      "details": "Fleischmann voted for the 2017 Tax Cuts and Jobs Act, which expanded the Child Tax Credit from $1,000 to $2,000, and supported the One Big Beautiful Bill, which made those cuts permanent with a temporary additional $500 CTC increase. He voted against the American Rescue Plan's temporary expansion of the CTC to $3,000–$3,600 per child. On parental rights, he co-sponsored the Protecting Parental Rights Act (H.R. 6676, 2022). No public support for federal paid family leave legislation has been found.",
+      "details": "Fleischmann voted for the 2017 Tax Cuts and Jobs Act, which expanded the Child Tax Credit from $1,000 to $2,000, and supported the One Big Beautiful Bill, which made those cuts permanent with a temporary additional $500 CTC increase. He voted against the American Rescue Plan's temporary expansion of the CTC to $3,000\u2013$3,600 per child. On parental rights, he co-sponsored the Protecting Parental Rights Act (H.R. 6676, 2022). No public support for federal paid family leave legislation has been found.",
       "citations": [
         "https://fleischmann.house.gov/issues/tax-reform",
-        "https://fleischmann.house.gov/media/press-releases/release-fleischmann-votes-support-historic-tax-reform"
+        "https://fleischmann.house.gov/media/press-releases/release-fleischmann-votes-support-historic-tax-reform",
+        "https://www.timesfreepress.com/news/2026/may/07/fleischmann-says-hes-on-board-with-new/"
       ]
     }
   },
@@ -284,7 +306,7 @@
     "party": "D",
     "race": "house",
     "district": "TN-3",
-    "primary_label": "Democratic Primary · U.S. House TN-3",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-3",
     "role_subtitle": "Progressive challenger",
     "bio": "Chattanooga progressive who previously ran for City Council. Announced February 2026.",
     "frontrunner": false,
@@ -304,10 +326,11 @@
     },
     "child_hunger": {
       "summary": "No specific position on child hunger programs; supports reducing food and grocery costs and tackling corporate price gouging.",
-      "details": "Golladay's economy page identifies 'a trip to the grocery store' as a source of 'financial panic' for families and calls for 'tackling price gouging' and expanding childcare access. In her campaign launch interview with the Chattanooga Times Free Press, she stated that 'Tennessee families keep falling farther behind' on wages and healthcare. However, no published positions on child nutrition reauthorization, school breakfast/lunch programs, WIC, or SNAP eligibility were found.",
+      "details": "Golladay's economy page identifies 'a trip to the grocery store' as a source of 'financial panic' for families and calls for 'tackling price gouging' and expanding childcare access. In her campaign launch interview with the Chattanooga Times Free Press, she stated that 'Tennessee families keep falling farther behind' on wages and healthcare. However, no published positions on child nutrition reauthorization, school breakfast/lunch programs, WIC, or SNAP eligibility were found. Context: A June 16, 2026 Tennessee Lookout report documented that 100,000 Tennesseans have lost SNAP benefits since the One Big Beautiful Bill took effect, a development directly relevant to TN-3 families Golladay is seeking to represent.",
       "citations": [
         "https://annagolladay.com/economy/",
-        "https://www.timesfreepress.com/news/2026/feb/07/democrat-anna-golladay-will-challenge-chuck"
+        "https://www.timesfreepress.com/news/2026/feb/07/democrat-anna-golladay-will-challenge-chuck",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
@@ -325,11 +348,11 @@
     "party": "R",
     "race": "house",
     "district": "TN-4",
-    "primary_label": "Republican Primary · U.S. House TN-4",
-    "role_subtitle": "Incumbent · since 2011",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-4",
+    "role_subtitle": "Incumbent \u00b7 since 2011",
     "bio": "Eight-term incumbent and physician. Faces a contested Republican primary.",
     "frontrunner": true,
-    "status_line": "★ Incumbent",
+    "status_line": "\u2605 Incumbent",
     "photo_url": "https://clerk.house.gov/images/members/D000616.jpg",
     "photo_credit": "U.S. House Office of the Clerk",
     "campaign_url": null,
@@ -345,10 +368,12 @@
     },
     "child_hunger": {
       "summary": "Voted against the American Rescue Plan's SNAP/WIC expansions; issued press releases in February and October 2025 opposing migrant SNAP eligibility; voted for the One Big Beautiful Bill, which cuts SNAP by ~$285 billion.",
-      "details": "DesJarlais voted NAY on the American Rescue Plan (Roll Call 72, March 2021). In February 2025, he issued a press release opposing SNAP eligibility for migrants, followed by a second press release in October 2025 on the same subject. In May 2025, he celebrated passage of the One Big Beautiful Bill, which contained major SNAP cuts and new work requirements. His consistent record shows opposition to expansion of nutrition assistance programs.",
+      "details": "DesJarlais voted NAY on the American Rescue Plan (Roll Call 72, March 2021). In February 2025, he issued a press release opposing SNAP eligibility for migrants, followed by a second press release in October 2025 on the same subject. In May 2025, he celebrated passage of the One Big Beautiful Bill, which contained major SNAP cuts and new work requirements. His consistent record shows opposition to expansion of nutrition assistance programs. A June 16, 2026 Tennessee Lookout investigation found approximately 100,000 Tennesseans \u2014 one in seven prior recipients \u2014 lost SNAP food assistance after the law took effect in July 2025. DesJarlais serves on the House Committee on Agriculture, giving him direct committee jurisdiction over nutrition programs.",
       "citations": [
         "https://clerk.house.gov/Votes/202172",
-        "https://desjarlais.house.gov/media-center?id=11D8019B-4B38-4D56-AFDD-A8C028E4C848"
+        "https://desjarlais.house.gov/media-center?id=11D8019B-4B38-4D56-AFDD-A8C028E4C848",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/",
+        "https://www.billsponsor.com/politicians/267/scott-desjarlais"
       ]
     },
     "parental_support": {
@@ -366,7 +391,7 @@
     "party": "R",
     "race": "house",
     "district": "TN-4",
-    "primary_label": "Republican Primary · U.S. House TN-4",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-4",
     "role_subtitle": "U.S. Army veteran",
     "bio": "Republican primary challenger making his second run after a 2024 attempt.",
     "frontrunner": false,
@@ -378,7 +403,7 @@
     "twitter": "@Tomdavistn4",
     "early_childhood_ed": {
       "summary": "No public position on early childhood education found; platform emphasizes returning education control to parents and states within a constitutional spending framework.",
-      "details": "Davis's issues page states that strengthening families includes 'placing the responsibility of education back to the Parents in each State,' indicating a parental-rights and state-control framework that opposes federal early childhood mandates. He frames all federal spending through a constitutional lens — only 'essential spending' aligned with the Constitution — which would encompass skepticism toward new federal early childhood programs. No press releases addressing pre-K, Head Start, or child development programs were found.",
+      "details": "Davis's issues page states that strengthening families includes 'placing the responsibility of education back to the Parents in each State,' indicating a parental-rights and state-control framework that opposes federal early childhood mandates. He frames all federal spending through a constitutional lens \u2014 only 'essential spending' aligned with the Constitution \u2014 which would encompass skepticism toward new federal early childhood programs. No press releases addressing pre-K, Head Start, or child development programs were found.",
       "citations": [
         "https://tomdavistn4.com/issues/"
       ]
@@ -404,7 +429,7 @@
     "party": "R",
     "race": "house",
     "district": "TN-4",
-    "primary_label": "Republican Primary · U.S. House TN-4",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-4",
     "role_subtitle": "Republican primary",
     "bio": "Filed for the Republican primary. Convicted former Rutherford County Sheriff.",
     "frontrunner": false,
@@ -416,7 +441,7 @@
     "twitter": null,
     "early_childhood_ed": {
       "summary": "No public position found.",
-      "details": "Robert Arnold is a convicted former Rutherford County Sheriff whose candidacy centers almost entirely on DOJ reform, law enforcement, and opposition to Jack Smith's prosecutorial record. He has made no public statements on early childhood education. His announced platform covers DOJ accountability, crime and border enforcement, and replacing what he calls a 'career politician.' No campaign website with specific policy details was publicly available.",
+      "details": "Robert Arnold is a convicted former Rutherford County Sheriff whose candidacy centers almost entirely on DOJ reform, law enforcement, and opposition to Jack Smith's prosecutorial record. He has made no public statements on early childhood education. No new statements were found in May\u2013June 2026 coverage.",
       "citations": [
         "https://www.wgnsradio.com/article/95481/retired-sheriff-robert-arnold-announces-run-for-congress",
         "https://www.dnj.com/story/news/2025/10/14/former-convicted-rutherford-sheriff-robert-arnold-to-run-for-congress/86676031007/"
@@ -424,14 +449,14 @@
     },
     "child_hunger": {
       "summary": "No public position found.",
-      "details": "Arnold's public campaign materials contain no references to child nutrition, food assistance programs, SNAP, school meals, or related policy. His background is in law enforcement, not social services or nutrition policy.",
+      "details": "Arnold's public campaign materials contain no references to child nutrition, food assistance programs, SNAP, school meals, or related policy. No new statements were found in May\u2013June 2026 coverage.",
       "citations": [
         "https://www.wgnsradio.com/article/95481/retired-sheriff-robert-arnold-announces-run-for-congress"
       ]
     },
     "parental_support": {
       "summary": "No public position found beyond a pro-life, pro-gun self-identification.",
-      "details": "Arnold identifies publicly as 'pro-life, pro-gun, Christian conservative' but has articulated no positions on paid family leave, the child tax credit, childcare costs, or parental rights policy. His campaign focus is on DOJ reform and public safety.",
+      "details": "Arnold identifies publicly as 'pro-life, pro-gun, Christian conservative' but has articulated no positions on paid family leave, the child tax credit, childcare costs, or parental rights policy. No new statements were found in May\u2013June 2026 coverage.",
       "citations": [
         "https://www.dnj.com/story/news/2025/10/14/former-convicted-rutherford-sheriff-robert-arnold-to-run-for-congress/86676031007/"
       ]
@@ -443,7 +468,7 @@
     "party": "R",
     "race": "house",
     "district": "TN-4",
-    "primary_label": "Republican Primary · U.S. House TN-4",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-4",
     "role_subtitle": "Air Force veteran",
     "bio": "Filed for the Republican primary. 24-year Air Force veteran and retired Senior Emergency Planner.",
     "frontrunner": false,
@@ -455,21 +480,22 @@
     "twitter": null,
     "early_childhood_ed": {
       "summary": "No public position found on early childhood education specifically.",
-      "details": "Harold 'Rocky' Jones, a 24-year Air Force veteran and retired Senior Emergency Planner, frames his platform around fiscal responsibility, rural healthcare, farmland protection, and affordability for working families. His campaign site mentions 'ensuring the Tennessee our children inherit remains strong, affordable, and constitutionally free,' but no specific position on Head Start, pre-K funding, childcare, or early learning programs has been publicly articulated.",
+      "details": "Harold 'Rocky' Jones, a 24-year Air Force veteran and retired Senior Emergency Planner, frames his platform around fiscal responsibility, rural healthcare, farmland protection, and affordability for working families. No specific position on Head Start, pre-K funding, childcare, or early learning programs has been publicly articulated. May\u2013June 2026 coverage confirms Jones qualified for the new TN-4 Republican primary ballot (which now includes Rutherford County and other rural counties after redistricting) but surfaced no new policy statements on early childhood education.",
       "citations": [
-        "https://votejonesforcongress.com/"
+        "https://votejonesforcongress.com/",
+        "https://www.wvlt.tv/2026/05/17/whos-running-where-tennessee-posts-candidate-list-for-redrawn-congressional-districts/"
       ]
     },
     "child_hunger": {
       "summary": "No public position found on child hunger or school meals.",
-      "details": "Jones's 'Tennessee First' platform focuses on federal spending reduction and the national debt, which implies opposition to expanded federal food programs, but he has made no explicit statements about SNAP, school meals, WIC, or child nutrition reauthorization.",
+      "details": "Jones's 'Tennessee First' platform focuses on federal spending reduction and the national debt, which implies opposition to expanded federal food programs, but he has made no explicit statements about SNAP, school meals, WIC, or child nutrition reauthorization. No new statements found in May\u2013June 2026 coverage.",
       "citations": [
         "https://votejonesforcongress.com/"
       ]
     },
     "parental_support": {
       "summary": "No public position found on paid family leave or child tax credit; general fiscal conservatism implies opposition to expanded federal benefits.",
-      "details": "Jones frames his economic message around stopping 'reckless spending,' reducing the national debt, and tackling inflation — a fiscal conservative posture that typically aligns with opposition to new federal entitlements. He has not addressed childcare costs, parental rights legislation, or the child tax credit directly.",
+      "details": "Jones frames his economic message around stopping 'reckless spending,' reducing the national debt, and tackling inflation. He has not addressed childcare costs, parental rights legislation, or the child tax credit directly. No new statements found in May\u2013June 2026 coverage.",
       "citations": [
         "https://votejonesforcongress.com/",
         "https://murfreesboro.com/tennessee-district-4-congressional-candidate-rocky-jones-interview/"
@@ -482,37 +508,43 @@
     "party": "R",
     "race": "house",
     "district": "TN-5",
-    "primary_label": "Republican Primary · U.S. House TN-5",
-    "role_subtitle": "Incumbent · embattled",
-    "bio": "Two-term incumbent facing FEC violations and Ethics Committee scrutiny. Just $85K cash on hand (Q1 2026) — among the lowest of any U.S. House incumbent nationally. Trump-endorsed despite ongoing investigations.",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-5",
+    "role_subtitle": "Incumbent \u00b7 embattled",
+    "bio": "Two-term incumbent facing FEC violations and Ethics Committee scrutiny. Just $85K cash on hand (Q1 2026) \u2014 among the lowest of any U.S. House incumbent nationally. Trump-endorsed despite ongoing investigations.",
     "frontrunner": false,
-    "status_line": "⚠ FEC scrutiny · $85K cash",
+    "status_line": "\u26a0 FEC scrutiny \u00b7 $85K cash",
     "photo_url": "https://ogles.house.gov/sites/evo-subsites/ogles.house.gov/files/evo-media-album/andyogles-official-photo.jpg",
     "photo_credit": "Official U.S. House portrait",
     "campaign_url": "https://andyogles.com/",
     "official_url": "https://ogles.house.gov/",
     "twitter": "@RepOgles",
     "early_childhood_ed": {
-      "summary": "Supports arming teachers and school choice but has opposed federal education spending increases; the DCCC documented approximately $10 million in federal education grants withheld from his district.",
-      "details": "Ogles applauded the 2024 Tennessee law allowing trained teachers to carry concealed firearms on campuses. His Education issues page highlights school safety and conservative cultural positions rather than pre-K access, Head Start, or childcare subsidies. He worked previously at Americans for Prosperity, an organization that advocates for reduced federal education spending. The DCCC reported that during his tenure, approximately $10 million in federal education grants were withheld from TN-5 schools, a charge Ogles's office disputed.",
+      "summary": "Supports arming teachers and school choice but has opposed federal education spending increases; the DCCC documented approximately $10 million in federal education grants withheld from his district. In May\u2013June 2026, Ogles's press coverage was dominated by the DOJ investigation resolution, social media controversies (deleted homophobic post; links to neo-Nazi-adjacent group), and redistricting \u2014 no new education policy statements found.",
+      "details": "Ogles applauded the 2024 Tennessee law allowing trained teachers to carry concealed firearms on campuses. His Education issues page highlights school safety and conservative cultural positions rather than pre-K access, Head Start, or childcare subsidies. He worked previously at Americans for Prosperity, an organization that advocates for reduced federal education spending. The DCCC reported that during his tenure, approximately $10 million in federal education grants were withheld from TN-5 schools. In May\u2013June 2026, Ogles deleted a social media post stating 'Homosexuality has no place in America,' blaming a staffer. A March 2026 NewsChannel 5 investigation linked him to social media promotion of a group tied to neo-Nazi content. Republican primary rival Charlie Hatcher noted Ogles 'would vote very similarly' to himself on policy, while the new TN-5 district (redrawn at Trump's request) now extends to Memphis and 14 rural West Tennessee counties. No new early childhood education statements were found.",
       "citations": [
-        "https://ogles.house.gov/issues/education"
+        "https://ogles.house.gov/issues/education",
+        "https://www.newschannel5.com/news/newschannel-5-investigates/republican-charlie-hatcher-challenges-andy-ogles-in-tennessees-5th-congressional-district-calling-him-a-show-horse",
+        "https://www.williamsonscene.com/news/charlie-hatcher-andy-ogles-tennessee-congressional-seat/article_dee10a5c-5296-488d-acda-888f8f1ef9b2.html"
       ]
     },
     "child_hunger": {
-      "summary": "Voted yes on the One Big Beautiful Bill (H.R. 1, 2025), which included approximately $200 billion in SNAP cuts; openly mocked food assistance on social media, posting on August 4, 2025: 'MAHA! If you want Uncle Sam to buy you food, you gotta go on Uncle Sam's diet.'",
-      "details": "Ogles voted yes on H.R. 1, the 'One Big Beautiful Bill,' which passed the House 215-214 on May 22, 2025 on a party-line vote. The bill included roughly $200 billion in SNAP reductions over a decade, new work requirement expansions, and structural cost-shifts to states that anti-hunger advocates warned could destabilize food assistance programs. On August 4, 2025, he posted on social media: 'MAHA! If you want Uncle Sam to buy you food, you gotta go on Uncle Sam's diet' — signaling his view that food assistance recipients should face dietary restrictions as a condition of benefits.",
+      "summary": "Voted yes on the One Big Beautiful Bill (H.R. 1, 2025), which included approximately $200 billion in SNAP cuts; openly mocked food assistance on social media, posting on August 4, 2025: 'MAHA! If you want Uncle Sam to buy you food, you gotta go on Uncle Sam's diet.' As of June 2026, the law has caused approximately 100,000 Tennesseans to lose SNAP benefits \u2014 one in seven recipients \u2014 since taking effect in July 2025.",
+      "details": "Ogles voted yes on H.R. 1, the 'One Big Beautiful Bill,' which passed the House 215-214 on May 22, 2025 on a party-line vote. The bill included roughly $200 billion in SNAP reductions over a decade, new work requirement expansions, and structural cost-shifts to states. On August 4, 2025, he posted on social media: 'MAHA! If you want Uncle Sam to buy you food, you gotta go on Uncle Sam's diet' \u2014 signaling his view that food assistance recipients should face dietary restrictions as a condition of benefits. A June 16, 2026 Tennessee Lookout investigation documented that approximately 100,000 Tennesseans lost SNAP benefits following the law's implementation, with statewide enrollment falling from 696,000 (July 2025) to 597,890 (May 2026) \u2014 one in seven prior recipients. Advocates with the Tennessee Justice Center attributed the decline directly to the law's new work requirements and paperwork barriers. No new statements by Ogles on food assistance were found in May\u2013June 2026 coverage.",
       "citations": [
         "https://www.dnj.com/story/news/2025/07/03/ogles-tn-reps-trump-big-beautiful-bill-passage-us-house/84464596007/",
-        "https://feedingamericaaction.org/wp-content/uploads/Analysis_FY25House_Budget_Reconciliation.pdf"
+        "https://feedingamericaaction.org/wp-content/uploads/Analysis_FY25House_Budget_Reconciliation.pdf",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
-      "summary": "Voted yes on the One Big Beautiful Bill (which extended the $2,000 CTC) but voted against the 2024 bipartisan child tax credit expansion bill, and has not supported paid family leave.",
-      "details": "The Tax Relief for American Families and Workers Act of 2024 (H.R. 7024) passed the House 357-70 with a bipartisan child tax credit expansion that would have raised the refundable cap; Ogles was among the 70 'no' votes. He voted yes on H.R. 1 (2025), which extended the $2,000 child tax credit but did not expand its refundability for low-income families. He earned a 100% Heritage Action lifetime score, consistent with opposition to expanded family benefit programs.",
+      "summary": "Voted yes on the One Big Beautiful Bill (which extended the $2,000 CTC) but voted against the 2024 bipartisan child tax credit expansion bill, and has not supported paid family leave. Key June 2026 update: The Trump DOJ dropped its criminal campaign finance probe in May 2026, agreeing to return and destroy seized evidence; the House Ethics Committee investigation remains open.",
+      "details": "The Tax Relief for American Families and Workers Act of 2024 (H.R. 7024) passed the House 357-70 with a bipartisan child tax credit expansion; Ogles was among the 70 'no' votes. He voted yes on H.R. 1 (2025), which extended the $2,000 child tax credit but did not expand its refundability for low-income families. He earned a 100% Heritage Action lifetime score. On May 5, 2026, the Trump DOJ agreed to 'promptly return or destroy' evidence seized from Ogles (his cell phone, seized August 2024, and Google email records) and effectively dropped its criminal campaign finance investigation. Ogles framed this as vindication: 'From the day the FBI showed up, I said this investigation should never have happened and that the Biden DOJ had no right to rummage through a sitting congressman's legislative communications.' The House Ethics Committee investigation \u2014 which found 'substantial reason to believe' Ogles misrepresented campaign finance information and noted his treasurer provided 'misleading documentation' about the fabricated $320,000 loan \u2014 has not issued an update since January 2025 and remains open. A May 13, 2026 news conference saw Ogles offer a new, shifting account of a children's burial garden GoFundMe scandal. No new paid family leave or CTC positions were found in May\u2013June 2026.",
       "citations": [
         "https://clerk.house.gov/Votes/202430",
-        "https://heritageaction.com/scorecard/members/O000175/118"
+        "https://heritageaction.com/scorecard/members/O000175/118",
+        "https://tennesseelookout.com/2026/05/05/columbia-u-s-rep-andy-ogles-says-u-s-doj-has-returned-his-phone-signaling-end-of-investigation/",
+        "https://www.newschannel5.com/news/newschannel-5-investigates/trump-doj-agrees-to-destroy-evidence-seized-from-maga-congressman-andy-ogles",
+        "https://www.newschannel5.com/news/newschannel-5-investigates/andy-ogles-now-denies-raising-25-000-from-public-for-childrens-burial-garden-that-was-never-built"
       ]
     }
   },
@@ -522,36 +554,43 @@
     "party": "R",
     "race": "house",
     "district": "TN-5",
-    "primary_label": "Republican Primary · U.S. House TN-5",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-5",
     "role_subtitle": "Former TN Ag Commissioner",
     "bio": "Endorsed by former Gov. Bill Haslam and former Sen. Bob Corker. Considered the strongest Republican challenger to Ogles. $546K in FEC receipts with $214K cash on hand (Q1 2026).",
     "frontrunner": true,
-    "status_line": "★ Establishment-backed",
+    "status_line": "\u2605 Establishment-backed",
     "photo_url": "https://utia.tennessee.edu/spotlights/wp-content/uploads/sites/264/2024/07/CharlieHatcherHeadshot-scaled.jpg",
     "photo_credit": "University of Tennessee Institute of Agriculture",
     "campaign_url": "https://charliehatcher.com/",
     "official_url": "https://www.tn.gov/agriculture/department/commissioner-staff-thedept_rd/charlie-hatcher--d-v-m-.html",
     "twitter": "@TNAgCommish",
     "early_childhood_ed": {
-      "summary": "No public position found on early childhood education; platform is farm-focused with no stated education policy.",
-      "details": "Hatcher's campaign site emphasizes a pro-gun, pro-life, pro-Trump, farm-first identity. As Tennessee's Agriculture Commissioner for seven years, his public record relates to food safety, livestock, and rural policy rather than early childhood education. He has not articulated positions on Head Start, pre-K, childcare subsidies, or early learning.",
+      "summary": "No public position found on early childhood education; platform is farm-focused with no stated education policy. May\u2013June 2026 coverage confirms this pattern across multiple major media appearances.",
+      "details": "Hatcher's campaign site emphasizes a pro-gun, pro-life, pro-Trump, farm-first identity. As Tennessee's Agriculture Commissioner for seven years, his public record relates to food safety, livestock, and rural policy rather than early childhood education. He has not articulated positions on Head Start, pre-K, childcare subsidies, or early learning. In May\u2013June 2026 coverage \u2014 including a June 5 NewsChannel 5 'Inside Politics' interview, a June 8 Williamson Scene profile, a May 28 fundraiser with former Rep. Zach Wamp (who endorsed him), and a May 29 Tennessean story \u2014 Hatcher focused entirely on his work ethic, farming background, immigration, tariffs, and the Iran conflict. He received the endorsement of former U.S. Rep. Zach Wamp on May 28, 2026. No education policy statements of any kind were found.",
       "citations": [
-        "https://www.charliehatcher.com/"
+        "https://www.charliehatcher.com/",
+        "https://www.newschannel5.com/news/newschannel-5-investigates/republican-charlie-hatcher-challenges-andy-ogles-in-tennessees-5th-congressional-district-calling-him-a-show-horse",
+        "https://www.williamsonscene.com/news/charlie-hatcher-andy-ogles-tennessee-congressional-seat/article_dee10a5c-5296-488d-acda-888f8f1ef9b2.html",
+        "https://www.tennessean.com/story/news/politics/elections/2026/05/29/charlie-hatcher-zach-wamp-endorsement-andy-ogles-congress-challenge/90304092007/"
       ]
     },
     "child_hunger": {
-      "summary": "Hatcher's 'food security' framing is explicitly about agricultural supply chain resilience and national security — not child nutrition programs, SNAP, or school meals. He has not expressed support for or opposition to SNAP, Summer EBT, or school meal programs.",
-      "details": "In a June 8, 2026 interview with Main Street Maury, Hatcher stated: 'Food security is national security. Our enemies could take us down without firing a shot if they disrupted the food supply… We saw what that looked like during COVID, where the grocery store [shelves] were almost bare. Imagine if they were actually bare.' At a Brentwood Republican women's event, he pledged legislation 'aimed at ensuring America's food security and preservation of farmland from foreign entities.' These statements concern agricultural independence and domestic food production — not SNAP, child hunger, or school meal programs. No explicit stance on child nutrition programs found.",
+      "summary": "Hatcher's 'food security' framing remains explicitly about agricultural supply chain resilience and national security \u2014 not child nutrition programs, SNAP, or school meals. May\u2013June 2026 coverage confirms no new positions on SNAP or child hunger.",
+      "details": "In a June 8, 2026 interview with Main Street Maury, Hatcher stated: 'Food security is national security. Our enemies could take us down without firing a shot if they disrupted the food supply...' At a Brentwood Republican women's event, he pledged legislation 'aimed at ensuring America's food security and preservation of farmland from foreign entities.' At a May 28, 2026 fundraiser at The Grove with Zach Wamp, Hatcher declared himself 'MAHA [Make America Healthy Again] before there was MAHA.' In his June 5, 2026 NewsChannel 5 appearance, Hatcher said he supports tariffs and agreed with Trump broadly, but raised no food assistance positions. These statements concern agricultural independence and domestic food production \u2014 not SNAP, child hunger, or school meal programs. No explicit stance on child nutrition programs was found in May\u2013June 2026 coverage.",
       "citations": [
         "https://mainstreetmediatn.com/articles/mainstreetmaury/charlie-hatcher-talks-u-s-district-5-campaign/",
-        "https://www.williamsonscene.com/news/charlie-hatcher-andy-ogles-tennessee-congressional-seat"
+        "https://www.williamsonscene.com/news/charlie-hatcher-andy-ogles-tennessee-congressional-seat/article_dee10a5c-5296-488d-acda-888f8f1ef9b2.html",
+        "https://www.newschannel5.com/news/newschannel-5-investigates/republican-charlie-hatcher-challenges-andy-ogles-in-tennessees-5th-congressional-district-calling-him-a-show-horse",
+        "https://www.tennessean.com/story/news/politics/elections/2026/05/29/charlie-hatcher-zach-wamp-endorsement-andy-ogles-congress-challenge/90304092007/"
       ]
     },
     "parental_support": {
-      "summary": "No public position found; conservative alignment suggests opposition to new federal family benefit mandates.",
-      "details": "Hatcher presents as a conservative Republican in the Trump mold — 'pro-life, pro-gun, pro-Trump.' He has not addressed child tax credit policy, paid family leave, childcare costs, or parental rights legislation in any identified public statement.",
+      "summary": "No public position found on paid family leave, child tax credit, or childcare costs. May\u2013June 2026 coverage confirms no new positions on parental support policies.",
+      "details": "Hatcher presents as a conservative Republican in the Trump mold \u2014 'pro-life, pro-gun, pro-Trump.' In May\u2013June 2026 media coverage, Hatcher's stated priorities were food security, farmland preservation from foreign ownership, immigration (he shared Heritage Action content supporting Rep. Chip Roy's PAUSE Act to freeze immigration), tariffs, and the Iran conflict. He told the Williamson Scene (June 8, 2026): 'If I'm a one-termer, I'm fine with it. I'm just going to vote the way I think I should vote to represent the district. That might be contrary to the administration or it may not be depending on what it is.' He has not addressed child tax credit policy, paid family leave, childcare costs, or parental rights legislation in any identified public statement through June 2026.",
       "citations": [
-        "https://www.charliehatcher.com/"
+        "https://www.charliehatcher.com/",
+        "https://www.williamsonscene.com/news/charlie-hatcher-andy-ogles-tennessee-congressional-seat/article_dee10a5c-5296-488d-acda-888f8f1ef9b2.html",
+        "https://www.newschannel5.com/news/newschannel-5-investigates/republican-charlie-hatcher-challenges-andy-ogles-in-tennessees-5th-congressional-district-calling-him-a-show-horse"
       ]
     }
   },
@@ -561,35 +600,41 @@
     "party": "D",
     "race": "house",
     "district": "TN-5",
-    "primary_label": "Democratic Primary · U.S. House TN-5",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-5",
     "role_subtitle": "Mayor of Columbia, TN",
     "bio": "DCCC top target. Has raised $1.81M total ($978K cash on hand, Q1 2026). Leads Republican candidates in fundraising. Centrist Democrat with crossover appeal in a swing district.",
     "frontrunner": true,
-    "status_line": "★ DCCC Red-to-Blue · $978K COH",
+    "status_line": "\u2605 DCCC Red-to-Blue \u00b7 $978K COH",
     "photo_url": "https://chazmolder.com/wp-content/uploads/2025/09/Molder_OG2_082625.png",
     "photo_credit": "Official campaign photo",
     "campaign_url": "https://chazmolder.com/",
     "official_url": "https://www.columbia-tn.gov/",
     "twitter": null,
     "early_childhood_ed": {
-      "summary": "No explicit pre-K, universal early childhood, or childcare investment positions were found on the current chazmolder.com/issues page (crawled June 2026). Prior profile entries may have reflected campaign statements or earlier site content no longer accessible. Recommend re-verification.",
-      "details": "The chazmolder.com/issues page (crawled June 17, 2026) lists three themes: (1) Middle Tennessee Values (ethics, anti-corruption); (2) Lowering Costs ('healthcare, housing, and groceries'); (3) Expanding Access to Healthcare. No mention of childcare, pre-K, early childhood education, or childcare workforce appears on the current issues page. General 'lowering costs' language could encompass childcare but no explicit commitment is stated. Note: redistricting moved his district from the old TN-5 map to a new configuration.",
+      "summary": "No explicit pre-K, universal early childhood, or childcare investment positions were found on chazmolder.com or in May\u2013June 2026 media coverage. General 'affordability' and 'lowering costs' language remains Molder's public framing without specific childcare commitments.",
+      "details": "The chazmolder.com/issues page (crawled June 17, 2026) lists three themes: (1) Middle Tennessee Values (ethics, anti-corruption); (2) Lowering Costs ('healthcare, housing, and groceries'); (3) Expanding Access to Healthcare. No mention of childcare, pre-K, early childhood education, or childcare workforce appears on the current issues page. In May\u2013June 2026 media coverage \u2014 including a June 12 NewsChannel 5 profile, a May 28 Politics War Room podcast with James Carville, a May 17 Williamson County Democrats rally, a May 22 Memphis event at Handy Park, and a June 5 Union City campaign stop \u2014 Molder consistently focused on affordability, the national debt, opposition to tariffs, and opposition to the Iran war. He remains in the TN-5 race despite redistricting cutting his home out of the district. No specific childcare or early education positions were stated in any identified May\u2013June 2026 appearance.",
       "citations": [
-        "https://chazmolder.com/issues"
+        "https://chazmolder.com/issues",
+        "https://www.newschannel5.com/news/newschannel-5-investigates/ogles-has-betrayed-us-says-democratic-challenger-chaz-molder-who-seeks-to-unseat-controversial-congressman",
+        "https://www.williamsonscene.com/news/williamson-county-democrats-redistricting-rally-2026/article_6d7e0284-8940-4591-9457-ee98be8bf830.html"
       ]
     },
     "child_hunger": {
-      "summary": "No explicit SNAP, Summer EBT, or school meal positions found on the current campaign website. Groceries are mentioned under 'Lowering Costs' in a general affordability context.",
-      "details": "The /issues page mentions lowering 'everyday expenses, such as healthcare, housing, and groceries' but does not name SNAP, Summer EBT, or school meal programs. Prior profile entries referencing specific SNAP/school meal positions could not be confirmed from current site content.",
+      "summary": "No explicit SNAP, Summer EBT, or school meal positions found. Molder's May\u2013June 2026 public statements frame affordability around groceries, the national debt, and opposition to tariffs \u2014 but do not name federal food assistance programs specifically.",
+      "details": "The /issues page mentions lowering 'everyday expenses, such as healthcare, housing, and groceries' but does not name SNAP, Summer EBT, or school meal programs. In a June 12, 2026 NewsChannel 5 interview, Molder stated he will 'focus on affordability and concerns about the increasing national debt' and that he 'opposes tariffs.' At a May 22, 2026 Memphis campaign event, Molder said he wants to be 'a congressman that will fight for all of Memphis and all of Shelby County' and bridge the needs of 'rural West Tennessee' with those of Nashville \u2014 without naming food assistance programs. A June 16, 2026 Tennessee Lookout investigation documented ~100,000 Tennesseans losing SNAP benefits under the One Big Beautiful Bill, but no statement by Molder specifically responding to those losses was found in searched coverage.",
       "citations": [
-        "https://chazmolder.com/issues"
+        "https://chazmolder.com/issues",
+        "https://www.newschannel5.com/news/newschannel-5-investigates/ogles-has-betrayed-us-says-democratic-challenger-chaz-molder-who-seeks-to-unseat-controversial-congressman",
+        "https://www.actionnews5.com/2026/05/22/outsider-candidates-share-why-theyre-looking-represent-shelby-county-congress/"
       ]
     },
     "parental_support": {
-      "summary": "No explicit paid family leave, childcare affordability, or child tax credit positions found on the current campaign website. 'Lowering costs' and worker organizing rights are listed in general terms.",
-      "details": "The issues page mentions 'empower workers by standing up for the right to organize and strengthening labor protections' under Lowering Costs. No mention of paid family leave, childcare affordability as a named commitment, or CTC expansion. Prior profile entries referencing these specific positions could not be confirmed from current site content.",
+      "summary": "No explicit paid family leave, childcare affordability, or child tax credit positions found in May\u2013June 2026 coverage. Molder's campaign messaging centers on affordability, anti-corruption, and defeating Ogles, without naming specific family benefit programs.",
+      "details": "The issues page mentions 'empower workers by standing up for the right to organize and strengthening labor protections' under Lowering Costs. No mention of paid family leave, childcare affordability as a named commitment, or CTC expansion. In May\u2013June 2026 interviews, Molder stated his focus is on affordability and the national debt, and that he opposes tariffs and the Iran war. When asked about social issues, he offered a values-based framing: 'I am attending the same church with my wife and kids that I was raised in, in Columbia. I believe we should love our neighbors. We should live by the golden rule.' Despite Molder having approximately $978K cash on hand and being a DCCC Red-to-Blue target, no family-benefit policy specifics were found in any May\u2013June 2026 media appearance.",
       "citations": [
-        "https://chazmolder.com/issues"
+        "https://chazmolder.com/issues",
+        "https://www.newschannel5.com/news/newschannel-5-investigates/ogles-has-betrayed-us-says-democratic-challenger-chaz-molder-who-seeks-to-unseat-controversial-congressman",
+        "https://www.williamsonscene.com/news/williamson-county-democrats-redistricting-rally-2026/article_6d7e0284-8940-4591-9457-ee98be8bf830.html"
       ]
     }
   },
@@ -599,7 +644,7 @@
     "party": "D",
     "race": "house",
     "district": "TN-4",
-    "primary_label": "Democratic Primary · U.S. House TN-5",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-5",
     "role_subtitle": "Metro Nashville Council",
     "bio": "Nashville Metro Council member and Belmont University adjunct professor. Has raised approximately $261K. Competing in the Democratic primary.",
     "frontrunner": false,
@@ -610,26 +655,29 @@
     "official_url": "https://www.nashville.gov/departments/council/people/mike-cortese",
     "twitter": null,
     "early_childhood_ed": {
-      "summary": "Cortese co-sponsored March 2026 Nashville Metro Council legislation to expand childcare access by removing zoning barriers — including eliminating the 1,000-foot spacing rule that prevented new centers from opening near each other. This is a documented, legislative action on childcare access, though his federal campaign website does not yet articulate a formal federal childcare platform.",
-      "details": "In March 2026, Cortese and Council Member Rollin Horton co-sponsored legislation to remove supply-side zoning barriers to childcare. Cortese stated: 'You look at families, young families, young couples who are trying to start a family, and it's just a major barrier for them... we're looking at the zoning code, and there are a lot of obstacles in the way. We're missing almost 27-28 child care slots in the city. And we have this ridiculous claim that says they can't be built within 1,000 feet of each other?' The legislation passed its first reading (second reading set April 7, 2026). His federal campaign website (mikefortennessee.com) does not have a functioning /issues page; home page focuses on working families and cost of living.",
+      "summary": "Cortese co-sponsored March 2026 Nashville Metro Council legislation to expand childcare access by removing zoning barriers \u2014 the legislation passed and was signed into law in May 2026. After redistricting, Cortese moved his congressional candidacy from TN-5 to TN-4 (now challenging incumbent Republican Scott DesJarlais). His childcare zoning record remains his most substantive public action on early childhood policy.",
+      "details": "In March 2026, Cortese and Council Member Rollin Horton co-sponsored legislation to remove supply-side zoning barriers to childcare, including eliminating the 1,000-foot spacing rule that prevented new centers from opening near each other. Cortese stated: 'You look at families, young families, young couples who are trying to start a family, and it's just a major barrier for them... we're looking at the zoning code, and there are a lot of obstacles in the way. We're missing almost 27-28 child care slots in the city. And we have this ridiculous claim that says they can't be built within 1,000 feet of each other?' A May 29, 2026 WSMV report confirmed the legislation passed, with Mayor Freddie O'Connell signing it into law. Cortese's campaign tagline 'you can't gerrymander your way past voters' emerged in May 2026 after redistricting moved him from TN-5 to TN-4. His federal campaign website (mikefortennessee.com) does not have a functioning /issues page.",
       "citations": [
         "https://www.wkrn.com/news/local-news/middle-tn-neighborhood-news/metro-leaders-push-legislation-to-end-child-care-affordability-crisis/",
-        "https://mikefortennessee.com/"
+        "https://www.wsmv.com/2026/05/29/nashville-leaders-remove-decades-old-childcare-barriers-expand-access/",
+        "https://www.nashvillescene.com/news/coverstory/gerrymandering-locate-my-congressional-district/article_82ca7939-81fa-468d-867c-81e6bbf8ee3c.html"
       ]
     },
     "child_hunger": {
-      "summary": "Cortese authored Metro Council resolution RS2026-1825 (passed March 3, 2026) urging the Tennessee General Assembly to allow Nashville to lower its grocery tax rate — a direct food affordability action. His federal campaign frames cost of living (including groceries) as a central concern but does not name SNAP or Summer EBT programs explicitly.",
-      "details": "On March 11, 2026, Cortese reported: 'On March 3rd, we passed RS2026-1825. This is a resolution I authored. It urges the Tennessee General Assembly to support House Bill 1893/Senate Bill 1702 to permit metropolitan governments to lower the grocery tax rate.' At a May 20, 2026 Metro Council meeting on redistricting, Cortese stated: 'These politicians... send the bill to working families who can no longer afford groceries, rent, a doctor's visit, or a full tank of gas.' Campaign website home page mentions 'bring down the cost of living' but does not name SNAP, Summer EBT, or school meals.",
+      "summary": "Cortese authored Metro Council resolution RS2026-1825 (passed March 3, 2026) urging the Tennessee General Assembly to allow Nashville to lower its grocery tax rate. At a May 20, 2026 Metro Council meeting on redistricting, he directly linked gerrymandering to the affordability crisis facing working families.",
+      "details": "On March 11, 2026, Cortese reported: 'On March 3rd, we passed RS2026-1825. This is a resolution I authored. It urges the Tennessee General Assembly to support House Bill 1893/Senate Bill 1702 to permit metropolitan governments to lower the grocery tax rate.' At the May 20, 2026 Metro Council meeting condemning Tennessee's redistricting (RS2026-1994), Cortese stated: 'These politicians... send the bill to working families who can no longer afford groceries, rent, a doctor's visit, or a full tank of gas. You cannot gerrymander your way out of $5 eggs, you cannot gerrymander your way out of a broken health care system, and you cannot gerrymander your way past voters who are tired of being lied to.' Campaign website home page mentions 'bring down the cost of living' but does not name SNAP, Summer EBT, or school meals.",
       "citations": [
         "https://nextdoor.com/p/QjcqdK58GBys",
+        "https://www.wkrn.com/news/local-news/nashville/metro-council-tn-redistricting/",
         "https://mikefortennessee.com/"
       ]
     },
     "parental_support": {
-      "summary": "No specific positions on paid family leave, child tax credit, childcare costs, or parental rights found publicly.",
-      "details": "Cortese has campaigned as a husband and father of two who understands working-family pressures and the cost of living crisis, but has not published specific policy positions on paid family leave, child tax credits, childcare subsidies, or parental rights as of April 2026.",
+      "summary": "No specific positions on paid family leave, child tax credit, childcare costs, or parental rights found publicly. May\u2013June 2026 coverage confirms Cortese remained focused on redistricting opposition, cost-of-living issues, and his transition to the TN-4 race after redistricting moved him out of TN-5.",
+      "details": "Cortese has campaigned as a husband and father of two who understands working-family pressures and the cost of living crisis, but has not published specific policy positions on paid family leave, child tax credits, childcare subsidies, or parental rights. Following the May 2026 redistricting, Cortese switched his congressional race to TN-4 (now challenging Republican incumbent Scott DesJarlais) rather than remaining in TN-5. A June 13, 2026 fundraising appeal described him as an underdog who 'built everything from nothing' and framed his campaign around anti-gerrymandering resistance, with his primary deadline set at June 30, 2026 fundraising report. No paid leave or CTC positions were found in May\u2013June 2026 coverage.",
       "citations": [
-        "https://mikefortennessee.com"
+        "https://mikefortennessee.com",
+        "https://www.nashvillescene.com/news/coverstory/gerrymandering-locate-my-congressional-district/article_82ca7939-81fa-468d-867c-81e6bbf8ee3c.html"
       ]
     }
   }

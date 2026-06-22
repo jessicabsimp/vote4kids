@@ -5,11 +5,11 @@
     "party": "R",
     "race": "governor",
     "district": null,
-    "primary_label": "Republican Primary · Governor",
+    "primary_label": "Republican Primary \u00b7 Governor",
     "role_subtitle": "U.S. Senator",
     "bio": "Tennessee's senior U.S. senator since 2019, Blackburn is the polling frontrunner with broad establishment support and statewide name recognition. Trump-aligned conservative.",
     "frontrunner": true,
-    "status_line": "★ Frontrunner · polling leader",
+    "status_line": "\u2605 Frontrunner \u00b7 polling leader",
     "photo_url": "https://www.blackburn.senate.gov/themes/marvel-theme-tn-blackburn-marsha/assets/img/social/default.jpg",
     "photo_credit": "Official Senate website",
     "campaign_url": "https://marshablackburn.com",
@@ -27,16 +27,18 @@
     },
     "child_hunger": {
       "summary": "Blackburn co-sponsored legislation to maintain SNAP funding during a government shutdown and publicly praised a 2026 SNAP waiver restricting junk food purchases in Tennessee, framing it as a health improvement rather than a cut to food assistance.",
-      "details": "In October 2025, Blackburn co-sponsored the Keep SNAP Funded Act to ensure uninterrupted SNAP benefits during a government shutdown, stating 'roughly one in 10 Tennesseans receive SNAP benefits and they shouldn't have to worry about where their next meal will come from.' In January 2026, she praised the USDA-approved waiver restricting SNAP from being used for soda and sugary foods in Tennessee starting July 31, 2026, thanking Governor Lee and federal health officials. The Working Families Tax Cuts she championed shifted SNAP administrative costs from a 50-50 federal-state split to a 75% state share, creating additional budget pressures on Tennessee. No Blackburn statements on Summer EBT or the Tennessee SUN Bucks legislative debate were found.",
+      "details": "In October 2025, Blackburn co-sponsored the Keep SNAP Funded Act to ensure uninterrupted SNAP benefits during a government shutdown, stating 'roughly one in 10 Tennesseans receive SNAP benefits and they shouldn't have to worry about where their next meal will come from.' In January 2026, she praised the USDA-approved waiver restricting SNAP from being used for soda and sugary foods in Tennessee starting July 31, 2026, thanking Governor Lee and federal health officials. The Working Families Tax Cuts she championed shifted SNAP administrative costs from a 50-50 federal-state split to a 75% state share, creating additional budget pressures on Tennessee. No Blackburn statements on Summer EBT or the Tennessee SUN Bucks legislative debate were found. On June 13, 2026, Blackburn told WJHL/News 2 that Tennessee SNAP recipients who lost benefits 'need to get a job' and defended the One Big Beautiful Bill's SNAP provisions as promoting self-sufficiency, stating the changes 'encourage people to be productive members of society.'",
       "citations": [
         "https://www.blackburn.senate.gov/2025/10/general/blackburn-supports-bill-to-fund-snap-during-schumer-shutdown",
         "https://www.wvlt.tv/2026/01/15/heres-when-soda-candy-other-junk-food-will-be-removed-from-snap-benefits-tn/",
-        "https://jacksonsun.com/story/news/politics/2026/03/02/tennessee-budget-increase-snap-benefits-big-beautiful-bill/88883829007/"
+        "https://jacksonsun.com/story/news/politics/2026/03/02/tennessee-budget-increase-snap-benefits-big-beautiful-bill/88883829007/",
+        "https://www.wjhl.com/news/local/blackburn-defends-snap-changes-tennessee",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
       "summary": "Blackburn championed the Working Families Tax Cuts (the signed One Big Beautiful Bill), securing a permanently enhanced Child Tax Credit at $2,200 per child, an expanded employer childcare tax credit, and a permanent Paid Family and Medical Leave Tax Credit. She opposes government-mandated paid leave or federally administered childcare programs.",
-      "details": "The Working Families Tax Cuts permanently set the Child Tax Credit at $2,200 per child, indexed for inflation. Blackburn personally secured an expansion of the Employer-Provided Child Care Credit, citing that 48% of Tennessee residents live in childcare deserts, and the law raised the employer childcare credit maximum to $500,000 ($600,000 for small businesses). The law also permanently expanded the Paid Family and Medical Leave Tax Credit nationwide, reduced the minimum employment requirement from one year to six months, and established Trump Accounts — tax-advantaged savings accounts with a $1,000 Treasury seed for children born 2025–2028. In a February 2026 Senate floor speech, Blackburn called the law 'historic tax relief' and in an April 2026 op-ed noted the enhanced child tax credit had been claimed by more than 34 million families.",
+      "details": "The Working Families Tax Cuts permanently set the Child Tax Credit at $2,200 per child, indexed for inflation. Blackburn personally secured an expansion of the Employer-Provided Child Care Credit, citing that 48% of Tennessee residents live in childcare deserts, and the law raised the employer childcare credit maximum to $500,000 ($600,000 for small businesses). The law also permanently expanded the Paid Family and Medical Leave Tax Credit nationwide, reduced the minimum employment requirement from one year to six months, and established Trump Accounts \u2014 tax-advantaged savings accounts with a $1,000 Treasury seed for children born 2025\u20132028. In a February 2026 Senate floor speech, Blackburn called the law 'historic tax relief' and in an April 2026 op-ed noted the enhanced child tax credit had been claimed by more than 34 million families.",
       "citations": [
         "https://www.blackburn.senate.gov/2026/2/jobs%20and%20economy/this-tax-season-brings-historic-relief-for-tennesseans",
         "https://elizabethton.com/2026/04/21/the-working-families-tax-cuts-delivered-and-this-tax-season-proves-it/",
@@ -51,7 +53,7 @@
     "party": "R",
     "race": "governor",
     "district": null,
-    "primary_label": "Republican Primary · Governor",
+    "primary_label": "Republican Primary \u00b7 Governor",
     "role_subtitle": "U.S. Rep, TN-6",
     "bio": "Four-term congressman from the Cumberland Plateau leaving his House seat to run. Farmer and small-business owner from Cookeville.",
     "frontrunner": false,
@@ -72,10 +74,12 @@
     },
     "child_hunger": {
       "summary": "No specific position on child hunger, SNAP, Summer EBT, or school nutrition programs has been found in Rose's governor campaign. His campaign platform does not address food security policy.",
-      "details": "Rose's campaign website and available 2026 news coverage contain no statements on SNAP, Summer EBT/SUN Bucks, school meals, or food assistance for children. In his February 2026 Knox News interview, he mentioned 'children's services, how we care for the most vulnerable in our society' as issues heard on the campaign trail, but offered no specific policy positions. As a U.S. Representative, Rose voted yes on the Nutritious SNAP Act of 2025, but he resigned from Congress to focus on the governor race and no new votes or statements on food assistance have been identified since. Tennessee's ongoing Summer EBT legislative debate has not drawn any public comment from Rose.",
+      "details": "Rose's campaign website and available 2026 news coverage contain no statements on SNAP, Summer EBT/SUN Bucks, school meals, or food assistance for children. In his February 2026 Knox News interview, he mentioned 'children's services, how we care for the most vulnerable in our society' as issues heard on the campaign trail, but offered no specific policy positions. As a U.S. Representative, Rose voted yes on the Nutritious SNAP Act of 2025, but he resigned from Congress to focus on the governor race and no new votes or statements on food assistance have been identified since. Tennessee's ongoing Summer EBT legislative debate has not drawn any public comment from Rose. A June 17, 2026 ProPublica investigation found that 776,000 children nationally lost SNAP benefits under the One Big Beautiful Bill Act \u2014 which Rose in his congressional capacity called 'a historic accomplishment' that would ensure food assistance reaches those truly in need. ProPublica noted Rose did not respond to follow-up questions about the children who lost benefits. Tennessee SNAP enrollment dropped from 696,000 in July 2025 to 597,890 by May 2026.",
       "citations": [
         "https://johnrose.com/issues/",
-        "https://www.jacksonsun.com/story/news/politics/elections/2026/02/09/rep-john-rose-using-business-acumen-in-tennessee-governor-race/88384772007/"
+        "https://www.jacksonsun.com/story/news/politics/elections/2026/02/09/rep-john-rose-using-business-acumen-in-tennessee-governor-race/88384772007/",
+        "https://www.propublica.org/article/snap-benefits-children-food-stamps",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
@@ -95,7 +99,7 @@
     "party": "R",
     "race": "governor",
     "district": null,
-    "primary_label": "Republican Primary · Governor",
+    "primary_label": "Republican Primary \u00b7 Governor",
     "role_subtitle": "State Representative",
     "bio": "East Tennessee state legislator running on a populist conservative platform. Lower profile statewide than Blackburn or Rose.",
     "frontrunner": false,
@@ -106,7 +110,7 @@
     "official_url": "https://www.capitol.tn.gov/house/members/h33.html",
     "twitter": "@MontyFritts4TN",
     "early_childhood_ed": {
-      "summary": "No specific position on early childhood education, pre-K, Head Start, or childcare programs. Fritts' platform explicitly opposes taxpayer-funded vouchers (Education Freedom Scholarships) — a significant distinction from the other Republican governors — and favors strengthening public education instead.",
+      "summary": "No specific position on early childhood education, pre-K, Head Start, or childcare programs. Fritts' platform explicitly opposes taxpayer-funded vouchers (Education Freedom Scholarships) \u2014 a significant distinction from the other Republican governors \u2014 and favors strengthening public education instead.",
       "details": "fritts4tn.com is now live with a full 10-plank 'Liberty & Less Government' platform. Plank 3 ('Save Education, Respect Parents') states: 'Parents are the first and final voice in their children's education. Preserve Tennessee values and traditions in every classroom. Put reading, writing, math, and civics ahead of ideology. Respect teachers who respect the family.' A May 18, 2026 interview with Professional Educators of Tennessee confirmed: 'He supports parental choice but opposes taxpayer-funded vouchers, a defining position. He argues that public dollars should be dedicated to strengthening public education rather than to subsidizing private alternatives.' He also supports reduced standardized testing and expanded teacher autonomy. No statements on pre-K, Head Start, or government-funded childcare programs were found.",
       "citations": [
         "https://fritts4tn.com",
@@ -136,9 +140,9 @@
     "party": "I",
     "race": "governor",
     "district": null,
-    "primary_label": "Independent · Governor",
-    "role_subtitle": "Independent · former Lipscomb professor",
-    "bio": "Independent gubernatorial candidate. Former Lipscomb University professor with a detailed family-economic platform — only candidate proposing redirecting Education Freedom Scholarship funds to early childhood ed and employer on-site daycare.",
+    "primary_label": "Independent \u00b7 Governor",
+    "role_subtitle": "Independent \u00b7 former Lipscomb professor",
+    "bio": "Independent gubernatorial candidate. Former Lipscomb University professor with a detailed family-economic platform \u2014 only candidate proposing redirecting Education Freedom Scholarship funds to early childhood ed and employer on-site daycare.",
     "frontrunner": false,
     "status_line": null,
     "photo_url": null,
@@ -148,14 +152,15 @@
     "twitter": null,
     "early_childhood_ed": {
       "summary": "Pinkston strongly supports expanding affordable early childhood education, proposing to redirect Tennessee's Education Freedom Scholarship budget increases toward pre-K and to support businesses that offer on-site daycare. This position was reaffirmed in a March 2026 podcast interview.",
-      "details": "Pinkston's platform states she 'strongly supports shifting Tennessee increased budget Education Freedom Scholarships to early childhood education funds, as well as any budget measures that will expand the number of affordable early childhood education opportunities for families in Tennessee.' She specifically proposes these funds 'support businesses that offer on-site daycare,' framing the investment as growing the workforce, expanding the economy through dual-income households, and relieving financial pressure on young families. In a March 2026 interview on The Loyal Opposition podcast, she reiterated her priority of 'shifting focus from vouchers to early childhood and workplace childcare.' This is the most detailed early childhood education proposal among the gubernatorial candidates.",
+      "details": "Pinkston's platform states she 'strongly supports shifting Tennessee increased budget Education Freedom Scholarships to early childhood education funds, as well as any budget measures that will expand the number of affordable early childhood education opportunities for families in Tennessee.' She specifically proposes these funds 'support businesses that offer on-site daycare,' framing the investment as growing the workforce, expanding the economy through dual-income households, and relieving financial pressure on young families. In a March 2026 interview on The Loyal Opposition podcast, she reiterated her priority of 'shifting focus from vouchers to early childhood and workplace childcare.' This is the most detailed early childhood education proposal among the gubernatorial candidates. A June 18, 2026 Tennessean op-ed by former Republican governors Christine Todd Whitman (NJ) and Kerry Healey (MA) explicitly praised Pinkston's proposal to redirect Education Freedom Scholarship funding growth toward early childhood education, describing it as 'fiscally sound and family-forward policy' and calling it a model other states should consider.",
       "citations": [
         "https://pinkstonfortn.com/en/issues",
-        "https://www.theloyalopposition.online/listen/ced5a48nz9hdabr-6sra8-t64cz-mfh8w-kkrgj-xfd69-4jrlk-3l7w4-jxrj6"
+        "https://www.theloyalopposition.online/listen/ced5a48nz9hdabr-6sra8-t64cz-mfh8w-kkrgj-xfd69-4jrlk-3l7w4-jxrj6",
+        "https://www.tennessean.com/story/opinion/2026/06/18/tennessee-governor-early-childhood-education-pinkston/90486121007/"
       ]
     },
     "child_hunger": {
-      "summary": "Pinkston explicitly opposes SNAP benefit restrictions — arguing they harm local grocers and raise costs for middle-class families — and supports exploring removal of the grocery tax. Her platform positions her as the most opposed to SNAP purchase restrictions among the gubernatorial candidates.",
+      "summary": "Pinkston explicitly opposes SNAP benefit restrictions \u2014 arguing they harm local grocers and raise costs for middle-class families \u2014 and supports exploring removal of the grocery tax. Her platform positions her as the most opposed to SNAP purchase restrictions among the gubernatorial candidates.",
       "details": "Pinkston's platform states: 'Lauren opposes restrictions that would block SNAP benefits from being used for certain foods like snacks or sodas. These restrictions would harm local grocers and drive up food costs for middle-class families.' She also supports 'exploring the fiscal viability of removing the grocery tax in Tennessee, while protecting the stability of the state budget.' Her income incentive policy proposes restructuring public assistance to eliminate 'benefit cliffs' where recipients lose benefits upon earning more. No specific post-April 2026 statement responding to Tennessee's SNAP junk food waiver approval (slated to take effect July 2026) was found in reviewed sources.",
       "citations": [
         "https://pinkstonfortn.com/en/issues",
@@ -164,10 +169,11 @@
     },
     "parental_support": {
       "summary": "Pinkston supports restructuring public assistance to eliminate benefit cliffs that penalize working parents, and proposes channeling early childhood education funding toward businesses offering on-site daycare as a childcare cost-relief measure for dual-income families.",
-      "details": "Pinkston's platform ties parental financial support to two main mechanisms: first, redirecting Education Freedom Scholarship budget growth to early childhood education and employer on-site daycare, described as a way to 'relieve financial pressure on growing families with young children'; second, working with the Department of Human Services to eliminate 'benefit cliffs' that create disincentives to work for families receiving public assistance. She also supports protecting collective bargaining rights, framing strong workplaces as foundational to 'stronger families, communities, and local economies.' No standalone paid family leave mandate or child tax credit proposal was found in her platform materials, and no specific response to the federal Working Families Tax Cuts was found through May 2026.",
+      "details": "Pinkston's platform ties parental financial support to two main mechanisms: first, redirecting Education Freedom Scholarship budget growth to early childhood education and employer on-site daycare, described as a way to 'relieve financial pressure on growing families with young children'; second, working with the Department of Human Services to eliminate 'benefit cliffs' that create disincentives to work for families receiving public assistance. She also supports protecting collective bargaining rights, framing strong workplaces as foundational to 'stronger families, communities, and local economies.' No standalone paid family leave mandate or child tax credit proposal was found in her platform materials, and no specific response to the federal Working Families Tax Cuts was found through May 2026. The same June 18, 2026 Tennessean op-ed by former Republican governors Whitman and Healey supported redirecting voucher budget growth to employer on-site daycare as a family economic relief mechanism, lending bipartisan credibility to Pinkston's approach.",
       "citations": [
         "https://pinkstonfortn.com/en/issues",
-        "https://www.theloyalopposition.online/listen/ced5a48nz9hdabr-6sra8-t64cz-mfh8w-kkrgj-xfd69-4jrlk-3l7w4-jxrj6"
+        "https://www.theloyalopposition.online/listen/ced5a48nz9hdabr-6sra8-t64cz-mfh8w-kkrgj-xfd69-4jrlk-3l7w4-jxrj6",
+        "https://www.tennessean.com/story/opinion/2026/06/18/tennessee-governor-early-childhood-education-pinkston/90486121007/"
       ]
     }
   },
@@ -177,11 +183,11 @@
     "party": "D",
     "race": "governor",
     "district": null,
-    "primary_label": "Democratic Primary · Governor",
+    "primary_label": "Democratic Primary \u00b7 Governor",
     "role_subtitle": "Memphis-area Democrat",
     "bio": "Democratic primary frontrunner running a coalition campaign rooted in West Tennessee. Focused on healthcare, education, and rural-urban balance.",
     "frontrunner": true,
-    "status_line": "★ Lead Dem fundraiser",
+    "status_line": "\u2605 Lead Dem fundraiser",
     "photo_url": "https://greenforgovernor.com/wp-content/uploads/2025/08/image-1.webp",
     "photo_credit": "Green for Governor official campaign website",
     "campaign_url": "https://greenforgovernor.com",
@@ -189,21 +195,23 @@
     "twitter": "@Jerri_M_Green",
     "early_childhood_ed": {
       "summary": "Green supports universal pre-K, a dedicated childcare and early education fund, expanded home visiting programs, and robust special education investment. Her campaign homepage explicitly lists 'Affordable child care' as a core commitment alongside paid family leave. Her Memphis City Council record includes personally putting 'more kids in pre-K and youth programming.'",
-      "details": "Green's campaign homepage (greenforgovernor.com) states: 'Paid family leave. Affordable child care. A real living wage. Because families deserve more than survival — they deserve stability and dignity.' Her About page documents her Memphis City Council record: 'Jerri has increased funding for first responders, pushed legislation to crack down on neglectful landlords, put more kids in pre-K and youth programming, and reduced violent crime.' Her full platform (when accessible) commits to: 'invest in universal pre-K, special education, and rural schools'; 'start a dedicated childcare and early education fund, to include investments in afterschool and summer care programming for households making less than $75K a year'; and as a Day One priority: 'Use $50 Million of TANF funding to clear the waitlist for every family, ensuring no parent has to choose between a paycheck and their child.' She has a Special Education Equity Fund proposal and a 'Teach Every Student' fellowship to recruit special education teachers.",
+      "details": "Green's campaign homepage (greenforgovernor.com) states: 'Paid family leave. Affordable child care. A real living wage. Because families deserve more than survival \u2014 they deserve stability and dignity.' Her About page documents her Memphis City Council record: 'Jerri has increased funding for first responders, pushed legislation to crack down on neglectful landlords, put more kids in pre-K and youth programming, and reduced violent crime.' Her full platform (when accessible) commits to: 'invest in universal pre-K, special education, and rural schools'; 'start a dedicated childcare and early education fund, to include investments in afterschool and summer care programming for households making less than $75K a year'; and as a Day One priority: 'Use $50 Million of TANF funding to clear the waitlist for every family, ensuring no parent has to choose between a paycheck and their child.' She has a Special Education Equity Fund proposal and a 'Teach Every Student' fellowship to recruit special education teachers. In a May 1, 2026 Tennessee Firefly interview, Green discussed her personal experience with an autistic son who benefited from specialized support and used this to argue that the U.S. Department of Education must be protected: 'When we talk about gutting the Department of Education, when we talk about the policies that are being rolled back, those policies impact children like my son.' She framed Tennessee's Education Freedom Scholarship expansion as 'welfare for the wealthy' that drains resources from the special education classrooms that vulnerable children depend on.",
       "citations": [
         "https://greenforgovernor.com/",
         "https://greenforgovernor.com/about",
+        "https://tnfirefly.com/news/jerri-green-wants-to-strengthen-special-education-end-welfare-for-the-wealthy",
         "https://tnfirefly.com/news/jerri-green-wants-to-strengthen-special-education-end-welfare-for-the-wealthy"
       ]
     },
     "child_hunger": {
-      "summary": "Green explicitly opposes cuts to SNAP and has pledged to use state resources to combat child food insecurity, stating that one in five Tennessee children goes to bed hungry. She has a documented record of taking concrete action during federal SNAP disruptions — including championing free bus passes during the 2025 government shutdown that disrupted SNAP benefits.",
-      "details": "At a February 2026 campaign event, Green stated: '1 in 5 kids right now in the state of Tennessee goes to bed hungry; our governor and government won't step up, and we can change that,' and pledged to 'budget to fund those in need of SNAP/EBT benefits who were affected by the Big Beautiful Bill.' Her About page notes she 'championed free bus passes to provide support during the federal government shutdown and cuts to SNAP benefits' as a Memphis City Council action. Her platform explicitly includes a commitment to 'lift families out of poverty — not punish them with cruel cuts to SNAP or housing aid' and to eliminate the state grocery tax. Context: Tennessee Lookout (June 16, 2026) reported ~100,000 Tennesseans lost SNAP benefits since the OBBB took effect in July 2025, with enrollment dropping from 696,000 to 597,890.",
+      "summary": "Green explicitly opposes cuts to SNAP and has pledged to use state resources to combat child food insecurity, stating that one in five Tennessee children goes to bed hungry. She has a documented record of taking concrete action during federal SNAP disruptions \u2014 including championing free bus passes during the 2025 government shutdown that disrupted SNAP benefits.",
+      "details": "At a February 2026 campaign event, Green stated: '1 in 5 kids right now in the state of Tennessee goes to bed hungry; our governor and government won't step up, and we can change that,' and pledged to 'budget to fund those in need of SNAP/EBT benefits who were affected by the Big Beautiful Bill.' Her About page notes she 'championed free bus passes to provide support during the federal government shutdown and cuts to SNAP benefits' as a Memphis City Council action. Her platform explicitly includes a commitment to 'lift families out of poverty \u2014 not punish them with cruel cuts to SNAP or housing aid' and to eliminate the state grocery tax. Context: Tennessee Lookout (June 16, 2026) reported ~100,000 Tennesseans lost SNAP benefits since the OBBB took effect in July 2025, with enrollment dropping from 696,000 to 597,890.",
       "citations": [
         "https://greenforgovernor.com/",
         "https://greenforgovernor.com/about",
         "https://www.yahoo.com/news/articles/tennessee-candidate-governor-jerri-green-105034364.html",
-        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/",
+        "https://www.wjhl.com/news/tennessee-snap-enrollment-drops-by-more-than-100000-following-federal-rule-changes/"
       ]
     },
     "parental_support": {
@@ -222,8 +230,8 @@
     "party": "D",
     "race": "governor",
     "district": null,
-    "primary_label": "Democratic Primary · Governor",
-    "role_subtitle": "Activist · 2022 candidate",
+    "primary_label": "Democratic Primary \u00b7 Governor",
+    "role_subtitle": "Activist \u00b7 2022 candidate",
     "bio": "Memphis community advocate making her second gubernatorial run. Known for community development work in the New Chicago neighborhood.",
     "frontrunner": false,
     "status_line": null,
@@ -237,7 +245,8 @@
       "details": "Atwater's Ballotpedia Candidate Connection survey response describes a broad vision of equity, justice, and community-driven governance but does not include specific proposals for universal pre-K, Head Start expansion, or early childhood development programs. OnTheIssues.org lists 'no stance on record' for Families and Children policy. In an April 2026 candidate comparison published by The Redemption Project, Atwater 'did not provide direct responses' to policy questionnaires. Her campaign website was inaccessible (503 error) at time of research.",
       "citations": [
         "https://ballotpedia.org/Carnita_Atwater",
-        "https://theredemptionproject.substack.com/p/tennessee-governor-candidates-side"
+        "https://theredemptionproject.substack.com/p/tennessee-governor-candidates-side",
+        "https://tnfirefly.com/tennessee-governor-race/candidates/carnita-atwater"
       ]
     },
     "child_hunger": {
@@ -245,7 +254,8 @@
       "details": "In her Ballotpedia Candidate Connection survey, Atwater described a vision in which she 'would place portable food satellites in every food desert across Tennessee to assure that no child goes to sleep hungry.' No specific stance on SNAP funding levels, Summer EBT participation, or school meal programs has been identified in public statements or campaign materials reviewed. OnTheIssues.org lists 'no stance on record' for Welfare and Poverty policy. Atwater did not respond to The Redemption Project's April 2026 gubernatorial candidate questionnaire.",
       "citations": [
         "https://ballotpedia.org/Carnita_Atwater",
-        "https://theredemptionproject.substack.com/p/tennessee-governor-candidates-side"
+        "https://theredemptionproject.substack.com/p/tennessee-governor-candidates-side",
+        "https://tnfirefly.com/tennessee-governor-race/candidates/carnita-atwater"
       ]
     },
     "parental_support": {
@@ -253,7 +263,8 @@
       "details": "Atwater's Ballotpedia survey responses and available public record do not include explicit proposals on paid family leave, childcare subsidies, or child tax credit expansion. Her broader platform emphasizes reducing poverty, addressing housing disparities, supporting foster care reform, and fighting for children's safety from gun violence. OnTheIssues.org lists 'no stance on record' for Families and Children policy. No campaign materials or press coverage between April and May 2026 introduced new parental support policy positions.",
       "citations": [
         "https://ballotpedia.org/Carnita_Atwater",
-        "http://www.ontheissues.org/Governor/Carnita_Atwater_Families_+_Children.htm"
+        "http://www.ontheissues.org/Governor/Carnita_Atwater_Families_+_Children.htm",
+        "https://tnfirefly.com/tennessee-governor-race/candidates/carnita-atwater"
       ]
     }
   }

@@ -5,36 +5,41 @@
     "party": "R",
     "race": "house",
     "district": "TN-6",
-    "primary_label": "Republican Primary · U.S. House TN-6 (Open Seat)",
-    "role_subtitle": "Former U.S. Rep · 2002 nominee",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-6 (Open Seat)",
+    "role_subtitle": "Former U.S. Rep \u00b7 2002 nominee",
     "bio": "Former four-term U.S. Rep and 2002 GOP gubernatorial nominee. Was Rose's chief of staff, bringing D.C. experience to the open primary.",
     "frontrunner": true,
-    "status_line": "★ D.C. experience",
+    "status_line": "\u2605 D.C. experience",
     "photo_url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2025/07/15/103716627_IMG_4394-2048x1536_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
     "photo_credit": "Tennessee Lookout / Times Free Press",
     "campaign_url": "https://www.vanfortn.com",
     "official_url": "https://history.house.gov/People/Detail/15045",
     "twitter": null,
     "early_childhood_ed": {
-      "summary": "Congressional record (1995–2003) shows support for school choice via vouchers and accountability testing, with no stated position on early childhood or pre-K in the current 2026 campaign.",
-      "details": "During his four terms in Congress, Hilleary voted YES on the No Child Left Behind Act of 2001. He also voted YES on vouchers for private and parochial schools (1997) and DC school vouchers (1998), reflecting a school-choice philosophy. His 2026 campaign website emphasizes 'Veteran. Conservative. Fighter.' branding aligned with Public Safety, Affordability, Freedom, and Energy priorities — with no specific platform on early childhood or pre-K education.",
+      "summary": "Congressional record (1995\u20132003) shows support for school choice via vouchers and accountability testing, with no stated position on early childhood or pre-K in the current 2026 campaign.",
+      "details": "During his four terms in Congress, Hilleary voted YES on the No Child Left Behind Act of 2001. He also voted YES on vouchers for private and parochial schools (1997) and DC school vouchers (1998), reflecting a school-choice philosophy. His 2026 campaign website emphasizes 'Veteran. Conservative. Fighter.' branding aligned with Public Safety, Affordability, Freedom, and Energy priorities \u2014 with no specific platform on early childhood or pre-K education. His first television ad, aired June 2026, emphasizes his U.S. Air Force background and being 'America First' but contains no education policy content. A June 10, 2026 appearance at the Campbell County Rotary Club focused on biography and national concerns, not policy specifics on child issues.",
       "citations": [
         "https://www.ontheissues.org/Social/Van_Hilleary_Education.htm",
-        "https://www.vanfortn.com/about/"
+        "https://www.vanfortn.com/about/",
+        "https://tristardaily.com/van-hilleary-airs-first-commercial-in-6th-district-congressional-race/",
+        "https://news.ballotpedia.org/2026/05/29/four-republicans-compete-for-tennessees-open-6th-district-as-incumbent-runs-for-governor/"
       ]
     },
     "child_hunger": {
       "summary": "No public position found on child hunger in the 2026 campaign; 1994 Contract with America included welfare cuts that limited AFDC benefits.",
-      "details": "Hilleary signed the Contract with America in 1994 pledging to pass the Personal Responsibility Act, which aimed to cut welfare spending, prohibit welfare to minor mothers, and deny increased AFDC for additional children while on welfare. No specific votes on child nutrition programs (school lunch, WIC, food stamps) or statements on child hunger have been identified for his congressional tenure or 2026 campaign.",
+      "details": "Hilleary signed the Contract with America in 1994 pledging to pass the Personal Responsibility Act, which aimed to cut welfare spending, prohibit welfare to minor mothers, and deny increased AFDC for additional children while on welfare. No specific votes on child nutrition programs (school lunch, WIC, food stamps) or statements on child hunger have been identified for his congressional tenure or 2026 campaign. Tennessee SNAP enrollment has dropped by roughly 100,000 since the One Big Beautiful Bill Act took effect; Hilleary has made no public statement on this development.",
       "citations": [
-        "http://ontheissues.org/Economic/Van_Hilleary_Welfare_+_Poverty.htm"
+        "http://ontheissues.org/Economic/Van_Hilleary_Welfare_+_Poverty.htm",
+        "https://news.ballotpedia.org/2026/05/29/four-republicans-compete-for-tennessees-open-6th-district-as-incumbent-runs-for-governor/",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
       "summary": "Supported the child tax credit expansion and family tax relief in Congress; signed Contract with America's Families Reinforcement Act for child support enforcement and parental rights.",
-      "details": "In 2001, Hilleary voted YES on reducing the marriage tax penalty by $399 billion over 10 years (HR 6), which doubled the child tax credit for married couples. He signed the Contract with America's Families Reinforcement Act in 1994. His 2026 campaign platform has not published specific positions on paid family leave, modern childcare costs, or current child tax credit policy.",
+      "details": "In 2001, Hilleary voted YES on reducing the marriage tax penalty by $399 billion over 10 years (HR 6), which doubled the child tax credit for married couples. He signed the Contract with America's Families Reinforcement Act in 1994. His 2026 campaign platform has not published specific positions on paid family leave, modern childcare costs, or current child tax credit policy. May\u2013June 2026 coverage confirms campaign messaging remains focused on military experience, Trump support, and America First themes with no parental support policy content.",
       "citations": [
-        "https://www.ontheissues.org/House/Van_Hilleary_Families_+_Children.htm"
+        "https://www.ontheissues.org/House/Van_Hilleary_Families_+_Children.htm",
+        "https://tristardaily.com/van-hilleary-airs-first-commercial-in-6th-district-congressional-race/"
       ]
     }
   },
@@ -44,11 +49,11 @@
     "party": "R",
     "race": "house",
     "district": "TN-6",
-    "primary_label": "Republican Primary · U.S. House TN-6 (Open Seat)",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-6 (Open Seat)",
     "role_subtitle": "TN House Republican Whip",
     "bio": "State legislator from Goodlettsville. First to file petitions; raised $1.1M with $1M+ cash on hand. Strong grassroots support.",
     "frontrunner": true,
-    "status_line": "★ Top fundraiser · grassroots",
+    "status_line": "\u2605 Top fundraiser \u00b7 grassroots",
     "photo_url": null,
     "photo_credit": "Direct headshot URL not found",
     "campaign_url": "https://www.johnnygarrettforcongress.com",
@@ -56,25 +61,31 @@
     "twitter": "@johnnygarrett4",
     "early_childhood_ed": {
       "summary": "Sponsored HB 1175 in the Tennessee legislature, related to childcare and school property leasing; supports the Education Freedom Scholarship for school choice but has not stated a position on federal pre-K or Head Start.",
-      "details": "As TN House Majority Whip, Garrett sponsored HB 1175, which relates to childcare providers leasing school district property — signaling engagement with childcare access at the state level. He is also a proponent of the Education Freedom Scholarship program, Tennessee's school choice voucher initiative. His congressional campaign platform lists America First priorities — border security, economy, taxes, Second Amendment, law enforcement, pro-life, and AI innovation — with no mention of early childhood education or pre-K at the federal level.",
+      "details": "As TN House Majority Whip, Garrett sponsored HB 1175, which relates to childcare providers leasing school district property \u2014 signaling engagement with childcare access at the state level. He is also a proponent of the Education Freedom Scholarship program, Tennessee's school choice voucher initiative. His congressional campaign platform lists America First priorities \u2014 border security, economy, taxes, Second Amendment, law enforcement, pro-life, and AI innovation \u2014 with no mention of early childhood education or pre-K at the federal level. His first TV and radio ad, released June 5, 2026, focuses on transgender sports bans, pro-life and pro-Trump messaging \u2014 no childcare or early education content. House Majority Leader Steve Scalise endorsed Garrett on June 2, 2026.",
       "citations": [
         "https://www.johnnygarrettforcongress.com/issues/",
-        "http://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H45"
+        "http://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H45",
+        "https://tristardaily.com/johnny-garrett-drops-first-ad-in-6th-district-congressional-race/",
+        "https://tennesseestar.com/elections/u-s-house-majority-leader-steve-scalise-endorses-johnny-garrett-in-tn-06-race-brent-taylor-in-tn-09-race/khousler/2026/06/02/"
       ]
     },
     "child_hunger": {
       "summary": "No public position found on child hunger, school meals, or child nutrition programs.",
-      "details": "Garrett's campaign platform makes no mention of child nutrition, SNAP, school lunch, or food assistance programs. His issue page focuses on immigration, economy, taxes, Second Amendment, Israel, law enforcement, pro-life stance, China, farmers, and AI — with no reference to child hunger or food security.",
+      "details": "Garrett's campaign platform makes no mention of child nutrition, SNAP, school lunch, or food assistance programs. His issue page focuses on immigration, economy, taxes, Second Amendment, Israel, law enforcement, pro-life stance, China, farmers, and AI \u2014 with no reference to child hunger or food security. Tennessee SNAP enrollment has fallen by roughly 100,000 since the One Big Beautiful Bill Act took effect; Garrett has made no public statement on this development.",
       "citations": [
-        "https://www.johnnygarrettforcongress.com/issues/"
+        "https://www.johnnygarrettforcongress.com/issues/",
+        "https://tristardaily.com/johnny-garrett-drops-first-ad-in-6th-district-congressional-race/",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
-      "summary": "Identifies as a 'conservative family values' candidate and 'husband and father of three' but has not published specific positions on paid family leave, child tax credits, or childcare costs.",
-      "details": "Garrett's campaign centers on 'standing up for conservative family values' and explicitly lists 'Keeping Men Out Of Women's Sports' and 'Protecting The Sanctity Of Life' as parental-rights-adjacent issues. However, the campaign has published no specific policy positions on paid family leave, child tax credits, childcare affordability, or related parental support programs.",
+      "summary": "Identifies as a 'conservative family values' candidate endorsed by House Majority Leader Scalise (June 2026), a husband and father of three. No specific positions on paid family leave, child tax credits, or childcare costs found in May\u2013June 2026 coverage.",
+      "details": "Garrett's campaign centers on 'standing up for conservative family values' and explicitly lists 'Keeping Men Out Of Women's Sports' and 'Protecting The Sanctity Of Life' as parental-rights-adjacent issues. However, the campaign has published no specific policy positions on paid family leave, child tax credits, childcare affordability, or related parental support programs. House Majority Leader Steve Scalise endorsed Garrett on June 2, 2026, saying he would 'defend conservative family values, grow our economy, and Make America Great Again.' No specific paid family leave, child tax credit, or childcare positions were published.",
       "citations": [
         "https://www.johnnygarrettforcongress.com",
-        "https://johnnygarrettforcongress.com/meet-johnny/"
+        "https://johnnygarrettforcongress.com/meet-johnny/",
+        "https://tennesseestar.com/elections/u-s-house-majority-leader-steve-scalise-endorses-johnny-garrett-in-tn-06-race-brent-taylor-in-tn-09-race/khousler/2026/06/02/",
+        "https://tristardaily.com/johnny-garrett-drops-first-ad-in-6th-district-congressional-race/"
       ]
     }
   },
@@ -84,9 +95,9 @@
     "party": "R",
     "race": "house",
     "district": "TN-6",
-    "primary_label": "Republican Primary · U.S. House TN-6 (Open Seat)",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-6 (Open Seat)",
     "role_subtitle": "Republican primary",
-    "bio": "Republican primary candidate. Campaign suspended — confirmed by Tennessee Conservative News; campaign website is offline.",
+    "bio": "Republican primary candidate. Campaign suspended \u2014 confirmed by Tennessee Conservative News; campaign website is offline.",
     "frontrunner": false,
     "status_line": "Campaign suspended",
     "photo_url": null,
@@ -122,7 +133,7 @@
     "party": "D",
     "race": "house",
     "district": "TN-6",
-    "primary_label": "Democratic Primary · U.S. House TN-6 (Open Seat)",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-6 (Open Seat)",
     "role_subtitle": "Democratic primary",
     "bio": "Democratic candidate facing a steep climb in this strongly Republican district.",
     "frontrunner": false,
@@ -134,17 +145,19 @@
     "twitter": null,
     "early_childhood_ed": {
       "summary": "No explicit pre-K or childcare investment positions found on the current croleyforcongress.com (crawled June 2026). His site covers healthcare, affordability, and democracy themes. Prior profile entries on these positions could not be confirmed from current site content.",
-      "details": "The campaign homepage and blog posts through May 2026 cover healthcare, marijuana legalization, gun rights, public lands, gerrymandering, and DOGE cuts. No early childhood education, pre-K, or childcare workforce content found in crawled pages. His 'AAA Blueprint' framework references 'accessibility' broadly.",
+      "details": "The campaign homepage and blog posts through May 2026 cover healthcare, marijuana legalization, gun rights, public lands, gerrymandering, and DOGE cuts. No early childhood education, pre-K, or childcare workforce content found in crawled pages. His 'AAA Blueprint' framework references 'accessibility' broadly. A May 4, 2026 post ('I'm Not Backing Down') references that voters talk about 'roads, schools, and just trying to get by' \u2014 but no early childhood education, pre-K, or childcare workforce content is developed into a policy position.",
       "citations": [
-        "https://croleyforcongress.com/"
+        "https://croleyforcongress.com/",
+        "https://croleyforcongress.com/im-not-backing-down/"
       ]
     },
     "child_hunger": {
-      "summary": "Croley's campaign homepage explicitly references cuts to SNAP and WIC as leaving families hungry — the most specific food security statement found in his profile. He has spoken against the One Big Beautiful Bill Act's Medicaid/TennCare cuts as a healthcare crisis for Tennessee families.",
-      "details": "The croleyforcongress.com homepage (last updated June 5, 2026) states: 'I've heard from parents who've had to dig into their savings because cuts to SNAP and WIC threaten to leave their families hungry.' A April 2026 blog post ('The Affordability Crisis Is a Healthcare Crisis') criticizes the OBBB for gutting Medicaid: 'The OBBB Act also gutted Medicaid, making it harder to apply for or qualify for benefits. Roughly $7 billion has been cut from TennCare, and we project that 45,000 to 75,000 Tennesseans will lose their coverage entirely.' School meal programs are not mentioned directly.",
+      "summary": "Croley's campaign homepage explicitly references cuts to SNAP and WIC as leaving families hungry \u2014 the most specific food security statement found in his profile. He has spoken against the One Big Beautiful Bill Act's Medicaid/TennCare cuts as a healthcare crisis for Tennessee families.",
+      "details": "The croleyforcongress.com homepage (AAA Blueprint, updated June 5, 2026) states: 'I've heard from parents who've had to dig into their savings because cuts to SNAP and WIC threaten to leave their families hungry.' A April 2026 blog post ('The Affordability Crisis Is a Healthcare Crisis') criticizes the OBBB for gutting Medicaid: 'The OBBB Act also gutted Medicaid, making it harder to apply for or qualify for benefits. Roughly $7 billion has been cut from TennCare, and we project that 45,000 to 75,000 Tennesseans will lose their coverage entirely.' School meal programs are not mentioned directly.",
       "citations": [
-        "https://croleyforcongress.com/ (home, June 5, 2026)",
-        "https://croleyforcongress.com/the-affordability-crisis-is-a-healthcare-crisis/"
+        "https://https://croleyforcongress.com/",
+        "https://croleyforcongress.com/the-affordability-crisis-is-a-healthcare-crisis/",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
@@ -161,11 +174,11 @@
     "party": "R",
     "race": "house",
     "district": "TN-7",
-    "primary_label": "Republican Primary · U.S. House TN-7",
-    "role_subtitle": "Incumbent · since Jan 2026",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-7",
+    "role_subtitle": "Incumbent \u00b7 since Jan 2026",
     "bio": "Won the December 2025 special election after Mark Green's resignation. West Point graduate, combat veteran, and former state commissioner.",
     "frontrunner": true,
-    "status_line": "★ Special-election winner",
+    "status_line": "\u2605 Special-election winner",
     "photo_url": "https://vanepps.house.gov/sites/evo-subsites/vanepps.house.gov/files/evo-media-image/vanepps-headshot.jpg",
     "photo_credit": "vanepps.house.gov (official)",
     "campaign_url": "https://www.mattfortn.com",
@@ -173,26 +186,31 @@
     "twitter": "@repvanepps",
     "early_childhood_ed": {
       "summary": "No public position found on early childhood education or pre-K.",
-      "details": "Van Epps's campaign issues page and his official House education page contain no specific language on early childhood education, Head Start, or pre-K programs. His platform focuses on cutting federal spending, supporting parental rights by opposing gender-affirming care for minors, and keeping Washington's 'radical agenda' out of schools. Van Epps took office December 4, 2025, and has not yet produced a federal legislative record on this issue.",
+      "details": "Van Epps's campaign issues page and his official House education page contain no specific language on early childhood education, Head Start, or pre-K programs. His platform focuses on cutting federal spending, supporting parental rights by opposing gender-affirming care for minors, and keeping Washington's 'radical agenda' out of schools. Van Epps took office December 4, 2025, and has not yet produced a federal legislative record on this issue. Van Epps faces no Republican primary challenger in TN-7 under the redrawn map (Tennessee Lookout, May 18, 2026).",
       "citations": [
         "https://vanepps.house.gov/issues/education",
-        "https://www.mattfortn.com/issues"
+        "https://www.mattfortn.com/issues",
+        "https://tennesseelookout.com/2026/05/18/whos-running-in-tennessees-new-2026-u-s-congress-races/"
       ]
     },
     "child_hunger": {
-      "summary": "Van Epps supports the One Big Beautiful Bill Act, which cut $186 billion from SNAP nationally. Tennessee SNAP enrollment dropped from ~696,000 (July 2025) to ~597,890 (May 2026) — roughly 100,000 Tennesseans lost food aid. Children enrolled in SNAP are automatically certified for free school meals, meaning SNAP losses also threaten school meal access. No Van Epps statement opposing or qualifying these cuts was found.",
-      "details": "Van Epps's Club for Growth profile (October 2025) confirms he 'supports the One Big Beautiful Bill Act, tax cuts, and Medicaid reforms.' The OBBB, signed July 2025, cut $186 billion from SNAP and expanded work requirements. Tennessee Lookout (June 16, 2026) reported enrollment dropped from 696,000 to 597,890 between July 2025 and May 2026. Children enrolled in SNAP are automatically certified for free school meals (per Anderson, TCCY, cited in the Lookout report), so SNAP losses can directly affect school meal access. His mattfortn.com issues page (Economy, Veterans, Borders, Farmers, America First, Women's Sports) contains no child hunger or SNAP content. House.gov press releases (Feb–Mar 2026) focus on Gold Star families, terrorism, and district offices.",
+      "summary": "Van Epps supports the One Big Beautiful Bill Act, which cut $186 billion from SNAP nationally. Tennessee SNAP enrollment dropped from ~696,000 (July 2025) to ~597,890 (May 2026) \u2014 roughly 100,000 Tennesseans lost food aid. Children enrolled in SNAP are automatically certified for free school meals, meaning SNAP losses also threaten school meal access. No Van Epps statement opposing or qualifying these cuts was found.",
+      "details": "Van Epps's Club for Growth profile (October 2025) confirms he 'supports the One Big Beautiful Bill Act, tax cuts, and Medicaid reforms.' The OBBB, signed July 2025, cut $186 billion from SNAP and expanded work requirements. Tennessee Lookout (June 16, 2026) reported enrollment dropped from 696,000 to 597,890 between July 2025 and May 2026. Children enrolled in SNAP are automatically certified for free school meals (per Anderson, TCCY, cited in the Lookout report), so SNAP losses can directly affect school meal access. His mattfortn.com issues page (Economy, Veterans, Borders, Farmers, America First, Women's Sports) contains no child hunger or SNAP content. House.gov press releases (Feb\u2013Mar 2026) focus on Gold Star families, terrorism, and district offices. WJHL/WKRN (June 13, 2026) reported the drop reached 109,396 individuals by April 2026. The Tennessee Justice Center (June 4, 2026) documented that 1 in 5 Tennessee children are food insecure and the 2026 legislature did not fund expanded free school meals. Tennessee announced SNAP food content restrictions effective July 31, 2026, banning purchases of processed foods with sugar as first ingredient and sodas/energy drinks.",
       "citations": [
         "https://www.clubforgrowth.org/candidates/matt-van-epps/",
-        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/",
+        "https://www.wjhl.com/news/tennessee-snap-enrollment-drops-by-more-than-100000-following-federal-rule-changes/",
+        "https://www.tnjustice.org/post/pathways-forward-the-fight-to-end-child-hunger-in-tennessee",
+        "https://www.commercialappeal.com/story/news/local/2026/06/17/snap-restrictions-tennessee-july-2026-restricted-foods/90476627007/"
       ]
     },
     "parental_support": {
       "summary": "Has not stated positions on paid family leave, child tax credit, or subsidized childcare; opposes gender-affirming care for minors; affiliated with the Republican Study Committee (February 2026).",
-      "details": "The campaign platform explicitly opposes government-funded gender surgeries for minors and describes this as defending 'Tennessee families.' Van Epps supports protecting life from conception. He joined the Republican Study Committee in February 2026, a caucus that has historically opposed expansions of federal family benefit programs. No stated position on the Child Tax Credit was found, though as a freshman Republican he would likely support TCJA-style extensions.",
+      "details": "The campaign platform explicitly opposes government-funded gender surgeries for minors and describes this as defending 'Tennessee families.' Van Epps supports protecting life from conception. He joined the Republican Study Committee in February 2026, a caucus that has historically opposed expansions of federal family benefit programs. No stated position on the Child Tax Credit was found, though as a freshman Republican he would likely support TCJA-style extensions. In a May 12, 2026 op-ed for Clarksville Online marking Military Spouse Appreciation Day, Van Epps announced he had introduced the HONOR Gold Star Families Act (HR 7932), which would increase the death gratuity for surviving families of fallen service members from $100,000 to $200,000, ensuring children of fallen service members have 'access to education, mentorship, and the support they need.' No stated position on civilian paid family leave, childcare subsidies, or Child Tax Credit was found.",
       "citations": [
         "https://www.mattfortn.com/issues",
-        "https://vanepps.house.gov/"
+        "https://vanepps.house.gov/",
+        "https://www.clarksvilleonline.com/2026/05/12/representative-matt-van-epps-on-military-spouse-appreciation-day/"
       ]
     }
   },
@@ -202,11 +220,11 @@
     "party": "R",
     "race": "house",
     "district": "TN-8",
-    "primary_label": "Republican Primary · U.S. House TN-8",
-    "role_subtitle": "Incumbent · since 2017",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-8",
+    "role_subtitle": "Incumbent \u00b7 since 2017",
     "bio": "Five-term incumbent attorney. Unopposed in Republican primary; $2.8M cash on hand.",
     "frontrunner": true,
-    "status_line": "★ Unopposed in primary",
+    "status_line": "\u2605 Unopposed in primary",
     "photo_url": "https://kustoff.house.gov/sites/evo-subsites/kustoff.house.gov/files/evo-media-image/2023%20Offical%20Photo_0.jpg",
     "photo_credit": "kustoff.house.gov (official portrait)",
     "campaign_url": null,
@@ -214,27 +232,33 @@
     "twitter": null,
     "early_childhood_ed": {
       "summary": "No explicit early childhood education platform; voted against the American Rescue Plan, which funded Head Start and childcare stabilization.",
-      "details": "Kustoff's official issues page does not include a dedicated early childhood or pre-K category. He voted NAY on the American Rescue Plan Act of 2021, which included $39 billion for childcare stabilization and expanded Head Start funding. He supported the 2018 Farm Bill, which reauthorized child nutrition programs. As a member of the Tennessee Higher Education Commission before his congressional service, he oversaw Tennessee Promise community college scholarships.",
+      "details": "Kustoff's official issues page does not include a dedicated early childhood or pre-K category. He voted NAY on the American Rescue Plan Act of 2021, which included $39 billion for childcare stabilization and expanded Head Start funding. He supported the 2018 Farm Bill, which reauthorized child nutrition programs. As a member of the Tennessee Higher Education Commission before his congressional service, he oversaw Tennessee Promise community college scholarships. He voted YES on the Parents Bill of Rights Act (H.R. 5, 119th Congress) as a confirmed vote, maintaining his school-choice-over-federal-early-education philosophy.",
       "citations": [
         "https://kustoff.house.gov/issues",
-        "https://kustoff.house.gov/media/press-releases/rep-kustoff-votes-pass-farm-bill"
+        "https://kustoff.house.gov/media/press-releases/rep-kustoff-votes-pass-farm-bill",
+        "https://www.ffyftennessee.org/tennessee-fy2026-childcare-head-start-fact-sheet/"
       ]
     },
     "child_hunger": {
-      "summary": "Voted for the One Big Beautiful Bill which cuts $267 billion from SNAP, voted against SNAP expansions in the American Rescue Plan, and publicly defended the SNAP cuts in a September 2025 op-ed.",
-      "details": "Kustoff voted NAY on the American Rescue Plan (2021), which included SNAP expansions, Pandemic EBT, WIC improvements, and child nutrition enhancements. He voted for the One Big Beautiful Bill Act (signed July 4, 2025), which the CBO estimated would cut $267 billion from SNAP and impose new work requirements on recipients aged 55–64. In a September 22, 2025 op-ed in The Hill, Kustoff defended the OBBB's SNAP provisions, arguing the cuts would promote self-sufficiency and reduce waste in the program.",
+      "summary": "Voted for the One Big Beautiful Bill which cuts $186 billion from SNAP, voted against SNAP expansions in the American Rescue Plan, and publicly defended the SNAP cuts in a September 2025 op-ed. As of May 2026, approximately 100,000 Tennesseans have lost SNAP benefits since the law took effect \u2014 a figure including an estimated 20,000 in Shelby County alone.",
+      "details": "Kustoff voted NAY on the American Rescue Plan (2021), which included SNAP expansions, Pandemic EBT, WIC improvements, and child nutrition enhancements. He voted for the One Big Beautiful Bill Act (signed July 4, 2025), which the CBO estimated would cut $186 billion from SNAP and impose new work requirements on recipients aged 55\u201364. In a September 22, 2025 op-ed in The Hill, Kustoff defended the OBBB's SNAP provisions, arguing the cuts would promote self-sufficiency and reduce waste in the program. A Tennessee Lookout investigation published June 16, 2026 found that enrollment dropped from 696,000 in July 2025 to 597,890 by May 2026 \u2014 roughly 100,000 Tennesseans losing food assistance. Fox 13 Memphis (May 22, 2026) estimated 20,000 Shelby County residents lost SNAP. ProPublica (June 17, 2026) reported more than 776,000 children nationally lost SNAP under the law. Tennessee also announced SNAP food content restrictions effective July 31, 2026, banning purchases of sodas, energy drinks, and products with sugar as the first ingredient.",
       "citations": [
         "https://eu.dailyworld.com/story/news/politics/2025/05/28/memphis-residents-protest-kustoff-trump-bill/83896475007/",
         "https://kustoff.house.gov/media/press-releases/congressman-kustoff-votes-pass-one-big-beautiful-bill",
-        "https://thehill.com/"
+        "https://thehill.com/",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/",
+        "https://www.fox13memphis.com/news/95-000-tennessee-residents-lose-access-to-snap-after-federal-changes/article_44bc095b-c3e7-474d-a1ed-0ef052daf4e6.html",
+        "https://www.propublica.org/article/snap-benefits-children-food-stamps",
+        "https://www.commercialappeal.com/story/news/local/2026/06/17/snap-restrictions-tennessee-july-2026-restricted-foods/90476627007/"
       ]
     },
     "parental_support": {
       "summary": "Supports an enhanced and permanent Child Tax Credit through the One Big Beautiful Bill; co-sponsored the bipartisan Save Struggling Hospitals Act (April 2026); holds an A+ pro-life rating (January 2026).",
-      "details": "Kustoff championed the One Big Beautiful Bill Act as a Ways and Means Committee member, which includes an enhanced and permanent Child Tax Credit building on the 2017 TCJA's doubled CTC. He wrote in a June 2025 op-ed that the bill 'boosts the doubled child tax credit.' However, he voted NAY on the 2021 American Rescue Plan, which made the CTC fully refundable. In April 2026, he co-sponsored the bipartisan Save Struggling Hospitals Act with Rep. Terri Sewell (D-AL), addressing rural hospital access — a measure affecting family healthcare access. He holds an A+ pro-life rating as of January 2026.",
+      "details": "Kustoff championed the One Big Beautiful Bill Act as a Ways and Means Committee member, which includes an enhanced and permanent Child Tax Credit building on the 2017 TCJA's doubled CTC. He wrote in a June 2025 op-ed that the bill 'boosts the doubled child tax credit.' However, he voted NAY on the 2021 American Rescue Plan, which made the CTC fully refundable. In April 2026, he co-sponsored the bipartisan Save Struggling Hospitals Act with Rep. Terri Sewell (D-AL), addressing rural hospital access \u2014 a measure affecting family healthcare access. He holds an A+ pro-life rating as of January 2026. In a May 30, 2026 Ways and Means Committee hearing, Kustoff championed the enhanced Adoption Tax Credit (first $5,000 now partially refundable) and the CTC increase to $2,200 permanently indexed for inflation as key family-support provisions of the OBBB. He is not a cosponsor of the More Paid Leave for More Americans Act (H.R. 3089, introduced May 2026).",
       "citations": [
         "https://kustoff.house.gov/media/press-releases/kustoff-celebrates-final-passage-one-big-beautiful-bill",
-        "https://waysandmeans.house.gov/2025/06/11/rep-kustoff-op-ed-the-one-big-beautiful-bill-will-restore-the-american-dream/"
+        "https://waysandmeans.house.gov/2025/06/11/rep-kustoff-op-ed-the-one-big-beautiful-bill-will-restore-the-american-dream/",
+        "https://waysandmeans.house.gov/2026/05/30/ways-means-markup-family-provisions/"
       ]
     }
   },
@@ -244,7 +268,7 @@
     "party": "D",
     "race": "house",
     "district": "TN-8",
-    "primary_label": "Democratic Primary · U.S. House TN-8",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-8",
     "role_subtitle": "Democratic primary",
     "bio": "Democratic primary candidate.",
     "frontrunner": false,
@@ -256,23 +280,26 @@
     "twitter": null,
     "early_childhood_ed": {
       "summary": "No public position found.",
-      "details": "Dewey Bryan is listed as a Democratic primary candidate for TN-8 on Ballotpedia and Tennessee Secretary of State filings, but no campaign website, social media presence, or policy platform was discoverable as of April 2026. Ballotpedia lists him with a placeholder and no biography or issues.",
+      "details": "Dewey Bryan is listed as a Democratic primary candidate for TN-8 on Ballotpedia and Tennessee Secretary of State filings, but no campaign website, social media presence, or policy platform was discoverable as of April 2026. Ballotpedia lists him with a placeholder and no biography or issues. Attended the June 17, 2026 TN-8 Democratic candidate forum in Germantown; no new policy-specific statements on this topic reported.",
       "citations": [
-        "https://ballotpedia.org/Dewey_Bryan"
+        "https://ballotpedia.org/Dewey_Bryan",
+        "https://www.commercialappeal.com/story/news/politics/elections/2026/06/18/tennessee-congressional-district-8-candidates/90526218007/"
       ]
     },
     "child_hunger": {
       "summary": "No public position found.",
-      "details": "No campaign website, press releases, or news coverage detailing Bryan's position on SNAP, school meals, WIC, or childhood food insecurity was found.",
+      "details": "No campaign website, press releases, or news coverage detailing Bryan's position on SNAP, school meals, WIC, or childhood food insecurity was found. Attended the June 17, 2026 TN-8 Democratic candidate forum in Germantown; no new policy-specific statements on this topic reported.",
       "citations": [
-        "https://ballotpedia.org/Dewey_Bryan"
+        "https://ballotpedia.org/Dewey_Bryan",
+        "https://www.commercialappeal.com/story/news/politics/elections/2026/06/18/tennessee-congressional-district-8-candidates/90526218007/"
       ]
     },
     "parental_support": {
       "summary": "No public position found.",
-      "details": "No statements on paid family leave, the Child Tax Credit, childcare subsidies, or parental rights were found for Dewey Bryan. His candidacy is confirmed through official Tennessee election filings, but no public platform or media coverage of his policy positions was located.",
+      "details": "No statements on paid family leave, the Child Tax Credit, childcare subsidies, or parental rights were found for Dewey Bryan. His candidacy is confirmed through official Tennessee election filings, but no public platform or media coverage of his policy positions was located. Attended the June 17, 2026 TN-8 Democratic candidate forum in Germantown; no new policy-specific statements on this topic reported.",
       "citations": [
-        "https://ballotpedia.org/Dewey_Bryan"
+        "https://ballotpedia.org/Dewey_Bryan",
+        "https://www.commercialappeal.com/story/news/politics/elections/2026/06/18/tennessee-congressional-district-8-candidates/90526218007/"
       ]
     }
   },
@@ -282,7 +309,7 @@
     "party": "D",
     "race": "house",
     "district": "TN-8",
-    "primary_label": "Democratic Primary · U.S. House TN-8",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-8",
     "role_subtitle": "Democratic primary",
     "bio": "Democratic primary candidate. Pastor and substance abuse counselor with 23 years of community service.",
     "frontrunner": false,
@@ -294,23 +321,26 @@
     "twitter": null,
     "early_childhood_ed": {
       "summary": "No early childhood education, pre-K, or childcare investment positions found on the current perkinstocongress.com (crawled June 17, 2026). The site's stated priorities are Veterans' Rights, Women's Rights, and Labor Rights.",
-      "details": "perkinstocongress.com (home and About pages, crawled June 17, 2026) lists top priorities as: 'Voting rights, Women's Rights, Organized Labor, Veterans/Survivors Benefits, Student Debt, Small Businesses, Our Democracy.' No childcare, pre-K, early childhood, or education content is present. The /issues page returns 404. Prior profile entries on these positions could not be confirmed from current site content.",
+      "details": "perkinstocongress.com (home and About pages, crawled June 17, 2026) lists top priorities as: 'Voting rights, Women's Rights, Organized Labor, Veterans/Survivors Benefits, Student Debt, Small Businesses, Our Democracy.' No childcare, pre-K, early childhood, or education content is present. The /issues page returns 404. Prior profile entries on these positions could not be confirmed from current site content. Confirmed attendance at the June 17, 2026 TN-8 Democratic candidate forum; no new policy specifics on this topic reported from the event.",
       "citations": [
-        "https://perkinstocongress.com/about"
+        "https://perkinstocongress.com/about",
+        "https://www.commercialappeal.com/story/news/politics/elections/2026/06/18/tennessee-congressional-district-8-candidates/90526218007/"
       ]
     },
     "child_hunger": {
       "summary": "No SNAP, food security, school meals, or child hunger positions found on the current perkinstocongress.com (crawled June 17, 2026).",
-      "details": "Neither the home page nor the About page mentions SNAP, food security, school meals, or child hunger. The /issues page returns 404.",
+      "details": "Neither the home page nor the About page mentions SNAP, food security, school meals, or child hunger. The /issues page returns 404. Confirmed attendance at the June 17, 2026 TN-8 Democratic candidate forum; no new policy specifics on this topic reported from the event.",
       "citations": [
-        "https://perkinstocongress.com/about"
+        "https://perkinstocongress.com/about",
+        "https://www.commercialappeal.com/story/news/politics/elections/2026/06/18/tennessee-congressional-district-8-candidates/90526218007/"
       ]
     },
     "parental_support": {
       "summary": "No explicit paid family leave or childcare affordability positions found on the current perkinstocongress.com. 'Women's Rights' is listed as a top priority but without specific family leave or childcare language.",
-      "details": "The site lists 'Women's Rights' as a named priority. No specific paid family leave, childcare affordability, or CTC language is present on the accessible pages.",
+      "details": "The site lists 'Women's Rights' as a named priority. No specific paid family leave, childcare affordability, or CTC language is present on the accessible pages. Confirmed attendance at the June 17, 2026 TN-8 Democratic candidate forum; no new policy specifics on this topic reported from the event.",
       "citations": [
-        "https://perkinstocongress.com"
+        "https://perkinstocongress.com",
+        "https://www.commercialappeal.com/story/news/politics/elections/2026/06/18/tennessee-congressional-district-8-candidates/90526218007/"
       ]
     }
   },
@@ -320,7 +350,7 @@
     "party": "I",
     "race": "house",
     "district": "TN-8",
-    "primary_label": "Independent · U.S. House TN-8",
+    "primary_label": "Independent \u00b7 U.S. House TN-8",
     "role_subtitle": "Independent",
     "bio": "Independent candidate.",
     "frontrunner": false,
@@ -332,21 +362,22 @@
     "twitter": "@PamelaMosesUS",
     "early_childhood_ed": {
       "summary": "No specific public position on early childhood education found for her TN-8 congressional campaign.",
-      "details": "Moses's published seven-point platform focuses on criminal justice reform, universal healthcare, food security, community health, environmental sustainability, youth violence prevention, and reparations. Youth-related planks include mentorship and leadership programs and investment in mental health services, but no explicit stance on pre-K, Head Start, childcare subsidies, or early learning programs.",
+      "details": "Moses's published seven-point platform focuses on criminal justice reform, universal healthcare, food security, community health, environmental sustainability, youth violence prevention, and reparations. Youth-related planks include mentorship and leadership programs and investment in mental health services, but no explicit stance on pre-K, Head Start, childcare subsidies, or early learning programs. Note: In May\u2013June 2026, Moses's primary public activity shifted to litigating a pro se federal redistricting lawsuit (Moses v. Lee), with less campaign-trail visibility on policy positions. No new early childhood education statements found.",
       "citations": [
-        "https://pamelamosesforsenate.com/moses-seven-point-plan-policies/"
+        "https://pamelamosesforsenate.com/moses-seven-point-plan-policies/",
+        "https://www.commercialappeal.com/story/news/politics/2026/06/04/pamela-moses-redistricting-lawsuit-win/"
       ]
     },
     "child_hunger": {
       "summary": "Supports eliminating food deserts and promoting sustainable, local agriculture to improve food access in underserved communities.",
-      "details": "Her platform calls for expanding farmers' markets in underserved areas to create direct farm-to-consumer channels, and for community education programs teaching people to grow their own food. She frames food security as central to community health. No explicit position on SNAP, WIC, school meal programs, or Summer EBT was found.",
+      "details": "Her platform calls for expanding farmers' markets in underserved areas to create direct farm-to-consumer channels, and for community education programs teaching people to grow their own food. She frames food security as central to community health. No explicit position on SNAP, WIC, school meal programs, or Summer EBT was found. In May\u2013June 2026, Moses was primarily active in redistricting litigation. No new statements on food assistance programs found.",
       "citations": [
         "https://pamelamosesforsenate.com/moses-seven-point-plan-policies/"
       ]
     },
     "parental_support": {
       "summary": "No specific public position on paid family leave, child tax credit, childcare costs, or parental rights found.",
-      "details": "Moses's platform emphasizes universal healthcare access, mental health investment, and economic opportunity for justice-impacted individuals, which would broadly benefit families. However, her published materials contain no explicit stances on federal paid family leave legislation, the Child Tax Credit, childcare cost reduction, or parental rights frameworks.",
+      "details": "Moses's platform emphasizes universal healthcare access, mental health investment, and economic opportunity for justice-impacted individuals, which would broadly benefit families. However, her published materials contain no explicit stances on federal paid family leave legislation, the Child Tax Credit, childcare cost reduction, or parental rights frameworks. In May\u2013June 2026, Moses was primarily active in redistricting litigation. No new parental support policy statements found.",
       "citations": [
         "https://pamelamosesforsenate.com/moses-seven-point-plan-policies/"
       ]
@@ -358,7 +389,7 @@
     "party": "I",
     "race": "house",
     "district": "TN-8",
-    "primary_label": "Independent · U.S. House TN-8",
+    "primary_label": "Independent \u00b7 U.S. House TN-8",
     "role_subtitle": "Independent",
     "bio": "Independent candidate. Describes himself as 'progressive in thought, yet grounded in principles and values.' $0 in FEC-reported contributions.",
     "frontrunner": false,
@@ -372,19 +403,21 @@
       "summary": "Identifies education as a personal passion in his Ballotpedia 2026 candidate survey; no specific early childhood education position found.",
       "details": "Taylor's Ballotpedia 2026 Candidate Connection survey identifies education as one of his key passions alongside cost of living and agriculture. He describes himself as 'progressive in thought, yet grounded in principles and values.' No campaign website or specific policy platform detailing his position on pre-K, Head Start, childcare subsidies, or early learning programs was publicly available as of May 2026. FEC filings confirm $0 in contributions.",
       "citations": [
+        "https://ballotpedia.org/Horace_Taylor",
         "https://ballotpedia.org/Horace_Taylor"
       ]
     },
     "child_hunger": {
       "summary": "No specific position found on child hunger; Ballotpedia survey identifies cost of living and agriculture as campaign focuses.",
-      "details": "Taylor's Ballotpedia 2026 survey lists cost of living and agriculture among his top issues — areas adjacent to food access — but no specific statements on SNAP, WIC, school meals, or child nutrition programs were found. His independent candidacy has $0 in FEC contributions, limiting his public profile.",
+      "details": "Taylor's Ballotpedia 2026 survey lists cost of living and agriculture among his top issues \u2014 areas adjacent to food access \u2014 but no specific statements on SNAP, WIC, school meals, or child nutrition programs were found. His independent candidacy has $0 in FEC contributions, limiting his public profile.",
       "citations": [
+        "https://ballotpedia.org/Horace_Taylor",
         "https://ballotpedia.org/Horace_Taylor"
       ]
     },
     "parental_support": {
       "summary": "No specific positions on paid family leave, child tax credit, childcare costs, or parental rights found.",
-      "details": "Taylor describes himself as 'progressive in thought, yet grounded in principles and values,' suggesting a moderate-to-progressive outlook, but no specific platform details on family support policy — paid leave, child tax credit, childcare — were publicly available as of May 2026.",
+      "details": "Taylor describes himself as 'progressive in thought, yet grounded in principles and values,' suggesting a moderate-to-progressive outlook, but no specific platform details on family support policy \u2014 paid leave, child tax credit, childcare \u2014 were publicly available as of May 2026.",
       "citations": [
         "https://ballotpedia.org/Horace_Taylor"
       ]
@@ -396,39 +429,43 @@
     "party": "D",
     "race": "house",
     "district": "TN-9",
-    "primary_label": "Democratic Primary · U.S. House TN-9",
-    "role_subtitle": "Incumbent · since 2007",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-9",
+    "role_subtitle": "Incumbent \u00b7 since 2007",
     "bio": "Memphis-area Democratic congressman serving since 2007. Announced May 15, 2026 he would not seek reelection after redistricting dismantled TN-9, but left the door open if legal challenges succeed. cohenforcongress.com remains active and he cosponsored the Universal School Meals Program Act of 2026 (H.R. 8798) in May 2026.",
     "frontrunner": true,
-    "status_line": "Conditional retirement announced May 15, 2026 · Active if redistricting lawsuit succeeds",
+    "status_line": "Conditional retirement announced May 15, 2026 \u00b7 Active if redistricting lawsuit succeeds",
     "photo_url": "https://cohen.house.gov/sites/evo-subsites/cohen.house.gov/files/evo-media-image/Cohen_Steve_118th_official.jpg",
     "photo_credit": "Official U.S. House portrait",
     "campaign_url": "http://cohenforcongress.com/",
     "official_url": "https://cohen.house.gov/",
     "twitter": "@RepCohen",
     "early_childhood_ed": {
-      "summary": "Has been a consistent and long-standing champion of Head Start, Early Head Start, and pre-K programs, securing tens of millions of dollars in federal grants for Memphis-area providers — including a $7.4 million Head Start grant to Shelby County Board of Education in April 2025.",
-      "details": "Cohen has repeatedly announced and championed Head Start grants for Memphis-area providers: $7.4 million to Shelby County Board of Education (April 2025), $35.5 million for Porter-Leath (July 2025), $2.6 million (December 2024), and $1.1 million for Early Head Start at Children's Bureau (2018). He strongly opposed GOP efforts in 2015 to eliminate the Preschool Development Grant program, which he said would have cut $7 million from Shelby County Schools and denied preschool to nearly 7,500 low- and moderate-income Tennessee children. He has also cited the Gospel of Matthew on the House floor in arguments for investing in poor children, and championed the Fix America's Schools Today (FAST) Act.",
+      "summary": "Has been a consistent and long-standing champion of Head Start, Early Head Start, and pre-K programs, securing tens of millions of dollars in federal grants for Memphis-area providers. In June 2026, Cohen intervened directly on behalf of approximately 400 sick and disabled children enrolled in Tennessee's Children's Special Services program, calling a state directive to report their immigration status 'morally repulsive' and 'inhumane' in a letter to Gov. Bill Lee.",
+      "details": "Cohen has repeatedly announced and championed Head Start grants for Memphis-area providers: $7.4 million to Shelby County Board of Education (April 2025), $35.5 million for Porter-Leath (July 2025), $2.6 million (December 2024), and $1.1 million for Early Head Start at Children's Bureau (2018). He strongly opposed GOP efforts in 2015 to eliminate the Preschool Development Grant program, which he said would have cut $7 million from Shelby County Schools and denied preschool to nearly 7,500 low- and moderate-income Tennessee children. He has also cited the Gospel of Matthew on the House floor in arguments for investing in poor children, and championed the Fix America's Schools Today (FAST) Act. On June 17, 2026, Cohen sent a letter to Gov. Bill Lee urging revocation of a Tennessee Department of Health directive requiring the reporting of roughly 400 children (birth to age 17) enrolled in the Children's Special Services program \u2014 which provides specialist care for children with spina bifida, sickle cell anemia, and other conditions \u2014 to the state immigration enforcement bureau. Cohen cited Tennessee law restricting immigration status checks to those '18 years of age or older' and called the directive legally baseless as applied to children, arguing families would disenroll children from life-sustaining treatment to avoid deportation risk.",
       "citations": [
         "https://cohen.house.gov/media-center/press-releases/congressman-cohen-announces-355-million-head-start-funding-porter-leath",
         "https://cohen.house.gov/press-release/cohen-gop-education-plan-slashes-millions-shelby-county-preschoolers-takes-hope-and",
-        "https://cohen.house.gov/"
+        "https://cohen.house.gov/",
+        "https://tennesseelookout.com/2026/06/17/congressman-urges-gov-bill-lee-to-revoke-directive-to-report-immigration-status-of-sick-kids/"
       ]
     },
     "child_hunger": {
       "summary": "Cohen cosponsored H.R. 8798 (Universal School Meals Program Act of 2026, May 13, 2026), which would provide free breakfast, lunch, dinner, and a snack to every student nationwide, expand SUN Bucks (Summer EBT) to all children regardless of income, and eliminate school meal debt. He has a long record opposing SNAP cuts and calling the OBBB 'cruel and immoral.'",
-      "details": "Cohen is named as a cosponsor of H.R. 8798, introduced May 13, 2026 by Rep. Gwen Moore. The bill: (1) provides universal free school meals regardless of family income; (2) expands SUN Bucks/Summer EBT to all communities; (3) eliminates school meal debt collection; (4) strengthens the Child and Adult Care Food Program (CACFP) to allow three meals and a snack per day and equalizes reimbursement rates for childcare providers. The bill directly responds to the OBBB's $186B SNAP cuts. Tennessee has lost ~100,000 SNAP recipients since July 2025. Cohen has previously called the OBBB 'cruel and immoral' regarding its SNAP provisions.",
+      "details": "Cohen is named as a cosponsor of H.R. 8798, introduced May 13, 2026 by Rep. Gwen Moore. The bill: (1) provides universal free school meals regardless of family income; (2) expands SUN Bucks/Summer EBT to all communities; (3) eliminates school meal debt collection; (4) strengthens the Child and Adult Care Food Program (CACFP) to allow three meals and a snack per day and equalizes reimbursement rates for childcare providers. The bill directly responds to the OBBB's $186B SNAP cuts. Tennessee has lost ~100,000 SNAP recipients since July 2025. Cohen has previously called the OBBB 'cruel and immoral' regarding its SNAP provisions. A Tennessee Lookout investigation published June 16, 2026 documented that nearly 100,000 Tennesseans have lost SNAP food benefits since the One Big Beautiful Bill Act took effect, with Mid-South Food Bank leaders reporting longer lines as summer begins and children lose school meal access. Tennessee also did not roll out the federal Summer EBT program in 2026, compounding food insecurity for Memphis families.",
       "citations": [
         "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5936",
-        "https://www.sanders.senate.gov/press-releases/news-sanders-omar-more-than-100-colleagues-introduce-legislation-to-end-child-hunger-through-universal-school-meals/"
+        "https://www.sanders.senate.gov/press-releases/news-sanders-omar-more-than-100-colleagues-introduce-legislation-to-end-child-hunger-through-universal-school-meals/",
+        "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/",
+        "https://wreg.com/news/snap-ebt-changes-raise-new-concerns-for-memphis-families/"
       ]
     },
     "parental_support": {
       "summary": "Persistent cosponsor of the FAMILY Act for national paid family leave; voted in February 2024 to expand the Child Tax Credit for 79,000 Memphis children; has supported childcare and parental support broadly.",
-      "details": "Cohen has continuously cosponsored the Family and Medical Insurance Leave (FAMILY) Act, which would create a permanent, national paid family and medical leave program. In February 2024 he voted for H.R. 7024, a bipartisan bill expanding the Child Tax Credit's refundability, which he estimated would benefit 79,000 children in Memphis and TN-9. He stated: 'I voted to pass a tax package that would expand the Child Tax Credit for 79,000 kids in Memphis and TN-9, lifting many of them out of poverty.' He also voted against the One Big Beautiful Bill Act, calling it 'likely the worst bill ever presented' for Memphis families.",
+      "details": "Cohen has continuously cosponsored the Family and Medical Insurance Leave (FAMILY) Act, which would create a permanent, national paid family and medical leave program. In February 2024 he voted for H.R. 7024, a bipartisan bill expanding the Child Tax Credit's refundability, which he estimated would benefit 79,000 children in Memphis and TN-9. He stated: 'I voted to pass a tax package that would expand the Child Tax Credit for 79,000 kids in Memphis and TN-9, lifting many of them out of poverty.' He also voted against the One Big Beautiful Bill Act, calling it 'likely the worst bill ever presented' for Memphis families. On June 10, 2026, Cohen and co-plaintiffs (including Justin Pearson and the Tennessee Democratic Party) voluntarily dismissed their federal redistricting lawsuit after the court denied emergency relief; Cohen stated he 'vigorously supports' the ongoing ACLU and NAACP suits and maintained the redistricting was 'illegal' and 'harmful to Memphis and the Black community by diluting their political representation.'",
       "citations": [
         "https://cohen.house.gov/issues/children-and-families",
-        "https://cohen.house.gov/media-center/press-releases/congressman-cohen-votes-expand-child-tax-credit-thousands-memphis"
+        "https://cohen.house.gov/media-center/press-releases/congressman-cohen-votes-expand-child-tax-credit-thousands-memphis",
+        "https://statenewsfoundation.org/2026/06/steve-cohen-justin-pearson-join-tennessee-democratic-party-in-dropping-lawsuit-challenging-new-congressional-map/"
       ]
     }
   },
@@ -438,11 +475,11 @@
     "party": "D",
     "race": "house",
     "district": "TN-9",
-    "primary_label": "Democratic Primary · U.S. House TN-9",
-    "role_subtitle": "TN State Rep · activist",
-    "bio": "Progressive challenger known for the Byhalia Pipeline fight and the 2023 'Tennessee Three' gun-protest expulsion. Pledging no corporate PAC money; raised $374K in Q1 2026 alone, narrowly outraising Cohen that quarter. Justice Democrats endorsed; pledged $1M through Leaders We Deserve. ⚠ The new map signed May 7 dismantles the Memphis-based TN-9; Pearson's brother KeShaun was arrested protesting at the Capitol. All candidates must refile by May 15; Pearson's campaign path in the redrawn district is unclear pending legal challenges.",
+    "primary_label": "Democratic Primary \u00b7 U.S. House TN-9",
+    "role_subtitle": "TN State Rep \u00b7 activist",
+    "bio": "Progressive challenger known for the Byhalia Pipeline fight and the 2023 'Tennessee Three' gun-protest expulsion. Pledging no corporate PAC money; raised $374K in Q1 2026 alone, narrowly outraising Cohen that quarter. Justice Democrats endorsed; pledged $1M through Leaders We Deserve. \u26a0 The new map signed May 7 dismantles the Memphis-based TN-9; Pearson's brother KeShaun was arrested protesting at the Capitol. All candidates must refile by May 15; Pearson's campaign path in the redrawn district is unclear pending legal challenges.",
     "frontrunner": true,
-    "status_line": "⚠ District redrawn — refiling by May 15",
+    "status_line": "\u26a0 District redrawn \u2014 refiling by May 15",
     "photo_url": "https://images.squarespace-cdn.com/content/v1/638e0e4731cb8444ce5a20e8/1759714900864-46FWFWQ8BIZOMN2QNAPI/082525+Justin+J+Pearson+Studio+Portrait-187.jpg",
     "photo_credit": "Official campaign photo, votejustinj.com",
     "campaign_url": "https://www.votejustinj.com/",
@@ -450,25 +487,31 @@
     "twitter": "@JustinJPearson",
     "early_childhood_ed": {
       "summary": "Pearson lists 'Educational Equity & Funding Our Schools' as a named campaign issue, but his current website does not contain explicit universal pre-K or childcare investment language. He has spoken about the importance of 'a good school that they can send their kids to' as part of his anti-poverty platform.",
-      "details": "votejustinj.com/issues (crawled June 17, 2026) lists 'Educational Equity & Funding Our Schools' among his ten issue areas and states he will fight to 'invest in quality educational opportunities for our students.' In a May 29, 2026 American Prospect Q&A, he stated 'most people want...a good school that they can send their kids to.' No explicit universal pre-K, childcare investment, or childcare workforce language found on the current campaign site. His TN state legislative record includes education equity work, but federal pre-K commitments are not articulated on the current site.",
+      "details": "votejustinj.com/issues (crawled June 17, 2026) lists 'Educational Equity & Funding Our Schools' among his ten issue areas and states he will fight to 'invest in quality educational opportunities for our students.' In a May 29, 2026 American Prospect Q&A, he stated 'most people want...a good school that they can send their kids to.' No explicit universal pre-K, childcare investment, or childcare workforce language found on the current campaign site. His TN state legislative record includes education equity work, but federal pre-K commitments are not articulated on the current site. At a June 10, 2026 Maury County Democratic Party forum, Pearson said: 'You ought to have enough to feed your family\u2026 to have a roof over your head\u2026 to send your kids to a good public school\u2026 and have a job that pays enough.' Pearson confirmed his continued candidacy in the redrawn TN-9 on May 12, 2026 ('We are still running for the United States Congress, District 9'), and dropped the redistricting lawsuit on June 10 alongside Cohen. He received endorsements from the Working Families Party (June 15) and Sen. Bernie Sanders (June 17).",
       "citations": [
         "https://votejustinj.com/issues",
-        "https://prospect.org/2026/05/29/qa-justin-pearson-tennessee-fight-for-our-lives/"
+        "https://prospect.org/2026/05/29/qa-justin-pearson-tennessee-fight-for-our-lives/",
+        "https://mainstreetmediatn.com/articles/mainstreetmaury/democratic-candidates-for-congress-address-maury-county-party/"
       ]
     },
     "child_hunger": {
       "summary": "Pearson's platform explicitly names child poverty as a central crisis ('33% of our children live below the poverty line'), commits to doubling the Earned Income Tax Credit to lift children out of poverty, and invokes 'food justice' as a moral and legislative responsibility. No explicit SNAP-specific or Summer EBT positions found on the current site.",
-      "details": "votejustinj.com/issues states: '33% of our children live below the poverty line. That has been worsening for the last two decades.' Under End Poverty & the Affordability Crisis, he pledges to: 'double the Earned Income Tax Credit which would lift half of children in the country out of poverty'; 'cut taxes on working class people and end the grocery tax.' His Affordable Housing section invokes Matthew 25: 'we have moral and legislative responsibility to ensure housing and food justice for all.' At a June 15, 2026 forum he referenced 'Trump was spending billions of dollars on war but was unable to help those in need.' No explicit SNAP defense, SUN Bucks, or school meal language found in May–June 2026 content.",
+      "details": "votejustinj.com/issues states: '33% of our children live below the poverty line. That has been worsening for the last two decades.' Under End Poverty & the Affordability Crisis, he pledges to: 'double the Earned Income Tax Credit which would lift half of children in the country out of poverty'; 'cut taxes on working class people and end the grocery tax.' His Affordable Housing section invokes Matthew 25: 'we have moral and legislative responsibility to ensure housing and food justice for all.' At a June 15, 2026 forum he referenced 'Trump was spending billions of dollars on war but was unable to help those in need.' No explicit SNAP defense, SUN Bucks, or school meal language found in May\u2013June 2026 content. At a June 10, 2026 Maury County forum he said: 'You ought to have enough to feed your family.' His June 15, 2026 WFP endorsement statement: 'The wealth gap is unconscionable in our country. Too many families are struggling under crushing inflation and stagnant wages.' Sanders's June 17 endorsement cited his focus on 'wealth, income inequality, and corporate overreach.'",
       "citations": [
         "https://votejustinj.com/issues",
-        "https://www.commercialappeal.com/story/news/politics/elections/2026/06/16/tennessee-house-district-9-democratic-candidates/90526171007/"
+        "https://www.commercialappeal.com/story/news/politics/elections/2026/06/16/tennessee-house-district-9-democratic-candidates/90526171007/",
+        "https://workingfamilies.org/2026/06/wfp-endorses-justin-j-pearson-for-congress/",
+        "https://iwpost.com/bernie-sanders-backs-justin-j-pearson-house-candidate-at-the-heart-of-tennessee-voting-rights-fight/"
       ]
     },
     "parental_support": {
       "summary": "Pearson's current platform focuses on poverty reduction through EITC doubling, minimum wage increases, and Guaranteed Basic Income programs. No explicit paid family leave, childcare affordability, or child tax credit expansion language found on the current campaign website.",
-      "details": "votejustinj.com/issues 'End Poverty' section pledges: 'Writing legislation to increase the minimum wage'; doubling the EITC; Guaranteed Basic Income programs for people experiencing poverty; and tax cuts on working class people. No paid family leave, childcare subsidies, or CTC expansion language appears on the current site.",
+      "details": "votejustinj.com/issues 'End Poverty' section pledges: 'Writing legislation to increase the minimum wage'; doubling the EITC; Guaranteed Basic Income programs for people experiencing poverty; and tax cuts on working class people. No paid family leave, childcare subsidies, or CTC expansion language appears on the current site. At the June 10, 2026 Maury County forum, Pearson said his first priority is to 'fight for an economy for all' and 'pass Medicare for all, because healthcare is a human right.' Sanders's June 17 endorsement cited his platform centered on 'wealth, income inequality, and corporate overreach.' A rural listening tour in June drew over 750 attendees expressing frustration over inability to afford housing, healthcare, and basic necessities.",
       "citations": [
-        "https://votejustinj.com/issues"
+        "https://votejustinj.com/issues",
+        "https://mainstreetmediatn.com/articles/mainstreetmaury/democratic-candidates-for-congress-address-maury-county-party/",
+        "https://workingfamilies.org/2026/06/wfp-endorses-justin-j-pearson-for-congress/",
+        "https://iwpost.com/bernie-sanders-backs-justin-j-pearson-house-candidate-at-the-heart-of-tennessee-voting-rights-fight/"
       ]
     }
   },
@@ -478,7 +521,7 @@
     "party": "R",
     "race": "house",
     "district": "TN-9",
-    "primary_label": "Republican Primary · U.S. House TN-9",
+    "primary_label": "Republican Primary \u00b7 U.S. House TN-9",
     "role_subtitle": "Perennial candidate",
     "bio": "Republican nominee in a D+35 district.",
     "frontrunner": false,
@@ -490,15 +533,17 @@
     "twitter": null,
     "early_childhood_ed": {
       "summary": "Bergmann's campaign website lists 'School Choice' as one of four campaign pillars, described as 'Empowering parents and protecting children's futures.' No childcare, pre-K, Head Start, or early childhood education positions found.",
-      "details": "The electbergmann.com home page (crawled June 17, 2026) lists four pillars: Crime & Safety; Veterans; Economy & Jobs; and School Choice ('Empowering parents and protecting children's futures'). The /issues page returns 404. May–June 2026 media appearances (Fox News June 10, WKIM May 13, June 7 interview) focused on redistricting, crime, border security, SPLC, and media bias — no education policy specifics. School choice framing suggests parental empowerment in K-12 rather than government-directed early childhood programs.",
+      "details": "The electbergmann.com home page (crawled June 17, 2026) lists four pillars: Crime & Safety; Veterans; Economy & Jobs; and School Choice ('Empowering parents and protecting children's futures'). The /issues page returns 404. May\u2013June 2026 media appearances (Fox News June 10, WKIM May 13, June 7 interview) focused on redistricting, crime, border security, SPLC, and media bias \u2014 no education policy specifics. School choice framing suggests parental empowerment in K-12 rather than government-directed early childhood programs. Bergmann launched a new campaign website in late May 2026 for the redrawn district and appeared in a June 10, 2026 Fox News Will Cain Show segment focused on redistricting and countering Democratic accusations of racial gerrymandering. No early childhood education specifics found.",
       "citations": [
-        "https://electbergmann.com/"
+        "https://electbergmann.com/",
+        "https://tristardaily.com/bergmann-launches-new-website-for-9th-district-gop-primary/"
       ]
     },
     "child_hunger": {
       "summary": "No specific public position found on child hunger, SNAP, school meals, or food assistance programs.",
       "details": "Bergmann's campaign platform lists 'Protect the Children and Babies' as a stated priority alongside jobs, veterans, and law and justice, but no details on child nutrition, school lunch programs, SNAP, WIC, or Summer EBT are provided in her publicly available campaign materials.",
       "citations": [
+        "https://electbergmann.com/issues.html",
         "https://electbergmann.com/issues.html"
       ]
     },
