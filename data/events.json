@@ -88,28 +88,6 @@
     "retrieved_at": "2026-05-12"
   },
   {
-    "id": "jerri-green-town-hall-jonesborough-2026-05-04",
-    "date_iso": "2026-05-04",
-    "date_display": {
-      "month": "May",
-      "day": "4",
-      "year": "2026"
-    },
-    "title": "Jerri Green Town Hall in Jonesborough",
-    "description": "Democratic gubernatorial candidate Jerri Green held a town hall at the Jonesborough Visitors Center Monday evening, taking questions from attendees on issues including school vouchers, Medicaid expansion, the state grocery tax, maternal health, and gun violence.",
-    "meta": "Jonesborough · Jonesborough Visitors Center · evening",
-    "link_url": "https://www.wjhl.com/news/your-local-election-hq/democratic-gubernatorial-candidate-jerri-green-speaks-at-town-hall-in-jonesborough/",
-    "link_label": "WJHL coverage →",
-    "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://www.wjhl.com/news/your-local-election-hq/democratic-gubernatorial-candidate-jerri-green-speaks-at-town-hall-in-jonesborough/",
-    "retrieved_at": "2026-05-06"
-  },
-  {
     "id": "franklin-county-gop-reagan-day-dinner-2026-05-04",
     "date_iso": "2026-05-04",
     "date_display": {
@@ -132,6 +110,28 @@
     ],
     "source_url": "https://www.heraldchronicle.com/news/local/local-republicans-hear-from-gubernatorial-candidates/article_38399023-0f86-4984-9db3-3cc529879b9c.html",
     "retrieved_at": "2026-05-20"
+  },
+  {
+    "id": "jerri-green-town-hall-jonesborough-2026-05-04",
+    "date_iso": "2026-05-04",
+    "date_display": {
+      "month": "May",
+      "day": "4",
+      "year": "2026"
+    },
+    "title": "Jerri Green Town Hall in Jonesborough",
+    "description": "Democratic gubernatorial candidate Jerri Green held a town hall at the Jonesborough Visitors Center Monday evening, taking questions from attendees on issues including school vouchers, Medicaid expansion, the state grocery tax, maternal health, and gun violence.",
+    "meta": "Jonesborough · Jonesborough Visitors Center · evening",
+    "link_url": "https://www.wjhl.com/news/your-local-election-hq/democratic-gubernatorial-candidate-jerri-green-speaks-at-town-hall-in-jonesborough/",
+    "link_label": "WJHL coverage →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://www.wjhl.com/news/your-local-election-hq/democratic-gubernatorial-candidate-jerri-green-speaks-at-town-hall-in-jonesborough/",
+    "retrieved_at": "2026-05-06"
   },
   {
     "id": "knox-county-republican-primary-2026-05-05",
@@ -181,16 +181,16 @@
     "retrieved_at": "2026-05-08"
   },
   {
-    "id": "jerri-green-meet-jerri-springfield-2026-05-09",
+    "id": "jerri-green-meet-jerri-clarksville-2026-05-09",
     "date_iso": "2026-05-09",
     "date_display": {
       "month": "May",
       "day": "9",
       "year": "2026"
     },
-    "title": "Jerri Green: Meet Jerri in Springfield",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Springfield, TN. Venue and time details available on her campaign events page.",
-    "meta": "Springfield · Robertson County · venue TBD via campaign site",
+    "title": "Jerri Green: Meet Jerri in Clarksville",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Clarksville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Clarksville · Montgomery County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
@@ -203,16 +203,16 @@
     "retrieved_at": "2026-05-08"
   },
   {
-    "id": "jerri-green-meet-jerri-clarksville-2026-05-09",
+    "id": "jerri-green-meet-jerri-springfield-2026-05-09",
     "date_iso": "2026-05-09",
     "date_display": {
       "month": "May",
       "day": "9",
       "year": "2026"
     },
-    "title": "Jerri Green: Meet Jerri in Clarksville",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Clarksville, TN. Venue and time details available on her campaign events page.",
-    "meta": "Clarksville · Montgomery County · venue TBD via campaign site",
+    "title": "Jerri Green: Meet Jerri in Springfield",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Springfield, TN. Venue and time details available on her campaign events page.",
+    "meta": "Springfield · Robertson County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
@@ -269,28 +269,6 @@
     "retrieved_at": "2026-05-28"
   },
   {
-    "id": "jerri-green-meet-jerri-alcoa-2026-05-15",
-    "date_iso": "2026-05-15",
-    "date_display": {
-      "month": "May",
-      "day": "15",
-      "year": "2026"
-    },
-    "title": "Jerri Green: Meet Jerri in Alcoa",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Alcoa, TN. Venue and time details available on her campaign events page.",
-    "meta": "Alcoa · Blount County · venue TBD via campaign site",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor →",
-    "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-05-08"
-  },
-  {
     "id": "anna-golladay-coffee-convos-2026-05-15",
     "date_iso": "2026-05-15",
     "date_display": {
@@ -336,38 +314,16 @@
     "retrieved_at": "2026-05-12"
   },
   {
-    "id": "jerri-green-meet-jerri-gallatin-2026-05-16",
-    "date_iso": "2026-05-16",
+    "id": "jerri-green-meet-jerri-alcoa-2026-05-15",
+    "date_iso": "2026-05-15",
     "date_display": {
       "month": "May",
-      "day": "16",
+      "day": "15",
       "year": "2026"
     },
-    "title": "Jerri Green: Meet Jerri in Gallatin",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Gallatin, TN. Venue and time details available on her campaign events page.",
-    "meta": "Gallatin · Sumner County · venue TBD via campaign site",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor →",
-    "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-05-08"
-  },
-  {
-    "id": "jerri-green-meet-jerri-knoxville-2026-05-16",
-    "date_iso": "2026-05-16",
-    "date_display": {
-      "month": "May",
-      "day": "16",
-      "year": "2026"
-    },
-    "title": "Jerri Green: Meet Jerri in Knoxville",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Knoxville, TN. Venue and time details available on her campaign events page.",
-    "meta": "Knoxville · Knox County · venue TBD via campaign site",
+    "title": "Jerri Green: Meet Jerri in Alcoa",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Alcoa, TN. Venue and time details available on her campaign events page.",
+    "meta": "Alcoa · Blount County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
@@ -424,16 +380,38 @@
     "retrieved_at": "2026-05-28"
   },
   {
-    "id": "jerri-green-meet-jerri-washburn-2026-05-17",
-    "date_iso": "2026-05-17",
+    "id": "jerri-green-meet-jerri-gallatin-2026-05-16",
+    "date_iso": "2026-05-16",
     "date_display": {
       "month": "May",
-      "day": "17",
+      "day": "16",
       "year": "2026"
     },
-    "title": "Jerri Green: Meet Jerri in Washburn",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Washburn, TN. Venue and time details available on her campaign events page.",
-    "meta": "Washburn · Grainger County · venue TBD via campaign site",
+    "title": "Jerri Green: Meet Jerri in Gallatin",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Gallatin, TN. Venue and time details available on her campaign events page.",
+    "meta": "Gallatin · Sumner County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-08"
+  },
+  {
+    "id": "jerri-green-meet-jerri-knoxville-2026-05-16",
+    "date_iso": "2026-05-16",
+    "date_display": {
+      "month": "May",
+      "day": "16",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Knoxville",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Knoxville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Knoxville · Knox County · venue TBD via campaign site",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
@@ -468,26 +446,26 @@
     "retrieved_at": "2026-05-28"
   },
   {
-    "id": "hamilton-county-jfk-luncheon-2026-05-19",
-    "date_iso": "2026-05-19",
+    "id": "jerri-green-meet-jerri-washburn-2026-05-17",
+    "date_iso": "2026-05-17",
     "date_display": {
       "month": "May",
-      "day": "19",
+      "day": "17",
       "year": "2026"
     },
-    "title": "Hamilton County JFK Luncheon",
-    "description": "Hamilton County Democratic JFK Luncheon with Anna Golladay.",
-    "meta": "Chattanooga Masonic Lodge, Chattanooga, TN · 11:30",
-    "link_url": "https://annagolladay.com/events",
-    "link_label": "Campaign site →",
+    "title": "Jerri Green: Meet Jerri in Washburn",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Washburn, TN. Venue and time details available on her campaign events page.",
+    "meta": "Washburn · Grainger County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
     "is_placeholder": false,
-    "race": "house",
-    "race_label": "U.S. House TN-3",
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
     "candidates_invited": [
-      "anna-golladay"
+      "jerri-green"
     ],
-    "source_url": "https://annagolladay.com/events",
-    "retrieved_at": "2026-05-28"
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-08"
   },
   {
     "id": "bradley-county-democratic-meeting-2026-05-19",
@@ -500,6 +478,28 @@
     "title": "Bradley County Democratic Meeting",
     "description": "Bradley County Democratic Party meeting with Anna Golladay.",
     "meta": "Bradley County Courthouse, TN · 18:00",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-05-28"
+  },
+  {
+    "id": "hamilton-county-jfk-luncheon-2026-05-19",
+    "date_iso": "2026-05-19",
+    "date_display": {
+      "month": "May",
+      "day": "19",
+      "year": "2026"
+    },
+    "title": "Hamilton County JFK Luncheon",
+    "description": "Hamilton County Democratic JFK Luncheon with Anna Golladay.",
+    "meta": "Chattanooga Masonic Lodge, Chattanooga, TN · 11:30",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Campaign site →",
     "is_placeholder": false,
@@ -644,6 +644,28 @@
     "retrieved_at": "2026-05-20"
   },
   {
+    "id": "anna-golladay-dayton-chamber-roane-county-dem-women-2026-05-28",
+    "date_iso": "2026-05-28",
+    "date_display": {
+      "month": "May",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Anna Golladay: Dayton TN Chamber & Roane County Democratic Women",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) makes two appearances: a civic meeting with the Dayton, TN Chamber of Commerce, followed by a meeting with the Roane County Democratic Women. Both events open to the public where local business and civic leaders can engage with the candidate.",
+    "meta": "Dayton, TN · Rhea County · then Roane County",
+    "link_url": "https://annagolladay.com",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com",
+    "retrieved_at": "2026-05-20"
+  },
+  {
     "id": "jerri-green-meet-jerri-memphis-2026-05-28",
     "date_iso": "2026-05-28",
     "date_display": {
@@ -686,28 +708,6 @@
     ],
     "source_url": "https://action.pinkstonfortn.com",
     "retrieved_at": "2026-05-16"
-  },
-  {
-    "id": "anna-golladay-dayton-chamber-roane-county-dem-women-2026-05-28",
-    "date_iso": "2026-05-28",
-    "date_display": {
-      "month": "May",
-      "day": "28",
-      "year": "2026"
-    },
-    "title": "Anna Golladay: Dayton TN Chamber & Roane County Democratic Women",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) makes two appearances: a civic meeting with the Dayton, TN Chamber of Commerce, followed by a meeting with the Roane County Democratic Women. Both events open to the public where local business and civic leaders can engage with the candidate.",
-    "meta": "Dayton, TN · Rhea County · then Roane County",
-    "link_url": "https://annagolladay.com",
-    "link_label": "Golladay for Congress →",
-    "is_placeholder": false,
-    "race": "house",
-    "race_label": "U.S. House TN-3",
-    "candidates_invited": [
-      "anna-golladay"
-    ],
-    "source_url": "https://annagolladay.com",
-    "retrieved_at": "2026-05-20"
   },
   {
     "id": "michaela-barnett-knox-dems-district-7-meeting-2026-05-28",
@@ -754,28 +754,6 @@
     "retrieved_at": "2026-05-29"
   },
   {
-    "id": "jerri-green-meet-jerri-fayetteville-2026-05-30",
-    "date_iso": "2026-05-30",
-    "date_display": {
-      "month": "May",
-      "day": "30",
-      "year": "2026"
-    },
-    "title": "Jerri Green: Meet Jerri in Fayetteville",
-    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Fayetteville, TN. Venue and time details available on her campaign events page. [Verify: not found in scan on 2026-05-28]",
-    "meta": "Fayetteville · Lincoln County · venue TBD via campaign site",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Jerri Green for Governor →",
-    "is_placeholder": true,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-05-08"
-  },
-  {
     "id": "anna-golladay-alton-park-block-party-2026-05-30",
     "date_iso": "2026-05-30",
     "date_display": {
@@ -796,6 +774,28 @@
     ],
     "source_url": "https://annagolladay.com",
     "retrieved_at": "2026-05-29"
+  },
+  {
+    "id": "jerri-green-meet-jerri-fayetteville-2026-05-30",
+    "date_iso": "2026-05-30",
+    "date_display": {
+      "month": "May",
+      "day": "30",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Fayetteville",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Fayetteville, TN. Venue and time details available on her campaign events page. [Verify: not found in scan on 2026-05-28]",
+    "meta": "Fayetteville · Lincoln County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": true,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-08"
   },
   {
     "id": "jerri-green-meet-jerri-franklin-2026-05-31",
@@ -908,26 +908,26 @@
     "retrieved_at": "2026-06-02"
   },
   {
-    "id": "lauren-pinkston-conscious-conversation-reading-rock-books-2026-06-06",
+    "id": "anna-golladay-bradley-county-democrats-celebration-2026-06-06",
     "date_iso": "2026-06-06",
     "date_display": {
       "month": "Jun",
       "day": "6",
       "year": "2026"
     },
-    "title": "Lauren Pinkston: Conscious Conversation at Reading Rock Books",
-    "description": "Independent gubernatorial candidate Lauren Pinkston holds a community conversation event at Reading Rock Books, an independent bookstore in Dickson, TN.",
-    "meta": "Dickson · Reading Rock Books, 122 N Main Street · 9:00 AM",
-    "link_url": "https://action.pinkstonfortn.com",
-    "link_label": "Pinkston for TN →",
+    "title": "Anna Golladay at Bradley County Democrats Celebration",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) appears at the Bradley County Democratic Party celebration in Cleveland-area, TN.",
+    "meta": "Bradley County (Cleveland area), TN · 5:00–8:00 PM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Golladay for Congress →",
     "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (independent)",
+    "race": "house",
+    "race_label": "U.S. House TN-3",
     "candidates_invited": [
-      "lauren-pinkston"
+      "anna-golladay"
     ],
-    "source_url": "https://action.pinkstonfortn.com",
-    "retrieved_at": "2026-05-16"
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-06-02"
   },
   {
     "id": "anna-golladay-mootest-sweetwater-pride-2026-06-06",
@@ -950,6 +950,28 @@
     ],
     "source_url": "https://annagolladay.com",
     "retrieved_at": "2026-05-29"
+  },
+  {
+    "id": "lauren-pinkston-conscious-conversation-reading-rock-books-2026-06-06",
+    "date_iso": "2026-06-06",
+    "date_display": {
+      "month": "Jun",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Conscious Conversation at Reading Rock Books",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a community conversation event at Reading Rock Books, an independent bookstore in Dickson, TN.",
+    "meta": "Dickson · Reading Rock Books, 122 N Main Street · 9:00 AM",
+    "link_url": "https://action.pinkstonfortn.com",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://action.pinkstonfortn.com",
+    "retrieved_at": "2026-05-16"
   },
   {
     "id": "meet-jerri-in-memphis-2026-06-06",
@@ -996,39 +1018,17 @@
     "retrieved_at": "2026-05-31"
   },
   {
-    "id": "anna-golladay-bradley-county-democrats-celebration-2026-06-06",
-    "date_iso": "2026-06-06",
-    "date_display": {
-      "month": "Jun",
-      "day": "6",
-      "year": "2026"
-    },
-    "title": "Anna Golladay at Bradley County Democrats Celebration",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) appears at the Bradley County Democratic Party celebration in Cleveland-area, TN.",
-    "meta": "Bradley County (Cleveland area), TN · 5:00–8:00 PM",
-    "link_url": "https://annagolladay.com/events",
-    "link_label": "Golladay for Congress →",
-    "is_placeholder": false,
-    "race": "house",
-    "race_label": "U.S. House TN-3",
-    "candidates_invited": [
-      "anna-golladay"
-    ],
-    "source_url": "https://annagolladay.com/events",
-    "retrieved_at": "2026-06-02"
-  },
-  {
-    "id": "put-hope-to-work-summer-field-kickoff-2026-06-07",
+    "id": "meet-greet-michaela-barnett-lindsay-honaker-farragut-2026-06-07",
     "date_iso": "2026-06-07",
     "date_display": {
       "month": "Jun",
       "day": "7",
       "year": "2026"
     },
-    "title": "Put Hope to Work: Summer Field Kickoff",
-    "description": "Democratic congressional candidate Michaela Barnett (TN-2 D) hosts a summer field campaign launch event featuring outreach stations for phone banking, canvassing, and relational organizing. An optional carpool to Farragut for door-knocking departs at 1:30 PM.",
-    "meta": "Knoxville · Printshop Beer Co, 1532 Island Home Ave · 11:00 AM – 2:00 PM",
-    "link_url": "https://mobilize.us/michaelafortennessee/event/959891",
+    "title": "Meet & Greet with Michaela Barnett and Lindsay Honaker in Farragut",
+    "description": "Democratic congressional candidate Michaela Barnett (TN-2) and TN State House District 14 candidate Lindsay Young Honaker host a community meet-and-greet in Farragut. Attendees can hear from both candidates, ask questions, and connect with neighbors.",
+    "meta": "Farragut · The Cove at Concord Park, 11808 S Northshore Dr, Knoxville TN 37922 · Sun Jun 7, 4:00–6:00 PM EDT",
+    "link_url": "https://www.mobilize.us/michaelafortennessee/event/959895/",
     "link_label": "RSVP via Mobilize →",
     "is_placeholder": false,
     "race": "house",
@@ -1037,7 +1037,7 @@
       "michaela-barnett"
     ],
     "source_url": "https://www.michaelafortennessee.com/events",
-    "retrieved_at": "2026-05-30"
+    "retrieved_at": "2026-06-01"
   },
   {
     "id": "meet-jerri-in-oakland-2026-06-07",
@@ -1062,17 +1062,17 @@
     "retrieved_at": "2026-05-31"
   },
   {
-    "id": "meet-greet-michaela-barnett-lindsay-honaker-farragut-2026-06-07",
+    "id": "put-hope-to-work-summer-field-kickoff-2026-06-07",
     "date_iso": "2026-06-07",
     "date_display": {
       "month": "Jun",
       "day": "7",
       "year": "2026"
     },
-    "title": "Meet & Greet with Michaela Barnett and Lindsay Honaker in Farragut",
-    "description": "Democratic congressional candidate Michaela Barnett (TN-2) and TN State House District 14 candidate Lindsay Young Honaker host a community meet-and-greet in Farragut. Attendees can hear from both candidates, ask questions, and connect with neighbors.",
-    "meta": "Farragut · The Cove at Concord Park, 11808 S Northshore Dr, Knoxville TN 37922 · Sun Jun 7, 4:00–6:00 PM EDT",
-    "link_url": "https://www.mobilize.us/michaelafortennessee/event/959895/",
+    "title": "Put Hope to Work: Summer Field Kickoff",
+    "description": "Democratic congressional candidate Michaela Barnett (TN-2 D) hosts a summer field campaign launch event featuring outreach stations for phone banking, canvassing, and relational organizing. An optional carpool to Farragut for door-knocking departs at 1:30 PM.",
+    "meta": "Knoxville · Printshop Beer Co, 1532 Island Home Ave · 11:00 AM – 2:00 PM",
+    "link_url": "https://mobilize.us/michaelafortennessee/event/959891",
     "link_label": "RSVP via Mobilize →",
     "is_placeholder": false,
     "race": "house",
@@ -1081,7 +1081,7 @@
       "michaela-barnett"
     ],
     "source_url": "https://www.michaelafortennessee.com/events",
-    "retrieved_at": "2026-06-01"
+    "retrieved_at": "2026-05-30"
   },
   {
     "id": "lauren-pinkston-knoxville-meet-greet-2026-06-09",
@@ -1238,28 +1238,6 @@
     "retrieved_at": "2026-06-13"
   },
   {
-    "id": "anna-golladay-rhea-county-meet-the-candidates-2026-06-13",
-    "date_iso": "2026-06-13",
-    "date_display": {
-      "month": "Jun",
-      "day": "13",
-      "year": "2026"
-    },
-    "title": "Rhea County Meet the Candidates",
-    "description": "A public 'Meet the Candidates' forum in Rhea County features TN-3 congressional candidate Anna Golladay, offering voters a chance to hear directly from candidates in a structured public setting. Other TN-3 candidates may also participate; check with Rhea County hosts for full candidate list.",
-    "meta": "Rhea County, TN · 12:00 PM–1:00 PM",
-    "link_url": "https://annagolladay.com/events",
-    "link_label": "Golladay for Congress →",
-    "is_placeholder": false,
-    "race": "house",
-    "race_label": "U.S. House TN-3",
-    "candidates_invited": [
-      "anna-golladay"
-    ],
-    "source_url": "https://annagolladay.com/events",
-    "retrieved_at": "2026-06-10"
-  },
-  {
     "id": "anna-golladay-hcdp-general-assembly-2026-06-13",
     "date_iso": "2026-06-13",
     "date_display": {
@@ -1282,47 +1260,25 @@
     "retrieved_at": "2026-06-10"
   },
   {
-    "id": "meet-jerri-in-memphis-2026-06-13",
+    "id": "anna-golladay-rhea-county-meet-the-candidates-2026-06-13",
     "date_iso": "2026-06-13",
     "date_display": {
       "month": "Jun",
       "day": "13",
       "year": "2026"
     },
-    "title": "Meet Jerri in Memphis",
-    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
-    "meta": "Memphis, TN",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Campaign site →",
+    "title": "Rhea County Meet the Candidates",
+    "description": "A public 'Meet the Candidates' forum in Rhea County features TN-3 congressional candidate Anna Golladay, offering voters a chance to hear directly from candidates in a structured public setting. Other TN-3 candidates may also participate; check with Rhea County hosts for full candidate list.",
+    "meta": "Rhea County, TN · 12:00 PM–1:00 PM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Golladay for Congress →",
     "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
+    "race": "house",
+    "race_label": "U.S. House TN-3",
     "candidates_invited": [
-      "jerri-green"
+      "anna-golladay"
     ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-05-31"
-  },
-  {
-    "id": "meet-jerri-in-hohenwald-2026-06-13",
-    "date_iso": "2026-06-13",
-    "date_display": {
-      "month": "Jun",
-      "day": "13",
-      "year": "2026"
-    },
-    "title": "Meet Jerri in Hohenwald",
-    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor, in Hohenwald.",
-    "meta": "Hohenwald, TN",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Campaign site →",
-    "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
+    "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-06-10"
   },
   {
@@ -1370,11 +1326,33 @@
     "retrieved_at": "2026-06-13"
   },
   {
-    "id": "meet-jerri-in-memphis-2026-06-14",
-    "date_iso": "2026-06-14",
+    "id": "meet-jerri-in-hohenwald-2026-06-13",
+    "date_iso": "2026-06-13",
     "date_display": {
       "month": "Jun",
-      "day": "14",
+      "day": "13",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Hohenwald",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor, in Hohenwald.",
+    "meta": "Hohenwald, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-06-10"
+  },
+  {
+    "id": "meet-jerri-in-memphis-2026-06-13",
+    "date_iso": "2026-06-13",
+    "date_display": {
+      "month": "Jun",
+      "day": "13",
       "year": "2026"
     },
     "title": "Meet Jerri in Memphis",
@@ -1414,6 +1392,28 @@
     "retrieved_at": "2026-06-05"
   },
   {
+    "id": "meet-jerri-in-memphis-2026-06-14",
+    "date_iso": "2026-06-14",
+    "date_display": {
+      "month": "Jun",
+      "day": "14",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Memphis",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Memphis, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
     "id": "john-rose-grainger-county-tennessee-true-tour-2026-06-15",
     "date_iso": "2026-06-15",
     "date_display": {
@@ -1436,16 +1436,16 @@
     "retrieved_at": "2026-06-22"
   },
   {
-    "id": "anna-golladay-hamilton-county-jfk-luncheon-2026-06-16",
+    "id": "anna-golladay-bradley-county-democratic-meeting-2026-06-16",
     "date_iso": "2026-06-16",
     "date_display": {
       "month": "Jun",
       "day": "16",
       "year": "2026"
     },
-    "title": "Anna Golladay at Hamilton County JFK Luncheon",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) attends the monthly Hamilton County JFK Luncheon, a recurring Democratic gathering in the Chattanooga area. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
-    "meta": "Hamilton County (Chattanooga), TN · 11:30 AM",
+    "title": "Anna Golladay at Bradley County Democratic Party Meeting",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) attends the Bradley County Democratic Party monthly meeting. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
+    "meta": "Bradley County (Cleveland area), TN · 6:00 PM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Golladay for Congress →",
     "is_placeholder": true,
@@ -1458,16 +1458,16 @@
     "retrieved_at": "2026-06-14"
   },
   {
-    "id": "anna-golladay-bradley-county-democratic-meeting-2026-06-16",
+    "id": "anna-golladay-hamilton-county-jfk-luncheon-2026-06-16",
     "date_iso": "2026-06-16",
     "date_display": {
       "month": "Jun",
       "day": "16",
       "year": "2026"
     },
-    "title": "Anna Golladay at Bradley County Democratic Party Meeting",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) attends the Bradley County Democratic Party monthly meeting. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
-    "meta": "Bradley County (Cleveland area), TN · 6:00 PM",
+    "title": "Anna Golladay at Hamilton County JFK Luncheon",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) attends the monthly Hamilton County JFK Luncheon, a recurring Democratic gathering in the Chattanooga area. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
+    "meta": "Hamilton County (Chattanooga), TN · 11:30 AM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Golladay for Congress →",
     "is_placeholder": true,
@@ -1561,9 +1561,12 @@
     "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-8",
-    "candidates_invited": [],
+    "candidates_invited": [
+      "dewey-bryan",
+      "leonard-perkins"
+    ],
     "source_url": "https://www.aol.com/news/democrats-tn-8th-congressional-district-160242059.html",
-    "retrieved_at": "2026-06-23"
+    "retrieved_at": "2026-06-24"
   },
   {
     "id": "anna-golladay-coffee-convos-2026-06-19",
@@ -1632,6 +1635,96 @@
     "retrieved_at": "2026-06-06"
   },
   {
+    "id": "anna-golladay-bessie-smith-big-9-festival-2026-06-20",
+    "date_iso": "2026-06-20",
+    "date_display": {
+      "month": "Jun",
+      "day": "20",
+      "year": "2026"
+    },
+    "title": "Anna Golladay at Bessie Smith Big 9 Festival",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) attends the Bessie Smith Big 9 Festival community event in Chattanooga. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
+    "meta": "Chattanooga, TN · 2:00 PM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": true,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-06-14"
+  },
+  {
+    "id": "anna-golladay-monroe-county-democrats-picnic-2026-06-20",
+    "date_iso": "2026-06-20",
+    "date_display": {
+      "month": "Jun",
+      "day": "20",
+      "year": "2026"
+    },
+    "title": "Anna Golladay at Monroe County Democrats Picnic",
+    "description": "Congressional candidate Anna Golladay (TN-3 D) attends the Monroe County Democrats Picnic. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
+    "meta": "Monroe County, TN · 2:00 PM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Golladay for Congress →",
+    "is_placeholder": true,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-06-14"
+  },
+  {
+    "id": "grainger-county-democratic-committee-meet-and-greet-2026-06-20",
+    "date_iso": "2026-06-20",
+    "date_display": {
+      "month": "Jun",
+      "day": "20",
+      "year": "2026"
+    },
+    "title": "Grainger County Democratic Committee Meet & Greet",
+    "description": "The Grainger County Democratic Committee hosts an afternoon meet-and-greet at Cherokee Lake featuring Democratic candidates for U.S. Senate, Tennessee Governor, and Congress, including TN-2 congressional candidate Michaela Barnett. Food and music provided.",
+    "meta": "Rutledge, TN · Grainger County Park on Cherokee Lake · 1:00–3:00 PM",
+    "link_url": "https://www.mobilize.us/michaelafortennessee/event/947180/",
+    "link_label": "RSVP via Mobilize →",
+    "is_placeholder": false,
+    "race": "multiple",
+    "race_label": "Multiple races",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.mobilize.us/michaelafortennessee/event/947180/",
+    "retrieved_at": "2026-06-08"
+  },
+  {
+    "id": "hamilton-county-gop-lincoln-day-dinner-2026-06-20",
+    "date_iso": "2026-06-20",
+    "date_display": {
+      "month": "Jun",
+      "day": "20",
+      "year": "2026"
+    },
+    "title": "Hamilton County GOP Lincoln Day Dinner",
+    "description": "All three Republican gubernatorial candidates — U.S. Sen. Marsha Blackburn, U.S. Rep. John Rose, and State Rep. Monty Fritts — appeared at the Hamilton County Republican Party's annual Lincoln Day Dinner in Chattanooga. Approximately 500 guests attended the fundraiser, where each candidate shared their vision for Tennessee's future ahead of the August 6 primary.",
+    "meta": "Chattanooga · Chattanoogan Hotel · June 20, 2026",
+    "link_url": "https://www.wdef.com/tennessee-republican-gubernatorial-candidates-campaign-at-annual-lincoln-day-dinner/",
+    "link_label": "WDEF coverage →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (R primary)",
+    "candidates_invited": [
+      "marsha-blackburn",
+      "john-rose",
+      "monty-fritts"
+    ],
+    "source_url": "https://www.timesfreepress.com/news/2026/jun/20/lincoln-day-dinner-gop-gubernatorial-candidates/",
+    "retrieved_at": "2026-06-22"
+  },
+  {
     "id": "meet-jerri-in-memphis-2026-06-20",
     "date_iso": "2026-06-20",
     "date_display": {
@@ -1676,38 +1769,16 @@
     "retrieved_at": "2026-06-06"
   },
   {
-    "id": "grainger-county-democratic-committee-meet-and-greet-2026-06-20",
-    "date_iso": "2026-06-20",
+    "id": "anna-golladay-kingston-campaign-forum-2026-06-23",
+    "date_iso": "2026-06-23",
     "date_display": {
       "month": "Jun",
-      "day": "20",
+      "day": "23",
       "year": "2026"
     },
-    "title": "Grainger County Democratic Committee Meet & Greet",
-    "description": "The Grainger County Democratic Committee hosts an afternoon meet-and-greet at Cherokee Lake featuring Democratic candidates for U.S. Senate, Tennessee Governor, and Congress, including TN-2 congressional candidate Michaela Barnett. Food and music provided.",
-    "meta": "Rutledge, TN · Grainger County Park on Cherokee Lake · 1:00–3:00 PM",
-    "link_url": "https://www.mobilize.us/michaelafortennessee/event/947180/",
-    "link_label": "RSVP via Mobilize →",
-    "is_placeholder": false,
-    "race": "multiple",
-    "race_label": "Multiple races",
-    "candidates_invited": [
-      "michaela-barnett"
-    ],
-    "source_url": "https://www.mobilize.us/michaelafortennessee/event/947180/",
-    "retrieved_at": "2026-06-08"
-  },
-  {
-    "id": "anna-golladay-monroe-county-democrats-picnic-2026-06-20",
-    "date_iso": "2026-06-20",
-    "date_display": {
-      "month": "Jun",
-      "day": "20",
-      "year": "2026"
-    },
-    "title": "Anna Golladay at Monroe County Democrats Picnic",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) attends the Monroe County Democrats Picnic. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
-    "meta": "Monroe County, TN · 2:00 PM",
+    "title": "Kingston Campaign Forum",
+    "description": "A campaign forum in Kingston featuring congressional candidate Anna Golladay (TN-3 D). Open to area voters. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
+    "meta": "Kingston, TN (Roane County) · 5:00 PM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Golladay for Congress →",
     "is_placeholder": true,
@@ -1718,52 +1789,6 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-06-14"
-  },
-  {
-    "id": "anna-golladay-bessie-smith-big-9-festival-2026-06-20",
-    "date_iso": "2026-06-20",
-    "date_display": {
-      "month": "Jun",
-      "day": "20",
-      "year": "2026"
-    },
-    "title": "Anna Golladay at Bessie Smith Big 9 Festival",
-    "description": "Congressional candidate Anna Golladay (TN-3 D) attends the Bessie Smith Big 9 Festival community event in Chattanooga. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
-    "meta": "Chattanooga, TN · 2:00 PM",
-    "link_url": "https://annagolladay.com/events",
-    "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
-    "race": "house",
-    "race_label": "U.S. House TN-3",
-    "candidates_invited": [
-      "anna-golladay"
-    ],
-    "source_url": "https://annagolladay.com/events",
-    "retrieved_at": "2026-06-14"
-  },
-  {
-    "id": "hamilton-county-gop-lincoln-day-dinner-2026-06-20",
-    "date_iso": "2026-06-20",
-    "date_display": {
-      "month": "Jun",
-      "day": "20",
-      "year": "2026"
-    },
-    "title": "Hamilton County GOP Lincoln Day Dinner",
-    "description": "All three Republican gubernatorial candidates — U.S. Sen. Marsha Blackburn, U.S. Rep. John Rose, and State Rep. Monty Fritts — appeared at the Hamilton County Republican Party's annual Lincoln Day Dinner in Chattanooga. Approximately 500 guests attended the fundraiser, where each candidate shared their vision for Tennessee's future ahead of the August 6 primary.",
-    "meta": "Chattanooga · Chattanoogan Hotel · June 20, 2026",
-    "link_url": "https://www.wdef.com/tennessee-republican-gubernatorial-candidates-campaign-at-annual-lincoln-day-dinner/",
-    "link_label": "WDEF coverage →",
-    "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (R primary)",
-    "candidates_invited": [
-      "marsha-blackburn",
-      "john-rose",
-      "monty-fritts"
-    ],
-    "source_url": "https://www.timesfreepress.com/news/2026/jun/20/lincoln-day-dinner-gop-gubernatorial-candidates/",
-    "retrieved_at": "2026-06-22"
   },
   {
     "id": "lauren-pinkston-rutherford-county-meet-and-greet-2026-06-23",
@@ -1786,28 +1811,6 @@
     ],
     "source_url": "https://action.pinkstonfortn.com/",
     "retrieved_at": "2026-05-24"
-  },
-  {
-    "id": "anna-golladay-kingston-campaign-forum-2026-06-23",
-    "date_iso": "2026-06-23",
-    "date_display": {
-      "month": "Jun",
-      "day": "23",
-      "year": "2026"
-    },
-    "title": "Kingston Campaign Forum",
-    "description": "A campaign forum in Kingston featuring congressional candidate Anna Golladay (TN-3 D). Open to area voters. [Verify: not found in scan on 2026-06-14 — annagolladay.com/events no longer lists upcoming events; page shows only events through Feb 2026]",
-    "meta": "Kingston, TN (Roane County) · 5:00 PM",
-    "link_url": "https://annagolladay.com/events",
-    "link_label": "Golladay for Congress →",
-    "is_placeholder": true,
-    "race": "house",
-    "race_label": "U.S. House TN-3",
-    "candidates_invited": [
-      "anna-golladay"
-    ],
-    "source_url": "https://annagolladay.com/events",
-    "retrieved_at": "2026-06-14"
   },
   {
     "id": "tn-9-multi-county-candidate-forum-2026-06-23",
@@ -1942,116 +1945,6 @@
     "retrieved_at": "2026-05-31"
   },
   {
-    "id": "tennessees-5th-congressional-district-debate-2026-06-27",
-    "date_iso": "2026-06-27",
-    "date_display": {
-      "month": "Jun",
-      "day": "27",
-      "year": "2026"
-    },
-    "title": "Tennessee's 5th Congressional District Debate",
-    "description": "SuperTalk 99.7 WTN broadcasts live from the Maury County Memorial Building for a Republican primary debate among Tennessee's new 5th Congressional District candidates, airing as part of 'The Drive with Brian Wilson' from 3:00–8:00 PM. Nine Republican candidates are confirmed: Geni Bachelor, Jeff Beierlein, Natisha Brooks, Beth Harwell, Tim Lee, Andy Ogles, Stewart Parks, Kurt Winstead, and Tres Wittum. The event is hosted by the Maury County Republican Party; questions are drawn from MCRP membership on topics including education, immigration, the economy, and the 2nd Amendment.",
-    "meta": "Columbia · Maury County Memorial Building · 3:00–8:00 PM",
-    "link_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
-    "link_label": "SuperTalk 99.7 WTN →",
-    "is_placeholder": false,
-    "race": "house",
-    "race_label": "U.S. House TN-5",
-    "candidates_invited": [
-      "andy-ogles"
-    ],
-    "source_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
-    "retrieved_at": "2026-06-16"
-  },
-  {
-    "id": "meet-jerri-in-sevierville-2026-06-27",
-    "date_iso": "2026-06-27",
-    "date_display": {
-      "month": "Jun",
-      "day": "27",
-      "year": "2026"
-    },
-    "title": "Meet Jerri in Sevierville",
-    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
-    "meta": "Sevierville, TN",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Campaign site →",
-    "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-05-31"
-  },
-  {
-    "id": "meet-jerri-in-newport-2026-06-27",
-    "date_iso": "2026-06-27",
-    "date_display": {
-      "month": "Jun",
-      "day": "27",
-      "year": "2026"
-    },
-    "title": "Meet Jerri in Newport",
-    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
-    "meta": "Newport, TN",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Campaign site →",
-    "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-05-31"
-  },
-  {
-    "id": "meet-jerri-in-kingsport-2026-06-27",
-    "date_iso": "2026-06-27",
-    "date_display": {
-      "month": "Jun",
-      "day": "27",
-      "year": "2026"
-    },
-    "title": "Meet Jerri in Kingsport",
-    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
-    "meta": "Kingsport, TN",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Campaign site →",
-    "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-05-31"
-  },
-  {
-    "id": "michaela-barnett-jefferson-county-pride-2026-06-27",
-    "date_iso": "2026-06-27",
-    "date_display": {
-      "month": "Jun",
-      "day": "27",
-      "year": "2026"
-    },
-    "title": "Jefferson County Pride — Michaela Barnett",
-    "description": "Michaela Barnett participates in the annual Jefferson County Pride celebration in Dandridge. The campaign will have a booth at the community event, which brings together neighbors, families, and allies across rural East Tennessee.",
-    "meta": "Dandridge · Dandridge Field of Dreams, 1145 Treadway Dr · 10:00 AM",
-    "link_url": "https://www.michaelafortennessee.com/events",
-    "link_label": "Michaela for Tennessee →",
-    "is_placeholder": false,
-    "race": "house",
-    "race_label": "U.S. House TN-2",
-    "candidates_invited": [
-      "michaela-barnett"
-    ],
-    "source_url": "https://www.michaelafortennessee.com/events",
-    "retrieved_at": "2026-06-12"
-  },
-  {
     "id": "claiborne-county-democratic-party-picnic-2026-06-27",
     "date_iso": "2026-06-27",
     "date_display": {
@@ -2096,60 +1989,16 @@
     "retrieved_at": "2026-06-19"
   },
   {
-    "id": "meet-jerri-in-kingsport-2026-06-28",
-    "date_iso": "2026-06-28",
+    "id": "meet-jerri-in-kingsport-2026-06-27",
+    "date_iso": "2026-06-27",
     "date_display": {
       "month": "Jun",
-      "day": "28",
+      "day": "27",
       "year": "2026"
     },
     "title": "Meet Jerri in Kingsport",
-    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: not found in scan on 2026-06-07 — greenforgovernor.com/events/ shows Oak Ridge for Jun 28, not Kingsport; Kingsport stop listed on Jun 27 only]",
-    "meta": "Kingsport, TN",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Campaign site →",
-    "is_placeholder": true,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-06-07"
-  },
-  {
-    "id": "meet-jerri-in-clinton-2026-06-28",
-    "date_iso": "2026-06-28",
-    "date_display": {
-      "month": "Jun",
-      "day": "28",
-      "year": "2026"
-    },
-    "title": "Meet Jerri in Clinton",
-    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: not found in scan on 2026-06-07 — greenforgovernor.com/events/ shows Oak Ridge for Jun 28, not Clinton; possible venue update to Oak Ridge]",
-    "meta": "Clinton, TN",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Campaign site →",
-    "is_placeholder": true,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-06-07"
-  },
-  {
-    "id": "meet-jerri-in-oak-ridge-2026-06-28",
-    "date_iso": "2026-06-28",
-    "date_display": {
-      "month": "Jun",
-      "day": "28",
-      "year": "2026"
-    },
-    "title": "Meet Jerri in Oak Ridge",
     "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
-    "meta": "Oak Ridge, TN",
+    "meta": "Kingsport, TN",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Campaign site →",
     "is_placeholder": false,
@@ -2159,7 +2008,95 @@
       "jerri-green"
     ],
     "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-06-07"
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-newport-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Newport",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Newport, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "meet-jerri-in-sevierville-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Sevierville",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Sevierville, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-05-31"
+  },
+  {
+    "id": "michaela-barnett-jefferson-county-pride-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Jefferson County Pride — Michaela Barnett",
+    "description": "Michaela Barnett participates in the annual Jefferson County Pride celebration in Dandridge. The campaign will have a booth at the community event, which brings together neighbors, families, and allies across rural East Tennessee.",
+    "meta": "Dandridge · Dandridge Field of Dreams, 1145 Treadway Dr · 10:00 AM",
+    "link_url": "https://www.michaelafortennessee.com/events",
+    "link_label": "Michaela for Tennessee →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-2",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.michaelafortennessee.com/events",
+    "retrieved_at": "2026-06-12"
+  },
+  {
+    "id": "tennessees-5th-congressional-district-debate-2026-06-27",
+    "date_iso": "2026-06-27",
+    "date_display": {
+      "month": "Jun",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Tennessee's 5th Congressional District Debate",
+    "description": "SuperTalk 99.7 WTN broadcasts live from the Maury County Memorial Building for a Republican primary debate among Tennessee's new 5th Congressional District candidates, airing as part of 'The Drive with Brian Wilson' from 3:00–8:00 PM. Nine Republican candidates are confirmed: Geni Bachelor, Jeff Beierlein, Natisha Brooks, Beth Harwell, Tim Lee, Andy Ogles, Stewart Parks, Kurt Winstead, and Tres Wittum. The event is hosted by the Maury County Republican Party; questions are drawn from MCRP membership on topics including education, immigration, the economy, and the 2nd Amendment.",
+    "meta": "Columbia · Maury County Memorial Building · 3:00–8:00 PM",
+    "link_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
+    "link_label": "SuperTalk 99.7 WTN →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-5",
+    "candidates_invited": [
+      "andy-ogles"
+    ],
+    "source_url": "https://www.997wtn.com/amp-events/tennessees-5th-congressional-district-debate/",
+    "retrieved_at": "2026-06-16"
   },
   {
     "id": "anna-golladay-anderson-county-democrats-2026-06-28",
@@ -2184,6 +2121,50 @@
     "retrieved_at": "2026-06-19"
   },
   {
+    "id": "meet-jerri-in-clinton-2026-06-28",
+    "date_iso": "2026-06-28",
+    "date_display": {
+      "month": "Jun",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Clinton",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: not found in scan on 2026-06-07 — greenforgovernor.com/events/ shows Oak Ridge for Jun 28, not Clinton; possible venue update to Oak Ridge]",
+    "meta": "Clinton, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": true,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-06-07"
+  },
+  {
+    "id": "meet-jerri-in-kingsport-2026-06-28",
+    "date_iso": "2026-06-28",
+    "date_display": {
+      "month": "Jun",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Kingsport",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: not found in scan on 2026-06-07 — greenforgovernor.com/events/ shows Oak Ridge for Jun 28, not Kingsport; Kingsport stop listed on Jun 27 only]",
+    "meta": "Kingsport, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": true,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-06-07"
+  },
+  {
     "id": "meet-jerri-in-morristown-2026-06-28",
     "date_iso": "2026-06-28",
     "date_display": {
@@ -2204,6 +2185,28 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-06-20"
+  },
+  {
+    "id": "meet-jerri-in-oak-ridge-2026-06-28",
+    "date_iso": "2026-06-28",
+    "date_display": {
+      "month": "Jun",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Oak Ridge",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor.",
+    "meta": "Oak Ridge, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-06-07"
   },
   {
     "id": "meet-jerri-in-memphis-2026-06-30",
@@ -2338,6 +2341,30 @@
     "retrieved_at": "2026-06-19"
   },
   {
+    "id": "cumberland-county-gop-womens-club-2026-07-09",
+    "date_iso": "2026-07-09",
+    "date_display": {
+      "month": "Jul",
+      "day": "9",
+      "year": "2026"
+    },
+    "title": "Cumberland County Republican Women's Club Candidate Forum",
+    "description": "The Cumberland County Republican Women's Club will host Republican gubernatorial and congressional candidates at their July monthly meeting. Confirmed speakers include gubernatorial candidate Monty Fritts and U.S. House TN-6 candidates Johnny Garrett, Jon Henry, and Van Hilleary; surrogates from the Blackburn and Rose gubernatorial campaigns may also appear. The meeting is open to the public regardless of party affiliation.",
+    "meta": "Crossville, TN · Tennessee College of Applied Technology, 910 Miller Ave. · 5:30 PM (doors at 5:00 PM)",
+    "link_url": "https://www.crossville-chronicle.com/community/republican-women-hosting-state-federal-candidates-in-july-meeting/article_ee535d5f-8883-4157-825b-8e00946e6ca9.html",
+    "link_label": "Crossville Chronicle →",
+    "is_placeholder": false,
+    "race": "multiple",
+    "race_label": "Multiple races (TN Governor R primary, U.S. House TN-6)",
+    "candidates_invited": [
+      "monty-fritts",
+      "johnny-garrett",
+      "van-hilleary"
+    ],
+    "source_url": "https://www.crossville-chronicle.com/community/republican-women-hosting-state-federal-candidates-in-july-meeting/article_ee535d5f-8883-4157-825b-8e00946e6ca9.html",
+    "retrieved_at": "2026-06-24"
+  },
+  {
     "id": "coffee-convos-2026-07-10",
     "date_iso": "2026-07-10",
     "date_display": {
@@ -2427,28 +2454,6 @@
     "retrieved_at": "2026-06-05"
   },
   {
-    "id": "coffee-convos-2026-07-17",
-    "date_iso": "2026-07-17",
-    "date_display": {
-      "month": "Jul",
-      "day": "17",
-      "year": "2026"
-    },
-    "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
-    "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
-    "link_url": "https://annagolladay.com/events",
-    "link_label": "Campaign site →",
-    "is_placeholder": true,
-    "race": "house",
-    "race_label": "U.S. House TN-3",
-    "candidates_invited": [
-      "anna-golladay"
-    ],
-    "source_url": "https://annagolladay.com/events",
-    "retrieved_at": "2026-05-28"
-  },
-  {
     "id": "anna-golladay-anderson-roane-women-2026-07-17",
     "date_iso": "2026-07-17",
     "date_display": {
@@ -2469,6 +2474,28 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-06-19"
+  },
+  {
+    "id": "coffee-convos-2026-07-17",
+    "date_iso": "2026-07-17",
+    "date_display": {
+      "month": "Jul",
+      "day": "17",
+      "year": "2026"
+    },
+    "title": "Coffee & Convos",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
+    "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Campaign site →",
+    "is_placeholder": true,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-05-28"
   },
   {
     "id": "anna-golladay-crabtree-farms-2026-07-19",
@@ -2538,28 +2565,6 @@
     "retrieved_at": "2026-06-14"
   },
   {
-    "id": "coffee-convos-2026-07-24",
-    "date_iso": "2026-07-24",
-    "date_display": {
-      "month": "Jul",
-      "day": "24",
-      "year": "2026"
-    },
-    "title": "Coffee & Convos",
-    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
-    "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
-    "link_url": "https://annagolladay.com/events",
-    "link_label": "Campaign site →",
-    "is_placeholder": true,
-    "race": "house",
-    "race_label": "U.S. House TN-3",
-    "candidates_invited": [
-      "anna-golladay"
-    ],
-    "source_url": "https://annagolladay.com/events",
-    "retrieved_at": "2026-05-28"
-  },
-  {
     "id": "anna-golladay-town-hall-rhea-county-2026-07-24",
     "date_iso": "2026-07-24",
     "date_display": {
@@ -2580,6 +2585,28 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-06-14"
+  },
+  {
+    "id": "coffee-convos-2026-07-24",
+    "date_iso": "2026-07-24",
+    "date_display": {
+      "month": "Jul",
+      "day": "24",
+      "year": "2026"
+    },
+    "title": "Coffee & Convos",
+    "description": "Join Anna for an informal conversation as she works and sips her latte. Come and go as you please. [Verify: not found in scan on 2026-05-31]",
+    "meta": "Mad Priest Coffee Shop, Chattanooga, TN · 9:00 AM",
+    "link_url": "https://annagolladay.com/events",
+    "link_label": "Campaign site →",
+    "is_placeholder": true,
+    "race": "house",
+    "race_label": "U.S. House TN-3",
+    "candidates_invited": [
+      "anna-golladay"
+    ],
+    "source_url": "https://annagolladay.com/events",
+    "retrieved_at": "2026-05-28"
   },
   {
     "id": "anna-golladay-town-hall-anderson-county-2026-07-30",
@@ -2778,28 +2805,6 @@
     "retrieved_at": "2026-06-15"
   },
   {
-    "id": "meet-jerri-in-memphis-2026-08-28",
-    "date_iso": "2026-08-28",
-    "date_display": {
-      "month": "Aug",
-      "day": "28",
-      "year": "2026"
-    },
-    "title": "Meet Jerri in Memphis",
-    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Memphis, TN",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Campaign site →",
-    "is_placeholder": true,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-06-15"
-  },
-  {
     "id": "coffee-convos-2026-08-28",
     "date_iso": "2026-08-28",
     "date_display": {
@@ -2820,6 +2825,28 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-05-28"
+  },
+  {
+    "id": "meet-jerri-in-memphis-2026-08-28",
+    "date_iso": "2026-08-28",
+    "date_display": {
+      "month": "Aug",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Memphis",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
+    "meta": "Memphis, TN",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": true,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-06-15"
   },
   {
     "id": "meet-jerri-in-jackson-2026-08-29",
@@ -3018,16 +3045,16 @@
     "retrieved_at": "2026-06-15"
   },
   {
-    "id": "meet-jerri-in-nashville-2026-09-13",
+    "id": "meet-jerri-in-franklin-2026-09-13",
     "date_iso": "2026-09-13",
     "date_display": {
       "month": "Sep",
       "day": "13",
       "year": "2026"
     },
-    "title": "Meet Jerri in Nashville",
+    "title": "Meet Jerri in Franklin",
     "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Nashville, TN",
+    "meta": "Franklin, TN",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Campaign site →",
     "is_placeholder": true,
@@ -3040,16 +3067,16 @@
     "retrieved_at": "2026-06-15"
   },
   {
-    "id": "meet-jerri-in-franklin-2026-09-13",
+    "id": "meet-jerri-in-nashville-2026-09-13",
     "date_iso": "2026-09-13",
     "date_display": {
       "month": "Sep",
       "day": "13",
       "year": "2026"
     },
-    "title": "Meet Jerri in Franklin",
+    "title": "Meet Jerri in Nashville",
     "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Franklin, TN",
+    "meta": "Nashville, TN",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Campaign site →",
     "is_placeholder": true,
@@ -3194,16 +3221,16 @@
     "retrieved_at": "2026-06-15"
   },
   {
-    "id": "meet-jerri-in-waverly-2026-09-27",
+    "id": "meet-jerri-in-bethpage-2026-09-27",
     "date_iso": "2026-09-27",
     "date_display": {
       "month": "Sep",
       "day": "27",
       "year": "2026"
     },
-    "title": "Meet Jerri in Waverly",
+    "title": "Meet Jerri in Bethpage",
     "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Waverly, TN",
+    "meta": "Bethpage, TN",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Campaign site →",
     "is_placeholder": true,
@@ -3216,16 +3243,16 @@
     "retrieved_at": "2026-06-15"
   },
   {
-    "id": "meet-jerri-in-bethpage-2026-09-27",
+    "id": "meet-jerri-in-waverly-2026-09-27",
     "date_iso": "2026-09-27",
     "date_display": {
       "month": "Sep",
       "day": "27",
       "year": "2026"
     },
-    "title": "Meet Jerri in Bethpage",
+    "title": "Meet Jerri in Waverly",
     "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Bethpage, TN",
+    "meta": "Waverly, TN",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Campaign site →",
     "is_placeholder": true,
@@ -3500,28 +3527,6 @@
     "retrieved_at": "2026-05-03"
   },
   {
-    "id": "meet-jerri-in-memphis-2026-10-16",
-    "date_iso": "2026-10-16",
-    "date_display": {
-      "month": "Oct",
-      "day": "16",
-      "year": "2026"
-    },
-    "title": "Meet Jerri in Memphis",
-    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Memphis, TN",
-    "link_url": "https://greenforgovernor.com/events/",
-    "link_label": "Campaign site →",
-    "is_placeholder": true,
-    "race": "governor",
-    "race_label": "TN Governor (D primary)",
-    "candidates_invited": [
-      "jerri-green"
-    ],
-    "source_url": "https://greenforgovernor.com/events/",
-    "retrieved_at": "2026-06-15"
-  },
-  {
     "id": "coffee-convos-2026-10-16",
     "date_iso": "2026-10-16",
     "date_display": {
@@ -3544,11 +3549,11 @@
     "retrieved_at": "2026-05-28"
   },
   {
-    "id": "meet-jerri-in-memphis-2026-10-18",
-    "date_iso": "2026-10-18",
+    "id": "meet-jerri-in-memphis-2026-10-16",
+    "date_iso": "2026-10-16",
     "date_display": {
       "month": "Oct",
-      "day": "18",
+      "day": "16",
       "year": "2026"
     },
     "title": "Meet Jerri in Memphis",
@@ -3566,16 +3571,16 @@
     "retrieved_at": "2026-06-15"
   },
   {
-    "id": "meet-jerri-in-alamo-2026-10-23",
-    "date_iso": "2026-10-23",
+    "id": "meet-jerri-in-memphis-2026-10-18",
+    "date_iso": "2026-10-18",
     "date_display": {
       "month": "Oct",
-      "day": "23",
+      "day": "18",
       "year": "2026"
     },
-    "title": "Meet Jerri in Alamo",
+    "title": "Meet Jerri in Memphis",
     "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Alamo, TN",
+    "meta": "Memphis, TN",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Campaign site →",
     "is_placeholder": true,
@@ -3610,16 +3615,16 @@
     "retrieved_at": "2026-05-28"
   },
   {
-    "id": "meet-jerri-in-summertown-2026-10-25",
-    "date_iso": "2026-10-25",
+    "id": "meet-jerri-in-alamo-2026-10-23",
+    "date_iso": "2026-10-23",
     "date_display": {
       "month": "Oct",
-      "day": "25",
+      "day": "23",
       "year": "2026"
     },
-    "title": "Meet Jerri in Summertown",
+    "title": "Meet Jerri in Alamo",
     "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Summertown, TN",
+    "meta": "Alamo, TN",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Campaign site →",
     "is_placeholder": true,
@@ -3654,16 +3659,16 @@
     "retrieved_at": "2026-06-15"
   },
   {
-    "id": "meet-jerri-in-wartburg-2026-10-26",
-    "date_iso": "2026-10-26",
+    "id": "meet-jerri-in-summertown-2026-10-25",
+    "date_iso": "2026-10-25",
     "date_display": {
       "month": "Oct",
-      "day": "26",
+      "day": "25",
       "year": "2026"
     },
-    "title": "Meet Jerri in Wartburg",
+    "title": "Meet Jerri in Summertown",
     "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Wartburg, TN",
+    "meta": "Summertown, TN",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Campaign site →",
     "is_placeholder": true,
@@ -3676,16 +3681,16 @@
     "retrieved_at": "2026-06-15"
   },
   {
-    "id": "meet-jerri-in-maryville-virtual-2026-10-30",
-    "date_iso": "2026-10-30",
+    "id": "meet-jerri-in-wartburg-2026-10-26",
+    "date_iso": "2026-10-26",
     "date_display": {
       "month": "Oct",
-      "day": "30",
+      "day": "26",
       "year": "2026"
     },
-    "title": "Meet Jerri in Maryville (Virtual)",
-    "description": "Virtual community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
-    "meta": "Maryville, TN (Virtual)",
+    "title": "Meet Jerri in Wartburg",
+    "description": "Community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
+    "meta": "Wartburg, TN",
     "link_url": "https://greenforgovernor.com/events/",
     "link_label": "Campaign site →",
     "is_placeholder": true,
@@ -3718,5 +3723,27 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-05-28"
+  },
+  {
+    "id": "meet-jerri-in-maryville-virtual-2026-10-30",
+    "date_iso": "2026-10-30",
+    "date_display": {
+      "month": "Oct",
+      "day": "30",
+      "year": "2026"
+    },
+    "title": "Meet Jerri in Maryville (Virtual)",
+    "description": "Virtual community meet-and-greet event with Jerri Green, Democratic candidate for Tennessee Governor. [Verify: greenforgovernor.com showed events only through Jun 30 as of 2026-06-15 — July–Nov schedule may have been updated by campaign]",
+    "meta": "Maryville, TN (Virtual)",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Campaign site →",
+    "is_placeholder": true,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-06-15"
   }
 ]
