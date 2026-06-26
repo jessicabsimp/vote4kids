@@ -2673,6 +2673,28 @@
     "retrieved_at": "2026-05-03"
   },
   {
+    "id": "lauren-pinkston-conscious-conversation-reading-rock-books-2026-08-01",
+    "date_iso": "2026-08-01",
+    "date_display": {
+      "month": "Aug",
+      "day": "1",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Conscious Conversation at Reading Rock Books",
+    "description": "Independent gubernatorial candidate Lauren Pinkston hosts a 'Conscious Conversation' public event at Reading Rock Books in Dickson, a recurring community conversation series where attendees can meet the candidate and discuss issues.",
+    "meta": "Dickson, TN · Reading Rock Books · 9:00 AM",
+    "link_url": "https://pinkstonfortn.com/conscious_conversation_rrbooks_8_01",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-06-26"
+  },
+  {
     "id": "anna-golladay-town-hall-hamilton-county-2026-08-02",
     "date_iso": "2026-08-02",
     "date_display": {
@@ -2979,6 +3001,28 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-05-28"
+  },
+  {
+    "id": "lauren-pinkston-conscious-conversation-reading-rock-books-2026-09-05",
+    "date_iso": "2026-09-05",
+    "date_display": {
+      "month": "Sep",
+      "day": "5",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Conscious Conversation at Reading Rock Books",
+    "description": "Independent gubernatorial candidate Lauren Pinkston hosts a 'Conscious Conversation' public event at Reading Rock Books in Dickson, a recurring community conversation series where attendees can meet the candidate and discuss issues.",
+    "meta": "Dickson, TN · Reading Rock Books · 9:00 AM",
+    "link_url": "https://pinkstonfortn.com/conscious_conversation_rrbooks_9_05_2026",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-06-26"
   },
   {
     "id": "thinktennessee-policy-forum-2026-09-09",
