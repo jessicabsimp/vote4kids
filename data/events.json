@@ -534,6 +534,30 @@
     "retrieved_at": "2026-05-28"
   },
   {
+    "id": "tn-1-district-forum-jonesborough-2026-05-21",
+    "date_iso": "2026-05-21",
+    "date_display": {
+      "month": "May",
+      "day": "21",
+      "year": "2026"
+    },
+    "title": "TN-1 Candidate Forum at Jonesborough Visitors Center",
+    "description": "Democratic and Independent candidates for Tennessee's 1st U.S. House District gathered for a forum at the Jonesborough Visitors Center. Kristi Burke (D), Hernan Garcia (D), David Kerr Jr. (D), and Joshua Ashburn (I) each gave opening and closing statements and answered moderator questions. Burke emphasized healthcare access and breaking up monopolies; Garcia focused on community affordability for farmers and small businesses across Greeneville and Hawkins County.",
+    "meta": "Jonesborough, TN \u00b7 Jonesborough Visitors Center",
+    "link_url": "https://www.wjhl.com/news/local/district-1-candidate-forum-held-in-jonesborough/",
+    "link_label": "WJHL coverage \u2192",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-1",
+    "candidates_invited": [
+      "kristi-burke",
+      "herman-garcia",
+      "david-kerr"
+    ],
+    "source_url": "https://www.wjhl.com/news/local/district-1-candidate-forum-held-in-jonesborough/",
+    "retrieved_at": "2026-06-28"
+  },
+  {
     "id": "anna-golladay-coffee-convos-2026-05-22",
     "date_iso": "2026-05-22",
     "date_display": {
@@ -1633,6 +1657,30 @@
     ],
     "source_url": "https://www.michaelafortennessee.com/events",
     "retrieved_at": "2026-06-06"
+  },
+  {
+    "id": "tn-6-farm-bureau-congressional-forum-2026-06-19",
+    "date_iso": "2026-06-19",
+    "date_display": {
+      "month": "Jun",
+      "day": "19",
+      "year": "2026"
+    },
+    "title": "Tennessee 6th Congressional District Forum",
+    "description": "Candidates for Tennessee's 6th U.S. House District participated in a forum co-hosted by the Tennessee Farm Bureau Federation, Tennessee Chamber of Commerce & Industry, and Tennessee Electric Cooperative Association. The forum focused on economic vitality, trade, foreign relations, labor challenges, and environmental and regulatory barriers facing businesses and agriculture, including farm bill priorities, energy strategy, and the viability of family farms.",
+    "meta": "Tennessee \u00b7 hosted by TN Farm Bureau Federation, TN Chamber of Commerce & Industry, TN Electric Cooperative Assoc.",
+    "link_url": "https://www.youtube.com/watch?v=0Ax3gDrEukI",
+    "link_label": "Watch on YouTube \u2192",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-6",
+    "candidates_invited": [
+      "van-hilleary",
+      "johnny-garrett",
+      "mike-croley"
+    ],
+    "source_url": "https://www.youtube.com/watch?v=0Ax3gDrEukI",
+    "retrieved_at": "2026-06-28"
   },
   {
     "id": "anna-golladay-bessie-smith-big-9-festival-2026-06-20",
