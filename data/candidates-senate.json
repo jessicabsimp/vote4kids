@@ -5,44 +5,44 @@
     "party": "R",
     "race": "senate",
     "district": null,
-    "primary_label": "Republican Primary \u00b7 U.S. Senate",
-    "role_subtitle": "Incumbent \u00b7 since 2021",
+    "primary_label": "Republican Primary · U.S. Senate",
+    "role_subtitle": "Incumbent · since 2021",
     "bio": "Former U.S. Ambassador to Japan and Tennessee Commissioner of Economic and Community Development. Trump-endorsed; $5.3M cash on hand.",
     "frontrunner": true,
-    "status_line": "\u2605 Incumbent \u00b7 Trump-endorsed",
+    "status_line": "★ Incumbent · Trump-endorsed",
     "photo_url": "https://www.hagerty.senate.gov/wp-content/uploads/2021/09/46023721-60D9-4A81-986B-268BF3B14A5C.jpeg",
     "photo_credit": "Official Senate website",
     "campaign_url": "https://teamhagerty.com",
     "official_url": "https://www.hagerty.senate.gov",
     "twitter": "@SenatorHagerty",
     "early_childhood_ed": {
-      "summary": "No specific public positions on early childhood education, pre-K, or Head Start were found in 2025-2026. Hagerty's support for the One Big Beautiful Bill Act (OBBB) in July 2025 included quadrupling the employer-provided childcare credit, which represents his primary legislative action touching childcare access, but no floor statements or press releases addressing pre-K or Head Start programs specifically were identified.",
-      "details": "Research through June 2026 found no Senate floor statements, committee testimony, or press releases from Sen. Hagerty specifically addressing early childhood education, Head Start, or pre-K funding. His legislative record on childcare-adjacent issues in this period is anchored to the One Big Beautiful Bill Act (signed July 2025), which quadrupled the maximum employer-provided childcare credit and added additional relief for small businesses providing childcare benefits \u2014 framing childcare as a market-based, employer-driven issue rather than a publicly funded early education matter. No new independent early childhood education positions emerged beyond what the OBBB provision implies. His prior voting record includes opposition to the 2021 Build Back Better Act, which had contained significant universal pre-K and childcare funding provisions. His May 20, May 26, June 1, June 5, June 16, and June 17, 2026 press releases addressed U.S.-Iran negotiations, DHS and border enforcement funding, the Memphis Safe Task Force, and Reconciliation 2.0/3.0 \u2014 none touched childcare or early education.",
+      "summary": "Hagerty participated in the Senate Appropriations Committee FY 2026 hearing covering Head Start and childcare funding, which maintained Head Start at FY 2025 enacted levels. His earlier support for the One Big Beautiful Bill Act included quadrupling the employer-provided childcare tax credit. No new Hagerty-specific public statements on early childhood education or pre-K were found in the June 14–29, 2026 window.",
+      "details": "As a member of the Senate Appropriations Committee, Hagerty participated in Senate Hearing 119-68 (published June 23, 2026) covering FY 2026 appropriations for Labor, Health and Human Services, and Education. The hearing addressed Head Start funding, maintained at the FY 2025 enacted level, and childcare access for working families. The administration's stated priorities for Head Start included expanding parental choice, increasing program efficiency, and promoting parental engagement through faith-based centers. Hagerty's prior legislative record includes voting for the One Big Beautiful Bill Act in July 2025, which quadrupled the employer-provided childcare tax credit. No Hagerty floor statements, press releases, or public remarks specifically about early childhood education or pre-K were identified in the June 14–29, 2026 search window.",
       "citations": [
+        "https://www.congress.gov/event/119th-congress/senate-event/LC75553/text",
         "https://waysandmeans.house.gov/wp-content/uploads/2025/05/The-One-Big-Beautiful-Bill-Champions-Life-and-Families.pdf",
-        "https://www.hagerty.senate.gov",
-        "https://www.hagerty.senate.gov/press-releases/2026/06/01/icymi-hagerty-joins-fox-news-sunday-on-fox-news-to-discuss-us-iran-talks-reconciliation-2-0-and-dhs-funding/"
+        "https://www.hagerty.senate.gov"
       ]
     },
     "child_hunger": {
-      "summary": "Hagerty voted for the One Big Beautiful Bill Act in July 2025, which cut federal SNAP funding by an estimated $186\u2013$300 billion over a decade by shifting 75% of administrative costs to states, expanding work requirements to age 64, and tying state benefit cost-sharing to error rates. As of May 2026, approximately 100,000 Tennesseans have lost SNAP benefits since the law took effect.",
-      "details": "The One Big Beautiful Bill Act, which Hagerty supported and which was signed into law in July 2025, made sweeping changes to SNAP. States previously split administrative costs 50-50 with the federal government; under the new law, states must cover 75% of administrative costs starting October 2026 and an escalating share of benefit costs beginning in 2027 tied to payment error rates. Tennessee, with a 9.7% error rate, faces potential responsibility for 10% of its $800 million annual SNAP benefit bill. The Tennessee Commission on Children and Youth estimated it would cost the state an additional $110 million annually just to preserve benefits for children. SNAP work requirements were also extended to age 64 and now apply to parents of children 14 and older. Safety net organizations demonstrated outside Hagerty's Nashville office during the Senate consideration of the bill. A June 16, 2026 Tennessee Lookout investigation documented that roughly 100,000 Tennesseans lost SNAP since July 2025 \u2014 one in seven people who relied on the benefit \u2014 with advocates from the Tennessee Justice Center stating: 'Tennesseans did not suddenly stop needing help putting food on the table. What changed was the law.' Fox 13 Memphis reported on May 22, 2026 that 95,000 Tennessee residents had already lost access. ProPublica reported on June 17, 2026 that more than 770,000 children nationally lost SNAP benefits. Tennessee responded in May 2026 by adopting broad-based categorical eligibility, raising the gross income limit to 200% FPL. Hagerty made no public statement on Tennessee SNAP losses in May\u2013June 2026.",
+      "summary": "Hagerty voted for the One Big Beautiful Bill Act in July 2025, which cut federal SNAP funding by an estimated $186–$300 billion over a decade. As of June 2026, approximately 100,000 Tennesseans have lost SNAP benefits since the law took effect. A July 2026 Tennessee SNAP junk-food restriction was temporarily blocked by a federal court in late June 2026. No new Hagerty statements on SNAP or child hunger were found in June 14–29, 2026.",
+      "details": "The Tennessee Lookout reported on June 16, 2026 that nearly 100,000 Tennesseans have lost SNAP food assistance since the One Big Beautiful Bill Act took effect in July 2025 — a decline from 696,000 recipients in July 2025 to 597,890 in May 2026. The law cut $186 billion from SNAP nationally and expanded work and school requirements, removing prior exemptions for individuals over 55, veterans, and those experiencing homelessness. Separately, Tennessee had sought to restrict SNAP purchases of soda, candy, and other processed foods beginning in July 2026, but a federal judge temporarily blocked those restrictions on June 23, 2026 in response to a lawsuit by SNAP participants. A ProPublica report published June 17, 2026 found more than 770,000 children nationally are no longer receiving SNAP benefits. No new statements or actions by Hagerty specifically addressing SNAP or child hunger were identified in the June 14–29, 2026 search window.",
       "citations": [
-        "https://knoxnews.com/story/news/politics/2026/03/02/tennessee-budget-increase-snap-benefits-big-beautiful-bill/88883829007/",
-        "https://postindustrial.com/stories/one-big-beautiful-bill-act-food-assistance-cuts-come-with-hefty-price-tag-for-tennessee-taxpayers/",
-        "https://tennessean.com/story/news/local/2025/08/06/trump-big-beautiful-bill-food-bank-poverty-hunger/85324346007",
         "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/",
-        "https://www.fox13memphis.com/news/95-000-tennessee-residents-lose-access-to-snap-after-federal-changes/article_44bc095b-c3e7-474d-a1ed-0ef052daf4e6.html",
-        "https://www.propublica.org/article/snap-benefits-children-food-stamps"
+        "https://www.wsmv.com/2026/06/23/federal-judge-blocks-snap-restrictions-involving-junk-food-set-take-effect-tennessee-other-states/",
+        "https://www.propublica.org/article/snap-benefits-children-food-stamps",
+        "https://www.commercialappeal.com/story/news/local/2026/06/17/snap-restrictions-tennessee-july-2026-restricted-foods/90476627007/",
+        "https://knoxnews.com/story/news/politics/2026/03/02/tennessee-budget-increase-snap-benefits-big-beautiful-bill/88883829007/",
+        "https://postindustrial.com/stories/one-big-beautiful-bill-act-food-assistance-cuts-come-with-hefty-price-tag-for-tennessee-taxpayers/"
       ]
     },
     "parental_support": {
-      "summary": "Hagerty voted for the One Big Beautiful Bill Act in July 2025, which raised the Child Tax Credit from $2,000 to $2,200 per child, made it permanent, and indexed it to inflation. The same legislation also strengthened the paid family and medical leave credit and quadrupled the employer-provided childcare credit. These provisions represent Hagerty's affirmative parental support record in 2025-2026.",
-      "details": "When the One Big Beautiful Bill Act passed in July 2025, Hagerty was among the Tennessee delegation praised for supporting the Child Tax Credit expansion. The CTC increase to $2,200 per child was notable given it had been set to expire in 2025, and the permanent indexing to inflation addressed a long-standing criticism of the original 2017 TCJA credit. The legislation also made the adoption tax credit partially refundable up to $5,000 and indexed it for inflation. The OBBB also quadrupled the maximum employer-provided childcare credit (up to $500,000; $600,000 for small businesses) and strengthened the paid family and medical leave credit \u2014 framed as market-based mechanisms rather than direct public programs. No standalone paid family leave bills were introduced by Hagerty in 2025-2026. Hagerty's May\u2013June 2026 press releases (covering Iran negotiations, Reconciliation 2.0/3.0, DHS funding, and the Memphis Safe Task Force) contain no references to child tax credit, paid family leave, or childcare affordability.",
+      "summary": "Hagerty voted for the One Big Beautiful Bill Act in July 2025, which raised the Child Tax Credit from $2,000 to $2,200 per child, made it permanent, and indexed it to inflation. The same law quadrupled the employer-provided childcare tax credit. No new Hagerty-specific statements on paid family leave, parental financial support, or childcare costs were found in the June 14–29, 2026 window.",
+      "details": "Hagerty's primary legislative action on parental financial support remains his July 2025 vote for the One Big Beautiful Bill Act. That law permanently raised the Child Tax Credit to $2,200 per child and indexed it to inflation, and it quadrupled the employer-provided childcare tax credit. As a member of the Senate Appropriations Committee, Hagerty participated in FY 2026 appropriations hearings (published June 23, 2026) that addressed childcare access for working families and Head Start funding. Tennessee also saw passage of a state law in spring 2026 requiring immigration status reporting for families receiving state benefits, including the Children's Special Services program for disabled and chronically ill children, affecting approximately 400 families; Hagerty made no publicly identified statements on this state-level action during the June 14–29 window.",
       "citations": [
+        "https://www.congress.gov/event/119th-congress/senate-event/LC75553/text",
         "https://www.chattanoogan.com/2025/7/22/506250/Improving-The-Child-Tax-Credit.aspx",
-        "https://waysandmeans.house.gov/wp-content/uploads/2025/05/The-One-Big-Beautiful-Bill-Champions-Life-and-Families.pdf",
-        "https://www.hagerty.senate.gov/press-releases/2026/06/01/icymi-hagerty-joins-fox-news-sunday-on-fox-news-to-discuss-us-iran-talks-reconciliation-2-0-and-dhs-funding/"
+        "https://waysandmeans.house.gov/wp-content/uploads/2025/05/The-One-Big-Beautiful-Bill-Champions-Life-and-Families.pdf"
       ]
     }
   },
@@ -52,7 +52,7 @@
     "party": "D",
     "race": "senate",
     "district": null,
-    "primary_label": "Democratic Primary \u00b7 U.S. Senate",
+    "primary_label": "Democratic Primary · U.S. Senate",
     "role_subtitle": "2020 Senate nominee",
     "bio": "Memphis environmental justice activist who won the 2020 Democratic primary against expectations. Running again on environmental and economic-justice platform.",
     "frontrunner": false,
@@ -63,25 +63,25 @@
     "official_url": null,
     "twitter": null,
     "early_childhood_ed": {
-      "summary": "Bradshaw supports universal pre-K education and quality childcare as part of a broader platform calling for funding public education at levels comparable to military spending. These positions, first articulated during her 2020 campaign and reaffirmed on her current 2026 campaign website, represent her most recent public stance; no new 2025-2026 specific statements on early childhood education were found.",
-      "details": "Bradshaw's campaign website at marquitabradshaw.com consistently reflects support for universal pre-K, quality childcare, and high-quality public education from pre-K through grade 12. Her signature framing \u2014 'I am a lifelong proponent of funding our education system the same as we do our military' \u2014 appears on her current issues page. Her 2020 platform explicitly listed 'Fund universal pre-K education' and 'Provide quality childcare.' As a single working-class mother who raised her son in Memphis, she has drawn personal connections between access to childcare and economic opportunity. No 2025-2026 press releases or campaign announcements specifically addressing Head Start funding levels or childcare cost legislation were found.",
+      "summary": "Bradshaw supports universal pre-K education and quality childcare as part of a broader platform calling for funding public education at levels comparable to military spending. No new public statements from Bradshaw on early childhood education were found in the June 14–29, 2026 window.",
+      "details": "Searches covering June 14–29, 2026 returned no new statements, press releases, or campaign materials from Marquita Bradshaw on early childhood education, pre-K, Head Start, or childcare programs. Her previously documented platform includes support for universal pre-K and quality childcare as part of a broader commitment to funding public education at levels comparable to military spending. During this period, Tennessee news coverage on early childhood education focused on Shelby County abandoning its universal pre-K enrollment benchmark due to a funding dispute with First 8 Memphis (reported June 15, 2026), and a new Nashville nonprofit expanding childcare capacity, but Bradshaw was not quoted or referenced in either story.",
       "citations": [
         "https://www.marquitabradshaw.com/issues",
         "https://ontheissues.org/Social/Marquita_Bradshaw_Education.htm"
       ]
     },
     "child_hunger": {
-      "summary": "No specific 2025-2026 public statements from Bradshaw on child hunger, SNAP, Summer EBT, or school nutrition programs were found. Her broader platform emphasizes working-class economic justice and healthcare access, but she has not issued candidate statements addressing Tennessee's Summer EBT opt-out controversy or the SNAP cuts enacted through the One Big Beautiful Bill Act.",
-      "details": "Research through June 2026 found no press releases, social media posts, or campaign statements from Marquita Bradshaw specifically addressing SNAP, Summer EBT, child hunger, or school nutrition programs. This is notable given the significant Tennessee-specific child hunger debate: Governor Lee's decision to opt out of the $84 million federal Summer EBT program (affecting roughly 700,000 children), the OBBB's $300 billion SNAP cut package, and bipartisan state-level pushback including HB 1835 to restore Summer EBT participation. Bradshaw's OnTheIssues Families & Children page shows no stance on record. A June 16, 2026 Tennessee Lookout report documented approximately 100,000 Tennesseans losing SNAP benefits since the One Big Beautiful Bill took effect; Bradshaw has not issued a public response to these findings.",
+      "summary": "No specific public statements from Bradshaw on child hunger, SNAP, or school nutrition programs were found in the June 14–29, 2026 window. Tennessee saw significant SNAP-related news during this period, including reporting that 100,000 Tennesseans lost SNAP benefits since the One Big Beautiful Bill Act and a federal court blocking Tennessee's planned junk-food SNAP restrictions.",
+      "details": "No public statements, interviews, or campaign materials from Marquita Bradshaw on SNAP, Summer EBT, school nutrition programs, or child food insecurity were identified in the June 14–29, 2026 search window. During this same period, the Tennessee Lookout (June 16, 2026) reported approximately 100,000 Tennesseans lost SNAP benefits since July 2025 under the One Big Beautiful Bill Act, and ProPublica (June 17, 2026) reported more than 770,000 children nationally lost SNAP benefits. A federal judge also blocked Tennessee's planned July 2026 restrictions on SNAP purchases of soda and candy (WSMV, June 23, 2026). Bradshaw has not made documented public comments connecting her campaign to these developments.",
       "citations": [
-        "https://ontheissues.org/Social/Marquita_Bradshaw_Families_+_Children.htm",
         "https://www.marquitabradshaw.com/issues",
+        "https://ontheissues.org/Social/Marquita_Bradshaw_Families_+_Children.htm",
         "https://tennesseelookout.com/2026/06/16/after-one-big-beautiful-bill-act-100000-tennesseans-lose-snap-food-aid/"
       ]
     },
     "parental_support": {
-      "summary": "Bradshaw supports a $15 minimum wage, healthcare for all, and high-quality public education as her core economic support mechanisms for working families. No specific positions on paid family leave, the Child Tax Credit, or direct childcare cost programs were found in 2025-2026 research.",
-      "details": "Bradshaw's current campaign issues page calls for 'fully and aggressively fighting for the federal recognition and implementation of a living wage beginning at immediately increasing the minimum wage to $15.00 an hour.' Her 2020 platform included 'relieve current student debt, provide quality childcare' as part of her economic agenda. No 2025-2026 press releases or campaign statements addressing the OBBB's child tax credit provisions, federal paid leave legislation, or childcare affordability were found. OnTheIssues records no stance from Bradshaw on the child tax credit, paid family leave, or childcare cost subsidy programs.",
+      "summary": "Bradshaw supports a $15 minimum wage, healthcare for all, and high-quality public education as her core economic support mechanisms for working families. No specific positions on paid family leave, the Child Tax Credit, or direct childcare cost programs were found. No new public statements were found in the June 14–29, 2026 window.",
+      "details": "No new campaign materials, interviews, or public statements from Marquita Bradshaw on paid family leave, the Child Tax Credit, childcare costs, or parental financial support programs were identified in the June 14–29, 2026 search window. Her previously documented platform positions include raising the federal minimum wage to $15 per hour, expanding Medicare to cover all Americans, and investing in high-quality public education. Bradshaw has not made specific documented statements in the current campaign cycle on Child Tax Credit expansion, paid parental leave, or direct childcare subsidy programs. Tennessee news in this period covered a new state law requiring immigration status reporting for approximately 400 families enrolled in the Children's Special Services program for disabled children, but Bradshaw was not among those publicly commenting.",
       "citations": [
         "https://www.marquitabradshaw.com/issues",
         "https://ontheissues.org/SENATE/Marquita_Bradshaw.htm"
@@ -94,7 +94,7 @@
     "party": "D",
     "race": "senate",
     "district": null,
-    "primary_label": "Democratic Primary \u00b7 U.S. Senate",
+    "primary_label": "Democratic Primary · U.S. Senate",
     "role_subtitle": "Former TNDP staffer",
     "bio": "Longtime Tennessee Democratic Party staffer making her first run for federal office.",
     "frontrunner": false,
@@ -105,8 +105,8 @@
     "official_url": "https://ballotpedia.org/Maria_Brewer_(Tennessee)",
     "twitter": null,
     "early_childhood_ed": {
-      "summary": "No specific public position found on early childhood education, pre-K, Head Start, or childcare programs as of May 2026. Brewer's April 25, 2026 podcast appearance on The Loyal Opposition discussed general working-family concerns and healthcare but did not address early childhood education.",
-      "details": "As of May 2026, Maria Brewer has not publicly articulated a position on early childhood education, pre-K, Head Start, or childcare programs. Her April 25, 2026 appearance on The Loyal Opposition podcast focused on working-family economic concerns, healthcare, cost of living, tax fairness, and Citizens United. Her campaign Linktree (linktr.ee/mariabrewerforsenate) describes her as an 'activist, organizer, daughter, mom, wife' running against the 'billionaire class that owns Washington,' but lists no issue-specific platforms. Ballotpedia confirms she has not completed the Candidate Connection survey.",
+      "summary": "No public position found. As of June 2026, Maria Brewer has made no public statements on early childhood education, pre-K, Head Start, or childcare programs. Her candidate page at thecandidate.com, verified June 14, 2026, confirms no issue positions have been filed.",
+      "details": "Searches covering June 14–29, 2026 returned no statements, press releases, or campaign materials from Maria Brewer on early childhood education, pre-K, Head Start, or childcare programs. The Candidate.com, a candidate tracking platform drawing from FEC filings, confirmed as of June 14, 2026 that Brewer has filed no FEC campaign finance reports for the 2026 cycle and has not claimed her candidate page or submitted any public policy positions. Brewer is listed as a Democratic challenger in the 2026 Tennessee U.S. Senate race. Tennessee early childhood education news during this period — including Shelby County's funding dispute with First 8 Memphis and a $1.5 million Sullivan County childcare grant — did not include any Brewer statements.",
       "citations": [
         "https://linktr.ee/mariabrewerforsenate",
         "https://ballotpedia.org/Maria_Brewer_(Tennessee)",
@@ -114,8 +114,8 @@
       ]
     },
     "child_hunger": {
-      "summary": "No specific public position found on SNAP, food assistance, Summer EBT, school nutrition programs, or child food insecurity as of May 2026. Brewer's available public statements do not address these topics.",
-      "details": "As of May 2026, Maria Brewer has made no publicly documented statements on child hunger, SNAP benefits, Summer EBT/SUN Bucks, or school nutrition programs. Her April 25, 2026 podcast interview on The Loyal Opposition did not mention food assistance programs. Tennessee's rejection of Summer EBT funds under Gov. Lee has been a major state policy issue in 2025-2026, but Brewer has not been publicly quoted on this topic. Her campaign materials focus on democracy, corporate accountability, and cost of living at a general level.",
+      "summary": "No public position found. As of June 2026, Maria Brewer has made no public statements on SNAP, food assistance, Summer EBT, school nutrition programs, or child food insecurity. Her FEC and candidate page confirm no public positions have been filed.",
+      "details": "Searches covering June 14–29, 2026 returned no statements or campaign materials from Maria Brewer on SNAP, Summer EBT, school nutrition programs, or child food insecurity. The Candidate.com confirmed as of June 14, 2026 that Brewer has submitted no public issue positions and has not claimed her candidate page. During this period, Tennessee saw major SNAP-related news: approximately 100,000 Tennesseans lost SNAP benefits since the One Big Beautiful Bill Act took effect (Tennessee Lookout, June 16, 2026), and a federal judge blocked planned Tennessee SNAP restrictions on junk food (WSMV, June 23, 2026). Brewer was not publicly quoted or referenced in any of this coverage.",
       "citations": [
         "https://linktr.ee/mariabrewerforsenate",
         "https://ballotpedia.org/Maria_Brewer_(Tennessee)",
@@ -123,8 +123,8 @@
       ]
     },
     "parental_support": {
-      "summary": "No specific public position found on paid family leave, child tax credit, childcare costs, or parental financial support programs as of May 2026. Brewer invokes motherhood and working-family experience as personal context for her candidacy but has not translated this into specific policy stances.",
-      "details": "As of May 2026, Maria Brewer has not publicly stated positions on paid family leave, the child tax credit, childcare affordability, or federal parental support programs. In her April 25, 2026 appearance on The Loyal Opposition, she discussed campaign motivations rooted in 'ordinary working-family experience, healthcare and motherhood' and stressed 'high cost of living' as a central concern, but did not specify parental support policy. Her Linktree bio identifies her as a 'daughter, mom, wife' running for working families against the 'billionaire class,' but contains no policy specifics on parental financial support programs.",
+      "summary": "No public position found. As of June 2026, Maria Brewer has made no public statements on paid family leave, child tax credit, childcare costs, or parental financial support programs. Her FEC and candidate page confirm no public positions have been filed.",
+      "details": "Searches covering June 14–29, 2026 returned no statements or campaign materials from Maria Brewer on paid family leave, the Child Tax Credit, childcare costs, or parental financial support programs. The Candidate.com confirmed as of June 14, 2026 that Brewer has no FEC filings for the 2026 cycle and no public policy positions on file. Tennessee news during this window covered a state law requiring immigration status disclosure for approximately 400 families in the Children's Special Services program for disabled and chronically ill children (June 16, 2026), but Brewer was not among those publicly commenting. No social media posts, press releases, or media interviews from Brewer on any of these three policy areas were identified.",
       "citations": [
         "https://linktr.ee/mariabrewerforsenate",
         "https://ballotpedia.org/Maria_Brewer_(Tennessee)",
@@ -138,7 +138,7 @@
     "party": "I",
     "race": "senate",
     "district": null,
-    "primary_label": "Federalist \u00b7 General Election Ballot",
+    "primary_label": "Federalist · General Election Ballot",
     "role_subtitle": "Federalist Party",
     "bio": "Third-party candidate appearing on the November ballot under the Federalist Party banner.",
     "frontrunner": false,
@@ -149,8 +149,8 @@
     "official_url": "https://ballotpedia.org/Andrew_Mixon",
     "twitter": null,
     "early_childhood_ed": {
-      "summary": "No public position found. As of May 2026, Mixon has made no public statements on early childhood education, pre-K, Head Start, or childcare programs.",
-      "details": "Searches conducted through June 2026 across Ballotpedia, FEC, news archives, and general web sources returned no website, social media presence, interviews, or platform materials for Mixon in the 2026 cycle. His Ballotpedia page confirms he has not completed the 2026 Candidate Connection survey and shows $0 in contributions (FEC ID: S6TN00323). He also ran for president in 2024 with $0 in reported contributions, consistent with a pattern of ballot-access candidacies without public campaign infrastructure.",
+      "summary": "No public position found. As of June 2026, Andrew Woodruff Mixon has made no public statements on early childhood education, pre-K, Head Start, or childcare programs. FEC records confirm no campaign filings for the 2026 cycle.",
+      "details": "Searches covering June 14–29, 2026 returned no statements, press releases, or campaign materials from Andrew Woodruff Mixon on early childhood education, pre-K, Head Start, or childcare programs. The Candidate.com (verified June 14, 2026) lists Mixon as an Independent candidate for Tennessee U.S. Senate with no FEC filings for the 2026 cycle and no public issue positions on file. Mixon is listed in FEC records under both Independent and Other party designations. No campaign website, social media presence, or media coverage of Mixon on early childhood issues was identified in the search window.",
       "citations": [
         "https://ballotpedia.org/Andrew_Mixon",
         "https://www.fec.gov/data/candidate/S6TN00323/",
@@ -158,8 +158,8 @@
       ]
     },
     "child_hunger": {
-      "summary": "No public position found. As of May 2026, Mixon has made no public statements on SNAP, food assistance, Summer EBT, child nutrition programs, or school meals.",
-      "details": "No campaign website, social media accounts, press coverage, candidate forum appearances, or questionnaire responses for Mixon addressing child hunger or food assistance were found in any source reviewed. His FEC profile (candidate ID S6TN00323) confirms $0 in contributions for 2026. No Federalist Party national platform materials addressing child nutrition were located.",
+      "summary": "No public position found. As of June 2026, Andrew Woodruff Mixon has made no public statements on SNAP, food assistance, Summer EBT, child nutrition programs, or school meals. FEC records confirm no campaign filings for the 2026 cycle.",
+      "details": "Searches covering June 14–29, 2026 returned no statements or campaign materials from Andrew Woodruff Mixon on SNAP, Summer EBT, school nutrition programs, or child food insecurity. FEC records and The Candidate.com confirm Mixon has not filed campaign finance reports for the 2026 cycle and has no public policy positions on record. During this period, Tennessee experienced significant SNAP-related developments — approximately 100,000 Tennesseans losing SNAP benefits and a federal court blocking planned junk-food purchasing restrictions — but Mixon was not publicly quoted or referenced in any of this coverage.",
       "citations": [
         "https://ballotpedia.org/Andrew_Mixon",
         "https://www.fec.gov/data/candidate/S6TN00323/",
@@ -167,8 +167,8 @@
       ]
     },
     "parental_support": {
-      "summary": "No public position found. As of May 2026, Mixon has made no public statements on paid family leave, child tax credit, childcare costs, or parental financial support.",
-      "details": "No campaign materials of any kind were located for Mixon as of May 2026. His presence in the race is confirmed only through FEC filings and the Tennessee Secretary of State candidate list. No Federalist Party platform materials addressing parental financial support were found.",
+      "summary": "No public position found. As of June 2026, Andrew Woodruff Mixon has made no public statements on paid family leave, child tax credit, childcare costs, or parental financial support. FEC records confirm no campaign filings for the 2026 cycle.",
+      "details": "Searches covering June 14–29, 2026 returned no statements or campaign materials from Andrew Woodruff Mixon on paid family leave, the Child Tax Credit, childcare costs, or parental financial support programs. FEC records and The Candidate.com confirm Mixon has not filed campaign finance reports for the 2026 cycle and has no public policy positions on record. Mixon's Federalist Party affiliation is noted in prior records but no policy platform documents or campaign website content on family economic support were identified. No social media posts, press releases, or media interviews from Mixon on any of these three policy areas were identified in the June 14–29, 2026 search window.",
       "citations": [
         "https://ballotpedia.org/Andrew_Mixon",
         "https://www.fec.gov/data/candidate/S6TN00323/",
