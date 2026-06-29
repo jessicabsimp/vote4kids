@@ -1593,6 +1593,28 @@
     "retrieved_at": "2026-06-24"
   },
   {
+    "id": "andy-ogles-campaign-stop-union-city-2026-06-17",
+    "date_iso": "2026-06-17",
+    "date_display": {
+      "month": "Jun",
+      "day": "17",
+      "year": "2026"
+    },
+    "title": "Andy Ogles Campaign Stop in Union City",
+    "description": "U.S. Rep. Andy Ogles (TN-5) made a campaign stop in Union City, greeting guests and supporters at the law office of Conley and Conley. Ogles spoke about his family's connection to Obion County and his record working for constituents, taking audience questions including discussion of efforts to pass the Save America Act. He also announced plans to maintain a district office in Weakley County under the newly redrawn 5th District boundaries.",
+    "meta": "Union City \u00b7 Obion County \u00b7 Conley and Conley law office",
+    "link_url": "https://www.thunderboltradio.com/2026/06/17/tennessee-5th-district-congressman-andy-ogles-makes-stop-in-union-city/",
+    "link_label": "Thunderbolt Radio coverage \u2192",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-5",
+    "candidates_invited": [
+      "andy-ogles"
+    ],
+    "source_url": "https://www.thunderboltradio.com/2026/06/17/tennessee-5th-district-congressman-andy-ogles-makes-stop-in-union-city/",
+    "retrieved_at": "2026-06-29"
+  },
+  {
     "id": "anna-golladay-coffee-convos-2026-06-19",
     "date_iso": "2026-06-19",
     "date_display": {
