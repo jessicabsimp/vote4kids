@@ -2389,6 +2389,28 @@
     "retrieved_at": "2026-06-11"
   },
   {
+    "id": "lauren-pinkston-lobelville-stop-and-meet-2026-07-02",
+    "date_iso": "2026-07-02",
+    "date_display": {
+      "month": "Jul",
+      "day": "2",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Lobelville Stop & Meet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a campaign stop and meet-and-greet at Bold Wind Coffee Bar in Lobelville, TN. Venue and RSVP details available on her campaign events page.",
+    "meta": "Lobelville · Bold Wind Coffee Bar · 3:30 PM",
+    "link_url": "https://pinkstonfortn.com/events",
+    "link_label": "Lauren Pinkston for TN Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-01"
+  },
+  {
     "id": "coffee-convos-2026-07-03",
     "date_iso": "2026-07-03",
     "date_display": {
@@ -2475,6 +2497,116 @@
     ],
     "source_url": "https://www.michaelafortennessee.com/events",
     "retrieved_at": "2026-06-27"
+  },
+  {
+    "id": "lauren-pinkston-pikeville-stop-and-meet-2026-07-05",
+    "date_iso": "2026-07-05",
+    "date_display": {
+      "month": "Jul",
+      "day": "5",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Pikeville Stop & Meet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a campaign stop and meet-and-greet at Creekside Cafe in Pikeville, TN.",
+    "meta": "Pikeville · Creekside Cafe · 1:00 PM",
+    "link_url": "https://pinkstonfortn.com/pikeville_stop_and_meet",
+    "link_label": "Lauren Pinkston for TN Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-01"
+  },
+  {
+    "id": "lauren-pinkston-dayton-stop-and-meet-2026-07-05",
+    "date_iso": "2026-07-05",
+    "date_display": {
+      "month": "Jul",
+      "day": "5",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Dayton Stop & Meet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a campaign stop and meet-and-greet at Monkey Town Brewing & Restaurant in Dayton, TN.",
+    "meta": "Dayton · Monkey Town Brewing & Restaurant · 5:30 PM",
+    "link_url": "https://pinkstonfortn.com/dayton_stop_and_meet_7_05",
+    "link_label": "Lauren Pinkston for TN Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-01"
+  },
+  {
+    "id": "lauren-pinkston-breakfast-in-decatur-2026-07-06",
+    "date_iso": "2026-07-06",
+    "date_display": {
+      "month": "Jul",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Breakfast in Decatur",
+    "description": "Independent gubernatorial candidate Lauren Pinkston makes a morning campaign stop at Angie's Decatur Diner in Decatur, TN.",
+    "meta": "Decatur · Angie's Decatur Diner · 9:00 AM",
+    "link_url": "https://pinkstonfortn.com/decatur_breakfast_stop_7_06",
+    "link_label": "Lauren Pinkston for TN Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-01"
+  },
+  {
+    "id": "lauren-pinkston-madisonville-stop-and-meet-2026-07-06",
+    "date_iso": "2026-07-06",
+    "date_display": {
+      "month": "Jul",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Madisonville Stop & Meet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a campaign stop and meet-and-greet at Bradley's Sweet Side in Madisonville, TN.",
+    "meta": "Madisonville · Bradley's Sweet Side · 1:00 PM",
+    "link_url": "https://pinkstonfortn.com/madisonville_stop_and_meet_20260706",
+    "link_label": "Lauren Pinkston for TN Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-01"
+  },
+  {
+    "id": "lauren-pinkston-mcminn-county-meet-and-greet-2026-07-06",
+    "date_iso": "2026-07-06",
+    "date_display": {
+      "month": "Jul",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: McMinn County Meet & Greet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a public meet-and-greet at Market Park in Athens, TN.",
+    "meta": "Athens · Market Park · 5:00 PM",
+    "link_url": "https://pinkstonfortn.com/mcminn_co_meet_and_greet_20260706",
+    "link_label": "Lauren Pinkston for TN Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (I)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-01"
   },
   {
     "id": "cumberland-county-gop-womens-club-2026-07-09",
