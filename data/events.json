@@ -2813,6 +2813,32 @@
     "retrieved_at": "2026-06-24"
   },
   {
+    "id": "tn-7-democratic-primary-forum-springfield-2026-07-09",
+    "date_iso": "2026-07-09",
+    "date_display": {
+      "month": "Jul",
+      "day": "9",
+      "year": "2026"
+    },
+    "title": "TN-7 Democratic Primary Candidate Forum",
+    "description": "The Robertson County Democratic Party hosts a forum for all five Democrats running in Tennessee's 7th Congressional District primary. Participating candidates: Lore Bergman, Darden Copeland, Vincent Dixie, Saletta Holloway, and Joshua Sales. The August 6 primary winner faces the Republican nominee in the November 3 general election.",
+    "meta": "Springfield, TN · Springfield High School · 6:30 PM",
+    "link_url": "https://mainstreetmediatn.com/articles/news-robertsoncountyconnection/2064701/?pubid=cheathamcountyexchange",
+    "link_label": "Main Street Media TN →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-7 (D primary)",
+    "candidates_invited": [
+      "lore-bergman",
+      "darden-copeland",
+      "vincent-dixie",
+      "saletta-holloway",
+      "joshua-sales"
+    ],
+    "source_url": "https://mainstreetmediatn.com/articles/news-robertsoncountyconnection/2064701/?pubid=cheathamcountyexchange",
+    "retrieved_at": "2026-07-09"
+  },
+  {
     "id": "coffee-convos-2026-07-10",
     "date_iso": "2026-07-10",
     "date_display": {
@@ -2945,6 +2971,50 @@
     "retrieved_at": "2026-07-07"
   },
   {
+    "id": "lauren-pinkston-ripleys-tomato-festival-2026-07-11",
+    "date_iso": "2026-07-11",
+    "date_display": {
+      "month": "Jul",
+      "day": "11",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston at Ripley's Tomato Festival",
+    "description": "Independent gubernatorial candidate Lauren Pinkston makes a campaign appearance at the annual Ripley's Tomato Festival at Ripley City Park, an opportunity to meet voters in Lauderdale County.",
+    "meta": "Ripley, TN · Ripley City Park · 11:00 AM",
+    "link_url": "https://action.pinkstonfortn.com/ripley_tomato_festival_7_11",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-09"
+  },
+  {
+    "id": "lauren-pinkston-tiptonville-stop-and-meet-2026-07-11",
+    "date_iso": "2026-07-11",
+    "date_display": {
+      "month": "Jul",
+      "day": "11",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Tiptonville Stop & Meet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston stops in Tiptonville for an informal meet-and-greet with Lake County voters at Cheatham's Pit BBQ.",
+    "meta": "Tiptonville, TN · Cheatham's Pit BBQ · 5:00 PM",
+    "link_url": "https://action.pinkstonfortn.com/tiptonville_stop_and_meet",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-09"
+  },
+  {
     "id": "meet-jerri-in-nashville-2026-07-12",
     "date_iso": "2026-07-12",
     "date_display": {
@@ -2965,6 +3035,72 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-06-15"
+  },
+  {
+    "id": "meet-jerri-in-hartsville-2026-07-12",
+    "date_iso": "2026-07-12",
+    "date_display": {
+      "month": "Jul",
+      "day": "12",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Hartsville",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Hartsville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Hartsville · Trousdale County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-09"
+  },
+  {
+    "id": "meet-jerri-in-dyersburg-2026-07-12",
+    "date_iso": "2026-07-12",
+    "date_display": {
+      "month": "Jul",
+      "day": "12",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Dyersburg",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Dyersburg, TN. Venue and time details available on her campaign events page.",
+    "meta": "Dyersburg · Dyer County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-09"
+  },
+  {
+    "id": "lauren-pinkston-talks-with-teachers-2026-07-12",
+    "date_iso": "2026-07-12",
+    "date_display": {
+      "month": "Jul",
+      "day": "12",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston: Talks with Teachers",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a 'Talks with Teachers' listening session in Dyersburg. The event is hosted at a private residence and provides an opportunity for educators to share concerns directly with the candidate.",
+    "meta": "Dyersburg, TN · Private Residence · 2:00 PM",
+    "link_url": "https://action.pinkstonfortn.com/talks_with_teachers_7_12",
+    "link_label": "Pinkston for TN →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-09"
   },
   {
     "id": "meet-jerri-in-collierville-2026-07-14",
@@ -3010,6 +3146,28 @@
     ],
     "source_url": null,
     "retrieved_at": "2026-05-03"
+  },
+  {
+    "id": "clarksville-chamber-meet-the-candidates-2026-07-15",
+    "date_iso": "2026-07-15",
+    "date_display": {
+      "month": "Jul",
+      "day": "15",
+      "year": "2026"
+    },
+    "title": "Clarksville Area Chamber of Commerce: Meet the Candidates",
+    "description": "The Clarksville Area Chamber of Commerce hosts a morning 'Meet the Candidates' event. Independent gubernatorial candidate Lauren Pinkston is confirmed to attend. The format includes candidate introductions and meet-and-greet with business and civic community members.",
+    "meta": "Clarksville, TN · 416 College St · 8:00 AM",
+    "link_url": "https://action.pinkstonfortn.com/candidate_forum_clarksville",
+    "link_label": "Pinkston RSVP →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://clarksvillenow.com/local/clarksville-area-chamber-celebrates-community-leaders-announces-new-board/",
+    "retrieved_at": "2026-07-09"
   },
   {
     "id": "lauren-pinkston-stewart-county-meet-and-greet-2026-07-16",
@@ -3078,6 +3236,28 @@
     "retrieved_at": "2026-05-28"
   },
   {
+    "id": "voterpalooza-civic-celebration-knoxville-2026-07-18",
+    "date_iso": "2026-07-18",
+    "date_display": {
+      "month": "Jul",
+      "day": "18",
+      "year": "2026"
+    },
+    "title": "Voterpalooza Civic Celebration",
+    "description": "A family-friendly civic celebration featuring music, entertainment, community organizations, and candidate information. U.S. House TN-2 candidate Michaela Barnett is among the participating candidates. The event is open to the public.",
+    "meta": "Knoxville, TN · Dr. Walter Hardy Park · 10:00 AM – 2:00 PM",
+    "link_url": "https://www.michaelafortennessee.com/events",
+    "link_label": "Michaela for Tennessee →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-2",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.michaelafortennessee.com/events",
+    "retrieved_at": "2026-07-09"
+  },
+  {
     "id": "anna-golladay-crabtree-farms-2026-07-19",
     "date_iso": "2026-07-19",
     "date_display": {
@@ -3098,6 +3278,30 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-07-02"
+  },
+  {
+    "id": "newschannel5-gop-gubernatorial-debate-2026-07-20",
+    "date_iso": "2026-07-20",
+    "date_display": {
+      "month": "Jul",
+      "day": "20",
+      "year": "2026"
+    },
+    "title": "NewsChannel 5 / LWV Tennessee GOP Gubernatorial Debate",
+    "description": "NewsChannel 5, the League of Women Voters of Tennessee, and Cumberland University are co-hosting a live 90-minute Republican gubernatorial primary debate. Congressman John Rose and State Rep. Monty Fritts have confirmed participation. Sen. Marsha Blackburn has been invited and had not confirmed as of July 8, 2026. The debate airs live on-air and online ahead of the August 6 primary.",
+    "meta": "Lebanon, TN · Cumberland University · 6:30 PM CDT",
+    "link_url": "https://www.newschannel5.com/news/newschannel-5-to-host-tennessee-gop-gubernatorial-debate-on-july-20th",
+    "link_label": "NewsChannel 5 →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (R primary)",
+    "candidates_invited": [
+      "john-rose",
+      "monty-fritts",
+      "marsha-blackburn"
+    ],
+    "source_url": "https://www.newschannel5.com/news/newschannel-5-to-host-tennessee-gop-gubernatorial-debate-on-july-20th",
+    "retrieved_at": "2026-07-09"
   },
   {
     "id": "us-senate-forum-2026-07-22",
@@ -3165,6 +3369,28 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "id": "loudon-county-dems-candidate-meet-greet-2026-07-23",
+    "date_iso": "2026-07-23",
+    "date_display": {
+      "month": "Jul",
+      "day": "23",
+      "year": "2026"
+    },
+    "title": "Loudon County Democratic Party Candidate Meet & Greet",
+    "description": "The Loudon County Democratic Party hosts a multi-candidate meet-and-greet event at The Lyric Courtyard. U.S. House TN-2 candidate Michaela Barnett kicks off the evening at 5:30 PM alongside candidates from across the region.",
+    "meta": "Loudon, TN · The Lyric Courtyard, 316 Grove St · 5:00–7:00 PM",
+    "link_url": "https://www.michaelafortennessee.com/events",
+    "link_label": "Michaela for Tennessee →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-2",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.michaelafortennessee.com/events",
+    "retrieved_at": "2026-07-09"
   },
   {
     "id": "anna-golladay-town-hall-rhea-county-2026-07-24",
@@ -3319,6 +3545,72 @@
     ],
     "source_url": "https://annagolladay.com/events",
     "retrieved_at": "2026-05-28"
+  },
+  {
+    "id": "meet-jerri-in-clarksville-2026-07-31",
+    "date_iso": "2026-07-31",
+    "date_display": {
+      "month": "Jul",
+      "day": "31",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Clarksville",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Clarksville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Clarksville · Montgomery County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-09"
+  },
+  {
+    "id": "meet-jerri-in-lebanon-2026-07-31",
+    "date_iso": "2026-07-31",
+    "date_display": {
+      "month": "Jul",
+      "day": "31",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Lebanon",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Lebanon, TN. Venue and time details available on her campaign events page.",
+    "meta": "Lebanon · Wilson County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-09"
+  },
+  {
+    "id": "meet-jerri-in-goodlettsville-2026-07-31",
+    "date_iso": "2026-07-31",
+    "date_display": {
+      "month": "Jul",
+      "day": "31",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Goodlettsville",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Goodlettsville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Goodlettsville · Davidson County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-09"
   },
   {
     "id": "lwv-statewide-forum-series-2026-08",
