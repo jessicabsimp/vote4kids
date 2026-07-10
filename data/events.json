@@ -2905,6 +2905,29 @@
     "retrieved_at": "2026-07-07"
   },
   {
+    "id": "etyr-gop-gubernatorial-forum-2026-07-10",
+    "date_iso": "2026-07-10",
+    "date_display": {
+      "month": "Jul",
+      "day": "10",
+      "year": "2026"
+    },
+    "title": "East Tennessee Young Republicans GOP Gubernatorial Forum",
+    "description": "The East Tennessee Young Republicans hosted a gubernatorial candidate forum ahead of the August 6 primary. Congressman John Rose (TN-6) and State Rep. Monty Fritts (R-Kingston) both confirmed their attendance; Marsha Blackburn had not announced whether she would participate as of the day before the event.",
+    "meta": "East Tennessee · exact venue not publicly announced · evening",
+    "link_url": "https://www.knoxnews.com/story/news/politics/elections/2026/07/09/governor-election-debate-sexton-comments-blackburn-rose-fritts/90854884007/",
+    "link_label": "Knox News coverage →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (R primary)",
+    "candidates_invited": [
+      "john-rose",
+      "monty-fritts"
+    ],
+    "source_url": "https://www.knoxnews.com/story/news/politics/elections/2026/07/09/governor-election-debate-sexton-comments-blackburn-rose-fritts/90854884007/",
+    "retrieved_at": "2026-07-10"
+  },
+  {
     "id": "campbell-county-democrats-picnic-2026-07-11",
     "date_iso": "2026-07-11",
     "date_display": {
@@ -3103,6 +3126,26 @@
     "retrieved_at": "2026-07-09"
   },
   {
+    "id": "warren-county-candidate-forum-2026-07-13",
+    "date_iso": "2026-07-13",
+    "date_display": {
+      "month": "Jul",
+      "day": "13",
+      "year": "2026"
+    },
+    "title": "Warren County Candidate Forum",
+    "description": "Main Street Media and McMinnville Public Radio host a multi-race candidate forum at the historic Park Theater in McMinnville. Republican and Democratic primary candidates for U.S. House of Representatives, 4th District of Tennessee appear starting at 6:00 PM. The forum also includes local races. Moderated by MTSU History Professor Dr. Amy Sayward. Broadcast live on WCPI 91.3, WBMC 960 AM, and BLTV Channel 6.",
+    "meta": "McMinnville · Park Theater · 6:00 PM (TN-4 segment) · 5:00 PM doors",
+    "link_url": "https://www.mainstreetjournal.llc/submit-your-questions-for-candidate-forum/",
+    "link_label": "Main Street Journal →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-4",
+    "candidates_invited": [],
+    "source_url": "https://www.mainstreetjournal.llc/submit-your-questions-for-candidate-forum/",
+    "retrieved_at": "2026-07-10"
+  },
+  {
     "id": "meet-jerri-in-collierville-2026-07-14",
     "date_iso": "2026-07-14",
     "date_display": {
@@ -3190,6 +3233,26 @@
     ],
     "source_url": "https://action.pinkstonfortn.com/",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "id": "williamson-county-gop-tn-09-forum-2026-07-16",
+    "date_iso": "2026-07-16",
+    "date_display": {
+      "month": "Jul",
+      "day": "16",
+      "year": "2026"
+    },
+    "title": "Williamson County Republican Party TN-09 Candidate Forum",
+    "description": "The Williamson County Republican Party hosts a candidate forum featuring Republican primary contenders for Tennessee's newly redrawn 9th Congressional District ahead of the August 6 primary. The newly drawn TN-9 now extends well beyond its previous Shelby and Tipton County boundaries.",
+    "meta": "Franklin · Williamson County · ahead of Aug. 6 primary",
+    "link_url": "https://www.williamsonherald.com/news/williamson-county-gop-to-host-tn-09-candidate-forum-july-16/article_ed3a967e-83d2-4cea-a667-b1a10a895ace.html",
+    "link_label": "Williamson Herald →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-9",
+    "candidates_invited": [],
+    "source_url": "https://www.williamsonherald.com/news/williamson-county-gop-to-host-tn-09-candidate-forum-july-16/article_ed3a967e-83d2-4cea-a667-b1a10a895ace.html",
+    "retrieved_at": "2026-07-10"
   },
   {
     "id": "anna-golladay-anderson-roane-women-2026-07-17",
