@@ -2767,6 +2767,28 @@
     "retrieved_at": "2026-07-06"
   },
   {
+    "id": "john-rose-town-hall-lawrenceburg-2026-07-07",
+    "date_iso": "2026-07-07",
+    "date_display": {
+      "month": "Jul",
+      "day": "7",
+      "year": "2026"
+    },
+    "title": "John Rose Tennessee Town Hall Tour — Lawrenceburg",
+    "description": "U.S. Rep. John Rose (TN-6) brought his Tennessee Town Hall Tour to Lawrenceburg Square on July 7, continuing his campaign goal of holding public town halls in all 95 Tennessee counties ahead of the August 6 Republican gubernatorial primary.",
+    "meta": "Lawrenceburg · Lawrence County Square · July 7, 2026",
+    "link_url": "https://mainstreetmediatn.com/articles/lawrencecountyadvocate/lcrp-hear-about-multiple-state-candidates/",
+    "link_label": "Lawrence County Advocate →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (R primary)",
+    "candidates_invited": [
+      "john-rose"
+    ],
+    "source_url": "https://mainstreetmediatn.com/articles/lawrencecountyadvocate/lcrp-hear-about-multiple-state-candidates/",
+    "retrieved_at": "2026-07-14"
+  },
+  {
     "id": "lauren-pinkston-shelbyville-meet-greet-2026-07-08",
     "date_iso": "2026-07-08",
     "date_display": {
@@ -3343,6 +3365,28 @@
     "retrieved_at": "2026-07-11"
   },
   {
+    "id": "meet-jerri-in-jackson-2026-07-17",
+    "date_iso": "2026-07-17",
+    "date_display": {
+      "month": "Jul",
+      "day": "17",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Jackson",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Jackson, TN. Venue and time details available on her campaign events page.",
+    "meta": "Jackson · Madison County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green events →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-14"
+  },
+  {
     "id": "voterpalooza-civic-celebration-knoxville-2026-07-18",
     "date_iso": "2026-07-18",
     "date_display": {
@@ -3387,6 +3431,28 @@
     "retrieved_at": "2026-07-12"
   },
   {
+    "id": "meet-jerri-in-columbia-2026-07-18",
+    "date_iso": "2026-07-18",
+    "date_display": {
+      "month": "Jul",
+      "day": "18",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Columbia",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Columbia, TN. Venue and time details available on her campaign events page.",
+    "meta": "Columbia · Maury County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green events →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-14"
+  },
+  {
     "id": "anna-golladay-crabtree-farms-2026-07-19",
     "date_iso": "2026-07-19",
     "date_display": {
@@ -3409,6 +3475,28 @@
     "retrieved_at": "2026-07-02"
   },
   {
+    "id": "meet-jerri-in-nashville-2026-07-19",
+    "date_iso": "2026-07-19",
+    "date_display": {
+      "month": "Jul",
+      "day": "19",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Nashville",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Nashville, TN. Venue and time details available on her campaign events page.",
+    "meta": "Nashville · Davidson County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green events →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-14"
+  },
+  {
     "id": "newschannel5-gop-gubernatorial-debate-2026-07-20",
     "date_iso": "2026-07-20",
     "date_display": {
@@ -3417,7 +3505,7 @@
       "year": "2026"
     },
     "title": "NewsChannel 5 / LWV Tennessee GOP Gubernatorial Debate",
-    "description": "NewsChannel 5, the League of Women Voters of Tennessee, and Cumberland University are co-hosting a live 90-minute Republican gubernatorial primary debate. Congressman John Rose and State Rep. Monty Fritts have confirmed participation. Sen. Marsha Blackburn has been invited and had not confirmed as of July 8, 2026. The debate airs live on-air and online ahead of the August 6 primary.",
+    "description": "NewsChannel 5, the League of Women Voters of Tennessee, and Cumberland University are co-hosting a live 90-minute Republican gubernatorial primary debate. Congressman John Rose and State Rep. Monty Fritts have confirmed participation. Sen. Marsha Blackburn declined the invitation, citing her need to be in Washington D.C. for a U.S. Senate vote on July 20. The debate airs live on-air and online ahead of the August 6 primary.",
     "meta": "Lebanon, TN · Cumberland University · 6:30 PM CDT",
     "link_url": "https://www.newschannel5.com/news/newschannel-5-to-host-tennessee-gop-gubernatorial-debate-on-july-20th",
     "link_label": "NewsChannel 5 →",
@@ -3430,7 +3518,29 @@
       "marsha-blackburn"
     ],
     "source_url": "https://www.newschannel5.com/news/newschannel-5-to-host-tennessee-gop-gubernatorial-debate-on-july-20th",
-    "retrieved_at": "2026-07-09"
+    "retrieved_at": "2026-07-14"
+  },
+  {
+    "id": "lauren-pinkston-knoxville-meet-and-greet-2026-07-21",
+    "date_iso": "2026-07-21",
+    "date_display": {
+      "month": "Jul",
+      "day": "21",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston Knoxville Meet & Greet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a meet-and-greet event at Regas Square Club Room in Knoxville, connecting with East Tennessee voters ahead of the November 3 general election.",
+    "meta": "Knoxville · Regas Square Club Room · 4:30 PM",
+    "link_url": "https://action.pinkstonfortn.com/knoxville_meet_and_greet_7_21",
+    "link_label": "RSVP →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-14"
   },
   {
     "id": "us-senate-forum-2026-07-22",
@@ -3520,6 +3630,28 @@
     ],
     "source_url": "https://www.michaelafortennessee.com/events",
     "retrieved_at": "2026-07-09"
+  },
+  {
+    "id": "lauren-pinkston-dandridge-meet-and-greet-2026-07-23",
+    "date_iso": "2026-07-23",
+    "date_display": {
+      "month": "Jul",
+      "day": "23",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston Dandridge Meet & Greet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a meet-and-greet event at Shepard Inn in Dandridge, TN, connecting with East Tennessee voters ahead of the November 3 general election.",
+    "meta": "Dandridge · Jefferson County · Shepard Inn · 4:30 PM",
+    "link_url": "https://action.pinkstonfortn.com/dandridge_meet_and_greet_7_23",
+    "link_label": "RSVP →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-14"
   },
   {
     "id": "anna-golladay-town-hall-rhea-county-2026-07-24",
