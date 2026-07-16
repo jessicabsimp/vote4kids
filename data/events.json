@@ -3437,6 +3437,28 @@
     "retrieved_at": "2026-07-14"
   },
   {
+    "id": "michaela-barnett-grainger-county-tomato-festival-2026-07-18",
+    "date_iso": "2026-07-18",
+    "date_display": {
+      "month": "Jul",
+      "day": "18",
+      "year": "2026"
+    },
+    "title": "Michaela Barnett at Grainger County Tomato Festival",
+    "description": "TN-2 Democratic congressional candidate Michaela Barnett makes a campaign appearance at the Grainger County Tomato Festival, one of the largest free festivals in East Tennessee, canvassing and meeting voters in Rutledge.",
+    "meta": "Rutledge, TN · 7480 Rutledge Pike · Grainger County",
+    "link_url": "https://www.michaelafortennessee.com/events",
+    "link_label": "Michaela for Tennessee →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-2",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.michaelafortennessee.com/events",
+    "retrieved_at": "2026-07-16"
+  },
+  {
     "id": "voterpalooza-civic-celebration-knoxville-2026-07-18",
     "date_iso": "2026-07-18",
     "date_display": {
