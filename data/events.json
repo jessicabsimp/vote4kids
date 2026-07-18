@@ -3413,6 +3413,28 @@
     "retrieved_at": "2026-07-11"
   },
   {
+    "id": "john-rose-bradley-county-forum-2026-07-17",
+    "date_iso": "2026-07-17",
+    "date_display": {
+      "month": "Jul",
+      "day": "17",
+      "year": "2026"
+    },
+    "title": "John Rose Bradley County Forum",
+    "description": "Republican gubernatorial candidate U.S. Rep. John Rose held a public forum in Bradley County on the first day of early voting, answering questions from residents on topics including data centers, public education, school safety funding, and agricultural policy.",
+    "meta": "Bradley County (Cleveland area) \u00b7 TN \u00b7 July 17, 2026",
+    "link_url": "https://www.local3news.com/local-news/tn-gov-candidate-john-rose-r-points-to-data-centers-as-the-future-of-technology/article_1b0f3878-452a-447b-8904-151646ce07f9.html",
+    "link_label": "Local3 News coverage \u2192",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (R primary)",
+    "candidates_invited": [
+      "john-rose"
+    ],
+    "source_url": "https://www.local3news.com/local-news/tn-gov-candidate-john-rose-r-points-to-data-centers-as-the-future-of-technology/article_1b0f3878-452a-447b-8904-151646ce07f9.html",
+    "retrieved_at": "2026-07-18"
+  },
+  {
     "id": "lauren-pinkston-meet-lauren-at-the-market-2026-07-18",
     "date_iso": "2026-07-18",
     "date_display": {
@@ -3509,18 +3531,18 @@
       "year": "2026"
     },
     "title": "Anna Golladay at Crabtree Farms",
-    "description": "TN-3 Democratic congressional candidate Anna Golladay makes a campaign appearance at Crabtree Farms, a community urban farm in Chattanooga. [Verify: annagolladay.com/events checked 2026-07-02 \u2014 archive page shows only through Feb 2026; not found]",
+    "description": "TN-3 Democratic congressional candidate Anna Golladay makes a campaign appearance at Crabtree Farms, a community urban farm in Chattanooga, from 2:30\u20135:00 PM.",
     "meta": "Chattanooga, TN \u00b7 Crabtree Farms \u00b7 2:30\u20135:00 PM",
     "link_url": "https://annagolladay.com/events",
     "link_label": "Golladay for Congress \u2192",
-    "is_placeholder": true,
+    "is_placeholder": false,
     "race": "house",
     "race_label": "U.S. House TN-3",
     "candidates_invited": [
       "anna-golladay"
     ],
     "source_url": "https://annagolladay.com/events",
-    "retrieved_at": "2026-07-02"
+    "retrieved_at": "2026-07-18"
   },
   {
     "id": "meet-jerri-in-nashville-2026-07-19",
@@ -3788,6 +3810,50 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "id": "lauren-pinkston-campbell-county-meet-and-greet-2026-07-27",
+    "date_iso": "2026-07-27",
+    "date_display": {
+      "month": "Jul",
+      "day": "27",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston Campbell County Meet & Greet",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a public meet-and-greet at The Grand on Central in LaFollette (Campbell County), TN at 6:00 PM.",
+    "meta": "LaFollette \u00b7 The Grand on Central \u00b7 Campbell County, TN \u00b7 6:00 PM",
+    "link_url": "https://action.pinkstonfortn.com/campbell_meet_greet",
+    "link_label": "Lauren Pinkston for TN \u2192",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (Independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-18"
+  },
+  {
+    "id": "lauren-pinkston-elizabethton-farmers-market-2026-07-28",
+    "date_iso": "2026-07-28",
+    "date_display": {
+      "month": "Jul",
+      "day": "28",
+      "year": "2026"
+    },
+    "title": "Lauren Pinkston at Elizabethton Farmer's Market",
+    "description": "Independent gubernatorial candidate Lauren Pinkston makes a campaign appearance at the Elizabethton Farmer's Market in Elizabethton, TN at 4:00 PM.",
+    "meta": "Elizabethton \u00b7 Elizabethton Farmer's Market \u00b7 Carter County, TN \u00b7 4:00 PM",
+    "link_url": "https://action.pinkstonfortn.com/elizabethton_farmers_market_7_28",
+    "link_label": "Lauren Pinkston for TN \u2192",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (Independent)",
+    "candidates_invited": [
+      "lauren-pinkston"
+    ],
+    "source_url": "https://pinkstonfortn.com/events",
+    "retrieved_at": "2026-07-18"
   },
   {
     "id": "anna-golladay-town-hall-anderson-county-2026-07-30",
