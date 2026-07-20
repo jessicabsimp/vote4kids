@@ -3622,18 +3622,18 @@
       "year": "2026"
     },
     "title": "Lauren Pinkston Knoxville Meet & Greet",
-    "description": "Independent gubernatorial candidate Lauren Pinkston holds a meet-and-greet event at Regas Square Club Room in Knoxville, connecting with East Tennessee voters ahead of the November 3 general election.",
+    "description": "Independent gubernatorial candidate Lauren Pinkston holds a meet-and-greet event at Regas Square Club Room in Knoxville, connecting with East Tennessee voters ahead of the November 3 general election. [Verify: not found in scan on 2026-07-20 — RSVP link returns 404, not listed on pinkstonfortn.com/events as of live crawl]",
     "meta": "Knoxville · Regas Square Club Room · 4:30 PM",
     "link_url": "https://action.pinkstonfortn.com/knoxville_meet_and_greet_7_21",
     "link_label": "RSVP →",
-    "is_placeholder": false,
+    "is_placeholder": true,
     "race": "governor",
     "race_label": "TN Governor (independent)",
     "candidates_invited": [
       "lauren-pinkston"
     ],
     "source_url": "https://pinkstonfortn.com/events",
-    "retrieved_at": "2026-07-14"
+    "retrieved_at": "2026-07-20"
   },
   {
     "id": "us-senate-forum-2026-07-22",
