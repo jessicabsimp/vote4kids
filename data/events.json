@@ -3194,6 +3194,26 @@
     "retrieved_at": "2026-07-10"
   },
   {
+    "id": "knox-county-mayor-forum-west-hills-2026-07-14",
+    "date_iso": "2026-07-14",
+    "date_display": {
+      "month": "Jul",
+      "day": "14",
+      "year": "2026"
+    },
+    "title": "Knox County Mayor Candidate Forum",
+    "description": "Republican Betsy Henderson and Democrat Beau Hawk appeared together at a voter forum hosted by the West Hills Neighborhood Association in Knoxville, answering questions from residents on roads, infrastructure, and schools. The event was held ahead of the August 6 general election for Knox County Mayor, in which incumbent Glenn Jacobs is term-limited.",
+    "meta": "Knoxville · West Hills Neighborhood Association · evening",
+    "link_url": "https://www.wvlt.tv/2026/07/15/knox-county-mayoral-candidates-face-voters-forum-three-weeks-before-election/",
+    "link_label": "WVLT coverage →",
+    "is_placeholder": false,
+    "race": "local",
+    "race_label": "Knox Co. Mayor",
+    "candidates_invited": [],
+    "source_url": "https://www.wvlt.tv/2026/07/15/knox-county-mayoral-candidates-face-voters-forum-three-weeks-before-election/",
+    "retrieved_at": "2026-07-17"
+  },
+  {
     "id": "meet-jerri-in-collierville-2026-07-14",
     "date_iso": "2026-07-14",
     "date_display": {
@@ -3214,26 +3234,6 @@
     ],
     "source_url": "https://greenforgovernor.com/events/",
     "retrieved_at": "2026-07-07"
-  },
-  {
-    "id": "knox-county-mayor-forum-west-hills-2026-07-14",
-    "date_iso": "2026-07-14",
-    "date_display": {
-      "month": "Jul",
-      "day": "14",
-      "year": "2026"
-    },
-    "title": "Knox County Mayor Candidate Forum",
-    "description": "Republican Betsy Henderson and Democrat Beau Hawk appeared together at a voter forum hosted by the West Hills Neighborhood Association in Knoxville, answering questions from residents on roads, infrastructure, and schools. The event was held ahead of the August 6 general election for Knox County Mayor, in which incumbent Glenn Jacobs is term-limited.",
-    "meta": "Knoxville · West Hills Neighborhood Association · evening",
-    "link_url": "https://www.wvlt.tv/2026/07/15/knox-county-mayoral-candidates-face-voters-forum-three-weeks-before-election/",
-    "link_label": "WVLT coverage →",
-    "is_placeholder": false,
-    "race": "local",
-    "race_label": "Knox Co. Mayor",
-    "candidates_invited": [],
-    "source_url": "https://www.wvlt.tv/2026/07/15/knox-county-mayoral-candidates-face-voters-forum-three-weeks-before-election/",
-    "retrieved_at": "2026-07-17"
   },
   {
     "id": "clarksville-chamber-meet-the-candidates-2026-07-15",
@@ -3369,6 +3369,28 @@
     "retrieved_at": "2026-05-28"
   },
   {
+    "id": "john-rose-bradley-county-forum-2026-07-17",
+    "date_iso": "2026-07-17",
+    "date_display": {
+      "month": "Jul",
+      "day": "17",
+      "year": "2026"
+    },
+    "title": "John Rose Bradley County Forum",
+    "description": "Republican gubernatorial candidate U.S. Rep. John Rose held a public forum in Bradley County on the first day of early voting, answering questions from residents on topics including data centers, public education, school safety funding, and agricultural policy.",
+    "meta": "Bradley County (Cleveland area) · TN · July 17, 2026",
+    "link_url": "https://www.local3news.com/local-news/tn-gov-candidate-john-rose-r-points-to-data-centers-as-the-future-of-technology/article_1b0f3878-452a-447b-8904-151646ce07f9.html",
+    "link_label": "Local3 News coverage →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (R primary)",
+    "candidates_invited": [
+      "john-rose"
+    ],
+    "source_url": "https://www.local3news.com/local-news/tn-gov-candidate-john-rose-r-points-to-data-centers-as-the-future-of-technology/article_1b0f3878-452a-447b-8904-151646ce07f9.html",
+    "retrieved_at": "2026-07-18"
+  },
+  {
     "id": "meet-jerri-in-jackson-2026-07-17",
     "date_iso": "2026-07-17",
     "date_display": {
@@ -3411,28 +3433,6 @@
     ],
     "source_url": "https://mlk50.com/2026/07/20/top-democrats-stump-for-pearson-at-memphis-rally/",
     "retrieved_at": "2026-07-21"
-  },
-  {
-    "id": "john-rose-bradley-county-forum-2026-07-17",
-    "date_iso": "2026-07-17",
-    "date_display": {
-      "month": "Jul",
-      "day": "17",
-      "year": "2026"
-    },
-    "title": "John Rose Bradley County Forum",
-    "description": "Republican gubernatorial candidate U.S. Rep. John Rose held a public forum in Bradley County on the first day of early voting, answering questions from residents on topics including data centers, public education, school safety funding, and agricultural policy.",
-    "meta": "Bradley County (Cleveland area) · TN · July 17, 2026",
-    "link_url": "https://www.local3news.com/local-news/tn-gov-candidate-john-rose-r-points-to-data-centers-as-the-future-of-technology/article_1b0f3878-452a-447b-8904-151646ce07f9.html",
-    "link_label": "Local3 News coverage →",
-    "is_placeholder": false,
-    "race": "governor",
-    "race_label": "TN Governor (R primary)",
-    "candidates_invited": [
-      "john-rose"
-    ],
-    "source_url": "https://www.local3news.com/local-news/tn-gov-candidate-john-rose-r-points-to-data-centers-as-the-future-of-technology/article_1b0f3878-452a-447b-8904-151646ce07f9.html",
-    "retrieved_at": "2026-07-18"
   },
   {
     "id": "lauren-pinkston-meet-lauren-at-the-market-2026-07-18",
@@ -3501,28 +3501,6 @@
     "retrieved_at": "2026-07-16"
   },
   {
-    "id": "voterpalooza-civic-celebration-knoxville-2026-07-18",
-    "date_iso": "2026-07-18",
-    "date_display": {
-      "month": "Jul",
-      "day": "18",
-      "year": "2026"
-    },
-    "title": "Voterpalooza Civic Celebration",
-    "description": "A family-friendly civic celebration featuring music, entertainment, community organizations, and candidate information. U.S. House TN-2 candidate Michaela Barnett is among the participating candidates. The event is open to the public.",
-    "meta": "Knoxville, TN · Dr. Walter Hardy Park · 10:00 AM – 2:00 PM",
-    "link_url": "https://www.michaelafortennessee.com/events",
-    "link_label": "Michaela for Tennessee →",
-    "is_placeholder": false,
-    "race": "house",
-    "race_label": "U.S. House TN-2",
-    "candidates_invited": [
-      "michaela-barnett"
-    ],
-    "source_url": "https://www.michaelafortennessee.com/events",
-    "retrieved_at": "2026-07-09"
-  },
-  {
     "id": "putnam-county-gop-tn-6-forum-2026-07-18",
     "date_iso": "2026-07-18",
     "date_display": {
@@ -3544,6 +3522,28 @@
     ],
     "source_url": "https://www.herald-citizen.com/news/6th-congressional-district-republican-candidates-visit-monterey/article_05a1c6a1-e493-5739-ba4c-e20695018bc4.html",
     "retrieved_at": "2026-07-19"
+  },
+  {
+    "id": "voterpalooza-civic-celebration-knoxville-2026-07-18",
+    "date_iso": "2026-07-18",
+    "date_display": {
+      "month": "Jul",
+      "day": "18",
+      "year": "2026"
+    },
+    "title": "Voterpalooza Civic Celebration",
+    "description": "A family-friendly civic celebration featuring music, entertainment, community organizations, and candidate information. U.S. House TN-2 candidate Michaela Barnett is among the participating candidates. The event is open to the public.",
+    "meta": "Knoxville, TN · Dr. Walter Hardy Park · 10:00 AM – 2:00 PM",
+    "link_url": "https://www.michaelafortennessee.com/events",
+    "link_label": "Michaela for Tennessee →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-2",
+    "candidates_invited": [
+      "michaela-barnett"
+    ],
+    "source_url": "https://www.michaelafortennessee.com/events",
+    "retrieved_at": "2026-07-09"
   },
   {
     "id": "anna-golladay-crabtree-farms-2026-07-19",
@@ -3598,11 +3598,11 @@
       "year": "2026"
     },
     "title": "NewsChannel 5 / LWV Tennessee GOP Gubernatorial Debate",
-    "description": "NewsChannel 5, the League of Women Voters of Tennessee, and Cumberland University co-hosted a live Republican gubernatorial primary debate scheduled for July 20. The debate was cancelled after Sen. Marsha Blackburn declined to participate (citing a Senate vote in Washington D.C.) and Rep. John Rose subsequently withdrew, stating he would not debate without Blackburn. State Rep. Monty Fritts had also agreed to participate.",
-    "meta": "Lebanon, TN · Cumberland University · 6:30 PM CDT",
-    "link_url": "https://www.newschannel5.com/news/newschannel-5-to-host-tennessee-gop-gubernatorial-debate-on-july-20th",
-    "link_label": "NewsChannel 5 →",
-    "is_placeholder": true,
+    "description": "NewsChannel 5, the League of Women Voters of Tennessee, and Cumberland University planned a live Republican gubernatorial debate at Cumberland University in Lebanon for July 20. The event was cancelled on July 8 after frontrunner Marsha Blackburn declined to participate, citing a scheduled U.S. Senate vote in Washington, D.C. Congressman John Rose subsequently withdrew, and no replacement debate was announced. Rose and Fritts did not share a stage with Blackburn in any formal forum or debate during the primary season.",
+    "meta": "Lebanon · Cumberland University · cancelled July 8 (Blackburn declined)",
+    "link_url": "https://www.tennessean.com/story/news/politics/2026/07/20/tennessee-elections-gop-governor-primary-debate-marsha-blackburn/90980567007/",
+    "link_label": "Tennessean coverage →",
+    "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (R primary)",
     "candidates_invited": [
@@ -3610,8 +3610,8 @@
       "monty-fritts",
       "marsha-blackburn"
     ],
-    "source_url": "https://www.newschannel5.com/news/newschannel-5-to-host-tennessee-gop-gubernatorial-debate-on-july-20th",
-    "retrieved_at": "2026-07-17"
+    "source_url": "https://www.tennessean.com/story/news/politics/2026/07/20/tennessee-elections-gop-governor-primary-debate-marsha-blackburn/90980567007/",
+    "retrieved_at": "2026-07-22"
   },
   {
     "id": "lauren-pinkston-knoxville-meet-and-greet-2026-07-21",
