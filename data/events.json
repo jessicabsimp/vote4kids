@@ -2679,6 +2679,28 @@
     "retrieved_at": "2026-07-01"
   },
   {
+    "id": "wlx-radio-tn-9-gop-debate-2026-07-06",
+    "date_iso": "2026-07-06",
+    "date_display": {
+      "month": "Jul",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "WLX Radio TN-9 Republican Primary Debate",
+    "description": "WLX Radio's Country Café hosted a live Republican primary debate for Tennessee's newly redrawn 9th Congressional District on July 6. Three of four candidates participated: Todd Warner (Chapel Hill), Charlotte Bergmann (Memphis), and Jeremy Thompson (Fayetteville). State Sen. Brent Taylor of Memphis did not attend. WLX live-streamed the debate and hosted a live audience. Speakers drew positions by lot; Warner spoke first, Bergmann second, Thompson third.",
+    "meta": "Lawrence County, TN · WLX Radio's Country Café · live-streamed",
+    "link_url": "https://mainstreetmediatn.com/articles/lawrencecountyadvocate/new-9th-district-u-s-congressional-republican-primary-candidates-debate/",
+    "link_label": "Lawrence County Advocate →",
+    "is_placeholder": false,
+    "race": "house",
+    "race_label": "U.S. House TN-9",
+    "candidates_invited": [
+      "charlotte-bergmann"
+    ],
+    "source_url": "https://mainstreetmediatn.com/articles/lawrencecountyadvocate/new-9th-district-u-s-congressional-republican-primary-candidates-debate/",
+    "retrieved_at": "2026-07-25"
+  },
+  {
     "id": "john-rose-town-hall-lawrenceburg-2026-07-07",
     "date_iso": "2026-07-07",
     "date_display": {
@@ -2819,7 +2841,7 @@
       "year": "2026"
     },
     "title": "Mt. Olive Cathedral CME Church Congressional Forum",
-    "description": "The Black Clergy Collaborative of Memphis hosted a candidate forum at Mt. Olive Cathedral CME Church, drawing congressional candidates from Tennessee's 5th, 8th, and 9th Districts. Organizers held the event as early voting approached, calling it crucial for voters to hear where candidates stand on key issues. Executive Director Shirley Bondon noted the high-stakes nature of the newly redrawn TN-9 district. Moderated by Kelli Cook. Election Day is August 6. Participating candidates confirmed by Tri-State Defender coverage include: Pamela Moses (TN-8), Leonard Perkins (TN-8), Horace Taylor (TN-8), Charlotte Bergmann (TN-9 R), and Justin J. Pearson (TN-9 D).",
+    "description": "The Black Clergy Collaborative of Memphis hosted a multi-district candidate forum at Mt. Olive Cathedral CME Church on July 8, drawing candidates for Tennessee's 5th, 8th, and 9th Congressional Districts. Moderated by Action News 5 anchor Kelli Cook. Confirmed attendees by district — TN-5: Devante Hill, Rachel Hurley, and Carrie Iacomini; TN-8: Gordon Bryan, Jordan Hinders, Heidi Kuhn, Pamela Moses, Leonard Perkins, and Horace Taylor; TN-9: M. LaTroy Alexandria-Williams, Charlotte Bergmann, state Sen. London Lamar, state Rep. Justin J. Pearson, and Jim Tomasik. Organizers noted that many voters were learning their district assignments for the first time due to the state's mid-cycle redistricting.",
     "meta": "Memphis · Mt. Olive Cathedral CME Church · moderated by Kelli Cook",
     "link_url": "https://www.actionnews5.com/2026/07/09/congressional-candidate-forum-held-memphis-church/",
     "link_label": "Action News 5 coverage →",
@@ -2834,7 +2856,7 @@
       "pamela-moses"
     ],
     "source_url": "https://www.actionnews5.com/2026/07/09/congressional-candidate-forum-held-memphis-church/",
-    "retrieved_at": "2026-07-15"
+    "retrieved_at": "2026-07-25"
   },
   {
     "id": "cumberland-county-gop-womens-club-2026-07-09",
@@ -2918,9 +2940,9 @@
     },
     "title": "East Tennessee Young Republicans GOP Gubernatorial Forum",
     "description": "The East Tennessee Young Republicans hosted a gubernatorial candidate forum in Knoxville ahead of the August 6 primary. Congressman John Rose (TN-6) and State Rep. Monty Fritts (R-Kingston) participated. Sen. Marsha Blackburn did not accept the invitation to attend.",
-    "meta": "East Tennessee · exact venue not publicly announced · evening",
-    "link_url": "https://www.knoxnews.com/story/news/politics/elections/2026/07/09/governor-election-debate-sexton-comments-blackburn-rose-fritts/90854884007/",
-    "link_label": "Knox News coverage →",
+    "meta": "Knoxville · 9600 Parkside Dr, Knoxville, TN 37922 · 7:00 PM (doors 6:30 PM)",
+    "link_url": "https://luma.com/c9aaxnb1",
+    "link_label": "Luma event page →",
     "is_placeholder": false,
     "race": "governor",
     "race_label": "TN Governor (R primary)",
@@ -2928,8 +2950,8 @@
       "john-rose",
       "monty-fritts"
     ],
-    "source_url": "https://www.knoxnews.com/story/news/politics/elections/2026/07/09/governor-election-debate-sexton-comments-blackburn-rose-fritts/90854884007/",
-    "retrieved_at": "2026-07-11"
+    "source_url": "https://luma.com/c9aaxnb1",
+    "retrieved_at": "2026-07-25"
   },
   {
     "id": "lauren-pinkston-family-picnic-jackson-2026-07-10",
@@ -3322,7 +3344,7 @@
       "charlotte-bergmann"
     ],
     "source_url": "https://www.williamsonherald.com/news/williamson-county-gop-to-host-tn-09-candidate-forum-july-16/article_ed3a967e-83d2-4cea-a667-b1a10a895ace.html",
-    "retrieved_at": "2026-07-12"
+    "retrieved_at": "2026-07-25"
   },
   {
     "id": "anna-golladay-anderson-roane-women-2026-07-17",
