@@ -4348,6 +4348,248 @@
     "retrieved_at": "2026-07-26"
   },
   {
+    "id": "meet-jerri-in-seymour-2026-08-02",
+    "date_iso": "2026-08-02",
+    "date_display": {
+      "month": "Aug",
+      "day": "2",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Seymour",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Seymour, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Seymour · Sevier County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-alcoa-2026-08-02",
+    "date_iso": "2026-08-02",
+    "date_display": {
+      "month": "Aug",
+      "day": "2",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Alcoa",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Alcoa, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Alcoa · Blount County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-knoxville-2026-08-02",
+    "date_iso": "2026-08-02",
+    "date_display": {
+      "month": "Aug",
+      "day": "2",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Knoxville",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Knoxville, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Knoxville · Knox County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-cleveland-2026-08-03",
+    "date_iso": "2026-08-03",
+    "date_display": {
+      "month": "Aug",
+      "day": "3",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Cleveland",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Cleveland, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Cleveland · Bradley County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-chattanooga-2026-08-03",
+    "date_iso": "2026-08-03",
+    "date_display": {
+      "month": "Aug",
+      "day": "3",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Chattanooga",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Chattanooga, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Chattanooga · Hamilton County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-murfreesboro-2026-08-04",
+    "date_iso": "2026-08-04",
+    "date_display": {
+      "month": "Aug",
+      "day": "4",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Murfreesboro",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Murfreesboro, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Murfreesboro · Rutherford County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-franklin-2026-08-04",
+    "date_iso": "2026-08-04",
+    "date_display": {
+      "month": "Aug",
+      "day": "4",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Franklin",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Franklin, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Franklin · Williamson County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-nashville-2026-08-04",
+    "date_iso": "2026-08-04",
+    "date_display": {
+      "month": "Aug",
+      "day": "4",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Nashville",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Nashville, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Nashville · Davidson County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-jackson-2026-08-05",
+    "date_iso": "2026-08-05",
+    "date_display": {
+      "month": "Aug",
+      "day": "5",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Jackson",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Jackson, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Jackson · Madison County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-memphis-2026-08-05",
+    "date_iso": "2026-08-05",
+    "date_display": {
+      "month": "Aug",
+      "day": "5",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Memphis",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign town hall in Memphis, TN as part of her pre-primary GOTV tour ahead of the August 6 primary. Venue and time details available on her campaign events page.",
+    "meta": "Memphis · Shelby County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
+    "id": "meet-jerri-in-memphis-2026-08-06",
+    "date_iso": "2026-08-06",
+    "date_display": {
+      "month": "Aug",
+      "day": "6",
+      "year": "2026"
+    },
+    "title": "Jerri Green: Meet Jerri in Memphis",
+    "description": "Democratic gubernatorial candidate Jerri Green holds a 'Meet Jerri' campaign rally in Memphis, TN on Primary Election Day (August 6, 2026). Venue and time details available on her campaign events page.",
+    "meta": "Memphis · Shelby County · venue TBD via campaign site",
+    "link_url": "https://greenforgovernor.com/events/",
+    "link_label": "Jerri Green for Governor →",
+    "is_placeholder": false,
+    "race": "governor",
+    "race_label": "TN Governor (D primary)",
+    "candidates_invited": [
+      "jerri-green"
+    ],
+    "source_url": "https://greenforgovernor.com/events/",
+    "retrieved_at": "2026-07-28"
+  },
+  {
     "id": "coffee-convos-2026-08-07",
     "date_iso": "2026-08-07",
     "date_display": {
